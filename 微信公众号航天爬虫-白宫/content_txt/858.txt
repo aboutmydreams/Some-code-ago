@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-tax-cuts-put-america-first-event-phoenix-az/', 'File_Name': 'remarks-vice-president-pence-tax-cuts-put-america-first-event-phoenix-az', 'Date': 'May 1, 2018', 'Title': 'remarks vice president pence tax cuts put america first event phoenix az', 'TYPE': '\nRemarks', 'Author': ''}

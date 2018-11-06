@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/parkland-president-trump-demands-just-action-demands-get-right/', 'File_Name': 'parkland-president-trump-demands-just-action-demands-get-right', 'Date': 'no data', 'Title': 'parkland president trump demands just action demands get right', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

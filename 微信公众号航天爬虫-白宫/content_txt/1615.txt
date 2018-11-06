@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/twelve-nominations-two-withdrawals-sent-senate-today/', 'File_Name': 'twelve-nominations-two-withdrawals-sent-senate-today', 'Date': 'February 5, 2018', 'Title': 'twelve nominations two withdrawals sent senate today', 'TYPE': '\nNominations & Appointments', 'Author': ''}

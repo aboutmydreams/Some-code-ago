@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-s-2245-s-2850-law/', 'File_Name': 'president-donald-j-trump-signs-s-2245-s-2850-law', 'Date': 'August 1, 2018', 'Title': 'president donald j trump signs s 2245 s 2850 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

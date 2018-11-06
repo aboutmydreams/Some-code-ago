@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/health-bills-fiscal-bonus/', 'File_Name': 'health-bills-fiscal-bonus', 'Date': 'March 15, 2017', 'Title': 'health bills fiscal bonus', 'TYPE': '\nNews Clips', 'Author': ''}

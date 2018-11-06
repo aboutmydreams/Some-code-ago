@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-foxconn-facility/', 'File_Name': 'remarks-president-trump-foxconn-facility', 'Date': 'June 28, 2018', 'Title': 'remarks president trump foxconn facility', 'TYPE': '\nRemarks', 'Author': ''}

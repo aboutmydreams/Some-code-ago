@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/secure-border-deterring-swiftly-removing-illegal-entrants/', 'File_Name': 'secure-border-deterring-swiftly-removing-illegal-entrants', 'Date': 'October 8, 2017', 'Title': 'secure border deterring swiftly removing illegal entrants', 'TYPE': '\nFact Sheets', 'Author': ''}

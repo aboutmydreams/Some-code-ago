@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-terrorist-attacks-pakistan/', 'File_Name': 'statement-press-secretary-terrorist-attacks-pakistan', 'Date': 'June 25, 2017', 'Title': 'statement press secretary terrorist attacks pakistan', 'TYPE': '\nStatements & Releases', 'Author': ''}

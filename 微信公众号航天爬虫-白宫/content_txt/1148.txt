@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-2018-white-house-easter-egg-roll/', 'File_Name': 'remarks-president-trump-2018-white-house-easter-egg-roll', 'Date': 'April 2, 2018', 'Title': 'remarks president trump 2018 white house easter egg roll', 'TYPE': '\nRemarks', 'Author': ''}

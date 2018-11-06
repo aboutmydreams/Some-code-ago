@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/background-briefing-buy-american-hire-american-executive-order/', 'File_Name': 'background-briefing-buy-american-hire-american-executive-order', 'Date': 'April 17, 2017', 'Title': 'background briefing buy american hire american executive order', 'TYPE': '\nPress Briefings', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wtas-support-president-donald-j-trumps-signing-va-mission-act/', 'File_Name': 'wtas-support-president-donald-j-trumps-signing-va-mission-act', 'Date': 'June 7, 2018', 'Title': 'wtas support president donald j trumps signing va mission act', 'TYPE': '\nStatements & Releases', 'Author': ''}

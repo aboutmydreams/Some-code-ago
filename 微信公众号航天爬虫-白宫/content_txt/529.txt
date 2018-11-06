@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-celebration-america-event/', 'File_Name': 'remarks-president-trump-celebration-america-event', 'Date': 'June 5, 2018', 'Title': 'remarks president trump celebration america event', 'TYPE': '\nRemarks', 'Author': ''}

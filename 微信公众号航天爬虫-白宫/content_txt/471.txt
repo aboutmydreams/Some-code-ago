@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-briefing-secretary-state-mike-pompeo-061118/', 'File_Name': 'press-briefing-secretary-state-mike-pompeo-061118', 'Date': 'June 11, 2018', 'Title': 'press briefing secretary state mike pompeo 061118', 'TYPE': '\nPress Briefings', 'Author': ''}

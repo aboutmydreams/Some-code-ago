@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-american-taxpayers-tax-reform/', 'File_Name': 'remarks-president-trump-american-taxpayers-tax-reform', 'Date': 'December 13, 2017', 'Title': 'remarks president trump american taxpayers tax reform', 'TYPE': '\nRemarks', 'Author': ''}

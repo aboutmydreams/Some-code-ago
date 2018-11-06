@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-h-r-3445-h-r-3979-law/', 'File_Name': 'president-donald-j-trump-signs-h-r-3445-h-r-3979-law', 'Date': 'April 23, 2018', 'Title': 'president donald j trump signs h r 3445 h r 3979 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

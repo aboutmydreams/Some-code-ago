@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/tax-cuts-americans-believe-results-spin/', 'File_Name': 'tax-cuts-americans-believe-results-spin', 'Date': 'no data', 'Title': 'tax cuts americans believe results spin', 'TYPE': 'no type', 'Author': ''}

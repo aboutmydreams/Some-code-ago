@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-proclamation-honoring-victims-tragedy-santa-fe-texas/', 'File_Name': 'presidential-proclamation-honoring-victims-tragedy-santa-fe-texas', 'Date': 'May 18, 2018', 'Title': 'presidential proclamation honoring victims tragedy santa fe texas', 'TYPE': '\nProclamations', 'Author': ''}

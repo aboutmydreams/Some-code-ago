@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-visit-prime-minister-stefan-lofven-sweden/', 'File_Name': 'statement-press-secretary-visit-prime-minister-stefan-lofven-sweden', 'Date': 'February 20, 2018', 'Title': 'statement press secretary visit prime minister stefan lofven sweden', 'TYPE': '\nStatements & Releases', 'Author': ''}

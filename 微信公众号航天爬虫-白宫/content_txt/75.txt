@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-h-r-5515/', 'File_Name': 'statement-president-donald-j-trump-h-r-5515', 'Date': 'August 13, 2018', 'Title': 'statement president donald j trump h r 5515', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-healthcare-discussion-key-house-committee-chairmen/', 'File_Name': 'remarks-president-trump-healthcare-discussion-key-house-committee-chairmen', 'Date': 'March 10, 2017', 'Title': 'remarks president trump healthcare discussion key house committee chairmen', 'TYPE': '\nRemarks', 'Author': ''}

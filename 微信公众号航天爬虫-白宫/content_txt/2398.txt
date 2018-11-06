@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/stars-collide-white-house-applauds-major-astronomical-discovery/', 'File_Name': 'stars-collide-white-house-applauds-major-astronomical-discovery', 'Date': 'no data', 'Title': 'stars collide white house applauds major astronomical discovery', 'TYPE': 'no type', 'Author': ''}

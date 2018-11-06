@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-weekly-address-27/', 'File_Name': 'president-donald-j-trumps-weekly-address-27', 'Date': 'February 11, 2018', 'Title': 'president donald j trumps weekly address 27', 'TYPE': '\nStatements & Releases', 'Author': ''}

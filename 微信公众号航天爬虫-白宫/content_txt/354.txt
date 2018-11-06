@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-regarding-investment-restrictions/', 'File_Name': 'statement-president-regarding-investment-restrictions', 'Date': 'June 27, 2018', 'Title': 'statement president regarding investment restrictions', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,546 @@
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Washington Examiner: “High Career and Life Satisfaction among American Blue-Collar Workers: Poll”
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/washington-examiner-high-career-life-satisfaction-among-american-blue-collar-workers-poll/
+[Date]: Aug 29, 2018
+[Author]: 
+[File_Name]: washington-examiner-high-career-life-satisfaction-among-american-blue-collar-workers-poll
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Business Insider: “US Economic Growth in the 2nd Quarter Gets Revised Higher, Remains Strongest Since 2014”
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/business-insider-us-economic-growth-2nd-quarter-gets-revised-higher-remains-strongest-since-2014/
+[Date]: Aug 29, 2018
+[Author]: 
+[File_Name]: business-insider-us-economic-growth-2nd-quarter-gets-revised-higher-remains-strongest-since-2014
+
+[TYPE]: PRESIDENTIAL ACTIONS
+[Title]: Ten Nominations Sent to the Senate
+[Title_Url]: https://www.whitehouse.gov/presidential-actions/ten-nominations-sent-senate/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: ten-nominations-sent-senate
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Presidential Message to the Senate of the United States
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/presidential-message-senate-united-states/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: presidential-message-senate-united-states
+
+[TYPE]: PRESIDENTIAL ACTIONS
+[Title]: President Donald J. Trump Announces Intent to Nominate Personnel to Key Administration Posts
+[Title_Url]: https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-intent-nominate-personnel-key-administration-posts-61/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: president-donald-j-trump-announces-intent-nominate-personnel-key-administration-posts-61
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Remarks by President Trump, FIFA President Gianni Infantino, and U.S. Soccer President Carlos Cordeiro on the 2026 World Cup
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/remarks-president-trump-fifa-president-gianni-infantino-u-s-soccer-president-carlos-cordeiro-2026-world-cup/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: remarks-president-trump-fifa-president-gianni-infantino-u-s-soccer-president-carlos-cordeiro-2026-world-cup
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Presidential Message on the 55th Anniversary of the Reverend Dr. Martin Luther King, Jr.’s, “I Have a Dream” Speech
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/presidential-message-55th-anniversary-reverend-dr-martin-luther-king-jr-s-dream-speech/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: presidential-message-55th-anniversary-reverend-dr-martin-luther-king-jr-s-dream-speech
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Readout of the Vice President’s Call with Afghan President Ashraf Ghani
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-call-afghan-president-ashraf-ghani-6/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: readout-vice-presidents-call-afghan-president-ashraf-ghani-6
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: CNBC: “Consumer Confidence Pops in August to Highest Level Since October 2000”
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/cnbc-consumer-confidence-pops-august-highest-level-since-october-2000/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: cnbc-consumer-confidence-pops-august-highest-level-since-october-2000
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Statement from the Press Secretary on the Official Visit of President Duda of Poland
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/statement-press-secretary-official-visit-president-duda-poland/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: statement-press-secretary-official-visit-president-duda-poland
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Washington Examiner: “High Career and Life Satisfaction among American Blue-Collar Workers: Poll”
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/washington-examiner-high-career-life-satisfaction-among-american-blue-collar-workers-poll/
+[Date]: Aug 29, 2018
+[Author]: 
+[File_Name]: washington-examiner-high-career-life-satisfaction-among-american-blue-collar-workers-poll
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Business Insider: “US Economic Growth in the 2nd Quarter Gets Revised Higher, Remains Strongest Since 2014”
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/business-insider-us-economic-growth-2nd-quarter-gets-revised-higher-remains-strongest-since-2014/
+[Date]: Aug 29, 2018
+[Author]: 
+[File_Name]: business-insider-us-economic-growth-2nd-quarter-gets-revised-higher-remains-strongest-since-2014
+
+[TYPE]: PRESIDENTIAL ACTIONS
+[Title]: Ten Nominations Sent to the Senate
+[Title_Url]: https://www.whitehouse.gov/presidential-actions/ten-nominations-sent-senate/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: ten-nominations-sent-senate
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Presidential Message to the Senate of the United States
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/presidential-message-senate-united-states/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: presidential-message-senate-united-states
+
+[TYPE]: PRESIDENTIAL ACTIONS
+[Title]: President Donald J. Trump Announces Intent to Nominate Personnel to Key Administration Posts
+[Title_Url]: https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-intent-nominate-personnel-key-administration-posts-61/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: president-donald-j-trump-announces-intent-nominate-personnel-key-administration-posts-61
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Remarks by President Trump, FIFA President Gianni Infantino, and U.S. Soccer President Carlos Cordeiro on the 2026 World Cup
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/remarks-president-trump-fifa-president-gianni-infantino-u-s-soccer-president-carlos-cordeiro-2026-world-cup/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: remarks-president-trump-fifa-president-gianni-infantino-u-s-soccer-president-carlos-cordeiro-2026-world-cup
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Presidential Message on the 55th Anniversary of the Reverend Dr. Martin Luther King, Jr.’s, “I Have a Dream” Speech
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/presidential-message-55th-anniversary-reverend-dr-martin-luther-king-jr-s-dream-speech/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: presidential-message-55th-anniversary-reverend-dr-martin-luther-king-jr-s-dream-speech
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Readout of the Vice President’s Call with Afghan President Ashraf Ghani
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-call-afghan-president-ashraf-ghani-6/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: readout-vice-presidents-call-afghan-president-ashraf-ghani-6
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: CNBC: “Consumer Confidence Pops in August to Highest Level Since October 2000”
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/cnbc-consumer-confidence-pops-august-highest-level-since-october-2000/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: cnbc-consumer-confidence-pops-august-highest-level-since-october-2000
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Statement from the Press Secretary on the Official Visit of President Duda of Poland
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/statement-press-secretary-official-visit-president-duda-poland/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: statement-press-secretary-official-visit-president-duda-poland
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Washington Examiner: “High Career and Life Satisfaction among American Blue-Collar Workers: Poll”
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/washington-examiner-high-career-life-satisfaction-among-american-blue-collar-workers-poll/
+[Date]: Aug 29, 2018
+[Author]: 
+[File_Name]: washington-examiner-high-career-life-satisfaction-among-american-blue-collar-workers-poll
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Business Insider: “US Economic Growth in the 2nd Quarter Gets Revised Higher, Remains Strongest Since 2014”
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/business-insider-us-economic-growth-2nd-quarter-gets-revised-higher-remains-strongest-since-2014/
+[Date]: Aug 29, 2018
+[Author]: 
+[File_Name]: business-insider-us-economic-growth-2nd-quarter-gets-revised-higher-remains-strongest-since-2014
+
+[TYPE]: PRESIDENTIAL ACTIONS
+[Title]: Ten Nominations Sent to the Senate
+[Title_Url]: https://www.whitehouse.gov/presidential-actions/ten-nominations-sent-senate/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: ten-nominations-sent-senate
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Presidential Message to the Senate of the United States
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/presidential-message-senate-united-states/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: presidential-message-senate-united-states
+
+[TYPE]: PRESIDENTIAL ACTIONS
+[Title]: President Donald J. Trump Announces Intent to Nominate Personnel to Key Administration Posts
+[Title_Url]: https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-intent-nominate-personnel-key-administration-posts-61/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: president-donald-j-trump-announces-intent-nominate-personnel-key-administration-posts-61
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Remarks by President Trump, FIFA President Gianni Infantino, and U.S. Soccer President Carlos Cordeiro on the 2026 World Cup
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/remarks-president-trump-fifa-president-gianni-infantino-u-s-soccer-president-carlos-cordeiro-2026-world-cup/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: remarks-president-trump-fifa-president-gianni-infantino-u-s-soccer-president-carlos-cordeiro-2026-world-cup
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Presidential Message on the 55th Anniversary of the Reverend Dr. Martin Luther King, Jr.’s, “I Have a Dream” Speech
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/presidential-message-55th-anniversary-reverend-dr-martin-luther-king-jr-s-dream-speech/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: presidential-message-55th-anniversary-reverend-dr-martin-luther-king-jr-s-dream-speech
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Readout of the Vice President’s Call with Afghan President Ashraf Ghani
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-call-afghan-president-ashraf-ghani-6/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: readout-vice-presidents-call-afghan-president-ashraf-ghani-6
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: CNBC: “Consumer Confidence Pops in August to Highest Level Since October 2000”
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/cnbc-consumer-confidence-pops-august-highest-level-since-october-2000/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: cnbc-consumer-confidence-pops-august-highest-level-since-october-2000
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Statement from the Press Secretary on the Official Visit of President Duda of Poland
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/statement-press-secretary-official-visit-president-duda-poland/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: statement-press-secretary-official-visit-president-duda-poland
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: WTAS: Support for President Donald J. Trump’s Trade Announcement with Mexico
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/wtas-support-president-donald-j-trumps-trade-announcement-mexico/
+[Date]: Aug 28, 2018
+[Author]: 
+[File_Name]: wtas-support-president-donald-j-trumps-trade-announcement-mexico
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Joint Statement from President Donald J. Trump and President Uhuru Kenyatta
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/joint-statement-president-donald-j-trump-president-uhuru-kenyatta/
+[Date]: Aug 27, 2018
+[Author]: 
+[File_Name]: joint-statement-president-donald-j-trump-president-uhuru-kenyatta
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Remarks by President Trump at Dinner with Evangelical Leaders
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/remarks-president-trump-dinner-evangelical-leaders/
+[Date]: Aug 27, 2018
+[Author]: 
+[File_Name]: remarks-president-trump-dinner-evangelical-leaders
+
+[TYPE]: PRESIDENTIAL ACTIONS
+[Title]: President Donald J. Trump Announces Intent to Nominate and Designate Personnel to Key Administration Posts
+[Title_Url]: https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-intent-nominate-designate-personnel-key-administration-posts-2/
+[Date]: Aug 27, 2018
+[Author]: 
+[File_Name]: president-donald-j-trump-announces-intent-nominate-designate-personnel-key-administration-posts-2
+
+[TYPE]: PRESIDENTIAL ACTIONS
+[Title]: Nine Nominations Sent to the Senate Today
+[Title_Url]: https://www.whitehouse.gov/presidential-actions/nine-nominations-sent-senate-today-7/
+[Date]: Aug 27, 2018
+[Author]: 
+[File_Name]: nine-nominations-sent-senate-today-7
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Remarks by President Trump and President Kenyatta of the Republic of Kenya in Expanded Bilateral Meeting
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/remarks-president-trump-president-kenyatta-republic-kenya-expanded-bilateral-meeting/
+[Date]: Aug 27, 2018
+[Author]: 
+[File_Name]: remarks-president-trump-president-kenyatta-republic-kenya-expanded-bilateral-meeting
+
+[TYPE]: PRESIDENTIAL ACTIONS
+[Title]: President Donald J. Trump Announces Seventeenth Wave of Judicial Nominees
+[Title_Url]: https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-seventeenth-wave-judicial-nominees/
+[Date]: Aug 27, 2018
+[Author]: 
+[File_Name]: president-donald-j-trump-announces-seventeenth-wave-judicial-nominees
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Remarks by President Trump and President Kenyatta of the Republic of Kenya Before Bilateral Meeting
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/remarks-president-trump-president-kenyatta-republic-kenya-bilateral-meeting/
+[Date]: Aug 27, 2018
+[Author]: 
+[File_Name]: remarks-president-trump-president-kenyatta-republic-kenya-bilateral-meeting
+
+[TYPE]: PRESIDENTIAL ACTIONS
+[Title]: Presidential Proclamation on the Death of Senator John Sidney McCain III
+[Title_Url]: https://www.whitehouse.gov/presidential-actions/presidential-proclamation-death-senator-john-sidney-mccain-iii/
+[Date]: Aug 27, 2018
+[Author]: 
+[File_Name]: presidential-proclamation-death-senator-john-sidney-mccain-iii
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Statement from the President
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/statement-from-the-president-2/
+[Date]: Aug 27, 2018
+[Author]: 
+[File_Name]: statement-from-the-president-2
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Readout: First Lady Melania Trump Welcomes the First Lady of Kenya to the White House
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/readout-first-lady-melania-trump-welcomes-first-lady-kenya-white-house/
+[Date]: Aug 27, 2018
+[Author]: 
+[File_Name]: readout-first-lady-melania-trump-welcomes-first-lady-kenya-white-house
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: President Donald J. Trump Approves Nebraska Disaster Declaration
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-approves-nebraska-disaster-declaration-4/
+[Date]: Aug 27, 2018
+[Author]: 
+[File_Name]: president-donald-j-trump-approves-nebraska-disaster-declaration-4
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Remarks by President Trump in Phone Call with President Peña Nieto of Mexico on the United States-Mexico Trade Agreement
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/remarks-president-trump-phone-call-president-pena-nieto-mexico-united-states-mexico-trade-agreement/
+[Date]: Aug 27, 2018
+[Author]: 
+[File_Name]: remarks-president-trump-phone-call-president-pena-nieto-mexico-united-states-mexico-trade-agreement
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Statement from Vice President Mike Pence on the United States–Mexico Trade Agreement
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/statement-vice-president-mike-pence-united-states-mexico-trade-agreement/
+[Date]: Aug 27, 2018
+[Author]: 
+[File_Name]: statement-vice-president-mike-pence-united-states-mexico-trade-agreement
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: President Donald J. Trump is Keeping His Promise to Renegotiate NAFTA
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-keeping-promise-renegotiate-nafta/
+[Date]: Aug 27, 2018
+[Author]: President Donald J. Trump
+[File_Name]: president-donald-j-trump-keeping-promise-renegotiate-nafta
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Readout of President Donald J. Trump’s Call with Prime Minister Scott Morrison of Australia
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/readout-president-donald-j-trumps-call-prime-minister-scott-morrison-australia/
+[Date]: Aug 25, 2018
+[Author]: 
+[File_Name]: readout-president-donald-j-trumps-call-prime-minister-scott-morrison-australia
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Readout of President Donald J. Trump’s Call with Governor David Ige of Hawaii
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/readout-president-donald-j-trumps-call-governor-david-ige-hawaii/
+[Date]: Aug 24, 2018
+[Author]: 
+[File_Name]: readout-president-donald-j-trumps-call-governor-david-ige-hawaii
+
+[TYPE]: PRESIDENTIAL ACTIONS
+[Title]: Presidential Proclamation on Women’s Equality Day, 2018
+[Title_Url]: https://www.whitehouse.gov/presidential-actions/presidential-proclamation-womens-equality-day-2018/
+[Date]: Aug 24, 2018
+[Author]: 
+[File_Name]: presidential-proclamation-womens-equality-day-2018
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Statement from the Press Secretary on El Salvador
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/statement-press-secretary-el-salvador/
+[Date]: Aug 23, 2018
+[Author]: 
+[File_Name]: statement-press-secretary-el-salvador
+
+[TYPE]: PRESIDENTIAL ACTIONS
+[Title]: Presidential Memorandum for the Secretary of State, Secretary of the Treasury, Secretary of Homeland Security, Postmaster General, and Chairman of the Postal Regulatory Commission
+[Title_Url]: https://www.whitehouse.gov/presidential-actions/presidential-memorandum-secretary-state-secretary-treasury-secretary-homeland-security-postmaster-general-chairman-postal-regulatory-commission/
+[Date]: Aug 23, 2018
+[Author]: 
+[File_Name]: presidential-memorandum-secretary-state-secretary-treasury-secretary-homeland-security-postmaster-general-chairman-postal-regulatory-commission
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Remarks by Vice President Pence on the Administration’s Space Policy Priorities | Houston, TX
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-administrations-space-policy-priorities-houston-tx/
+[Date]: Aug 23, 2018
+[Author]: 
+[File_Name]: remarks-vice-president-pence-administrations-space-policy-priorities-houston-tx
+
+[TYPE]: PRESIDENTIAL ACTIONS
+[Title]: President Donald J. Trump Announces Intent to Nominate Personnel to Key Administration Posts
+[Title_Url]: https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-intent-nominate-personnel-key-administration-posts-60/
+[Date]: Aug 23, 2018
+[Author]: 
+[File_Name]: president-donald-j-trump-announces-intent-nominate-personnel-key-administration-posts-60
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Remarks by President Trump at a Roundtable on the Foreign Investment Risk Review Modernization Act (FIRRMA)
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/remarks-president-trump-roundtable-foreign-investment-risk-review-modernization-act-firrma/
+[Date]: Aug 23, 2018
+[Author]: 
+[File_Name]: remarks-president-trump-roundtable-foreign-investment-risk-review-modernization-act-firrma
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Fox Business: “US Stock Market Sets Record-Long Bull Run”
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/fox-business-us-stock-market-sets-record-long-bull-run/
+[Date]: Aug 23, 2018
+[Author]: 
+[File_Name]: fox-business-us-stock-market-sets-record-long-bull-run
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: President Donald J. Trump Approves Hawaii Emergency Declaration
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-approves-hawaii-emergency-declaration/
+[Date]: Aug 23, 2018
+[Author]: 
+[File_Name]: president-donald-j-trump-approves-hawaii-emergency-declaration
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Press Briefing by Press Secretary Sarah Sanders
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/press-briefing-press-secretary-sarah-sanders-082218/
+[Date]: Aug 22, 2018
+[Author]: 
+[File_Name]: press-briefing-press-secretary-sarah-sanders-082218
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Remarks by President Trump at the Presentation of the Medal of Honor to Technical Sergeant John A. Chapman, U.S. Air Force
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/remarks-president-trump-presentation-medal-honor-technical-sergeant-john-chapman-u-s-air-force/
+[Date]: Aug 22, 2018
+[Author]: 
+[File_Name]: remarks-president-trump-presentation-medal-honor-technical-sergeant-john-chapman-u-s-air-force
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Remarks by Vice President Pence at First Baptist Church of Rockport | Rockport, TX
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-first-baptist-church-rockport-rockport-tx/
+[Date]: Aug 22, 2018
+[Author]: 
+[File_Name]: remarks-vice-president-pence-first-baptist-church-rockport-rockport-tx
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Steve Cortes: “Mainstream Media vs. Main Street USA”
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/steve-cortes-mainstream-media-vs-main-street-usa/
+[Date]: Aug 22, 2018
+[Author]: 
+[File_Name]: steve-cortes-mainstream-media-vs-main-street-usa
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: WTAS: Support for the Trump Administration’s Proposal to Replace the Costly and Overreaching Clean Power Plan
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/wtas-support-trump-administrations-proposal-replace-costly-overreaching-clean-power-plan/
+[Date]: Aug 22, 2018
+[Author]: 
+[File_Name]: wtas-support-trump-administrations-proposal-replace-costly-overreaching-clean-power-plan
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Remarks by President Trump Upon Air Force One Arrival
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/remarks-president-trump-upon-air-force-one-arrival/
+[Date]: Aug 22, 2018
+[Author]: 
+[File_Name]: remarks-president-trump-upon-air-force-one-arrival
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Readout of Vice President Mike Pence’s Meeting with United Kingdom Foreign Secretary Jeremy Hunt
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/readout-vice-president-mike-pences-meeting-united-kingdom-foreign-secretary-jeremy-hunt/
+[Date]: Aug 21, 2018
+[Author]: 
+[File_Name]: readout-vice-president-mike-pences-meeting-united-kingdom-foreign-secretary-jeremy-hunt
+
+[TYPE]: PRESIDENTIAL ACTIONS
+[Title]: Eight Nominations Sent to the Senate Today
+[Title_Url]: https://www.whitehouse.gov/presidential-actions/eight-nominations-sent-senate-today-6/
+[Date]: Aug 21, 2018
+[Author]: 
+[File_Name]: eight-nominations-sent-senate-today-6
+
+[TYPE]: ARTICLES
+[Title]: A Better Way to Ensure Clean, Reliable Energy
+[Title_Url]: https://www.whitehouse.gov/articles/better-way-ensure-clean-reliable-energy/
+[Date]: Aug 21, 2018
+[Author]: Andrew Wheeler
+[File_Name]: better-way-ensure-clean-reliable-energy
+
+[TYPE]: PRESIDENTIAL ACTIONS
+[Title]: President Donald J. Trump Announces Intent to Nominate, Appoint, and Designate Personnel to Key Administration Posts
+[Title_Url]: https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-intent-nominate-appoint-designate-personnel-key-administration-posts/
+[Date]: Aug 21, 2018
+[Author]: 
+[File_Name]: president-donald-j-trump-announces-intent-nominate-appoint-designate-personnel-key-administration-posts
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: President Donald J. Trump Wants Reliable and Affordable Energy to Fuel Historic Economic Growth
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-wants-reliable-affordable-energy-fuel-historic-economic-growth/
+[Date]: Aug 21, 2018
+[Author]: President Donald J. Trump
+[File_Name]: president-donald-j-trump-wants-reliable-affordable-energy-fuel-historic-economic-growth
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Statement from the Press Secretary
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/statement-press-secretary-30/
+[Date]: Aug 21, 2018
+[Author]: 
+[File_Name]: statement-press-secretary-30
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Remarks by Vice President Pence at the Salute to the Heroes of the Immigration and Customs Enforcement and Customs and Border Protection
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-salute-heroes-immigration-customs-enforcement-customs-border-protection/
+[Date]: Aug 20, 2018
+[Author]: 
+[File_Name]: remarks-vice-president-pence-salute-heroes-immigration-customs-enforcement-customs-border-protection
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Remarks by President at the Salute to the Heroes of the Immigration and Customs Enforcement and Customs and Border Protection
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/remarks-president-salute-heroes-immigration-customs-enforcement-customs-border-protection/
+[Date]: Aug 20, 2018
+[Author]: 
+[File_Name]: remarks-president-salute-heroes-immigration-customs-enforcement-customs-border-protection
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: President Donald J. Trump Approves Iowa Disaster Declaration
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-approves-iowa-disaster-declaration-2/
+[Date]: Aug 20, 2018
+[Author]: 
+[File_Name]: president-donald-j-trump-approves-iowa-disaster-declaration-2
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: President Donald J. Trump Stands with the Brave Heroes Who Enforce Our Immigration Laws and Secure Our Borders
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-stands-brave-heroes-enforce-immigration-laws-secure-borders/
+[Date]: Aug 20, 2018
+[Author]: President Donald J. Trump
+[File_Name]: president-donald-j-trump-stands-brave-heroes-enforce-immigration-laws-secure-borders
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: President Donald J. Trump Approves Connecticut Disaster Declaration
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-approves-connecticut-disaster-declaration/
+[Date]: Aug 20, 2018
+[Author]: 
+[File_Name]: president-donald-j-trump-approves-connecticut-disaster-declaration
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Letter from the President to State and Local Leaders
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/letter-president-state-local-leaders/
+[Date]: Aug 20, 2018
+[Author]: 
+[File_Name]: letter-president-state-local-leaders
+
+[TYPE]: PRESIDENTIAL ACTIONS
+[Title]: Presidential Proclamation on National Employer Support of the Guard and Reserve Week, 2018
+[Title_Url]: https://www.whitehouse.gov/presidential-actions/presidential-proclamation-national-employer-support-guard-reserve-week-2018/
+[Date]: Aug 17, 2018
+[Author]: 
+[File_Name]: presidential-proclamation-national-employer-support-guard-reserve-week-2018
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: Text of a Letter from the President to the Chairmen of Certain Congressional Committees
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/text-letter-president-chairmen-certain-congressional-committees/
+[Date]: Aug 17, 2018
+[Author]: 
+[File_Name]: text-letter-president-chairmen-certain-congressional-committees
+
+[TYPE]: ARTICLES
+[Title]: Small Businesses Starting, Expanding Amid Trump Tax Cuts
+[Title_Url]: https://www.whitehouse.gov/articles/small-businesses-starting-expanding-amid-trump-tax-cuts/
+[Date]: Aug 17, 2018
+[Author]: Linda E. McMahon
+[File_Name]: small-businesses-starting-expanding-amid-trump-tax-cuts
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: National Review: “The New York Times Runs a Sloppy, Specious Democratic Hit on Brett Kavanaugh”
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/national-review-new-york-times-runs-sloppy-specious-democratic-hit-brett-kavanaugh/
+[Date]: Aug 17, 2018
+[Author]: 
+[File_Name]: national-review-new-york-times-runs-sloppy-specious-democratic-hit-brett-kavanaugh
+
+[TYPE]: BRIEFINGS & STATEMENTS
+[Title]: President Donald J. Trump Approves Disaster Declaration for the Confederated Tribes of the Colville Reservation
+[Title_Url]: https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-approves-disaster-declaration-confederated-tribes-colville-reservation/
+[Date]: Aug 17, 2018
+[Author]: 
+[File_Name]: president-donald-j-trump-approves-disaster-declaration-confederated-tribes-colville-reservation
+

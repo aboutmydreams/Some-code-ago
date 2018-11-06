@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-regarding-mudslides-california/', 'File_Name': 'statement-press-secretary-regarding-mudslides-california', 'Date': 'January 15, 2018', 'Title': 'statement press secretary regarding mudslides california', 'TYPE': '\nStatements & Releases', 'Author': ''}

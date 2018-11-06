@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/building-american-infrastructure-american-workers/', 'File_Name': 'building-american-infrastructure-american-workers', 'Date': 'March 29, 2018', 'Title': 'building american infrastructure american workers', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-trump-sends-nominations-senate/', 'File_Name': 'president-trump-sends-nominations-senate', 'Date': 'March 21, 2017', 'Title': 'president trump sends nominations senate', 'TYPE': '\nNominations & Appointments', 'Author': ''}

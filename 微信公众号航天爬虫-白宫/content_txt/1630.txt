@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/responsible-immigration-reform-will-secure-borders/', 'File_Name': 'responsible-immigration-reform-will-secure-borders', 'Date': 'February 2, 2018', 'Title': 'responsible immigration reform will secure borders', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

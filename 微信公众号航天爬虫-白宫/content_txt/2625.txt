@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-briefing-u-s-ambassador-u-n-nikki-haley-092117/', 'File_Name': 'press-briefing-u-s-ambassador-u-n-nikki-haley-092117', 'Date': 'September 21, 2017', 'Title': 'press briefing u s ambassador u n nikki haley 092117', 'TYPE': '\nPress Briefings', 'Author': ''}

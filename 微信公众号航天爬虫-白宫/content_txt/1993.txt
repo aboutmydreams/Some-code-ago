@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-h-r-2810-h-r-4374-law/', 'File_Name': 'president-donald-j-trump-signs-h-r-2810-h-r-4374-law', 'Date': 'December 12, 2017', 'Title': 'president donald j trump signs h r 2810 h r 4374 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

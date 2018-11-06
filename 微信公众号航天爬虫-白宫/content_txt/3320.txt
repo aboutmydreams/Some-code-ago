@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-executive-order-amending-executive-order-13597/', 'File_Name': 'presidential-executive-order-amending-executive-order-13597', 'Date': 'June 21, 2017', 'Title': 'presidential executive order amending executive order 13597', 'TYPE': '\nExecutive Orders', 'Author': ''}

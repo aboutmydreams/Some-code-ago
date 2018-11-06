@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-hurricane-irma-relief-recovery-efforts/', 'File_Name': 'remarks-vice-president-hurricane-irma-relief-recovery-efforts', 'Date': 'September 14, 2017', 'Title': 'remarks vice president hurricane irma relief recovery efforts', 'TYPE': '\nRemarks', 'Author': ''}

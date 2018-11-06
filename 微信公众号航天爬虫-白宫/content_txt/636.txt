@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-president-moon-republic-korea-bilateral-meeting-2/', 'File_Name': 'remarks-president-trump-president-moon-republic-korea-bilateral-meeting-2', 'Date': 'May 22, 2018', 'Title': 'remarks president trump president moon republic korea bilateral meeting 2', 'TYPE': '\nRemarks', 'Author': ''}

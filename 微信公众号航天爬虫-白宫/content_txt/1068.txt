@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/gov-doug-ducey-national-guard-needed-border/', 'File_Name': 'gov-doug-ducey-national-guard-needed-border', 'Date': 'April 10, 2018', 'Title': 'gov doug ducey national guard needed border', 'TYPE': '\nNews Clips', 'Author': ''}

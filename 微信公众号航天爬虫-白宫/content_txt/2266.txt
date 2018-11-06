@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-first-lady-melania-trumps-visit-japan/', 'File_Name': 'readout-first-lady-melania-trumps-visit-japan', 'Date': 'November 6, 2017', 'Title': 'readout first lady melania trumps visit japan', 'TYPE': '\nStatements & Releases', 'Author': ''}

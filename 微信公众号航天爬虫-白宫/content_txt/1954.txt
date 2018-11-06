@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/text-letter-president-congress-united-states-5/', 'File_Name': 'text-letter-president-congress-united-states-5', 'Date': 'December 18, 2017', 'Title': 'text letter president congress united states 5', 'TYPE': '\nStatements & Releases', 'Author': ''}

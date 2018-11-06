@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/booming-economy-lifting-american-workers/', 'File_Name': 'booming-economy-lifting-american-workers', 'Date': 'August 7, 2018', 'Title': 'booming economy lifting american workers', 'TYPE': '\nNews Clips', 'Author': ''}

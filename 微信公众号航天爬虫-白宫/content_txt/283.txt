@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/politico-voters-oppose-abolishing-ice/', 'File_Name': 'politico-voters-oppose-abolishing-ice', 'Date': 'July 11, 2018', 'Title': 'politico voters oppose abolishing ice', 'TYPE': '\nNews Clips', 'Author': ''}

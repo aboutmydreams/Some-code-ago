@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/twelve-nominations-sent-senate-today-3/', 'File_Name': 'twelve-nominations-sent-senate-today-3', 'Date': 'June 25, 2018', 'Title': 'twelve nominations sent senate today 3', 'TYPE': '\nNominations & Appointments', 'Author': ''}

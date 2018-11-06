@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidential-message-international-day-drug-abuse-illicit-trafficking/', 'File_Name': 'presidential-message-international-day-drug-abuse-illicit-trafficking', 'Date': 'June 26, 2018', 'Title': 'presidential message international day drug abuse illicit trafficking', 'TYPE': '\nStatements & Releases', 'Author': ''}

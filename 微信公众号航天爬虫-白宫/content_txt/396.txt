@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-cabinet-meeting-9/', 'File_Name': 'remarks-president-trump-cabinet-meeting-9', 'Date': 'June 21, 2018', 'Title': 'remarks president trump cabinet meeting 9', 'TYPE': '\nRemarks', 'Author': ''}

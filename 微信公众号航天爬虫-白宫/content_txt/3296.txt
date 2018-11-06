@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/national-review-obamacare-failure-democrats/', 'File_Name': 'national-review-obamacare-failure-democrats', 'Date': 'June 23, 2017', 'Title': 'national review obamacare failure democrats', 'TYPE': '\nNews Clips', 'Author': ''}

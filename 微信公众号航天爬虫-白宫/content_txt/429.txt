@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidential-message-juneteenth/', 'File_Name': 'presidential-message-juneteenth', 'Date': 'June 19, 2018', 'Title': 'presidential message juneteenth', 'TYPE': '\nStatements & Releases', 'Author': ''}

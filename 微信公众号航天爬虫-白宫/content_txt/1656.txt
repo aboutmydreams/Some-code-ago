@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/applause-president-donald-j-trumps-state-union-address/', 'File_Name': 'applause-president-donald-j-trumps-state-union-address', 'Date': 'January 31, 2018', 'Title': 'applause president donald j trumps state union address', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-regarding-recent-attacks-west-africa/', 'File_Name': 'statement-press-secretary-regarding-recent-attacks-west-africa', 'Date': 'March 2, 2018', 'Title': 'statement press secretary regarding recent attacks west africa', 'TYPE': '\nStatements & Releases', 'Author': ''}

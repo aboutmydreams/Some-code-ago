@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/national-colorectal-cancer-awareness-month/', 'File_Name': 'national-colorectal-cancer-awareness-month', 'Date': 'March 1, 2018', 'Title': 'national colorectal cancer awareness month', 'TYPE': '\nStatements & Releases', 'Author': ''}

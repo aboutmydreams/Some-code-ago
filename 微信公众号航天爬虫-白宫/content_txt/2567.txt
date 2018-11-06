@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/widespread-praise-president-trumps-unified-framework-tax-reform/', 'File_Name': 'widespread-praise-president-trumps-unified-framework-tax-reform', 'Date': 'September 27, 2017', 'Title': 'widespread praise president trumps unified framework tax reform', 'TYPE': '\nStatements & Releases', 'Author': ''}

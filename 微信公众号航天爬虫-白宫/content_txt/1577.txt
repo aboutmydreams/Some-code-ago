@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-meeting-north-korean-defectors/', 'File_Name': 'remarks-vice-president-pence-meeting-north-korean-defectors', 'Date': 'February 9, 2018', 'Title': 'remarks vice president pence meeting north korean defectors', 'TYPE': '\nRemarks', 'Author': ''}

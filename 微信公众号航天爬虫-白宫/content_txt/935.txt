@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-signing-h-r-3445/', 'File_Name': 'statement-president-signing-h-r-3445', 'Date': 'April 23, 2018', 'Title': 'statement president signing h r 3445', 'TYPE': '\nStatements & Releases', 'Author': ''}

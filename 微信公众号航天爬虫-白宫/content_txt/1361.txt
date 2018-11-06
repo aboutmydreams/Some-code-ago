@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/vice-president-pence-tax-cuts-working-iowa/', 'File_Name': 'vice-president-pence-tax-cuts-working-iowa', 'Date': 'March 6, 2018', 'Title': 'vice president pence tax cuts working iowa', 'TYPE': '\nNews Clips', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidential-message-congress-united-states-8/', 'File_Name': 'presidential-message-congress-united-states-8', 'Date': 'May 10, 2018', 'Title': 'presidential message congress united states 8', 'TYPE': '\nStatements & Releases', 'Author': ''}

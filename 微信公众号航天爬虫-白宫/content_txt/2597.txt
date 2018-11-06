@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/editorial-obamacares-tax-poor/', 'File_Name': 'editorial-obamacares-tax-poor', 'Date': 'September 23, 2017', 'Title': 'editorial obamacares tax poor', 'TYPE': '\nNews Clips', 'Author': ''}

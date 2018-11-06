@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-bilateral-meeting-prime-minister-may-united-kingdom/', 'File_Name': 'remarks-president-trump-bilateral-meeting-prime-minister-may-united-kingdom', 'Date': 'July 8, 2017', 'Title': 'remarks president trump bilateral meeting prime minister may united kingdom', 'TYPE': '\nRemarks', 'Author': ''}

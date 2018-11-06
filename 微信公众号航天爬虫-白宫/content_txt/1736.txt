@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-h-r-3759-law/', 'File_Name': 'president-donald-j-trump-signs-h-r-3759-law', 'Date': 'January 22, 2018', 'Title': 'president donald j trump signs h r 3759 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

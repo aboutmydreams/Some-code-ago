@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/white-house-hosts-summit-artificial-intelligence-american-industry/', 'File_Name': 'white-house-hosts-summit-artificial-intelligence-american-industry', 'Date': 'no data', 'Title': 'white house hosts summit artificial intelligence american industry', 'TYPE': 'no type', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/guidance-ivanka-trumps-visit-germany-w20-womens-20-summit-berlin/', 'File_Name': 'guidance-ivanka-trumps-visit-germany-w20-womens-20-summit-berlin', 'Date': 'April 20, 2017', 'Title': 'guidance ivanka trumps visit germany w20 womens 20 summit berlin', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/six-nominations-sent-senate-today/', 'File_Name': 'six-nominations-sent-senate-today', 'Date': 'November 1, 2017', 'Title': 'six nominations sent senate today', 'TYPE': '\nNominations & Appointments', 'Author': ''}

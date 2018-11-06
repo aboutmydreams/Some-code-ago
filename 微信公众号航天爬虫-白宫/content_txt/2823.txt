@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-west-virginia-chamber-summit/', 'File_Name': 'remarks-vice-president-west-virginia-chamber-summit', 'Date': 'August 30, 2017', 'Title': 'remarks vice president west virginia chamber summit', 'TYPE': '\nRemarks', 'Author': ''}

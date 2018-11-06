@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-confronting-nations-broken-healthcare-system/', 'File_Name': 'president-trump-confronting-nations-broken-healthcare-system', 'Date': 'February 28, 2017', 'Title': 'president trump confronting nations broken healthcare system', 'TYPE': '\nFact Sheets', 'Author': ''}

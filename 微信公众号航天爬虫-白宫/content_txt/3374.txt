@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/letter-president-national-emergencies-act/', 'File_Name': 'letter-president-national-emergencies-act', 'Date': 'June 13, 2017', 'Title': 'letter president national emergencies act', 'TYPE': '\nStatements & Releases', 'Author': ''}

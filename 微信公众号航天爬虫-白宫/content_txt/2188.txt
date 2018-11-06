@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/four-nominations-one-withdrawal-sent-senate-today/', 'File_Name': 'four-nominations-one-withdrawal-sent-senate-today', 'Date': 'November 14, 2017', 'Title': 'four nominations one withdrawal sent senate today', 'TYPE': '\nNominations & Appointments', 'Author': ''}

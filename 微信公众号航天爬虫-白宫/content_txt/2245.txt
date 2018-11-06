@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-proclaims-november-9-2017-world-freedom-day/', 'File_Name': 'president-donald-j-trump-proclaims-november-9-2017-world-freedom-day', 'Date': 'November 8, 2017', 'Title': 'president donald j trump proclaims november 9 2017 world freedom day', 'TYPE': '\nProclamations', 'Author': ''}

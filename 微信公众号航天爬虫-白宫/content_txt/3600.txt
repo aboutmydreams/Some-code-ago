@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/republicans-just-took-major-step-toward-rescuing-americans-obamacare/', 'File_Name': 'republicans-just-took-major-step-toward-rescuing-americans-obamacare', 'Date': 'no data', 'Title': 'republicans just took major step toward rescuing americans obamacare', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tAndrew Bremberg\t\t\t\t\t'}

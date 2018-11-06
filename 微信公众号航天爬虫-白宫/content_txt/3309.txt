@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/financial-times-reports-president-trumps-lng-export-push/', 'File_Name': 'financial-times-reports-president-trumps-lng-export-push', 'Date': 'June 22, 2017', 'Title': 'financial times reports president trumps lng export push', 'TYPE': '\nNews Clips', 'Author': ''}

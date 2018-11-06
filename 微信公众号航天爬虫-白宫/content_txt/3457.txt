@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-puts-american-jobs-first/', 'File_Name': 'president-trump-puts-american-jobs-first', 'Date': 'June 1, 2017', 'Title': 'president trump puts american jobs first', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

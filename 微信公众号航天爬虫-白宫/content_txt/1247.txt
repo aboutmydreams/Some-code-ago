@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-national-agriculture-day/', 'File_Name': 'remarks-vice-president-pence-national-agriculture-day', 'Date': 'March 20, 2018', 'Title': 'remarks vice president pence national agriculture day', 'TYPE': '\nRemarks', 'Author': ''}

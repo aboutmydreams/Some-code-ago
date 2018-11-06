@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/nyt-ran-words-describe-good-jobs-numbers/', 'File_Name': 'nyt-ran-words-describe-good-jobs-numbers', 'Date': 'June 1, 2018', 'Title': 'nyt ran words describe good jobs numbers', 'TYPE': '\nNews Clips', 'Author': ''}

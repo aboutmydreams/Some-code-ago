@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-first-lady-melania-trumps-visit-national-gallery-art/', 'File_Name': 'readout-first-lady-melania-trumps-visit-national-gallery-art', 'Date': 'April 24, 2018', 'Title': 'readout first lady melania trumps visit national gallery art', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-wounded-warrior-project-soldier-ride/', 'File_Name': 'remarks-president-trump-wounded-warrior-project-soldier-ride', 'Date': 'April 26, 2018', 'Title': 'remarks president trump wounded warrior project soldier ride', 'TYPE': '\nRemarks', 'Author': ''}

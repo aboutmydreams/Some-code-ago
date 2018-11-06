@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/fall-2017-white-house-internship-program/', 'File_Name': 'fall-2017-white-house-internship-program', 'Date': 'May 19, 2017', 'Title': 'fall 2017 white house internship program', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/vice-president-pence-casts-historic-vote-confirm-betsy-devos/', 'File_Name': 'vice-president-pence-casts-historic-vote-confirm-betsy-devos', 'Date': 'no data', 'Title': 'vice president pence casts historic vote confirm betsy devos', 'TYPE': 'no type', 'Author': ''}

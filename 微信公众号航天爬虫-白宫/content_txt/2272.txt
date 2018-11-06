@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/text-letter-president-speaker-house-representatives-2/', 'File_Name': 'text-letter-president-speaker-house-representatives-2', 'Date': 'November 6, 2017', 'Title': 'text letter president speaker house representatives 2', 'TYPE': '\nStatements & Releases', 'Author': ''}

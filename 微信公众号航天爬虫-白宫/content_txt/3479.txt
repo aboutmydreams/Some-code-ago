@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-us-naval-academy-commencement-ceremony/', 'File_Name': 'remarks-vice-president-us-naval-academy-commencement-ceremony', 'Date': 'May 26, 2017', 'Title': 'remarks vice president us naval academy commencement ceremony', 'TYPE': '\nRemarks', 'Author': ''}

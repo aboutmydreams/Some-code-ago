@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidential-message-congress-united-states-16/', 'File_Name': 'presidential-message-congress-united-states-16', 'Date': 'June 22, 2018', 'Title': 'presidential message congress united states 16', 'TYPE': '\nStatements & Releases', 'Author': ''}

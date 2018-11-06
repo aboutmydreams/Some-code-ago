@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-saluting-american-heroes/', 'File_Name': 'remarks-president-trump-saluting-american-heroes', 'Date': 'July 25, 2017', 'Title': 'remarks president trump saluting american heroes', 'TYPE': '\nRemarks', 'Author': ''}

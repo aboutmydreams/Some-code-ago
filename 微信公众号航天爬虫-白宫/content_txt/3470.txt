@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-briefing-secretary-veterans-affairs-david-shulkin-053117/', 'File_Name': 'press-briefing-secretary-veterans-affairs-david-shulkin-053117', 'Date': 'May 31, 2017', 'Title': 'press briefing secretary veterans affairs david shulkin 053117', 'TYPE': '\nPress Briefings', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-lebanon/', 'File_Name': 'statement-president-donald-j-trump-lebanon', 'Date': 'April 7, 2018', 'Title': 'statement president donald j trump lebanon', 'TYPE': '\nStatements & Releases', 'Author': ''}

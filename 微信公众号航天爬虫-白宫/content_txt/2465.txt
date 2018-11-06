@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-las-vegas-unity-prayer-walk/', 'File_Name': 'remarks-vice-president-las-vegas-unity-prayer-walk', 'Date': 'October 7, 2017', 'Title': 'remarks vice president las vegas unity prayer walk', 'TYPE': '\nRemarks', 'Author': ''}

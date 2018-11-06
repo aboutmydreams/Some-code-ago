@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-deaths-sailors-uss-john-s-mccain-guided-missile-destroyer/', 'File_Name': 'statement-deaths-sailors-uss-john-s-mccain-guided-missile-destroyer', 'Date': 'August 22, 2017', 'Title': 'statement deaths sailors uss john s mccain guided missile destroyer', 'TYPE': '\nStatements & Releases', 'Author': ''}

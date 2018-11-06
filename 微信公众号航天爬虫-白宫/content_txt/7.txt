@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/cnbc-consumer-confidence-pops-august-highest-level-since-october-2000/', 'File_Name': 'cnbc-consumer-confidence-pops-august-highest-level-since-october-2000', 'Date': 'August 28, 2018', 'Title': 'cnbc consumer confidence pops august highest level since october 2000', 'TYPE': '\nNews Clips', 'Author': ''}

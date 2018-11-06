@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/donald-j-trump-proclaims-may-2017-national-foster-care-month/', 'File_Name': 'donald-j-trump-proclaims-may-2017-national-foster-care-month', 'Date': 'April 28, 2017', 'Title': 'donald j trump proclaims may 2017 national foster care month', 'TYPE': '\nProclamations', 'Author': ''}

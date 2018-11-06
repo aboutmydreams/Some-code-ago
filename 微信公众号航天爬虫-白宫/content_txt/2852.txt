@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-approves-iowa-disaster-declaration/', 'File_Name': 'president-donald-j-trump-approves-iowa-disaster-declaration', 'Date': 'August 27, 2017', 'Title': 'president donald j trump approves iowa disaster declaration', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/praise-president-donald-j-trumps-new-strategy-iran/', 'File_Name': 'praise-president-donald-j-trumps-new-strategy-iran', 'Date': 'October 13, 2017', 'Title': 'praise president donald j trumps new strategy iran', 'TYPE': '\nStatements & Releases', 'Author': ''}

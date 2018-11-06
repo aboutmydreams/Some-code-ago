@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-regarding-senate-passage-h-j-res-111/', 'File_Name': 'statement-regarding-senate-passage-h-j-res-111', 'Date': 'October 24, 2017', 'Title': 'statement regarding senate passage h j res 111', 'TYPE': '\nStatements & Releases', 'Author': ''}

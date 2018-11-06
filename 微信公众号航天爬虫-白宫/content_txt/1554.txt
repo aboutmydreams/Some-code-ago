@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-sequestration-order-fiscal-year-2019/', 'File_Name': 'presidential-sequestration-order-fiscal-year-2019', 'Date': 'February 12, 2018', 'Title': 'presidential sequestration order fiscal year 2019', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

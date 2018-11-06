@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/sens-cotton-perdue-immigration-plan-pro-worker-pro-growth/', 'File_Name': 'sens-cotton-perdue-immigration-plan-pro-worker-pro-growth', 'Date': 'August 8, 2017', 'Title': 'sens cotton perdue immigration plan pro worker pro growth', 'TYPE': '\nNews Clips', 'Author': ''}

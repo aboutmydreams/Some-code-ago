@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-passing-former-first-lady-barbara-bush/', 'File_Name': 'statement-president-passing-former-first-lady-barbara-bush', 'Date': 'April 17, 2018', 'Title': 'statement president passing former first lady barbara bush', 'TYPE': '\nStatements & Releases', 'Author': ''}

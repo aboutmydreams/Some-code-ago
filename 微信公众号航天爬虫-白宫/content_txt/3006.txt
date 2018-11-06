@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/eight-nominations-one-withdrawal-sent-senate-today/', 'File_Name': 'eight-nominations-one-withdrawal-sent-senate-today', 'Date': 'August 2, 2017', 'Title': 'eight nominations one withdrawal sent senate today', 'TYPE': '\nNominations & Appointments', 'Author': ''}

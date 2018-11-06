@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/text-letter-president-united-states-officials/', 'File_Name': 'text-letter-president-united-states-officials', 'Date': 'March 12, 2018', 'Title': 'text letter president united states officials', 'TYPE': '\nStatements & Releases', 'Author': ''}

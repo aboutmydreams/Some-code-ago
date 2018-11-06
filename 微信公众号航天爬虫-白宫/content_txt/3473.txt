@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-arlington-national-cemetery/', 'File_Name': 'remarks-president-trump-arlington-national-cemetery', 'Date': 'May 29, 2017', 'Title': 'remarks president trump arlington national cemetery', 'TYPE': '\nRemarks', 'Author': ''}

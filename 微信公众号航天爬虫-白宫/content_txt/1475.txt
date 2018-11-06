@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/innovative-policies-to-improve-all-americans-health/', 'File_Name': 'innovative-policies-to-improve-all-americans-health', 'Date': 'no data', 'Title': 'innovative policies to improve all americans health', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tCouncil of Economic Advisers\t\t\t\t\t'}

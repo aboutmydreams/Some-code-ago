@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/2017-year-promises-fulfilled-strong-labor-market/', 'File_Name': '2017-year-promises-fulfilled-strong-labor-market', 'Date': 'no data', 'Title': '2017 year promises fulfilled strong labor market', 'TYPE': 'no type', 'Author': ''}

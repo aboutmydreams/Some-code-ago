@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-combatting-opioid-crisis/', 'File_Name': 'remarks-president-trump-combatting-opioid-crisis', 'Date': 'March 19, 2018', 'Title': 'remarks president trump combatting opioid crisis', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-proclaims-june-2018-national-ocean-month/', 'File_Name': 'president-donald-j-trump-proclaims-june-2018-national-ocean-month', 'Date': 'May 31, 2018', 'Title': 'president donald j trump proclaims june 2018 national ocean month', 'TYPE': '\nProclamations', 'Author': ''}

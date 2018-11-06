@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-launch-first-ladys-initiatives/', 'File_Name': 'remarks-president-trump-launch-first-ladys-initiatives', 'Date': 'May 7, 2018', 'Title': 'remarks president trump launch first ladys initiatives', 'TYPE': '\nRemarks', 'Author': ''}

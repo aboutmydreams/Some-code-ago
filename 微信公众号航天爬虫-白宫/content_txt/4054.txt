@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-rebuilding-americas-national-security/', 'File_Name': 'president-trump-rebuilding-americas-national-security', 'Date': 'February 28, 2017', 'Title': 'president trump rebuilding americas national security', 'TYPE': '\nFact Sheets', 'Author': ''}

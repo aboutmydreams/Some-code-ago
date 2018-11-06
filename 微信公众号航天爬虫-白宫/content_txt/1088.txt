@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-regarding-attack-germany/', 'File_Name': 'statement-press-secretary-regarding-attack-germany', 'Date': 'April 7, 2018', 'Title': 'statement press secretary regarding attack germany', 'TYPE': '\nStatements & Releases', 'Author': ''}

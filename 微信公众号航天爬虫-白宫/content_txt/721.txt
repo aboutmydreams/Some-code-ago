@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidential-message-national-womens-health-week/', 'File_Name': 'presidential-message-national-womens-health-week', 'Date': 'May 12, 2018', 'Title': 'presidential message national womens health week', 'TYPE': '\nStatements & Releases', 'Author': ''}

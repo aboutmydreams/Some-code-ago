@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-commutes-sentence-sholom-rubashkin/', 'File_Name': 'president-trump-commutes-sentence-sholom-rubashkin', 'Date': 'December 20, 2017', 'Title': 'president trump commutes sentence sholom rubashkin', 'TYPE': '\nStatements & Releases', 'Author': ''}

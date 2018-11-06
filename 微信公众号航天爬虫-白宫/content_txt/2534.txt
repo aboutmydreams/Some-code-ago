@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/interview-vice-president-mike-pence-erik-von-ancken-wkmg-news-6/', 'File_Name': 'interview-vice-president-mike-pence-erik-von-ancken-wkmg-news-6', 'Date': 'September 30, 2017', 'Title': 'interview vice president mike pence erik von ancken wkmg news 6', 'TYPE': '\nRemarks', 'Author': ''}

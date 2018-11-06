@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-proclaims-may-1-2018-law-day-u-s/', 'File_Name': 'president-donald-j-trump-proclaims-may-1-2018-law-day-u-s', 'Date': 'April 30, 2018', 'Title': 'president donald j trump proclaims may 1 2018 law day u s', 'TYPE': '\nProclamations', 'Author': ''}

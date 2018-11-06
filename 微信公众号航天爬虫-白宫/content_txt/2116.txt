@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/first-lady-melania-trump-unveils-christmas-white-house-2017/', 'File_Name': 'first-lady-melania-trump-unveils-christmas-white-house-2017', 'Date': 'November 27, 2017', 'Title': 'first lady melania trump unveils christmas white house 2017', 'TYPE': '\nStatements & Releases', 'Author': ''}

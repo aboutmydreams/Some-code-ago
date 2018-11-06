@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/protect-americas-best-idea/', 'File_Name': 'protect-americas-best-idea', 'Date': 'no data', 'Title': 'protect americas best idea', 'TYPE': 'no type', 'Author': '\nRyan Zinke and Lamar Alexander\t\t\t'}

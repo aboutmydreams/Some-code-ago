@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-weekly-address-5/', 'File_Name': 'president-donald-j-trumps-weekly-address-5', 'Date': 'September 1, 2017', 'Title': 'president donald j trumps weekly address 5', 'TYPE': '\nStatements & Releases', 'Author': ''}

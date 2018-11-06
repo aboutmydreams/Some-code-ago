@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-national-association-manufacturers/', 'File_Name': 'remarks-president-trump-national-association-manufacturers', 'Date': 'September 29, 2017', 'Title': 'remarks president trump national association manufacturers', 'TYPE': '\nRemarks', 'Author': ''}

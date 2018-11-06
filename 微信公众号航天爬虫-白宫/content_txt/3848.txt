@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/white-house-releases-official-portrait-first-lady-melania-trump/', 'File_Name': 'white-house-releases-official-portrait-first-lady-melania-trump', 'Date': 'April 3, 2017', 'Title': 'white house releases official portrait first lady melania trump', 'TYPE': '\nStatements & Releases', 'Author': ''}

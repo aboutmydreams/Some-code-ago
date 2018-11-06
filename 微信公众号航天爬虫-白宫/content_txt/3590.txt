@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-12/', 'File_Name': 'statement-press-secretary-12', 'Date': 'May 9, 2017', 'Title': 'statement press secretary 12', 'TYPE': '\nStatements & Releases', 'Author': ''}

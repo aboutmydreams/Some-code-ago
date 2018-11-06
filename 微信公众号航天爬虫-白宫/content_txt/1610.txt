@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-gaggle-vice-president-pence/', 'File_Name': 'press-gaggle-vice-president-pence', 'Date': 'February 6, 2018', 'Title': 'press gaggle vice president pence', 'TYPE': '\nRemarks', 'Author': ''}

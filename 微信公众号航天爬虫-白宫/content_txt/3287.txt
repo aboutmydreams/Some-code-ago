@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-eid-al-fitr/', 'File_Name': 'statement-president-donald-j-trump-eid-al-fitr', 'Date': 'June 24, 2017', 'Title': 'statement president donald j trump eid al fitr', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-visit-king-felipe-vi-queen-letizia-spain/', 'File_Name': 'statement-press-secretary-visit-king-felipe-vi-queen-letizia-spain', 'Date': 'June 8, 2018', 'Title': 'statement press secretary visit king felipe vi queen letizia spain', 'TYPE': '\nStatements & Releases', 'Author': ''}

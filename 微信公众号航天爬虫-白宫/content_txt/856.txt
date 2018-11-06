@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wall-street-journal-mother-teresa-counterterrorism-cia-unveils-gina-haspel/', 'File_Name': 'wall-street-journal-mother-teresa-counterterrorism-cia-unveils-gina-haspel', 'Date': 'May 2, 2018', 'Title': 'wall street journal mother teresa counterterrorism cia unveils gina haspel', 'TYPE': '\nNews Clips', 'Author': ''}

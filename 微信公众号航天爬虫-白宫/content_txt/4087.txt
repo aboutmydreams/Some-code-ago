@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trumps-focus-brings-renewed-optimism-americas-manufacturers/', 'File_Name': 'president-trumps-focus-brings-renewed-optimism-americas-manufacturers', 'Date': 'February 24, 2017', 'Title': 'president trumps focus brings renewed optimism americas manufacturers', 'TYPE': '\nNews Clips', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-criminal-alien-gang-member-removal-act/', 'File_Name': 'statement-press-secretary-criminal-alien-gang-member-removal-act', 'Date': 'September 14, 2017', 'Title': 'statement press secretary criminal alien gang member removal act', 'TYPE': '\nStatements & Releases', 'Author': ''}

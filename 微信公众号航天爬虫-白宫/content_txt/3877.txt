@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-eliminates-job-killing-regulations/', 'File_Name': 'president-trump-eliminates-job-killing-regulations', 'Date': 'no data', 'Title': 'president trump eliminates job killing regulations', 'TYPE': 'no type', 'Author': ''}

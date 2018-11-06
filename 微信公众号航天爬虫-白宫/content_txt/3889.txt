@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trumps-energy-independence-policy/', 'File_Name': 'president-trumps-energy-independence-policy', 'Date': 'March 28, 2017', 'Title': 'president trumps energy independence policy', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tDonald J. Trump\t\t\t\t\t'}

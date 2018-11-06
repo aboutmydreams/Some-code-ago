@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-weekly-address-29/', 'File_Name': 'president-donald-j-trumps-weekly-address-29', 'Date': 'June 2, 2018', 'Title': 'president donald j trumps weekly address 29', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-taxpayer-family-event/', 'File_Name': 'remarks-president-trump-taxpayer-family-event', 'Date': 'December 5, 2017', 'Title': 'remarks president trump taxpayer family event', 'TYPE': '\nRemarks', 'Author': ''}

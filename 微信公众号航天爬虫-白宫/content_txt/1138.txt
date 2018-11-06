@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-working-lunch-heads-baltic-states/', 'File_Name': 'remarks-president-trump-working-lunch-heads-baltic-states', 'Date': 'April 3, 2018', 'Title': 'remarks president trump working lunch heads baltic states', 'TYPE': '\nRemarks', 'Author': ''}

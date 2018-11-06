@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signed-h-r-518-h-r-954-h-r-2611-law/', 'File_Name': 'president-donald-j-trump-signed-h-r-518-h-r-954-h-r-2611-law', 'Date': 'January 12, 2018', 'Title': 'president donald j trump signed h r 518 h r 954 h r 2611 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-communications-director-first-lady-melania-trump/', 'File_Name': 'statement-communications-director-first-lady-melania-trump', 'Date': 'May 14, 2018', 'Title': 'statement communications director first lady melania trump', 'TYPE': '\nStatements & Releases', 'Author': ''}

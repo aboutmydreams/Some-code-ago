@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-prime-minister-varadkar-ireland-bilateral-meeting/', 'File_Name': 'remarks-president-trump-prime-minister-varadkar-ireland-bilateral-meeting', 'Date': 'March 15, 2018', 'Title': 'remarks president trump prime minister varadkar ireland bilateral meeting', 'TYPE': '\nRemarks', 'Author': ''}

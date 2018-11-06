@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidents-state-union-address-continues-earn-applause/', 'File_Name': 'presidents-state-union-address-continues-earn-applause', 'Date': 'February 2, 2018', 'Title': 'presidents state union address continues earn applause', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-combatting-drug-demand-opioid-crisis/', 'File_Name': 'remarks-president-trump-combatting-drug-demand-opioid-crisis', 'Date': 'October 26, 2017', 'Title': 'remarks president trump combatting drug demand opioid crisis', 'TYPE': '\nRemarks', 'Author': ''}

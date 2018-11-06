@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/standing-support-american-hostages/', 'File_Name': 'standing-support-american-hostages', 'Date': 'no data', 'Title': 'standing support american hostages', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tJohn R. Bolton\t\t\t\t\t\t\t\n'}

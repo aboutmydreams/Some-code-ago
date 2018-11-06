@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-approves-alaska-disaster-declaration/', 'File_Name': 'president-donald-j-trump-approves-alaska-disaster-declaration', 'Date': 'December 21, 2017', 'Title': 'president donald j trump approves alaska disaster declaration', 'TYPE': '\nStatements & Releases', 'Author': ''}

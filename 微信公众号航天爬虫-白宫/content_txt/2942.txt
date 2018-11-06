@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-takes-action-intellectual-property-rights/', 'File_Name': 'president-trump-takes-action-intellectual-property-rights', 'Date': 'no data', 'Title': 'president trump takes action intellectual property rights', 'TYPE': 'no type', 'Author': ''}

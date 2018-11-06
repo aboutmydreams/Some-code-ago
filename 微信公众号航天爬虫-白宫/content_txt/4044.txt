@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/vice-president-mike-pence-deliver-notre-dame-commencement/', 'File_Name': 'vice-president-mike-pence-deliver-notre-dame-commencement', 'Date': 'March 2, 2017', 'Title': 'vice president mike pence deliver notre dame commencement', 'TYPE': '\nStatements & Releases', 'Author': ''}

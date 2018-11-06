@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/gaggle-background-buy-american-hire-american-executive-order/', 'File_Name': 'gaggle-background-buy-american-hire-american-executive-order', 'Date': 'April 18, 2017', 'Title': 'gaggle background buy american hire american executive order', 'TYPE': '\nPress Briefings', 'Author': ''}

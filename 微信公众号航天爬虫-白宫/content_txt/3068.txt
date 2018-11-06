@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-meets-families-adversely-affected-obamacare/', 'File_Name': 'president-trump-meets-families-adversely-affected-obamacare', 'Date': 'no data', 'Title': 'president trump meets families adversely affected obamacare', 'TYPE': 'no type', 'Author': ''}

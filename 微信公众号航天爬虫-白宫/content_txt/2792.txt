@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-surgeon-general-swearing-ceremony/', 'File_Name': 'remarks-vice-president-surgeon-general-swearing-ceremony', 'Date': 'September 5, 2017', 'Title': 'remarks vice president surgeon general swearing ceremony', 'TYPE': '\nRemarks', 'Author': ''}

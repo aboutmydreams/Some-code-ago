@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-jobs-announcement-charter-communications/', 'File_Name': 'remarks-president-trump-jobs-announcement-charter-communications', 'Date': 'March 24, 2017', 'Title': 'remarks president trump jobs announcement charter communications', 'TYPE': '\nRemarks', 'Author': ''}

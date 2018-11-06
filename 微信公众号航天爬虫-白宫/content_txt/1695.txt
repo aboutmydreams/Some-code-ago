@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-dinner-european-business-leaders/', 'File_Name': 'remarks-president-trump-dinner-european-business-leaders', 'Date': 'January 25, 2018', 'Title': 'remarks president trump dinner european business leaders', 'TYPE': '\nRemarks', 'Author': ''}

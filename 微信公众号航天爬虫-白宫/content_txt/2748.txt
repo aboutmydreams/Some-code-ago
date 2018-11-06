@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/photos-teleconference-briefing-hurricane-irma/', 'File_Name': 'photos-teleconference-briefing-hurricane-irma', 'Date': 'September 10, 2017', 'Title': 'photos teleconference briefing hurricane irma', 'TYPE': '\nStatements & Releases', 'Author': ''}

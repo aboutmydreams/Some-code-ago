@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/one-five-new-yorkers-can-expect-double-digit-rate-hikes/', 'File_Name': 'one-five-new-yorkers-can-expect-double-digit-rate-hikes', 'Date': 'no data', 'Title': 'one five new yorkers can expect double digit rate hikes', 'TYPE': 'no type', 'Author': ''}

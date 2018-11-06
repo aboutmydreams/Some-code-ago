@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-approves-idaho-disaster-declaration/', 'File_Name': 'president-trump-approves-idaho-disaster-declaration', 'Date': 'April 21, 2017', 'Title': 'president trump approves idaho disaster declaration', 'TYPE': '\nStatements & Releases', 'Author': ''}

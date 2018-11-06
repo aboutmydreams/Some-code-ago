@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-briefing-press-secretary-sarah-sanders-050318/', 'File_Name': 'press-briefing-press-secretary-sarah-sanders-050318', 'Date': 'May 3, 2018', 'Title': 'press briefing press secretary sarah sanders 050318', 'TYPE': '\nPress Briefings', 'Author': ''}

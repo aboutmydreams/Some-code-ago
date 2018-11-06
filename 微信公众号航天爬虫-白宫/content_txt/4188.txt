@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/cnbc-ceo-confidence-near-record-high-trumps-war-regulation/', 'File_Name': 'cnbc-ceo-confidence-near-record-high-trumps-war-regulation', 'Date': 'February 8, 2017', 'Title': 'cnbc ceo confidence near record high trumps war regulation', 'TYPE': '\nNews Clips', 'Author': ''}

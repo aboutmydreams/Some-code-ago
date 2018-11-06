@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/dow-jones-u-s-gdp-growth-revised-3-3-rate-third-quarter/', 'File_Name': 'dow-jones-u-s-gdp-growth-revised-3-3-rate-third-quarter', 'Date': 'November 29, 2017', 'Title': 'dow jones u s gdp growth revised 3 3 rate third quarter', 'TYPE': '\nNews Clips', 'Author': ''}

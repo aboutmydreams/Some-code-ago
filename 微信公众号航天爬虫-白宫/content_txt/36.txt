@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-first-baptist-church-rockport-rockport-tx/', 'File_Name': 'remarks-vice-president-pence-first-baptist-church-rockport-rockport-tx', 'Date': 'August 22, 2018', 'Title': 'remarks vice president pence first baptist church rockport rockport tx', 'TYPE': '\nRemarks', 'Author': ''}

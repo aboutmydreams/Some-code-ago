@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-approves-georgia-disaster-declaration/', 'File_Name': 'president-trump-approves-georgia-disaster-declaration', 'Date': 'January 25, 2017', 'Title': 'president trump approves georgia disaster declaration', 'TYPE': '\nStatements & Releases', 'Author': ''}

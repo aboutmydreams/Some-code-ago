@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/vice-president-mike-pence-travel-estonia-georgia-montenegro/', 'File_Name': 'vice-president-mike-pence-travel-estonia-georgia-montenegro', 'Date': 'June 29, 2017', 'Title': 'vice president mike pence travel estonia georgia montenegro', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-liberation-mosul/', 'File_Name': 'statement-president-donald-j-trump-liberation-mosul', 'Date': 'July 10, 2017', 'Title': 'statement president donald j trump liberation mosul', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-president-donald-j-trumps-meeting-congressman-elijah-cummings/', 'File_Name': 'readout-president-donald-j-trumps-meeting-congressman-elijah-cummings', 'Date': 'March 8, 2017', 'Title': 'readout president donald j trumps meeting congressman elijah cummings', 'TYPE': '\nStatements & Releases', 'Author': ''}

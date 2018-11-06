@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-cabinet-nominee-confirmations/', 'File_Name': 'statement-president-cabinet-nominee-confirmations', 'Date': 'January 20, 2017', 'Title': 'statement president cabinet nominee confirmations', 'TYPE': '\nStatements & Releases', 'Author': ''}

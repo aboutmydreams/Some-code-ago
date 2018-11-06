@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/second-lady-karen-pence-receives-courage-award/', 'File_Name': 'second-lady-karen-pence-receives-courage-award', 'Date': 'February 13, 2017', 'Title': 'second lady karen pence receives courage award', 'TYPE': '\nStatements & Releases', 'Author': ''}

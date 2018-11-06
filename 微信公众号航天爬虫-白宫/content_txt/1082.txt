@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/need-know-president-donald-j-trumps-efforts-end-catch-release/', 'File_Name': 'need-know-president-donald-j-trumps-efforts-end-catch-release', 'Date': 'April 9, 2018', 'Title': 'need know president donald j trumps efforts end catch release', 'TYPE': '\nStatements & Releases', 'Author': ''}

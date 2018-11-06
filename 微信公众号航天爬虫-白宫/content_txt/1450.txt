@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidents-infrastructure-plan-will-expand-rural-broadband-access/', 'File_Name': 'presidents-infrastructure-plan-will-expand-rural-broadband-access', 'Date': 'February 23, 2018', 'Title': 'presidents infrastructure plan will expand rural broadband access', 'TYPE': '\nStatements & Releases', 'Author': ''}

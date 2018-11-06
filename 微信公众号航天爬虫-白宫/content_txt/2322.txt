@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/tax-cuts-tax-relief-will-put-american-economy-high-gear/', 'File_Name': 'tax-cuts-tax-relief-will-put-american-economy-high-gear', 'Date': 'October 27, 2017', 'Title': 'tax cuts tax relief will put american economy high gear', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

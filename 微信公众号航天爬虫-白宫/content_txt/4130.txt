@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-putting-coal-country-back-work/', 'File_Name': 'president-trump-putting-coal-country-back-work', 'Date': 'February 16, 2017', 'Title': 'president trump putting coal country back work', 'TYPE': '\nFact Sheets', 'Author': ''}

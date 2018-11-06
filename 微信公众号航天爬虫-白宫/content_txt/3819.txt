@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-gaggle-press-secretary-sean-spicer-en-route-palm-beach-fl/', 'File_Name': 'press-gaggle-press-secretary-sean-spicer-en-route-palm-beach-fl', 'Date': 'April 6, 2017', 'Title': 'press gaggle press secretary sean spicer en route palm beach fl', 'TYPE': '\nPress Briefings', 'Author': ''}

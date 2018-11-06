@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/editorial-boards-praise-president-trumps-air-traffic-control-reform-plan/', 'File_Name': 'editorial-boards-praise-president-trumps-air-traffic-control-reform-plan', 'Date': 'June 6, 2017', 'Title': 'editorial boards praise president trumps air traffic control reform plan', 'TYPE': '\nNews Clips', 'Author': ''}

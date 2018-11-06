@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/interview-vice-president-mike-pence-greta-van-susteren-voice-america/', 'File_Name': 'interview-vice-president-mike-pence-greta-van-susteren-voice-america', 'Date': 'January 3, 2018', 'Title': 'interview vice president mike pence greta van susteren voice america', 'TYPE': '\nStatements & Releases', 'Author': ''}

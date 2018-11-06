@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/photo-presidents-dinner-legislative-leadership-camp-david/', 'File_Name': 'photo-presidents-dinner-legislative-leadership-camp-david', 'Date': 'January 5, 2018', 'Title': 'photo presidents dinner legislative leadership camp david', 'TYPE': '\nStatements & Releases', 'Author': ''}

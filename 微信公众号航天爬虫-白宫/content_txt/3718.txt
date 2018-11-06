@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-australian-prime-minister-turnbull-press-conference/', 'File_Name': 'remarks-vice-president-australian-prime-minister-turnbull-press-conference', 'Date': 'April 22, 2017', 'Title': 'remarks vice president australian prime minister turnbull press conference', 'TYPE': '\nRemarks', 'Author': ''}

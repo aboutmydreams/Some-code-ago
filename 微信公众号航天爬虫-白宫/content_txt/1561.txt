@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-situation-syria-israel/', 'File_Name': 'statement-press-secretary-situation-syria-israel', 'Date': 'February 10, 2018', 'Title': 'statement press secretary situation syria israel', 'TYPE': '\nStatements & Releases', 'Author': ''}

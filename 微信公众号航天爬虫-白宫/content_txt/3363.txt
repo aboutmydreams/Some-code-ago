@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-approves-arkansas-disaster-declaration/', 'File_Name': 'president-donald-j-trump-approves-arkansas-disaster-declaration', 'Date': 'June 15, 2017', 'Title': 'president donald j trump approves arkansas disaster declaration', 'TYPE': '\nStatements & Releases', 'Author': ''}

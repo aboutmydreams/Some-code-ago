@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-conference-president-trump/', 'File_Name': 'press-conference-president-trump', 'Date': 'June 12, 2018', 'Title': 'press conference president trump', 'TYPE': '\nPress Briefings', 'Author': ''}

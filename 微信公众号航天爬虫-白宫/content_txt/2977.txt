@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-president-donald-j-trumps-call-president-moon-jae-south-korea/', 'File_Name': 'readout-president-donald-j-trumps-call-president-moon-jae-south-korea', 'Date': 'August 6, 2017', 'Title': 'readout president donald j trumps call president moon jae south korea', 'TYPE': '\nStatements & Releases', 'Author': ''}

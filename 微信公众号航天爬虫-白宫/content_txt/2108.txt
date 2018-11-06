@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/sen-rand-paul-heres-plan-vote-senate-tax-bill/', 'File_Name': 'sen-rand-paul-heres-plan-vote-senate-tax-bill', 'Date': 'November 27, 2017', 'Title': 'sen rand paul heres plan vote senate tax bill', 'TYPE': '\nNews Clips', 'Author': ''}

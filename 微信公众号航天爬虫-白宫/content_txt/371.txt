@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-approves-massachusetts-disaster-declaration/', 'File_Name': 'president-donald-j-trump-approves-massachusetts-disaster-declaration', 'Date': 'June 25, 2018', 'Title': 'president donald j trump approves massachusetts disaster declaration', 'TYPE': '\nStatements & Releases', 'Author': ''}

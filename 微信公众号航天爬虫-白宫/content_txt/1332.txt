@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/februarys-strong-jobs-report-another-sign-resurgent-economy/', 'File_Name': 'februarys-strong-jobs-report-another-sign-resurgent-economy', 'Date': 'March 9, 2018', 'Title': 'februarys strong jobs report another sign resurgent economy', 'TYPE': '\nNews Clips', 'Author': ''}

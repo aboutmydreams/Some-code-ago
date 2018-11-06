@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-2018-hurricane-briefing-3/', 'File_Name': 'remarks-president-trump-2018-hurricane-briefing-3', 'Date': 'June 6, 2018', 'Title': 'remarks president trump 2018 hurricane briefing 3', 'TYPE': '\nRemarks', 'Author': ''}

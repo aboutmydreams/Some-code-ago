@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/joint-communique-brazil-u-s-space-cooperation/', 'File_Name': 'joint-communique-brazil-u-s-space-cooperation', 'Date': 'June 26, 2018', 'Title': 'joint communique brazil u s space cooperation', 'TYPE': '\nStatements & Releases', 'Author': ''}

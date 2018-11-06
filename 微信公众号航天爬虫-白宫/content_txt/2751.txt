@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-presidents-briefing-hurricanes-irma-jose/', 'File_Name': 'readout-presidents-briefing-hurricanes-irma-jose', 'Date': 'September 9, 2017', 'Title': 'readout presidents briefing hurricanes irma jose', 'TYPE': '\nStatements & Releases', 'Author': ''}

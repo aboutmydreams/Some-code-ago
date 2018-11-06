@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-approves-oklahoma-disaster-declaration/', 'File_Name': 'president-trump-approves-oklahoma-disaster-declaration', 'Date': 'February 10, 2017', 'Title': 'president trump approves oklahoma disaster declaration', 'TYPE': '\nStatements & Releases', 'Author': ''}

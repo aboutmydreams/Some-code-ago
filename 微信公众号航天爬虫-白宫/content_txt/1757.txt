@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-fisa-amendments-reauthorization-act-2017/', 'File_Name': 'statement-president-fisa-amendments-reauthorization-act-2017', 'Date': 'January 19, 2018', 'Title': 'statement president fisa amendments reauthorization act 2017', 'TYPE': '\nStatements & Releases', 'Author': ''}

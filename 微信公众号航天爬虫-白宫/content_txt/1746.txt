@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-ltg-h-r-mcmaster-united-states-naval-academy/', 'File_Name': 'remarks-ltg-h-r-mcmaster-united-states-naval-academy', 'Date': 'January 21, 2018', 'Title': 'remarks ltg h r mcmaster united states naval academy', 'TYPE': '\nRemarks', 'Author': ''}

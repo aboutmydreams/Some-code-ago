@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-president-niinisto-republic-finland-working-break/', 'File_Name': 'remarks-president-trump-president-niinisto-republic-finland-working-break', 'Date': 'July 16, 2018', 'Title': 'remarks president trump president niinisto republic finland working break', 'TYPE': '\nRemarks', 'Author': ''}

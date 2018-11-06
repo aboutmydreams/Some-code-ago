@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidential-message-senate-united-states/', 'File_Name': 'presidential-message-senate-united-states', 'Date': 'August 28, 2018', 'Title': 'presidential message senate united states', 'TYPE': '\nStatements & Releases', 'Author': ''}

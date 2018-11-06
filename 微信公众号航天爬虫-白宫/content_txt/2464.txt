@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-visit-prime-minister-alexis-tsipras-greece/', 'File_Name': 'statement-press-secretary-visit-prime-minister-alexis-tsipras-greece', 'Date': 'October 7, 2017', 'Title': 'statement press secretary visit prime minister alexis tsipras greece', 'TYPE': '\nStatements & Releases', 'Author': ''}

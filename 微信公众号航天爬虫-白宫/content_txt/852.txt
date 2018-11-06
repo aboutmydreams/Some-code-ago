@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/art-saves-lives/', 'File_Name': 'art-saves-lives', 'Date': 'no data', 'Title': 'art saves lives', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tKaren Pence\t\t\t\t\t\t\t\n'}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-made-america-roundtable/', 'File_Name': 'remarks-president-trump-made-america-roundtable', 'Date': 'July 19, 2017', 'Title': 'remarks president trump made america roundtable', 'TYPE': '\nRemarks', 'Author': ''}

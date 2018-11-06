@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/white-house-announces-2017-2018-class-white-house-fellows/', 'File_Name': 'white-house-announces-2017-2018-class-white-house-fellows', 'Date': 'September 20, 2017', 'Title': 'white house announces 2017 2018 class white house fellows', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-gaggle-press-secretary-sean-spicer-040417/', 'File_Name': 'press-gaggle-press-secretary-sean-spicer-040417', 'Date': 'April 4, 2017', 'Title': 'press gaggle press secretary sean spicer 040417', 'TYPE': '\nPress Briefings', 'Author': ''}

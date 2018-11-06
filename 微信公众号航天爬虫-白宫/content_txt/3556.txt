@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-national-peace-officers-memorial-service/', 'File_Name': 'remarks-vice-president-national-peace-officers-memorial-service', 'Date': 'May 15, 2017', 'Title': 'remarks vice president national peace officers memorial service', 'TYPE': '\nRemarks', 'Author': ''}

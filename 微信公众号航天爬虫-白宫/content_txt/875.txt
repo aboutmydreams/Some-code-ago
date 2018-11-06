@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-memorandum-secretary-state-secretary-energy/', 'File_Name': 'presidential-memorandum-secretary-state-secretary-energy', 'Date': 'April 30, 2018', 'Title': 'presidential memorandum secretary state secretary energy', 'TYPE': 'no type', 'Author': ''}

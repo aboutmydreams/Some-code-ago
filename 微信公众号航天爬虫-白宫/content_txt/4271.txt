@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-memorandum-regarding-construction-american-pipelines/', 'File_Name': 'presidential-memorandum-regarding-construction-american-pipelines', 'Date': 'January 24, 2017', 'Title': 'presidential memorandum regarding construction american pipelines', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

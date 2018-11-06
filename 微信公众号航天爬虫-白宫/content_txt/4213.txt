@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-memorandum-fiduciary-duty-rule/', 'File_Name': 'presidential-memorandum-fiduciary-duty-rule', 'Date': 'February 3, 2017', 'Title': 'presidential memorandum fiduciary duty rule', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

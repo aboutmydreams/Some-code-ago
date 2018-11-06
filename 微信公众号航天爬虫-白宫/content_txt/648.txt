@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/trump-administration-stands-behind-ag-producers/', 'File_Name': 'trump-administration-stands-behind-ag-producers', 'Date': 'no data', 'Title': 'trump administration stands behind ag producers', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tSonny Perdue\t\t\t\t\t\t\t\n'}

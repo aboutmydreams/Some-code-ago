@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-regarding-russia-indictments/', 'File_Name': 'statement-press-secretary-regarding-russia-indictments', 'Date': 'February 16, 2018', 'Title': 'statement press secretary regarding russia indictments', 'TYPE': '\nStatements & Releases', 'Author': ''}

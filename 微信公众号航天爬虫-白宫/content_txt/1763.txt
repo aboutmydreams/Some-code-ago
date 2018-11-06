@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/one-nomination-sent-senate-today-4/', 'File_Name': 'one-nomination-sent-senate-today-4', 'Date': 'January 19, 2018', 'Title': 'one nomination sent senate today 4', 'TYPE': '\nNominations & Appointments', 'Author': ''}

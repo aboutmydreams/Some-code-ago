@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-briefing-press-secretary-sarah-sanders-061418/', 'File_Name': 'press-briefing-press-secretary-sarah-sanders-061418', 'Date': 'June 14, 2018', 'Title': 'press briefing press secretary sarah sanders 061418', 'TYPE': '\nPress Briefings', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-kate-steinle-case/', 'File_Name': 'statement-press-secretary-kate-steinle-case', 'Date': 'December 1, 2017', 'Title': 'statement press secretary kate steinle case', 'TYPE': '\nStatements & Releases', 'Author': ''}

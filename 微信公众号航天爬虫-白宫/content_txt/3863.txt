@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/gorsuch-process-unprecedented-access-transparency/', 'File_Name': 'gorsuch-process-unprecedented-access-transparency', 'Date': 'March 31, 2017', 'Title': 'gorsuch process unprecedented access transparency', 'TYPE': '\nFact Sheets', 'Author': ''}

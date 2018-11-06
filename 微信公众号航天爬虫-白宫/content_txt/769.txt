@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/cea-report-military-spouses-labor-market/', 'File_Name': 'cea-report-military-spouses-labor-market', 'Date': 'May 9, 2018', 'Title': 'cea report military spouses labor market', 'TYPE': '\nStatements & Releases', 'Author': ''}

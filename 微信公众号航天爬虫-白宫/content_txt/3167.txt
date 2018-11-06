@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/vice-president-mike-pence-visit-lexington-kentucky/', 'File_Name': 'vice-president-mike-pence-visit-lexington-kentucky', 'Date': 'July 11, 2017', 'Title': 'vice president mike pence visit lexington kentucky', 'TYPE': '\nStatements & Releases', 'Author': ''}

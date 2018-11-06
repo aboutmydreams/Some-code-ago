@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/small-businesses-starting-expanding-amid-trump-tax-cuts/', 'File_Name': 'small-businesses-starting-expanding-amid-trump-tax-cuts', 'Date': 'no data', 'Title': 'small businesses starting expanding amid trump tax cuts', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tLinda E. McMahon\t\t\t\t\t\t\t\n'}

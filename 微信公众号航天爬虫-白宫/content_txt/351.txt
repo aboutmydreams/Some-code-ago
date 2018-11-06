@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-travel-restrictions-defend-country/', 'File_Name': 'president-donald-j-trumps-travel-restrictions-defend-country', 'Date': 'June 27, 2018', 'Title': 'president donald j trumps travel restrictions defend country', 'TYPE': '\nFact Sheets', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meeting-immigration-crime-victims/', 'File_Name': 'remarks-president-trump-meeting-immigration-crime-victims', 'Date': 'June 28, 2017', 'Title': 'remarks president trump meeting immigration crime victims', 'TYPE': '\nRemarks', 'Author': ''}

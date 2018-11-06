@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-h-r-1625-law/', 'File_Name': 'president-donald-j-trump-signs-h-r-1625-law', 'Date': 'March 23, 2018', 'Title': 'president donald j trump signs h r 1625 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

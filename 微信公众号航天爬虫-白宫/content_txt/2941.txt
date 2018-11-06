@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/mattis-tillerson-holding-pyongyang-account/', 'File_Name': 'mattis-tillerson-holding-pyongyang-account', 'Date': 'August 14, 2017', 'Title': 'mattis tillerson holding pyongyang account', 'TYPE': '\nNews Clips', 'Author': ''}

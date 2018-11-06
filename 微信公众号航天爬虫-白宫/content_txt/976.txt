@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-working-lunch-prime-minister-abe-japan/', 'File_Name': 'remarks-president-trump-working-lunch-prime-minister-abe-japan', 'Date': 'April 18, 2018', 'Title': 'remarks president trump working lunch prime minister abe japan', 'TYPE': '\nRemarks', 'Author': ''}

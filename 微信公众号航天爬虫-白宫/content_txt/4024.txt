@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-presidents-call-israeli-prime-minister-netanyahu/', 'File_Name': 'readout-presidents-call-israeli-prime-minister-netanyahu', 'Date': 'March 6, 2017', 'Title': 'readout presidents call israeli prime minister netanyahu', 'TYPE': '\nStatements & Releases', 'Author': ''}

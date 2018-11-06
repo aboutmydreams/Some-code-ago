@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/strengthening-bond-united-states-israel/', 'File_Name': 'strengthening-bond-united-states-israel', 'Date': 'no data', 'Title': 'strengthening bond united states israel', 'TYPE': 'no type', 'Author': ''}

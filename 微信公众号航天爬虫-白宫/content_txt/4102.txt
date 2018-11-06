@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-nato-secretary-general-stoltenberg-jpa/', 'File_Name': 'remarks-vice-president-nato-secretary-general-stoltenberg-jpa', 'Date': 'February 20, 2017', 'Title': 'remarks vice president nato secretary general stoltenberg jpa', 'TYPE': '\nRemarks', 'Author': ''}

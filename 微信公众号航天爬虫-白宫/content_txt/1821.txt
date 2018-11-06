@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-afwerx-vegas/', 'File_Name': 'remarks-vice-president-afwerx-vegas', 'Date': 'January 11, 2018', 'Title': 'remarks vice president afwerx vegas', 'TYPE': '\nRemarks', 'Author': ''}

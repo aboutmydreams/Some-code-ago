@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-national-governors-association-luncheon/', 'File_Name': 'remarks-vice-president-pence-national-governors-association-luncheon', 'Date': 'February 23, 2018', 'Title': 'remarks vice president pence national governors association luncheon', 'TYPE': '\nRemarks', 'Author': ''}

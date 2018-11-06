@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/second-lady-provides-art-supply-kits-childrens-hospitals/', 'File_Name': 'second-lady-provides-art-supply-kits-childrens-hospitals', 'Date': 'no data', 'Title': 'second lady provides art supply kits childrens hospitals', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tKaren Pence\t\t\t\t\t\t\t\n'}

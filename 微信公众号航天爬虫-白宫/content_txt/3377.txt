@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/h-r-2581-verify-first-act/', 'File_Name': 'h-r-2581-verify-first-act', 'Date': 'June 13, 2017', 'Title': 'h r 2581 verify first act', 'TYPE': '\nStatements & Releases', 'Author': ''}

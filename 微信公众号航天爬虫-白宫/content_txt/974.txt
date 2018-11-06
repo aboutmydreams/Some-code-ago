@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/sweeping-legacy-first-lady-barbara-bush/', 'File_Name': 'sweeping-legacy-first-lady-barbara-bush', 'Date': 'no data', 'Title': 'sweeping legacy first lady barbara bush', 'TYPE': 'no type', 'Author': ''}

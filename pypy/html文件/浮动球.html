@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>牛顿摆</title>
+	<style type="text/css">
+		body{
+			margin: 0;
+			padding: 0;
+			background: #000;
+		}
+		.bubbule{
+			width: 500px;
+			height: 500px;
+			background: #000;
+			margin: 0 auto;
+			display: flex;
+			justify-content: space-around;
+			align-items: center;
+
+		}
+		.circle{
+			display: flex;
+			justify-content: space-around;
+			align-items: center;
+			width: 96px;
+			height: 96px;
+			background: #fff;
+			color: #fff;
+			border-radius:50%;
+			box-shadow: 0;
+
+
+		}
+		.circle:nth-child(2){
+			box-shadow: 400px 0 0 #fff;
+			animation: donghua 1.4s infinite alternate linear;
+
+		}
+		@keyframes donghua{
+			from{
+				box-shadow: 400px 0 0 white;
+				filter: blur(15px) contrast(30)
+			}
+			to{
+				box-shadow: -400px 0 0 white;
+				filter: blur(15px) contrast(30);
+
+			}
+			cubic-bezier: (.99,.15,.99,.15)
+
+		}
+	</style>
+</head>
+<body>
+	<div class="bubbule">
+		<div class="circle"></div>
+		<div class="circle"></div>
+		<div class="circle"></div>
+	</div>
+
+</body>
+</html>

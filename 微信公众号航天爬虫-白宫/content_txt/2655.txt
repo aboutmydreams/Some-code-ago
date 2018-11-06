@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-addresses-72nd-united-nations-general-assembly/', 'File_Name': 'president-trump-addresses-72nd-united-nations-general-assembly', 'Date': 'no data', 'Title': 'president trump addresses 72nd united nations general assembly', 'TYPE': 'no type', 'Author': ''}

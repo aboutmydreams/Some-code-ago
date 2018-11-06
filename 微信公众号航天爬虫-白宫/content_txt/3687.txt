@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-signing-executive-order-federalism-education/', 'File_Name': 'remarks-president-trump-signing-executive-order-federalism-education', 'Date': 'April 26, 2017', 'Title': 'remarks president trump signing executive order federalism education', 'TYPE': '\nRemarks', 'Author': ''}

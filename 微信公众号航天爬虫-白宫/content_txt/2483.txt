@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-proclaims-october-9-2017-columbus-day/', 'File_Name': 'president-donald-j-trump-proclaims-october-9-2017-columbus-day', 'Date': 'October 6, 2017', 'Title': 'president donald j trump proclaims october 9 2017 columbus day', 'TYPE': '\nProclamations', 'Author': ''}

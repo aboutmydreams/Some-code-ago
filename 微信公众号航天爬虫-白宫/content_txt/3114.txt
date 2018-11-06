@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-retail-advocates-summit/', 'File_Name': 'remarks-vice-president-retail-advocates-summit', 'Date': 'July 18, 2017', 'Title': 'remarks vice president retail advocates summit', 'TYPE': '\nRemarks', 'Author': ''}

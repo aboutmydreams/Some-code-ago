@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-executive-order-reviving-national-space-council/', 'File_Name': 'presidential-executive-order-reviving-national-space-council', 'Date': 'June 30, 2017', 'Title': 'presidential executive order reviving national space council', 'TYPE': '\nExecutive Orders', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-customs-border-protection-roundtable/', 'File_Name': 'remarks-president-trump-customs-border-protection-roundtable', 'Date': 'February 2, 2018', 'Title': 'remarks president trump customs border protection roundtable', 'TYPE': '\nRemarks', 'Author': ''}

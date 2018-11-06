@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/help-way-americans-facing-high-drug-prices/', 'File_Name': 'help-way-americans-facing-high-drug-prices', 'Date': 'no data', 'Title': 'help way americans facing high drug prices', 'TYPE': 'no type', 'Author': '\nAlex M. Azar II, Scott Gottlieb, and Seema Verma\t\t\t'}

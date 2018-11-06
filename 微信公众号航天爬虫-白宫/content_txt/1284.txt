@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-passage-s-2155/', 'File_Name': 'statement-press-secretary-passage-s-2155', 'Date': 'March 14, 2018', 'Title': 'statement press secretary passage s 2155', 'TYPE': '\nStatements & Releases', 'Author': ''}

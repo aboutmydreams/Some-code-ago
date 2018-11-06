@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-weekly-address-28/', 'File_Name': 'president-donald-j-trumps-weekly-address-28', 'Date': 'March 10, 2018', 'Title': 'president donald j trumps weekly address 28', 'TYPE': '\nStatements & Releases', 'Author': ''}

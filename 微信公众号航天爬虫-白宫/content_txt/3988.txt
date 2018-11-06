@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/trump-budget-expected-seek-historic-contraction-federal-workforce/', 'File_Name': 'trump-budget-expected-seek-historic-contraction-federal-workforce', 'Date': 'March 14, 2017', 'Title': 'trump budget expected seek historic contraction federal workforce', 'TYPE': '\nNews Clips', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-approves-kansas-disaster-declaration-2/', 'File_Name': 'president-donald-j-trump-approves-kansas-disaster-declaration-2', 'Date': 'November 7, 2017', 'Title': 'president donald j trump approves kansas disaster declaration 2', 'TYPE': '\nStatements & Releases', 'Author': ''}

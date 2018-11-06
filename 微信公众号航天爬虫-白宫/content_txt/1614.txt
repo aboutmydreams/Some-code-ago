@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/democrats-lost-way-immigration/', 'File_Name': 'democrats-lost-way-immigration', 'Date': 'no data', 'Title': 'democrats lost way immigration', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

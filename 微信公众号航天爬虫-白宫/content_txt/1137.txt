@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-heads-baltic-states-joint-press-conference/', 'File_Name': 'remarks-president-trump-heads-baltic-states-joint-press-conference', 'Date': 'April 3, 2018', 'Title': 'remarks president trump heads baltic states joint press conference', 'TYPE': '\nRemarks', 'Author': ''}

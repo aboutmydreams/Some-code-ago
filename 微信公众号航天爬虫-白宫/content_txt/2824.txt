@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-tax-reform-springfield-mo/', 'File_Name': 'remarks-president-trump-tax-reform-springfield-mo', 'Date': 'August 30, 2017', 'Title': 'remarks president trump tax reform springfield mo', 'TYPE': '\nRemarks', 'Author': ''}

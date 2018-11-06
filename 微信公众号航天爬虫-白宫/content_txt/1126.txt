@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/trump-infrastructure-plan-provides-skilled-jobs/', 'File_Name': 'trump-infrastructure-plan-provides-skilled-jobs', 'Date': 'no data', 'Title': 'trump infrastructure plan provides skilled jobs', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tR. Alexander Acosta\t\t\t\t\t\t\t\n'}

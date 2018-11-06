@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/wages-tax-reform-going-americas-workers/', 'File_Name': 'wages-tax-reform-going-americas-workers', 'Date': 'no data', 'Title': 'wages tax reform going americas workers', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tKevin Hassett\t\t\t\t\t'}

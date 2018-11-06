@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/memorandum-national-commission-military-national-public-service/', 'File_Name': 'memorandum-national-commission-military-national-public-service', 'Date': 'April 3, 2017', 'Title': 'memorandum national commission military national public service', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

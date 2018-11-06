@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/promoting-human-rights-essential-america-first-vision-2/', 'File_Name': 'promoting-human-rights-essential-america-first-vision-2', 'Date': 'no data', 'Title': 'promoting human rights essential america first vision 2', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

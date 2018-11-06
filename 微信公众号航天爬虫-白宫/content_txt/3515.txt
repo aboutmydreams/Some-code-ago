@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-arrives-israel/', 'File_Name': 'president-trump-arrives-israel', 'Date': 'no data', 'Title': 'president trump arrives israel', 'TYPE': 'no type', 'Author': ''}

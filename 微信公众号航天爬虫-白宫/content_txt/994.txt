@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/saying-goodbye-outdated-tax-code/', 'File_Name': 'saying-goodbye-outdated-tax-code', 'Date': 'April 17, 2018', 'Title': 'saying goodbye outdated tax code', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-upon-air-force-one-arrival/', 'File_Name': 'remarks-president-trump-upon-air-force-one-arrival', 'Date': 'August 22, 2018', 'Title': 'remarks president trump upon air force one arrival', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/trump-administration-supports-response-ebola-outbreak-congo/', 'File_Name': 'trump-administration-supports-response-ebola-outbreak-congo', 'Date': 'no data', 'Title': 'trump administration supports response ebola outbreak congo', 'TYPE': 'no type', 'Author': '\n\t\t\t\tAndrea Hall and Dr. Luciana Borio\t\t\t'}

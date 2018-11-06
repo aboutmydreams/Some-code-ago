@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/sec-purdue-rural-broadband-duty-farmers/', 'File_Name': 'sec-purdue-rural-broadband-duty-farmers', 'Date': 'January 9, 2018', 'Title': 'sec purdue rural broadband duty farmers', 'TYPE': '\nNews Clips', 'Author': ''}

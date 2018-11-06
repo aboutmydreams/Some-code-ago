@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-organization-american-states-reception/', 'File_Name': 'remarks-vice-president-pence-organization-american-states-reception', 'Date': 'June 4, 2018', 'Title': 'remarks vice president pence organization american states reception', 'TYPE': '\nRemarks', 'Author': ''}

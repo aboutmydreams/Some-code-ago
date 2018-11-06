@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/science-technology-in-the-first-year-of-the-trump-administration/', 'File_Name': 'science-technology-in-the-first-year-of-the-trump-administration', 'Date': 'no data', 'Title': 'science technology in the first year of the trump administration', 'TYPE': 'no type', 'Author': ''}

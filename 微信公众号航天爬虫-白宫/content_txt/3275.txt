@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/white-house-statement-cbo-healthcare-report/', 'File_Name': 'white-house-statement-cbo-healthcare-report', 'Date': 'June 26, 2017', 'Title': 'white house statement cbo healthcare report', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/executive-order-enhancing-public-safety-interior-united-states/', 'File_Name': 'executive-order-enhancing-public-safety-interior-united-states', 'Date': 'January 25, 2017', 'Title': 'executive order enhancing public safety interior united states', 'TYPE': '\nExecutive Orders', 'Author': ''}

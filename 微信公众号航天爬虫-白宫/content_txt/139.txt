@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/cnbc-worker-pay-rate-hits-highest-level-since-2008/', 'File_Name': 'cnbc-worker-pay-rate-hits-highest-level-since-2008', 'Date': 'July 31, 2018', 'Title': 'cnbc worker pay rate hits highest level since 2008', 'TYPE': '\nNews Clips', 'Author': ''}

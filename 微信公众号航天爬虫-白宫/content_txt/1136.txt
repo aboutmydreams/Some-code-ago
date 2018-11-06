@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-ltg-h-r-mcmaster-atlantic-council-baltic-summit-dinner/', 'File_Name': 'remarks-ltg-h-r-mcmaster-atlantic-council-baltic-summit-dinner', 'Date': 'April 3, 2018', 'Title': 'remarks ltg h r mcmaster atlantic council baltic summit dinner', 'TYPE': '\nRemarks', 'Author': ''}

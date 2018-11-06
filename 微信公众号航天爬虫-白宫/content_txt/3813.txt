@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-proclaims-april-7-2017-education-sharing-day-u-s/', 'File_Name': 'president-donald-j-trump-proclaims-april-7-2017-education-sharing-day-u-s', 'Date': 'April 6, 2017', 'Title': 'president donald j trump proclaims april 7 2017 education sharing day u s', 'TYPE': '\nProclamations', 'Author': ''}

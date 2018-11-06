@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<meta content="yes" name="apple-mobile-web-app-capable">
+<meta content="yes" name="apple-touch-fullscreen">
+<meta content="telephone=no,email=no" name="format-detection">
+<script type="text/javascript" src="../static/flexible_css.debug.js"></script>
+<script type="text/javascript" src="../static/flexible.debug.js"></script>
+<link rel="stylesheet" type="text/css" href="../static/loginpage_css.css">
+<body>
+<div class="container">
+  <div class="logo">
+    <img class="logo_pic" src="../img/logo.png">
+  </div>
+  <div class="login_union">
+    <div class="username_input">
+      <div>
+        <span class="username_font font">学号</span>
+        <input  type="username" class="username">
+      </div>
+      <hr class="username_hr" size="1" width="130%" color="#dddcdc">
+    </div>
+    <div class="password_input">
+      <div>
+        <span class="password_font font">密码</span>
+        <input class="password" type="password">
+      </div>
+      <hr class="password_hr" size="1" width="130%" color="#dddcdc">
+    </div>
+    <div class="login_button">
+      <span class="button_font">登录</span>
+    </div>
+      <span class="lose_password_font">忘记密码</span>
+      <a>注册</a>
+    <div class="hidden_area">
+      <span class="fontn">请输入验证码</span>
+      <input class="check_yanzheng">
+      <hr class="hrn move1" size="2" color="#76d1b2" width="60%">
+      <img class="move2" src="../api/getyanzheng">
+      <div class="determine_button">
+        <span class="fontn1">确定</span>
+      </div>
+    </div>
+
+    <div class="hidden_area">
+      <span class="fontn3">密码错误</span>
+      <span class="fontn2">忘记密码请至云家园找回密码哦</span>
+    </div>
+  </div>
+</div>
+<img class="bottom_pic" src="../img/bottom_pic.png">
+<script type="text/javascript" src="../static/loginpage_js.js"></script>
+</body>
+</html>

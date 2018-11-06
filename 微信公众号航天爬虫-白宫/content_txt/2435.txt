@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-international-day-girl/', 'File_Name': 'statement-president-donald-j-trump-international-day-girl', 'Date': 'October 11, 2017', 'Title': 'statement president donald j trump international day girl', 'TYPE': '\nStatements & Releases', 'Author': ''}

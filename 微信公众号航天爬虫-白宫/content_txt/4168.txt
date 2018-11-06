@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/joint-statement-president-donald-j-trump-prime-minister-shinzo-abe/', 'File_Name': 'joint-statement-president-donald-j-trump-prime-minister-shinzo-abe', 'Date': 'February 10, 2017', 'Title': 'joint statement president donald j trump prime minister shinzo abe', 'TYPE': '\nStatements & Releases', 'Author': ''}

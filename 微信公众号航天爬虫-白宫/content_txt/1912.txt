@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-visit-prime-minister-erna-solberg-norway/', 'File_Name': 'statement-press-secretary-visit-prime-minister-erna-solberg-norway', 'Date': 'December 27, 2017', 'Title': 'statement press secretary visit prime minister erna solberg norway', 'TYPE': '\nStatements & Releases', 'Author': ''}

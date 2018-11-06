@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/cea-report-expanding-work-requirements-non-cash-welfare-programs/', 'File_Name': 'cea-report-expanding-work-requirements-non-cash-welfare-programs', 'Date': 'July 12, 2018', 'Title': 'cea report expanding work requirements non cash welfare programs', 'TYPE': '\nStatements & Releases', 'Author': ''}

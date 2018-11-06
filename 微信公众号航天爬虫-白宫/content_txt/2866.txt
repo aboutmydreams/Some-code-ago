@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-proclaims-august-26-2017-womens-equality-day/', 'File_Name': 'president-donald-j-trump-proclaims-august-26-2017-womens-equality-day', 'Date': 'August 25, 2017', 'Title': 'president donald j trump proclaims august 26 2017 womens equality day', 'TYPE': '\nProclamations', 'Author': ''}

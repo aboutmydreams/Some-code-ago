@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/six-nominations-one-withdrawal-sent-senate-today/', 'File_Name': 'six-nominations-one-withdrawal-sent-senate-today', 'Date': 'September 14, 2017', 'Title': 'six nominations one withdrawal sent senate today', 'TYPE': '\nNominations & Appointments', 'Author': ''}

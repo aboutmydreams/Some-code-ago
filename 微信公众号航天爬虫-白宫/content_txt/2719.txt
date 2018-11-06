@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-president-donald-j-trumps-bipartisan-dinner-senators/', 'File_Name': 'readout-president-donald-j-trumps-bipartisan-dinner-senators', 'Date': 'September 13, 2017', 'Title': 'readout president donald j trumps bipartisan dinner senators', 'TYPE': '\nStatements & Releases', 'Author': ''}

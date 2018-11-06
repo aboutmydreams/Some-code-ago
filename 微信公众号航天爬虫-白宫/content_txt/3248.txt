@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/intern-series-south-carolina-south-lawn/', 'File_Name': 'intern-series-south-carolina-south-lawn', 'Date': 'no data', 'Title': 'intern series south carolina south lawn', 'TYPE': 'no type', 'Author': ''}

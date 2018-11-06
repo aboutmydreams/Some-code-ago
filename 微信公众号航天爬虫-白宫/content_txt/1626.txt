@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meeting-north-korean-defectors/', 'File_Name': 'remarks-president-trump-meeting-north-korean-defectors', 'Date': 'February 2, 2018', 'Title': 'remarks president trump meeting north korean defectors', 'TYPE': '\nRemarks', 'Author': ''}

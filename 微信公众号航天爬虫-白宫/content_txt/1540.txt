@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/eight-nominations-sent-senate-today/', 'File_Name': 'eight-nominations-sent-senate-today', 'Date': 'February 13, 2018', 'Title': 'eight nominations sent senate today', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-canadian-ambassador-craft-swearing-ceremony/', 'File_Name': 'remarks-vice-president-canadian-ambassador-craft-swearing-ceremony', 'Date': 'September 26, 2017', 'Title': 'remarks vice president canadian ambassador craft swearing ceremony', 'TYPE': '\nRemarks', 'Author': ''}

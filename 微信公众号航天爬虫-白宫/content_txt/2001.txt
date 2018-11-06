@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wall-street-journal-economy-revs/', 'File_Name': 'wall-street-journal-economy-revs', 'Date': 'December 11, 2017', 'Title': 'wall street journal economy revs', 'TYPE': '\nNews Clips', 'Author': ''}

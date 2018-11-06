@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-buy-american-hire-american-executive-order/', 'File_Name': 'remarks-president-trump-buy-american-hire-american-executive-order', 'Date': 'April 18, 2017', 'Title': 'remarks president trump buy american hire american executive order', 'TYPE': '\nRemarks', 'Author': ''}

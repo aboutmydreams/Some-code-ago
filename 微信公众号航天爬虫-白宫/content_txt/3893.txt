@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-first-lady-host-bi-partisan-reception-senators-white-house/', 'File_Name': 'president-first-lady-host-bi-partisan-reception-senators-white-house', 'Date': 'March 28, 2017', 'Title': 'president first lady host bi partisan reception senators white house', 'TYPE': '\nStatements & Releases', 'Author': ''}

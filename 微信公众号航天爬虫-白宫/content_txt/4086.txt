@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-approves-kansas-disaster-declaration/', 'File_Name': 'president-trump-approves-kansas-disaster-declaration', 'Date': 'February 24, 2017', 'Title': 'president trump approves kansas disaster declaration', 'TYPE': '\nStatements & Releases', 'Author': ''}

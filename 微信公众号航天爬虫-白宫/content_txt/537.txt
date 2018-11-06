@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-memorandum-secretary-state-11/', 'File_Name': 'presidential-memorandum-secretary-state-11', 'Date': 'June 4, 2018', 'Title': 'presidential memorandum secretary state 11', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

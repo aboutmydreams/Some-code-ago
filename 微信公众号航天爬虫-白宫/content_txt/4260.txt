@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-memorandum-rebuilding-u-s-armed-forces/', 'File_Name': 'presidential-memorandum-rebuilding-u-s-armed-forces', 'Date': 'January 27, 2017', 'Title': 'presidential memorandum rebuilding u s armed forces', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

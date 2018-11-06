@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-puts-americans-first-tax-relief/', 'File_Name': 'president-donald-j-trump-puts-americans-first-tax-relief', 'Date': 'September 27, 2017', 'Title': 'president donald j trump puts americans first tax relief', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

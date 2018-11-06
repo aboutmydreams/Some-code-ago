@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-introducing-president-trumps-statement-paris-accord/', 'File_Name': 'remarks-vice-president-introducing-president-trumps-statement-paris-accord', 'Date': 'June 1, 2017', 'Title': 'remarks vice president introducing president trumps statement paris accord', 'TYPE': '\nRemarks', 'Author': ''}

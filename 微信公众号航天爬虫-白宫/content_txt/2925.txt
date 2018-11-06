@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/intern-series-white-house-becomes-peoples-house/', 'File_Name': 'intern-series-white-house-becomes-peoples-house', 'Date': 'no data', 'Title': 'intern series white house becomes peoples house', 'TYPE': 'no type', 'Author': ''}

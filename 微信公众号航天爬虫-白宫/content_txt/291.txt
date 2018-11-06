@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/executive-order-excepting-administrative-law-judges-competitive-service/', 'File_Name': 'executive-order-excepting-administrative-law-judges-competitive-service', 'Date': 'July 10, 2018', 'Title': 'executive order excepting administrative law judges competitive service', 'TYPE': '\nExecutive Orders', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-approves-section-232-tariff-modifications/', 'File_Name': 'president-donald-j-trump-approves-section-232-tariff-modifications', 'Date': 'April 30, 2018', 'Title': 'president donald j trump approves section 232 tariff modifications', 'TYPE': '\nStatements & Releases', 'Author': ''}

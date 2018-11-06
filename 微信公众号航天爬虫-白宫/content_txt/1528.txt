@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meeting-bipartisan-members-congress-infrastructure/', 'File_Name': 'remarks-president-trump-meeting-bipartisan-members-congress-infrastructure', 'Date': 'February 14, 2018', 'Title': 'remarks president trump meeting bipartisan members congress infrastructure', 'TYPE': '\nRemarks', 'Author': ''}

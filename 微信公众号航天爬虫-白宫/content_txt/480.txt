@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-approves-new-hampshire-disaster-declaration-5/', 'File_Name': 'president-donald-j-trump-approves-new-hampshire-disaster-declaration-5', 'Date': 'June 8, 2018', 'Title': 'president donald j trump approves new hampshire disaster declaration 5', 'TYPE': '\nStatements & Releases', 'Author': ''}

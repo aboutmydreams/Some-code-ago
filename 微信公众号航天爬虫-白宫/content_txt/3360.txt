@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-gaggle-principal-deputy-press-secretary-sarah-sanders-061517/', 'File_Name': 'press-gaggle-principal-deputy-press-secretary-sarah-sanders-061517', 'Date': 'June 15, 2017', 'Title': 'press gaggle principal deputy press secretary sarah sanders 061517', 'TYPE': '\nPress Briefings', 'Author': ''}

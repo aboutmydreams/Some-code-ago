@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-meeting-president-reuven-rivlin-israel/', 'File_Name': 'readout-vice-presidents-meeting-president-reuven-rivlin-israel', 'Date': 'January 23, 2018', 'Title': 'readout vice presidents meeting president reuven rivlin israel', 'TYPE': '\nStatements & Releases', 'Author': ''}

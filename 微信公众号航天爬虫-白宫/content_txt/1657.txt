@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wtas-support-president-donald-j-trumps-state-union-address/', 'File_Name': 'wtas-support-president-donald-j-trumps-state-union-address', 'Date': 'January 31, 2018', 'Title': 'wtas support president donald j trumps state union address', 'TYPE': '\nStatements & Releases', 'Author': ''}

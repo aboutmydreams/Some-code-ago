@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-second-lady-karen-pences-visit-mercyfirst-new-york/', 'File_Name': 'readout-second-lady-karen-pences-visit-mercyfirst-new-york', 'Date': 'September 19, 2017', 'Title': 'readout second lady karen pences visit mercyfirst new york', 'TYPE': '\nStatements & Releases', 'Author': ''}

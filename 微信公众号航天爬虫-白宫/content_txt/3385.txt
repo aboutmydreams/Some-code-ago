@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/continuation-national-emergency-declared-executive-order-13405/', 'File_Name': 'continuation-national-emergency-declared-executive-order-13405', 'Date': 'June 13, 2017', 'Title': 'continuation national emergency declared executive order 13405', 'TYPE': '\nExecutive Orders', 'Author': ''}

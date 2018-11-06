@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wsj-editorial-death-obamas-slush-funds/', 'File_Name': 'wsj-editorial-death-obamas-slush-funds', 'Date': 'June 8, 2017', 'Title': 'wsj editorial death obamas slush funds', 'TYPE': '\nNews Clips', 'Author': ''}

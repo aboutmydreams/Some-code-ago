@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/list-foreign-ambassadors-participated-credentialing-ceremony/', 'File_Name': 'list-foreign-ambassadors-participated-credentialing-ceremony', 'Date': 'April 25, 2017', 'Title': 'list foreign ambassadors participated credentialing ceremony', 'TYPE': '\nStatements & Releases', 'Author': ''}

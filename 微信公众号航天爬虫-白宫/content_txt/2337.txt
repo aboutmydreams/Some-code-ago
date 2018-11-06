@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/vice-president-mike-pence-colorado-needs-tax-cut-trumps-plan-will-deliver/', 'File_Name': 'vice-president-mike-pence-colorado-needs-tax-cut-trumps-plan-will-deliver', 'Date': 'October 26, 2017', 'Title': 'vice president mike pence colorado needs tax cut trumps plan will deliver', 'TYPE': '\nNews Clips', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-mike-pence-briefing-california-wildfires/', 'File_Name': 'remarks-vice-president-mike-pence-briefing-california-wildfires', 'Date': 'October 10, 2017', 'Title': 'remarks vice president mike pence briefing california wildfires', 'TYPE': '\nRemarks', 'Author': ''}

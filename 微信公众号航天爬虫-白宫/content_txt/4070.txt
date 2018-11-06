@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meeting-national-governors-association/', 'File_Name': 'remarks-president-trump-meeting-national-governors-association', 'Date': 'February 27, 2017', 'Title': 'remarks president trump meeting national governors association', 'TYPE': '\nRemarks', 'Author': ''}

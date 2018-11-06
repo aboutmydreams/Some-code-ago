@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/american-workers-businesses-continue-see-gains-trump-economy/', 'File_Name': 'american-workers-businesses-continue-see-gains-trump-economy', 'Date': 'June 1, 2018', 'Title': 'american workers businesses continue see gains trump economy', 'TYPE': '\nNews Clips', 'Author': ''}

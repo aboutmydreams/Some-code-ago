@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-lunch-members-congress/', 'File_Name': 'remarks-president-trump-lunch-members-congress', 'Date': 'June 26, 2018', 'Title': 'remarks president trump lunch members congress', 'TYPE': '\nRemarks', 'Author': ''}

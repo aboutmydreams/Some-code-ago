@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/washington-times-market-economy/', 'File_Name': 'washington-times-market-economy', 'Date': 'January 5, 2018', 'Title': 'washington times market economy', 'TYPE': '\nNews Clips', 'Author': ''}

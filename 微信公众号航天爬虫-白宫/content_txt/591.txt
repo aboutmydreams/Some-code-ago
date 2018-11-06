@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-s-35-law/', 'File_Name': 'president-donald-j-trump-signs-s-35-law', 'Date': 'May 25, 2018', 'Title': 'president donald j trump signs s 35 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

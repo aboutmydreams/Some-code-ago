@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/editorial-boards-across-country-call-mike-pompeos-confirmation/', 'File_Name': 'editorial-boards-across-country-call-mike-pompeos-confirmation', 'Date': 'April 23, 2018', 'Title': 'editorial boards across country call mike pompeos confirmation', 'TYPE': '\nStatements & Releases', 'Author': ''}

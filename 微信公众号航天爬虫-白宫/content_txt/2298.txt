@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-briefing-press-secretary-sarah-sanders-110117/', 'File_Name': 'press-briefing-press-secretary-sarah-sanders-110117', 'Date': 'November 1, 2017', 'Title': 'press briefing press secretary sarah sanders 110117', 'TYPE': '\nPress Briefings', 'Author': ''}

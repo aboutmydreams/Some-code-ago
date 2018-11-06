@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-policy-united-states-towards-cuba/', 'File_Name': 'remarks-vice-president-policy-united-states-towards-cuba', 'Date': 'June 16, 2017', 'Title': 'remarks vice president policy united states towards cuba', 'TYPE': '\nRemarks', 'Author': ''}

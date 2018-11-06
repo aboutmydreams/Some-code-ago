@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-joint-comprehensive-plan-action/', 'File_Name': 'remarks-president-trump-joint-comprehensive-plan-action', 'Date': 'May 8, 2018', 'Title': 'remarks president trump joint comprehensive plan action', 'TYPE': '\nRemarks', 'Author': ''}

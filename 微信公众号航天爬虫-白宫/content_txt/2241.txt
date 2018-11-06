@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/joint-press-release-united-states-america-republic-korea/', 'File_Name': 'joint-press-release-united-states-america-republic-korea', 'Date': 'November 8, 2017', 'Title': 'joint press release united states america republic korea', 'TYPE': '\nStatements & Releases', 'Author': ''}

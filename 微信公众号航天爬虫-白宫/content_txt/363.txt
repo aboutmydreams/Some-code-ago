@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/fox-business-american-money-flowing-back-america/', 'File_Name': 'fox-business-american-money-flowing-back-america', 'Date': 'June 26, 2018', 'Title': 'fox business american money flowing back america', 'TYPE': '\nNews Clips', 'Author': ''}

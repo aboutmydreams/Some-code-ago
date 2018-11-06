@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-37th-annual-national-peace-officers-memorial/', 'File_Name': 'remarks-vice-president-pence-37th-annual-national-peace-officers-memorial', 'Date': 'May 15, 2018', 'Title': 'remarks vice president pence 37th annual national peace officers memorial', 'TYPE': '\nRemarks', 'Author': ''}

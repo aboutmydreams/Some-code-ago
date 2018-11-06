@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/vp-pence-trumps-triumphs-many-six-months-hes-just-getting-started/', 'File_Name': 'vp-pence-trumps-triumphs-many-six-months-hes-just-getting-started', 'Date': 'July 23, 2017', 'Title': 'vp pence trumps triumphs many six months hes just getting started', 'TYPE': '\nNews Clips', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/message-president-donald-j-trump-congressional-baseball-game/', 'File_Name': 'message-president-donald-j-trump-congressional-baseball-game', 'Date': 'June 15, 2017', 'Title': 'message president donald j trump congressional baseball game', 'TYPE': '\nRemarks', 'Author': ''}

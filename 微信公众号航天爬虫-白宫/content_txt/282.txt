@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-chancellor-merkel-germany-pull-aside-meeting/', 'File_Name': 'remarks-president-trump-chancellor-merkel-germany-pull-aside-meeting', 'Date': 'July 11, 2018', 'Title': 'remarks president trump chancellor merkel germany pull aside meeting', 'TYPE': '\nRemarks', 'Author': ''}

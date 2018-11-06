@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/vice-president-mike-pence-america-will-return-moon-go-beyond/', 'File_Name': 'vice-president-mike-pence-america-will-return-moon-go-beyond', 'Date': 'October 5, 2017', 'Title': 'vice president mike pence america will return moon go beyond', 'TYPE': '\nNews Clips', 'Author': ''}

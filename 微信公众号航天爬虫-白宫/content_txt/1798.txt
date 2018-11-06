@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/second-lady-karen-pence-announces-new-chief-staff/', 'File_Name': 'second-lady-karen-pence-announces-new-chief-staff', 'Date': 'January 16, 2018', 'Title': 'second lady karen pence announces new chief staff', 'TYPE': '\nStatements & Releases', 'Author': ''}

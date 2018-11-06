@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-ken-isaacs/', 'File_Name': 'statement-press-secretary-ken-isaacs', 'Date': 'May 3, 2018', 'Title': 'statement press secretary ken isaacs', 'TYPE': '\nStatements & Releases', 'Author': ''}

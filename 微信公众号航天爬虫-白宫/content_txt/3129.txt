@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-white-house-staff-appointment/', 'File_Name': 'president-donald-j-trump-announces-white-house-staff-appointment', 'Date': 'July 15, 2017', 'Title': 'president donald j trump announces white house staff appointment', 'TYPE': '\nNominations & Appointments', 'Author': ''}

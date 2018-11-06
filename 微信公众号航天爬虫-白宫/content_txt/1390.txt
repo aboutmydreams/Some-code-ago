@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/2018-amendments-manual-courts-martial-united-states/', 'File_Name': '2018-amendments-manual-courts-martial-united-states', 'Date': 'March 1, 2018', 'Title': '2018 amendments manual courts martial united states', 'TYPE': '\nExecutive Orders', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wtas-support-confirmation-secretary-state-mike-pompeo/', 'File_Name': 'wtas-support-confirmation-secretary-state-mike-pompeo', 'Date': 'April 27, 2018', 'Title': 'wtas support confirmation secretary state mike pompeo', 'TYPE': '\nStatements & Releases', 'Author': ''}

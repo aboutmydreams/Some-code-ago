@@ -1,0 +1,9 @@
+print('请填写你的寝室号')
+qinhao=input('完整寝室号')
+if qinghao[0] in ['y','Y']:
+	a1=int(qinhao[1,2])
+	print(a1)
+else:
+	b1=int(qinhao[0,1])
+	print(b1)
+print('登入')

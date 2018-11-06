@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-united-states-solidarity-philippines/', 'File_Name': 'statement-press-secretary-united-states-solidarity-philippines', 'Date': 'May 25, 2017', 'Title': 'statement press secretary united states solidarity philippines', 'TYPE': '\nStatements & Releases', 'Author': ''}

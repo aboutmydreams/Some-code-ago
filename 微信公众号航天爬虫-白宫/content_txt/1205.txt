@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/white-house-announces-2018-spring-garden-tours/', 'File_Name': 'white-house-announces-2018-spring-garden-tours', 'Date': 'March 26, 2018', 'Title': 'white house announces 2018 spring garden tours', 'TYPE': '\nStatements & Releases', 'Author': ''}

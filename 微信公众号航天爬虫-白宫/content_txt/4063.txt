@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-swearing-ceremony-commerce-secretary-ross/', 'File_Name': 'remarks-vice-president-swearing-ceremony-commerce-secretary-ross', 'Date': 'February 28, 2017', 'Title': 'remarks vice president swearing ceremony commerce secretary ross', 'TYPE': '\nRemarks', 'Author': ''}

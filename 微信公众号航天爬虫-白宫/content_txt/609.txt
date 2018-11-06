@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-regarding-pardon-john-arthur-jack-johnson/', 'File_Name': 'statement-press-secretary-regarding-pardon-john-arthur-jack-johnson', 'Date': 'May 24, 2018', 'Title': 'statement press secretary regarding pardon john arthur jack johnson', 'TYPE': '\nStatements & Releases', 'Author': ''}

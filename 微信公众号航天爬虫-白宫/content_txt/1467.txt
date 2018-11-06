@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/music-therapy-helps-heal-childs-pain/', 'File_Name': 'music-therapy-helps-heal-childs-pain', 'Date': 'no data', 'Title': 'music therapy helps heal childs pain', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tKaren Pence\t\t\t\t\t\t\t\n'}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-hanukkah-celebration/', 'File_Name': 'remarks-president-hanukkah-celebration', 'Date': 'December 7, 2017', 'Title': 'remarks president hanukkah celebration', 'TYPE': '\nRemarks', 'Author': ''}

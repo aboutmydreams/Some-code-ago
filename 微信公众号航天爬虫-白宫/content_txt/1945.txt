@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-donald-trump-vice-president-mike-pence-members-cabinet/', 'File_Name': 'remarks-president-donald-trump-vice-president-mike-pence-members-cabinet', 'Date': 'December 20, 2017', 'Title': 'remarks president donald trump vice president mike pence members cabinet', 'TYPE': '\nRemarks', 'Author': ''}

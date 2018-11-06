@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-call-president-petro-poroshenko-ukraine/', 'File_Name': 'readout-vice-presidents-call-president-petro-poroshenko-ukraine', 'Date': 'March 6, 2018', 'Title': 'readout vice presidents call president petro poroshenko ukraine', 'TYPE': '\nStatements & Releases', 'Author': ''}

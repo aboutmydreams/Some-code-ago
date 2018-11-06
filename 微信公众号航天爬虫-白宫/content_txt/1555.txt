@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-eleventh-wave-judicial-nominees/', 'File_Name': 'president-donald-j-trump-announces-eleventh-wave-judicial-nominees', 'Date': 'February 12, 2018', 'Title': 'president donald j trump announces eleventh wave judicial nominees', 'TYPE': '\nNominations & Appointments', 'Author': ''}

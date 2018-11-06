@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-weekly-address-18/', 'File_Name': 'president-donald-j-trumps-weekly-address-18', 'Date': 'September 29, 2017', 'Title': 'president donald j trumps weekly address 18', 'TYPE': '\nStatements & Releases', 'Author': ''}

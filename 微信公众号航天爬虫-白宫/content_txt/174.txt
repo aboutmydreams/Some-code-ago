@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-tax-cuts-put-america-first-event-13/', 'File_Name': 'remarks-vice-president-pence-tax-cuts-put-america-first-event-13', 'Date': 'July 26, 2018', 'Title': 'remarks vice president pence tax cuts put america first event 13', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-airmen-minot-air-force-base-vice-president-pence/', 'File_Name': 'remarks-airmen-minot-air-force-base-vice-president-pence', 'Date': 'October 27, 2017', 'Title': 'remarks airmen minot air force base vice president pence', 'TYPE': '\nRemarks', 'Author': ''}

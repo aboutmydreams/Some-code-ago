@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-economy/', 'File_Name': 'remarks-president-trump-economy', 'Date': 'July 27, 2018', 'Title': 'remarks president trump economy', 'TYPE': '\nRemarks', 'Author': ''}

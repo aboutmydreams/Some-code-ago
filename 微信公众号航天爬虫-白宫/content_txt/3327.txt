@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/h-r-1551-modifying-advanced-nuclear-power-tax-credit/', 'File_Name': 'h-r-1551-modifying-advanced-nuclear-power-tax-credit', 'Date': 'June 20, 2017', 'Title': 'h r 1551 modifying advanced nuclear power tax credit', 'TYPE': '\nStatements & Releases', 'Author': ''}

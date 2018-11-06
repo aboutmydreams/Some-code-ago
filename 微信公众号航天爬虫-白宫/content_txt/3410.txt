@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-terrorist-attacks-iran/', 'File_Name': 'statement-president-terrorist-attacks-iran', 'Date': 'June 7, 2017', 'Title': 'statement president terrorist attacks iran', 'TYPE': '\nStatements & Releases', 'Author': ''}

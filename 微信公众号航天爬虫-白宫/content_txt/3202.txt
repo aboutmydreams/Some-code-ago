@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-reaffirms-americas-commitment-allies-second-trip-abroad/', 'File_Name': 'president-trump-reaffirms-americas-commitment-allies-second-trip-abroad', 'Date': 'no data', 'Title': 'president trump reaffirms americas commitment allies second trip abroad', 'TYPE': 'no type', 'Author': ''}

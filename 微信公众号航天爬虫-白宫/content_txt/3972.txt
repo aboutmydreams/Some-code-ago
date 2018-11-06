@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/health-secretary-republican-bill/', 'File_Name': 'health-secretary-republican-bill', 'Date': 'March 16, 2017', 'Title': 'health secretary republican bill', 'TYPE': '\nNews Clips', 'Author': ''}

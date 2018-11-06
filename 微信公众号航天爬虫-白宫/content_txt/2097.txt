@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-hudson-institutes-herman-kahn-award-dinner/', 'File_Name': 'remarks-vice-president-hudson-institutes-herman-kahn-award-dinner', 'Date': 'November 28, 2017', 'Title': 'remarks vice president hudson institutes herman kahn award dinner', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-strengthening-security-elections/', 'File_Name': 'president-donald-j-trump-strengthening-security-elections', 'Date': 'August 2, 2018', 'Title': 'president donald j trump strengthening security elections', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

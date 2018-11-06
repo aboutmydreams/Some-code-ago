@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meeting-congressional-leadership/', 'File_Name': 'remarks-president-trump-meeting-congressional-leadership', 'Date': 'November 28, 2017', 'Title': 'remarks president trump meeting congressional leadership', 'TYPE': '\nRemarks', 'Author': ''}

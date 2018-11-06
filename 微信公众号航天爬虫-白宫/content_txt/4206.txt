@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-getting-americans-back-work/', 'File_Name': 'president-trump-getting-americans-back-work', 'Date': 'February 4, 2017', 'Title': 'president trump getting americans back work', 'TYPE': '\nFact Sheets', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-tax-cuts-jobs-act/', 'File_Name': 'statement-press-secretary-tax-cuts-jobs-act', 'Date': 'December 2, 2017', 'Title': 'statement press secretary tax cuts jobs act', 'TYPE': '\nStatements & Releases', 'Author': ''}

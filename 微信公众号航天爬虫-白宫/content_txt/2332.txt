@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-first-lady-melania-trump-combatting-drug-demand-opioid-crisis/', 'File_Name': 'remarks-first-lady-melania-trump-combatting-drug-demand-opioid-crisis', 'Date': 'October 26, 2017', 'Title': 'remarks first lady melania trump combatting drug demand opioid crisis', 'TYPE': '\nRemarks', 'Author': ''}

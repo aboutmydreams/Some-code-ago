@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-weekly-address-6/', 'File_Name': 'president-donald-j-trumps-weekly-address-6', 'Date': 'April 7, 2017', 'Title': 'president donald j trumps weekly address 6', 'TYPE': '\nStatements & Releases', 'Author': ''}

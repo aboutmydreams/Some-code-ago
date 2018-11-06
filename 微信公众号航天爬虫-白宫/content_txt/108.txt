@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/executive-order-reimposing-certain-sanctions-respect-iran/', 'File_Name': 'executive-order-reimposing-certain-sanctions-respect-iran', 'Date': 'August 6, 2018', 'Title': 'executive order reimposing certain sanctions respect iran', 'TYPE': '\nExecutive Orders', 'Author': ''}

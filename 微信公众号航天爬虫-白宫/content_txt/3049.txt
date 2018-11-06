@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/joint-statement-tax-reform/', 'File_Name': 'joint-statement-tax-reform', 'Date': 'July 27, 2017', 'Title': 'joint statement tax reform', 'TYPE': '\nStatements & Releases', 'Author': ''}

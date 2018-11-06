@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/business-supports-house-republican-healthcare-plan/', 'File_Name': 'business-supports-house-republican-healthcare-plan', 'Date': 'March 23, 2017', 'Title': 'business supports house republican healthcare plan', 'TYPE': '\nNews Clips', 'Author': ''}

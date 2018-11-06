@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-meeting-prime-minister-estonia-juri-ratas/', 'File_Name': 'readout-vice-presidents-meeting-prime-minister-estonia-juri-ratas', 'Date': 'July 30, 2017', 'Title': 'readout vice presidents meeting prime minister estonia juri ratas', 'TYPE': '\nStatements & Releases', 'Author': ''}

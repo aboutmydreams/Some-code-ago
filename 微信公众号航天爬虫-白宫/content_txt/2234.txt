@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/va-secretary-david-shulkin-honoring-veterans-day-making-progress-veterans/', 'File_Name': 'va-secretary-david-shulkin-honoring-veterans-day-making-progress-veterans', 'Date': 'November 9, 2017', 'Title': 'va secretary david shulkin honoring veterans day making progress veterans', 'TYPE': '\nNews Clips', 'Author': ''}

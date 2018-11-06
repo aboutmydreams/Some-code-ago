@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-weekly-address-22/', 'File_Name': 'president-donald-j-trumps-weekly-address-22', 'Date': 'October 13, 2017', 'Title': 'president donald j trumps weekly address 22', 'TYPE': '\nStatements & Releases', 'Author': ''}

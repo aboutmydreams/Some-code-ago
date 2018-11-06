@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-approves-nevada-disaster-declaration/', 'File_Name': 'president-trump-approves-nevada-disaster-declaration', 'Date': 'February 17, 2017', 'Title': 'president trump approves nevada disaster declaration', 'TYPE': '\nStatements & Releases', 'Author': ''}

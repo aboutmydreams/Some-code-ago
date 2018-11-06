@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/text-letter-president-congress-united-states/', 'File_Name': 'text-letter-president-congress-united-states', 'Date': 'October 31, 2017', 'Title': 'text letter president congress united states', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trumps-dhs-secretary-announcement/', 'File_Name': 'president-trumps-dhs-secretary-announcement', 'Date': 'October 11, 2017', 'Title': 'president trumps dhs secretary announcement', 'TYPE': '\nStatements & Releases', 'Author': ''}

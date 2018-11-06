@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trumps-meeting-senator-tim-scott/', 'File_Name': 'statement-president-donald-j-trumps-meeting-senator-tim-scott', 'Date': 'September 13, 2017', 'Title': 'statement president donald j trumps meeting senator tim scott', 'TYPE': '\nStatements & Releases', 'Author': ''}

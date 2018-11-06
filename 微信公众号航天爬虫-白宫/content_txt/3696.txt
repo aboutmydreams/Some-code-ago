@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/background-briefing-first-100-days-042617/', 'File_Name': 'background-briefing-first-100-days-042617', 'Date': 'April 26, 2017', 'Title': 'background briefing first 100 days 042617', 'TYPE': '\nPress Briefings', 'Author': ''}

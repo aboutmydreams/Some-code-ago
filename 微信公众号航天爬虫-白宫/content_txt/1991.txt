@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/armstrong-williams-passing-tax-reform-task-shouldnt-taxing/', 'File_Name': 'armstrong-williams-passing-tax-reform-task-shouldnt-taxing', 'Date': 'December 12, 2017', 'Title': 'armstrong williams passing tax reform task shouldnt taxing', 'TYPE': '\nNews Clips', 'Author': ''}

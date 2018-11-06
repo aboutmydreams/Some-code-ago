@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/h-r-1215-protecting-access-care-act-2017/', 'File_Name': 'h-r-1215-protecting-access-care-act-2017', 'Date': 'June 14, 2017', 'Title': 'h r 1215 protecting access care act 2017', 'TYPE': '\nStatements & Releases', 'Author': ''}

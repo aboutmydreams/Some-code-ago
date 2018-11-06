@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-friends-ireland-luncheon/', 'File_Name': 'remarks-president-trump-friends-ireland-luncheon', 'Date': 'March 15, 2018', 'Title': 'remarks president trump friends ireland luncheon', 'TYPE': '\nRemarks', 'Author': ''}

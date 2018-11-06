@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-s-j-res-30-s-j-res-35-s-j-res-36-law/', 'File_Name': 'president-donald-j-trump-signs-s-j-res-30-s-j-res-35-s-j-res-36-law', 'Date': 'April 19, 2017', 'Title': 'president donald j trump signs s j res 30 s j res 35 s j res 36 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

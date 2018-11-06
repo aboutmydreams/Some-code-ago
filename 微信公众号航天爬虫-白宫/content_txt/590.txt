@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-regarding-release-joshua-holt/', 'File_Name': 'statement-press-secretary-regarding-release-joshua-holt', 'Date': 'May 26, 2018', 'Title': 'statement press secretary regarding release joshua holt', 'TYPE': '\nStatements & Releases', 'Author': ''}

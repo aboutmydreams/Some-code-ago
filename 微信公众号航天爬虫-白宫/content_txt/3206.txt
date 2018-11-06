@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/ivanka-trump-benefits-paid-family-leave-todays-wsj/', 'File_Name': 'ivanka-trump-benefits-paid-family-leave-todays-wsj', 'Date': 'July 5, 2017', 'Title': 'ivanka trump benefits paid family leave todays wsj', 'TYPE': '\nNews Clips', 'Author': ''}

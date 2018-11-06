@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-memorandum-secretary-state-4/', 'File_Name': 'presidential-memorandum-secretary-state-4', 'Date': 'September 29, 2017', 'Title': 'presidential memorandum secretary state 4', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

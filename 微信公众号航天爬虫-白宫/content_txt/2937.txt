@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-trump/', 'File_Name': 'statement-president-trump', 'Date': 'August 14, 2017', 'Title': 'statement president trump', 'TYPE': '\nStatements & Releases', 'Author': ''}

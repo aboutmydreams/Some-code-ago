@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-tax-cuts-jobs-act/', 'File_Name': 'statement-president-tax-cuts-jobs-act', 'Date': 'November 2, 2017', 'Title': 'statement president tax cuts jobs act', 'TYPE': '\nStatements & Releases', 'Author': ''}

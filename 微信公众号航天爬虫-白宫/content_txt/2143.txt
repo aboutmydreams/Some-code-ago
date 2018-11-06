@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/investors-business-daily-coming-tax-cut-boom/', 'File_Name': 'investors-business-daily-coming-tax-cut-boom', 'Date': 'November 20, 2017', 'Title': 'investors business daily coming tax cut boom', 'TYPE': '\nNews Clips', 'Author': ''}

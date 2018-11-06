@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/praise-continues-roll-president-trumps-unified-framework-tax-reform/', 'File_Name': 'praise-continues-roll-president-trumps-unified-framework-tax-reform', 'Date': 'September 28, 2017', 'Title': 'praise continues roll president trumps unified framework tax reform', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/cea-report-returns-investments-recidivism-reducing-programs/', 'File_Name': 'cea-report-returns-investments-recidivism-reducing-programs', 'Date': 'May 18, 2018', 'Title': 'cea report returns investments recidivism reducing programs', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/motion-proceed-h-r-1628-american-health-care-act-2017/', 'File_Name': 'motion-proceed-h-r-1628-american-health-care-act-2017', 'Date': 'July 24, 2017', 'Title': 'motion proceed h r 1628 american health care act 2017', 'TYPE': '\nStatements & Releases', 'Author': ''}

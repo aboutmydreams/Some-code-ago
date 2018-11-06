@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/national-thanksgiving-turkey-pardoning-ceremony/', 'File_Name': 'national-thanksgiving-turkey-pardoning-ceremony', 'Date': 'November 16, 2017', 'Title': 'national thanksgiving turkey pardoning ceremony', 'TYPE': '\nStatements & Releases', 'Author': ''}

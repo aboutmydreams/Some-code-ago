@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/editorials-praise-president-trumps-joint-address-2/', 'File_Name': 'editorials-praise-president-trumps-joint-address-2', 'Date': 'March 2, 2017', 'Title': 'editorials praise president trumps joint address 2', 'TYPE': '\nNews Clips', 'Author': ''}

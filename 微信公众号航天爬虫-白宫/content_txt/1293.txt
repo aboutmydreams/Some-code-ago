@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-womens-history-month-reception/', 'File_Name': 'remarks-vice-president-pence-womens-history-month-reception', 'Date': 'March 14, 2018', 'Title': 'remarks vice president pence womens history month reception', 'TYPE': '\nRemarks', 'Author': ''}

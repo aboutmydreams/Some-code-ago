@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-delivering-deregulation/', 'File_Name': 'president-donald-j-trump-delivering-deregulation', 'Date': 'December 14, 2017', 'Title': 'president donald j trump delivering deregulation', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

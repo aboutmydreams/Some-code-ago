@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-by-president-trump-and-president-quang-of-vietnam-at-state-banquet/', 'File_Name': 'remarks-by-president-trump-and-president-quang-of-vietnam-at-state-banquet', 'Date': 'November 11, 2017', 'Title': 'remarks by president trump and president quang of vietnam at state banquet', 'TYPE': '\nRemarks', 'Author': ''}

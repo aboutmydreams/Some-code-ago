@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-weekly-address-12/', 'File_Name': 'president-donald-j-trumps-weekly-address-12', 'Date': 'March 31, 2017', 'Title': 'president donald j trumps weekly address 12', 'TYPE': '\nStatements & Releases', 'Author': ''}

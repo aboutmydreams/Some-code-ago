@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/commerce-secretary-wilbur-ross-imposed-metal-tariffs/', 'File_Name': 'commerce-secretary-wilbur-ross-imposed-metal-tariffs', 'Date': 'March 9, 2018', 'Title': 'commerce secretary wilbur ross imposed metal tariffs', 'TYPE': '\nNews Clips', 'Author': ''}

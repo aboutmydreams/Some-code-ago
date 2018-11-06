@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-anniversary-birth-guru-nanak-devji/', 'File_Name': 'statement-press-secretary-anniversary-birth-guru-nanak-devji', 'Date': 'November 4, 2017', 'Title': 'statement press secretary anniversary birth guru nanak devji', 'TYPE': '\nStatements & Releases', 'Author': ''}

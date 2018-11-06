@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-use-chemical-weapons-syria/', 'File_Name': 'statement-press-secretary-use-chemical-weapons-syria', 'Date': 'November 8, 2017', 'Title': 'statement press secretary use chemical weapons syria', 'TYPE': '\nStatements & Releases', 'Author': ''}

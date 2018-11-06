@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/three-nominations-two-withdrawals-sent-senate-today/', 'File_Name': 'three-nominations-two-withdrawals-sent-senate-today', 'Date': 'March 20, 2018', 'Title': 'three nominations two withdrawals sent senate today', 'TYPE': '\nNominations & Appointments', 'Author': ''}

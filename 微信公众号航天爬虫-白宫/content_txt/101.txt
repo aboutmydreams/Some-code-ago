@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidential-message-purple-heart-day/', 'File_Name': 'presidential-message-purple-heart-day', 'Date': 'August 7, 2018', 'Title': 'presidential message purple heart day', 'TYPE': '\nStatements & Releases', 'Author': ''}

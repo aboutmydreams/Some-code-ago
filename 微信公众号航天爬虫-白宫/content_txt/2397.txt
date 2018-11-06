@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-taken-decisive-action-get-american-economy-moving/', 'File_Name': 'president-trump-taken-decisive-action-get-american-economy-moving', 'Date': 'no data', 'Title': 'president trump taken decisive action get american economy moving', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tMichael R. Pence\t\t\t\t\t\t\t\n'}

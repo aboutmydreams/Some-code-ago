@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-call-greek-prime-minister-alexis-tsipras/', 'File_Name': 'readout-vice-presidents-call-greek-prime-minister-alexis-tsipras', 'Date': 'July 5, 2018', 'Title': 'readout vice presidents call greek prime minister alexis tsipras', 'TYPE': '\nStatements & Releases', 'Author': ''}

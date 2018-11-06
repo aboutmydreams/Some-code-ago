@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-weekly-address-3/', 'File_Name': 'president-donald-j-trumps-weekly-address-3', 'Date': 'August 25, 2017', 'Title': 'president donald j trumps weekly address 3', 'TYPE': '\nStatements & Releases', 'Author': ''}

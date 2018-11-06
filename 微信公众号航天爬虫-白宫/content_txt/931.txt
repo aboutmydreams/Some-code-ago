@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-president-macron-expanded-bilateral-meeting/', 'File_Name': 'remarks-president-trump-president-macron-expanded-bilateral-meeting', 'Date': 'April 24, 2018', 'Title': 'remarks president trump president macron expanded bilateral meeting', 'TYPE': '\nRemarks', 'Author': ''}

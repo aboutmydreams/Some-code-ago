@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-roundtable-discussion-immigration-bethpage-ny/', 'File_Name': 'remarks-president-trump-roundtable-discussion-immigration-bethpage-ny', 'Date': 'May 23, 2018', 'Title': 'remarks president trump roundtable discussion immigration bethpage ny', 'TYPE': '\nRemarks', 'Author': ''}

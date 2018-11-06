@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-cuts-red-tape/', 'File_Name': 'president-trump-cuts-red-tape', 'Date': 'February 24, 2017', 'Title': 'president trump cuts red tape', 'TYPE': '\nFact Sheets', 'Author': ''}

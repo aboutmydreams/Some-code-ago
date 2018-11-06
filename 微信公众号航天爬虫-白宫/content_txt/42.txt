@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/better-way-ensure-clean-reliable-energy/', 'File_Name': 'better-way-ensure-clean-reliable-energy', 'Date': 'no data', 'Title': 'better way ensure clean reliable energy', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tAndrew Wheeler\t\t\t\t\t'}

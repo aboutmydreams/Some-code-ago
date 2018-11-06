@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/intern-series-information-gatekeepers-oval-office/', 'File_Name': 'intern-series-information-gatekeepers-oval-office', 'Date': 'no data', 'Title': 'intern series information gatekeepers oval office', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tWhite House Interns\t\t\t\t\t'}

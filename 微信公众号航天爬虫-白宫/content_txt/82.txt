@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-proclamation-adjusting-imports-steel-united-states-5/', 'File_Name': 'presidential-proclamation-adjusting-imports-steel-united-states-5', 'Date': 'August 10, 2018', 'Title': 'presidential proclamation adjusting imports steel united states 5', 'TYPE': '\nProclamations', 'Author': ''}

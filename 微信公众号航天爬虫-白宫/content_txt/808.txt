@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/pay-forward-join-us-research-program-build-healthier-future/', 'File_Name': 'pay-forward-join-us-research-program-build-healthier-future', 'Date': 'no data', 'Title': 'pay forward join us research program build healthier future', 'TYPE': 'no type', 'Author': '\nAlex M. Azar II and Francis S. Collins\t\t\t'}

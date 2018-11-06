@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/executive-order-adjustments-certain-rates-pay/', 'File_Name': 'executive-order-adjustments-certain-rates-pay', 'Date': 'December 22, 2017', 'Title': 'executive order adjustments certain rates pay', 'TYPE': '\nExecutive Orders', 'Author': ''}

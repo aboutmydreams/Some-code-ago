@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-briefing-hurricane-harvey-relief-efforts/', 'File_Name': 'remarks-president-trump-briefing-hurricane-harvey-relief-efforts', 'Date': 'August 29, 2017', 'Title': 'remarks president trump briefing hurricane harvey relief efforts', 'TYPE': '\nRemarks', 'Author': ''}

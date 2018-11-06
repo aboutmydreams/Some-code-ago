@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/photos-week-christmas-white-house/', 'File_Name': 'photos-week-christmas-white-house', 'Date': 'December 1, 2017', 'Title': 'photos week christmas white house', 'TYPE': '\nStatements & Releases', 'Author': ''}

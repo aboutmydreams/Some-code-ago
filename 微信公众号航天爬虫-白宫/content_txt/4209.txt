@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-strategy-policy-forum/', 'File_Name': 'remarks-president-trump-strategy-policy-forum', 'Date': 'February 3, 2017', 'Title': 'remarks president trump strategy policy forum', 'TYPE': '\nRemarks', 'Author': ''}

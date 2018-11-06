@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidential-message-national-cancer-survivors-day/', 'File_Name': 'presidential-message-national-cancer-survivors-day', 'Date': 'June 3, 2018', 'Title': 'presidential message national cancer survivors day', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/optimism-abounds-american-economy-coming-back-strong/', 'File_Name': 'optimism-abounds-american-economy-coming-back-strong', 'Date': 'March 27, 2018', 'Title': 'optimism abounds american economy coming back strong', 'TYPE': '\nNews Clips', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-army-birthday/', 'File_Name': 'statement-press-secretary-army-birthday', 'Date': 'June 14, 2017', 'Title': 'statement press secretary army birthday', 'TYPE': '\nStatements & Releases', 'Author': ''}

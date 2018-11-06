@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wall-street-journal-stores-factories-lead-years-unexpected-hiring-boom/', 'File_Name': 'wall-street-journal-stores-factories-lead-years-unexpected-hiring-boom', 'Date': 'August 6, 2018', 'Title': 'wall street journal stores factories lead years unexpected hiring boom', 'TYPE': '\nNews Clips', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-president-macron-france-state-luncheon/', 'File_Name': 'remarks-vice-president-pence-president-macron-france-state-luncheon', 'Date': 'April 24, 2018', 'Title': 'remarks vice president pence president macron france state luncheon', 'TYPE': '\nRemarks', 'Author': ''}

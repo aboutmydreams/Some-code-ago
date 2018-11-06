@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wtas-support-opening-united-states-embassy-jerusalem/', 'File_Name': 'wtas-support-opening-united-states-embassy-jerusalem', 'Date': 'May 15, 2018', 'Title': 'wtas support opening united states embassy jerusalem', 'TYPE': '\nStatements & Releases', 'Author': ''}

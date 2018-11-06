@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/6895/', 'File_Name': '6895', 'Date': 'May 12, 2017', 'Title': '6895', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

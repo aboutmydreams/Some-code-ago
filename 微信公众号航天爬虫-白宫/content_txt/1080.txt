@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/peter-navarro-donald-trump-standing-american-interests/', 'File_Name': 'peter-navarro-donald-trump-standing-american-interests', 'Date': 'April 9, 2018', 'Title': 'peter navarro donald trump standing american interests', 'TYPE': '\nNews Clips', 'Author': ''}

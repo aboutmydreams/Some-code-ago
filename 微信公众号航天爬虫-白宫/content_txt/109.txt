@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-reimposition-united-states-sanctions-respect-iran/', 'File_Name': 'statement-president-reimposition-united-states-sanctions-respect-iran', 'Date': 'August 6, 2018', 'Title': 'statement president reimposition united states sanctions respect iran', 'TYPE': '\nStatements & Releases', 'Author': ''}

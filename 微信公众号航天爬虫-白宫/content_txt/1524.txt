@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-proclamation-honoring-victims-tragedy-parkland-florida/', 'File_Name': 'presidential-proclamation-honoring-victims-tragedy-parkland-florida', 'Date': 'February 15, 2018', 'Title': 'presidential proclamation honoring victims tragedy parkland florida', 'TYPE': '\nProclamations', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-administrations-national-security-strategy/', 'File_Name': 'remarks-president-trump-administrations-national-security-strategy', 'Date': 'December 18, 2017', 'Title': 'remarks president trump administrations national security strategy', 'TYPE': '\nRemarks', 'Author': ''}

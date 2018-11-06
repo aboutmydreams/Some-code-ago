@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/treating-veterans-art-therapy/', 'File_Name': 'treating-veterans-art-therapy', 'Date': 'no data', 'Title': 'treating veterans art therapy', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tKaren Pence\t\t\t\t\t\t\t\n'}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/memorandum-director-federal-bureau/', 'File_Name': 'memorandum-director-federal-bureau', 'Date': 'April 12, 2017', 'Title': 'memorandum director federal bureau', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

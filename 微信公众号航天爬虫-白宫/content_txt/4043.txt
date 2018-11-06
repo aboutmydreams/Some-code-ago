@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/first-lady-melania-trump-celebrates-national-read-across-america-day/', 'File_Name': 'first-lady-melania-trump-celebrates-national-read-across-america-day', 'Date': 'March 2, 2017', 'Title': 'first lady melania trump celebrates national read across america day', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>jQuery UI 日期选择器（Datepicker） - 默认功能</title>
+  <link rel="stylesheet" href="http://apps.bdimg.com/libs/jqueryui/1.10.4/css/jquery-ui.min.css">
+  <script src="../static/js/ui.js"></script>
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  $(function() {
+    $( "#datepicker" ).datepicker();
+  });
+  </script>
+</head>
+<body>
+ 
+<p>日期：<input type="text" id="datepicker"></p>
+
+<script>
+$(document).ready(function(){
+  $("button").click(function(){
+    $.get("http://www.runoob.com",function(data,status){
+      alert("数据: " + data + "\n状态: " + status);
+    });
+  });
+});
+</script>
+<button>发送一个 HTTP GET 请求并获取返回结果</button>
+ 
+ 
+</body>
+</html>

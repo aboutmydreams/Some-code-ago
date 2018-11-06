@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/nurturing-small-business-boon/', 'File_Name': 'nurturing-small-business-boon', 'Date': 'no data', 'Title': 'nurturing small business boon', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tLinda E. McMahon\t\t\t\t\t\t\t\n'}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/high-holy-days-message-president-donald-j-trump/', 'File_Name': 'high-holy-days-message-president-donald-j-trump', 'Date': 'September 18, 2017', 'Title': 'high holy days message president donald j trump', 'TYPE': '\nStatements & Releases', 'Author': ''}

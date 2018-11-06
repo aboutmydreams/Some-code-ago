@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/manufacturing-day-showcases-benefits-deregulation-initiatives/', 'File_Name': 'manufacturing-day-showcases-benefits-deregulation-initiatives', 'Date': 'no data', 'Title': 'manufacturing day showcases benefits deregulation initiatives', 'TYPE': 'no type', 'Author': ''}

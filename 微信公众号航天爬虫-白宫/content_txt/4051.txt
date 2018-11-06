@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/remarks-president-trump-signing-hbcu-executive-order/', 'File_Name': 'remarks-president-trump-signing-hbcu-executive-order', 'Date': 'February 28, 2017', 'Title': 'remarks president trump signing hbcu executive order', 'TYPE': '\nExecutive Orders', 'Author': ''}

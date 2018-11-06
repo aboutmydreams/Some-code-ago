@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-cabinet-meeting-10/', 'File_Name': 'remarks-president-trump-cabinet-meeting-10', 'Date': 'August 16, 2018', 'Title': 'remarks president trump cabinet meeting 10', 'TYPE': '\nRemarks', 'Author': ''}

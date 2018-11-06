@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-listening-session-philanthropy/', 'File_Name': 'remarks-vice-president-listening-session-philanthropy', 'Date': 'July 13, 2017', 'Title': 'remarks vice president listening session philanthropy', 'TYPE': '\nRemarks', 'Author': ''}

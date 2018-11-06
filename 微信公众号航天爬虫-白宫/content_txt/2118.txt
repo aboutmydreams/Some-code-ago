@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-lashkar-e-tayyiba-let-leader/', 'File_Name': 'statement-press-secretary-lashkar-e-tayyiba-let-leader', 'Date': 'November 25, 2017', 'Title': 'statement press secretary lashkar e tayyiba let leader', 'TYPE': '\nStatements & Releases', 'Author': ''}

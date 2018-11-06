@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidential-message-post-traumatic-stress-disorder-ptsd-awareness-day/', 'File_Name': 'presidential-message-post-traumatic-stress-disorder-ptsd-awareness-day', 'Date': 'June 27, 2018', 'Title': 'presidential message post traumatic stress disorder ptsd awareness day', 'TYPE': '\nStatements & Releases', 'Author': ''}

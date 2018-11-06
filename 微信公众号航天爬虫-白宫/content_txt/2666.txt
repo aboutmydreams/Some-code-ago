@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trumps-opening-remarks-united-nations-general-assembly/', 'File_Name': 'president-trumps-opening-remarks-united-nations-general-assembly', 'Date': 'no data', 'Title': 'president trumps opening remarks united nations general assembly', 'TYPE': 'no type', 'Author': ''}

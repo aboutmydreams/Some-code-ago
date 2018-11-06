@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/photos-president-donald-j-trumps-briefing-hurricane-irma/', 'File_Name': 'photos-president-donald-j-trumps-briefing-hurricane-irma', 'Date': 'September 7, 2017', 'Title': 'photos president donald j trumps briefing hurricane irma', 'TYPE': '\nStatements & Releases', 'Author': ''}

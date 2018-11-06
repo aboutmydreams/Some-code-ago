@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-issues-executive-order-reviving-national-space-council/', 'File_Name': 'president-trump-issues-executive-order-reviving-national-space-council', 'Date': 'no data', 'Title': 'president trump issues executive order reviving national space council', 'TYPE': 'no type', 'Author': ''}

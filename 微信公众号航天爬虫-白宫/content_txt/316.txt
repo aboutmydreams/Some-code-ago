@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-salute-service-dinner/', 'File_Name': 'remarks-president-trump-salute-service-dinner', 'Date': 'July 3, 2018', 'Title': 'remarks president trump salute service dinner', 'TYPE': '\nRemarks', 'Author': ''}

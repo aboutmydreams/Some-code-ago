@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/detroit-news-judge-gorsuch-image-thoughtful-jurist/', 'File_Name': 'detroit-news-judge-gorsuch-image-thoughtful-jurist', 'Date': 'March 22, 2017', 'Title': 'detroit news judge gorsuch image thoughtful jurist', 'TYPE': '\nStatements & Releases', 'Author': ''}

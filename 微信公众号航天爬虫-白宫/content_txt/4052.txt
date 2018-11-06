@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-joint-address-congress/', 'File_Name': 'remarks-president-trump-joint-address-congress', 'Date': 'February 28, 2017', 'Title': 'remarks president trump joint address congress', 'TYPE': '\nRemarks', 'Author': ''}

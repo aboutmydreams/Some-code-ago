@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-gaggle-president-trump/', 'File_Name': 'press-gaggle-president-trump', 'Date': 'September 27, 2017', 'Title': 'press gaggle president trump', 'TYPE': '\nPress Briefings', 'Author': ''}

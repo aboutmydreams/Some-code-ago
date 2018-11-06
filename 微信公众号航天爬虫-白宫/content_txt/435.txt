@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/opening-remarks-vice-president-pence-meeting-national-space-council/', 'File_Name': 'opening-remarks-vice-president-pence-meeting-national-space-council', 'Date': 'June 18, 2018', 'Title': 'opening remarks vice president pence meeting national space council', 'TYPE': '\nRemarks', 'Author': ''}

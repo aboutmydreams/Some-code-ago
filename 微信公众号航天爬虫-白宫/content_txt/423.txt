@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/national-review-editorial-board-congress-act-border/', 'File_Name': 'national-review-editorial-board-congress-act-border', 'Date': 'June 19, 2018', 'Title': 'national review editorial board congress act border', 'TYPE': '\nNews Clips', 'Author': ''}

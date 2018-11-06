@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-march-life-participants-pro-life-leaders/', 'File_Name': 'remarks-president-trump-march-life-participants-pro-life-leaders', 'Date': 'January 19, 2018', 'Title': 'remarks president trump march life participants pro life leaders', 'TYPE': '\nRemarks', 'Author': ''}

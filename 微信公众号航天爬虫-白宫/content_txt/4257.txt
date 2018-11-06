@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-announces-manufacturing-jobs-initiative/', 'File_Name': 'president-trump-announces-manufacturing-jobs-initiative', 'Date': 'January 27, 2017', 'Title': 'president trump announces manufacturing jobs initiative', 'TYPE': '\nStatements & Releases', 'Author': ''}

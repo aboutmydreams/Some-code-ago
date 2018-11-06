@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-first-lady-melania-trumps-visit-mcallen-texas/', 'File_Name': 'readout-first-lady-melania-trumps-visit-mcallen-texas', 'Date': 'June 21, 2018', 'Title': 'readout first lady melania trumps visit mcallen texas', 'TYPE': '\nStatements & Releases', 'Author': ''}

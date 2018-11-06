@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-proclaims-april-2018-national-donate-life-month/', 'File_Name': 'president-donald-j-trump-proclaims-april-2018-national-donate-life-month', 'Date': 'March 29, 2018', 'Title': 'president donald j trump proclaims april 2018 national donate life month', 'TYPE': '\nProclamations', 'Author': ''}

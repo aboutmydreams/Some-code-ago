@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/executive-order-establishment-white-house-faith-opportunity-initiative/', 'File_Name': 'executive-order-establishment-white-house-faith-opportunity-initiative', 'Date': 'May 3, 2018', 'Title': 'executive order establishment white house faith opportunity initiative', 'TYPE': '\nExecutive Orders', 'Author': ''}

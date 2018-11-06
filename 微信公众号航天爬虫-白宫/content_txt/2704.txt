@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-signing-s-j-res-49-charlottesville-resolution/', 'File_Name': 'statement-president-signing-s-j-res-49-charlottesville-resolution', 'Date': 'September 14, 2017', 'Title': 'statement president signing s j res 49 charlottesville resolution', 'TYPE': '\nStatements & Releases', 'Author': ''}

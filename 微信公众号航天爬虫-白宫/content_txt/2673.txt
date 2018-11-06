@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-president-macron-france-bilateral-meeting/', 'File_Name': 'remarks-president-trump-president-macron-france-bilateral-meeting', 'Date': 'September 18, 2017', 'Title': 'remarks president trump president macron france bilateral meeting', 'TYPE': '\nRemarks', 'Author': ''}

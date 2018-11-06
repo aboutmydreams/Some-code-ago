@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/era-american-complacency-trade/', 'File_Name': 'era-american-complacency-trade', 'Date': 'no data', 'Title': 'era american complacency trade', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tPeter Navarro\t\t\t\t\t'}

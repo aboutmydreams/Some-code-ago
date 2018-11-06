@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/op-eds-editorials-call-mike-pompeo-confirmed-secretary-state/', 'File_Name': 'op-eds-editorials-call-mike-pompeo-confirmed-secretary-state', 'Date': 'April 20, 2018', 'Title': 'op eds editorials call mike pompeo confirmed secretary state', 'TYPE': '\nStatements & Releases', 'Author': ''}

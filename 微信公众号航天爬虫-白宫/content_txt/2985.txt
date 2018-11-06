@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/editorial-raise-act-reasoned-return-policy-sanity/', 'File_Name': 'editorial-raise-act-reasoned-return-policy-sanity', 'Date': 'August 4, 2017', 'Title': 'editorial raise act reasoned return policy sanity', 'TYPE': '\nNews Clips', 'Author': ''}

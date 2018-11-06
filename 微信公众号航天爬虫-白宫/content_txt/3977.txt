@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-american-ireland-fund-national-gala/', 'File_Name': 'remarks-vice-president-american-ireland-fund-national-gala', 'Date': 'March 15, 2017', 'Title': 'remarks vice president american ireland fund national gala', 'TYPE': '\nRemarks', 'Author': ''}

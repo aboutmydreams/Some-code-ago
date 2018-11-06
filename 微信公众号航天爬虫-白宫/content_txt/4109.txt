@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-presidents-call-prime-minister-keith-rowley-trinidad-tobago/', 'File_Name': 'readout-presidents-call-prime-minister-keith-rowley-trinidad-tobago', 'Date': 'February 19, 2017', 'Title': 'readout presidents call prime minister keith rowley trinidad tobago', 'TYPE': '\nStatements & Releases', 'Author': ''}

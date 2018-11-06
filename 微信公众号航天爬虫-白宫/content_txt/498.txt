@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/two-nominations-one-withdrawal-sent-senate/', 'File_Name': 'two-nominations-one-withdrawal-sent-senate', 'Date': 'June 7, 2018', 'Title': 'two nominations one withdrawal sent senate', 'TYPE': '\nNominations & Appointments', 'Author': ''}

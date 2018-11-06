@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-24/', 'File_Name': 'statement-press-secretary-24', 'Date': 'February 11, 2018', 'Title': 'statement press secretary 24', 'TYPE': '\nStatements & Releases', 'Author': ''}

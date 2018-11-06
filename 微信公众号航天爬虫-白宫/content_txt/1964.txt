@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/background-conference-call-vice-presidents-trip-egypt-israel-germany/', 'File_Name': 'background-conference-call-vice-presidents-trip-egypt-israel-germany', 'Date': 'December 15, 2017', 'Title': 'background conference call vice presidents trip egypt israel germany', 'TYPE': '\nPress Briefings', 'Author': ''}

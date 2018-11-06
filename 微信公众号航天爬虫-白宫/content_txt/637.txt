@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/summit-state-visits-will-lead-national-plan-manage-pfas/', 'File_Name': 'summit-state-visits-will-lead-national-plan-manage-pfas', 'Date': 'no data', 'Title': 'summit state visits will lead national plan manage pfas', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tEdward Scott Pruitt\t\t\t\t\t'}

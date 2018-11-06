@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-president-poroshenko-ukraine/', 'File_Name': 'remarks-president-trump-president-poroshenko-ukraine', 'Date': 'June 20, 2017', 'Title': 'remarks president trump president poroshenko ukraine', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/4772-041817/', 'File_Name': '4772-041817', 'Date': 'April 18, 2017', 'Title': '4772 041817', 'TYPE': '\nPress Briefings', 'Author': ''}

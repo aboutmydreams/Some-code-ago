@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/editorial-someone-just-noticed-trump-getting-stuff-done/', 'File_Name': 'editorial-someone-just-noticed-trump-getting-stuff-done', 'Date': 'August 7, 2017', 'Title': 'editorial someone just noticed trump getting stuff done', 'TYPE': '\nNews Clips', 'Author': ''}

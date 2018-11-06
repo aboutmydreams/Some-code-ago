@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-president-macron-france-state-dinner/', 'File_Name': 'remarks-president-trump-president-macron-france-state-dinner', 'Date': 'April 25, 2018', 'Title': 'remarks president trump president macron france state dinner', 'TYPE': '\nRemarks', 'Author': ''}

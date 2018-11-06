@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-attack-kabul/', 'File_Name': 'statement-president-attack-kabul', 'Date': 'January 27, 2018', 'Title': 'statement president attack kabul', 'TYPE': '\nStatements & Releases', 'Author': ''}

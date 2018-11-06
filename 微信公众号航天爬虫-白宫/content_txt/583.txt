@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-gaggle-by-press-secretary-sarah-sanders-052918/', 'File_Name': 'press-gaggle-by-press-secretary-sarah-sanders-052918', 'Date': 'May 29, 2018', 'Title': 'press gaggle by press secretary sarah sanders 052918', 'TYPE': '\nPress Briefings', 'Author': ''}

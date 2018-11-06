@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-7/', 'File_Name': 'statement-press-secretary-7', 'Date': 'September 5, 2017', 'Title': 'statement press secretary 7', 'TYPE': '\nRemarks', 'Author': ''}

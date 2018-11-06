@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/washington-examiner-want-cut-business-taxes-pay/', 'File_Name': 'washington-examiner-want-cut-business-taxes-pay', 'Date': 'November 17, 2017', 'Title': 'washington examiner want cut business taxes pay', 'TYPE': '\nNews Clips', 'Author': ''}

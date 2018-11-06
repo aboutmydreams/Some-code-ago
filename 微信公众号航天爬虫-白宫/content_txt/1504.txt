@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/art-therapy-uplifts-children-fighting-cancer/', 'File_Name': 'art-therapy-uplifts-children-fighting-cancer', 'Date': 'no data', 'Title': 'art therapy uplifts children fighting cancer', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tKaren Pence\t\t\t\t\t\t\t\n'}

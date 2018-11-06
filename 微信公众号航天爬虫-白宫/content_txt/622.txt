@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/one-nomination-one-withdrawal-sent-senate/', 'File_Name': 'one-nomination-one-withdrawal-sent-senate', 'Date': 'May 23, 2018', 'Title': 'one nomination one withdrawal sent senate', 'TYPE': '\nNominations & Appointments', 'Author': ''}

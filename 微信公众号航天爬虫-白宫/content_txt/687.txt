@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-house-passage-va-mission-act/', 'File_Name': 'statement-press-secretary-house-passage-va-mission-act', 'Date': 'May 16, 2018', 'Title': 'statement press secretary house passage va mission act', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/usa-today-dow-posts-biggest-gain-3-months-tax-overhaul-optimism/', 'File_Name': 'usa-today-dow-posts-biggest-gain-3-months-tax-overhaul-optimism', 'Date': 'November 29, 2017', 'Title': 'usa today dow posts biggest gain 3 months tax overhaul optimism', 'TYPE': '\nNews Clips', 'Author': ''}

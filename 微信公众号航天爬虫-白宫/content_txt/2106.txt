@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/investors-business-daily-latest-tax-cut-lie-senate-bill-will-hurt-poor/', 'File_Name': 'investors-business-daily-latest-tax-cut-lie-senate-bill-will-hurt-poor', 'Date': 'November 28, 2017', 'Title': 'investors business daily latest tax cut lie senate bill will hurt poor', 'TYPE': '\nNews Clips', 'Author': ''}

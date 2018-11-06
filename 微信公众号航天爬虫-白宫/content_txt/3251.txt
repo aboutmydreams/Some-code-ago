@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-welcomes-the-chicago-cubs-to-the-white-house/', 'File_Name': 'president-trump-welcomes-the-chicago-cubs-to-the-white-house', 'Date': 'no data', 'Title': 'president trump welcomes the chicago cubs to the white house', 'TYPE': 'no type', 'Author': ''}

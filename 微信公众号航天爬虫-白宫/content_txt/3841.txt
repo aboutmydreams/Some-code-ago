@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-briefing-press-secretary-sean-spicer-040317/', 'File_Name': 'press-briefing-press-secretary-sean-spicer-040317', 'Date': 'April 3, 2017', 'Title': 'press briefing press secretary sean spicer 040317', 'TYPE': '\nPress Briefings', 'Author': ''}

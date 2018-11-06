@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-backs-raise-act/', 'File_Name': 'president-donald-j-trump-backs-raise-act', 'Date': 'August 2, 2017', 'Title': 'president donald j trump backs raise act', 'TYPE': '\nFact Sheets', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/daily-press-briefing-press-secretary-spicer-041317/', 'File_Name': 'daily-press-briefing-press-secretary-spicer-041317', 'Date': 'April 13, 2017', 'Title': 'daily press briefing press secretary spicer 041317', 'TYPE': '\nPress Briefings', 'Author': ''}

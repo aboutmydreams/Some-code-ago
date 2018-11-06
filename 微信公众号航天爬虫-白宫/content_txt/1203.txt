@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/widespread-support-john-bolton-national-security-advisor/', 'File_Name': 'widespread-support-john-bolton-national-security-advisor', 'Date': 'March 26, 2018', 'Title': 'widespread support john bolton national security advisor', 'TYPE': '\nNews Clips', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/support-trump-administrations-proposed-title-x-rule/', 'File_Name': 'support-trump-administrations-proposed-title-x-rule', 'Date': 'May 22, 2018', 'Title': 'support trump administrations proposed title x rule', 'TYPE': '\nNews Clips', 'Author': ''}

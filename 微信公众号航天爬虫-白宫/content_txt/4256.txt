@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-international-holocaust-remembrance-day/', 'File_Name': 'statement-president-international-holocaust-remembrance-day', 'Date': 'January 27, 2017', 'Title': 'statement president international holocaust remembrance day', 'TYPE': '\nStatements & Releases', 'Author': ''}

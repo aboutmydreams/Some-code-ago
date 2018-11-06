@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-presidents-call-australian-prime-minister-malcolm-turnbull/', 'File_Name': 'readout-presidents-call-australian-prime-minister-malcolm-turnbull', 'Date': 'January 28, 2017', 'Title': 'readout presidents call australian prime minister malcolm turnbull', 'TYPE': '\nStatements & Releases', 'Author': ''}

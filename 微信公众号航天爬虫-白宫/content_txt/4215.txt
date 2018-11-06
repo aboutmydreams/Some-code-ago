@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-recognizes-national-catholic-schools-week/', 'File_Name': 'president-donald-j-trump-recognizes-national-catholic-schools-week', 'Date': 'February 3, 2017', 'Title': 'president donald j trump recognizes national catholic schools week', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-second-lady-karen-pence-art-therapy-visit-egypt/', 'File_Name': 'readout-second-lady-karen-pence-art-therapy-visit-egypt', 'Date': 'January 20, 2018', 'Title': 'readout second lady karen pence art therapy visit egypt', 'TYPE': '\nStatements & Releases', 'Author': ''}

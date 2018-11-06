@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/washington-post-op-ed-game-changer-middle-east-peace/', 'File_Name': 'washington-post-op-ed-game-changer-middle-east-peace', 'Date': 'August 25, 2017', 'Title': 'washington post op ed game changer middle east peace', 'TYPE': '\nNews Clips', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-montenegros-nato-accession-protocol/', 'File_Name': 'statement-press-secretary-montenegros-nato-accession-protocol', 'Date': 'April 11, 2017', 'Title': 'statement press secretary montenegros nato accession protocol', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/joint-statement-president-donald-j-trump-president-mauricio-macri/', 'File_Name': 'joint-statement-president-donald-j-trump-president-mauricio-macri', 'Date': 'April 27, 2017', 'Title': 'joint statement president donald j trump president mauricio macri', 'TYPE': '\nStatements & Releases', 'Author': ''}

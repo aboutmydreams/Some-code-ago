@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/seventeen-nominations-one-withdrawal-sent-senate-today/', 'File_Name': 'seventeen-nominations-one-withdrawal-sent-senate-today', 'Date': 'June 18, 2018', 'Title': 'seventeen nominations one withdrawal sent senate today', 'TYPE': '\nNominations & Appointments', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-visit-president-uhuru-kenyatta-kenya/', 'File_Name': 'statement-press-secretary-visit-president-uhuru-kenyatta-kenya', 'Date': 'August 6, 2018', 'Title': 'statement press secretary visit president uhuru kenyatta kenya', 'TYPE': '\nStatements & Releases', 'Author': ''}

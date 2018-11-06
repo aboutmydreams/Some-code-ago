@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-sanctuary-cities-ruling/', 'File_Name': 'statement-sanctuary-cities-ruling', 'Date': 'April 25, 2017', 'Title': 'statement sanctuary cities ruling', 'TYPE': '\nStatements & Releases', 'Author': ''}

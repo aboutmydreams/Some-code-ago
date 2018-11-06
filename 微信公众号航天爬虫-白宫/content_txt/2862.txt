@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-pardons-sheriff-joe-arpaio/', 'File_Name': 'president-trump-pardons-sheriff-joe-arpaio', 'Date': 'August 25, 2017', 'Title': 'president trump pardons sheriff joe arpaio', 'TYPE': '\nStatements & Releases', 'Author': ''}

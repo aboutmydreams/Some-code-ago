@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-tax-reform-delivering-americans/', 'File_Name': 'president-donald-j-trumps-tax-reform-delivering-americans', 'Date': 'March 7, 2018', 'Title': 'president donald j trumps tax reform delivering americans', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

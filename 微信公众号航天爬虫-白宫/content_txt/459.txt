@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/historic-summit-north-korea-tremendous-moment-world/', 'File_Name': 'historic-summit-north-korea-tremendous-moment-world', 'Date': 'June 13, 2018', 'Title': 'historic summit north korea tremendous moment world', 'TYPE': '\nNews Clips', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/building-stronger-america/', 'File_Name': 'building-stronger-america', 'Date': 'no data', 'Title': 'building stronger america', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tGary D. Cohn\t\t\t\t\t'}

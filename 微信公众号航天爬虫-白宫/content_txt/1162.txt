@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-infrastructure-initiative/', 'File_Name': 'remarks-president-trump-infrastructure-initiative', 'Date': 'March 30, 2018', 'Title': 'remarks president trump infrastructure initiative', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/vice-president-mike-pence-arrives-japan/', 'File_Name': 'vice-president-mike-pence-arrives-japan', 'Date': 'no data', 'Title': 'vice president mike pence arrives japan', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tOffice of the Vice President \t\t\t\t\t'}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-signing-h-r-366/', 'File_Name': 'statement-president-signing-h-r-366', 'Date': 'June 6, 2017', 'Title': 'statement president signing h r 366', 'TYPE': '\nStatements & Releases', 'Author': ''}

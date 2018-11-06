@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidential-message-commemoration-76th-anniversary-battle-coral-sea/', 'File_Name': 'presidential-message-commemoration-76th-anniversary-battle-coral-sea', 'Date': 'May 3, 2018', 'Title': 'presidential message commemoration 76th anniversary battle coral sea', 'TYPE': '\nStatements & Releases', 'Author': ''}

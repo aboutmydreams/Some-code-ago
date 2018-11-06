@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/interview-vice-president-pence-david-stieren-kfqd-anchorage/', 'File_Name': 'interview-vice-president-pence-david-stieren-kfqd-anchorage', 'Date': 'September 22, 2017', 'Title': 'interview vice president pence david stieren kfqd anchorage', 'TYPE': '\nRemarks', 'Author': ''}

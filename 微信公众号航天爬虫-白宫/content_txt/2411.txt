@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/promoting-healthcare-choice-competition-across-united-states/', 'File_Name': 'promoting-healthcare-choice-competition-across-united-states', 'Date': 'no data', 'Title': 'promoting healthcare choice competition across united states', 'TYPE': 'no type', 'Author': ''}

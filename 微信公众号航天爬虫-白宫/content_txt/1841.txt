@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-memorandum-director-national-intelligence/', 'File_Name': 'presidential-memorandum-director-national-intelligence', 'Date': 'January 9, 2018', 'Title': 'presidential memorandum director national intelligence', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-faith-freedom-coalitions-road-majority-conference/', 'File_Name': 'remarks-president-trump-faith-freedom-coalitions-road-majority-conference', 'Date': 'June 8, 2017', 'Title': 'remarks president trump faith freedom coalitions road majority conference', 'TYPE': '\nRemarks', 'Author': ''}

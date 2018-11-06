@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-communications-director/', 'File_Name': 'statement-communications-director', 'Date': 'May 8, 2018', 'Title': 'statement communications director', 'TYPE': '\nStatements & Releases', 'Author': ''}

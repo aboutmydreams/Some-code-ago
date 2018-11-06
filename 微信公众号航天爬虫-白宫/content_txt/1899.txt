@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidential-message-national-stalking-awareness-month-2018/', 'File_Name': 'presidential-message-national-stalking-awareness-month-2018', 'Date': 'January 2, 2018', 'Title': 'presidential message national stalking awareness month 2018', 'TYPE': '\nStatements & Releases', 'Author': ''}

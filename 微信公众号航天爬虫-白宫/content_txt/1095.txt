@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-lieutenant-general-h-r-mcmaster/', 'File_Name': 'statement-lieutenant-general-h-r-mcmaster', 'Date': 'April 6, 2018', 'Title': 'statement lieutenant general h r mcmaster', 'TYPE': '\nStatements & Releases', 'Author': ''}

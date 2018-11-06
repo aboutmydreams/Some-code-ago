@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wapo-trump-gains-isis-dramatically-accelerated/', 'File_Name': 'wapo-trump-gains-isis-dramatically-accelerated', 'Date': 'August 6, 2017', 'Title': 'wapo trump gains isis dramatically accelerated', 'TYPE': '\nNews Clips', 'Author': ''}

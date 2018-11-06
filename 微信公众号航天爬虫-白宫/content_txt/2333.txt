@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-memorandum-heads-executive-departments-agencies/', 'File_Name': 'presidential-memorandum-heads-executive-departments-agencies', 'Date': 'October 26, 2017', 'Title': 'presidential memorandum heads executive departments agencies', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

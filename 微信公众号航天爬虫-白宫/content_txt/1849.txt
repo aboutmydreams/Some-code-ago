@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wtas-support-president-trumps-speech-american-farm-bureau/', 'File_Name': 'wtas-support-president-trumps-speech-american-farm-bureau', 'Date': 'January 9, 2018', 'Title': 'wtas support president trumps speech american farm bureau', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidential-message-antibiotic-awareness-week-2017/', 'File_Name': 'presidential-message-antibiotic-awareness-week-2017', 'Date': 'November 13, 2017', 'Title': 'presidential message antibiotic awareness week 2017', 'TYPE': '\nStatements & Releases', 'Author': ''}

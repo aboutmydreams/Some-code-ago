@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-antiquities-act-designations/', 'File_Name': 'remarks-president-trump-antiquities-act-designations', 'Date': 'December 4, 2017', 'Title': 'remarks president trump antiquities act designations', 'TYPE': '\nRemarks', 'Author': ''}

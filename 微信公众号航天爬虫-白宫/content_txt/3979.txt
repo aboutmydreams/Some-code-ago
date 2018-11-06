@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-250th-anniversary-birth-president-andrew-jackson/', 'File_Name': 'remarks-president-250th-anniversary-birth-president-andrew-jackson', 'Date': 'March 15, 2017', 'Title': 'remarks president 250th anniversary birth president andrew jackson', 'TYPE': '\nRemarks', 'Author': ''}

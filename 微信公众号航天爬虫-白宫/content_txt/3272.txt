@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/h-r-3004-kates-law/', 'File_Name': 'h-r-3004-kates-law', 'Date': 'June 27, 2017', 'Title': 'h r 3004 kates law', 'TYPE': '\nStatements & Releases', 'Author': ''}

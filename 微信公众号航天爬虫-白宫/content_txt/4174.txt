@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-signs-pro-law-enforcement-anti-crime-executive-orders/', 'File_Name': 'president-trump-signs-pro-law-enforcement-anti-crime-executive-orders', 'Date': 'no data', 'Title': 'president trump signs pro law enforcement anti crime executive orders', 'TYPE': 'no type', 'Author': ''}

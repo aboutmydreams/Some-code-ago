@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-donald-j-trump-delivers-weekly-address-pcu-gerald-r-ford/', 'File_Name': 'president-donald-j-trump-delivers-weekly-address-pcu-gerald-r-ford', 'Date': 'no data', 'Title': 'president donald j trump delivers weekly address pcu gerald r ford', 'TYPE': 'no type', 'Author': ''}

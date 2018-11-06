@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wall-street-journal-u-s-factory-activity-gained-momentum-december/', 'File_Name': 'wall-street-journal-u-s-factory-activity-gained-momentum-december', 'Date': 'January 3, 2018', 'Title': 'wall street journal u s factory activity gained momentum december', 'TYPE': '\nNews Clips', 'Author': ''}

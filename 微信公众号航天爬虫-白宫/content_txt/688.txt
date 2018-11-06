@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-california-sanctuary-state-roundtable/', 'File_Name': 'remarks-president-trump-california-sanctuary-state-roundtable', 'Date': 'May 16, 2018', 'Title': 'remarks president trump california sanctuary state roundtable', 'TYPE': '\nRemarks', 'Author': ''}

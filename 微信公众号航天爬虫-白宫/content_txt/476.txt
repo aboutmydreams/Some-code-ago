@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-first-lady-melania-trumps-visit-fords-theatre/', 'File_Name': 'statement-first-lady-melania-trumps-visit-fords-theatre', 'Date': 'June 10, 2018', 'Title': 'statement first lady melania trumps visit fords theatre', 'TYPE': '\nStatements & Releases', 'Author': ''}

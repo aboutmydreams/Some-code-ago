@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/alan-tonelson-new-york-times-trump-gets-right-trade/', 'File_Name': 'alan-tonelson-new-york-times-trump-gets-right-trade', 'Date': 'March 3, 2017', 'Title': 'alan tonelson new york times trump gets right trade', 'TYPE': '\nNews Clips', 'Author': ''}

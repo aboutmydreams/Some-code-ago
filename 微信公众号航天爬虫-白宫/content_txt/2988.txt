@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/washington-times-editorial-raise-act-good-start-immigration-reform/', 'File_Name': 'washington-times-editorial-raise-act-good-start-immigration-reform', 'Date': 'August 3, 2017', 'Title': 'washington times editorial raise act good start immigration reform', 'TYPE': '\nNews Clips', 'Author': ''}

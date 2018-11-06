@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/washington-examiner-report-regulations-cut-record-pace-savings-double/', 'File_Name': 'washington-examiner-report-regulations-cut-record-pace-savings-double', 'Date': 'August 14, 2018', 'Title': 'washington examiner report regulations cut record pace savings double', 'TYPE': '\nNews Clips', 'Author': ''}

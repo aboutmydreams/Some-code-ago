@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wall-street-journal-tax-reform-growth-deficit/', 'File_Name': 'wall-street-journal-tax-reform-growth-deficit', 'Date': 'November 27, 2017', 'Title': 'wall street journal tax reform growth deficit', 'TYPE': '\nNews Clips', 'Author': ''}

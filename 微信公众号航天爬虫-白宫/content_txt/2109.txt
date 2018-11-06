@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-event-honoring-native-american-code-talkers/', 'File_Name': 'remarks-president-trump-event-honoring-native-american-code-talkers', 'Date': 'November 27, 2017', 'Title': 'remarks president trump event honoring native american code talkers', 'TYPE': '\nRemarks', 'Author': ''}

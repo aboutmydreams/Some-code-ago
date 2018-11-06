@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/one-interns-path-farm-town-white-house/', 'File_Name': 'one-interns-path-farm-town-white-house', 'Date': 'no data', 'Title': 'one interns path farm town white house', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tLea Thoele\t\t\t\t\t'}

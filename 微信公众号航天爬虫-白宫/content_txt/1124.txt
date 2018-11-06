@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/notice-regarding-continuation-national-emergency-respect-somalia/', 'File_Name': 'notice-regarding-continuation-national-emergency-respect-somalia', 'Date': 'April 4, 2018', 'Title': 'notice regarding continuation national emergency respect somalia', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

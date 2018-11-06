@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-meeting-german-chancellor-angela-merkel/', 'File_Name': 'readout-vice-presidents-meeting-german-chancellor-angela-merkel', 'Date': 'February 18, 2017', 'Title': 'readout vice presidents meeting german chancellor angela merkel', 'TYPE': '\nStatements & Releases', 'Author': ''}

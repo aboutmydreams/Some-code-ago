@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-approves-louisiana-disaster-declaration/', 'File_Name': 'president-donald-j-trump-approves-louisiana-disaster-declaration', 'Date': 'October 16, 2017', 'Title': 'president donald j trump approves louisiana disaster declaration', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/merry-christmas-vice-president-mike-pence-second-lady-karen-pence/', 'File_Name': 'merry-christmas-vice-president-mike-pence-second-lady-karen-pence', 'Date': 'December 14, 2017', 'Title': 'merry christmas vice president mike pence second lady karen pence', 'TYPE': '\nStatements & Releases', 'Author': ''}

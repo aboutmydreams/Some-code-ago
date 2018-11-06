@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-gaggle-aboard-air-force-one-en-route-miami-florida-061617/', 'File_Name': 'press-gaggle-aboard-air-force-one-en-route-miami-florida-061617', 'Date': 'June 16, 2017', 'Title': 'press gaggle aboard air force one en route miami florida 061617', 'TYPE': '\nPress Briefings', 'Author': ''}

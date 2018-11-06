@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-memorandum-secretary-state-7/', 'File_Name': 'presidential-memorandum-secretary-state-7', 'Date': 'December 5, 2017', 'Title': 'presidential memorandum secretary state 7', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

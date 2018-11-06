@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-returns-pennsylvania-promise-kept/', 'File_Name': 'president-trump-returns-pennsylvania-promise-kept', 'Date': 'no data', 'Title': 'president trump returns pennsylvania promise kept', 'TYPE': 'no type', 'Author': ''}

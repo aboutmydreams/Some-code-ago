@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-welcoming-2017-world-series-champion-houston-astros/', 'File_Name': 'remarks-president-trump-welcoming-2017-world-series-champion-houston-astros', 'Date': 'March 12, 2018', 'Title': 'remarks president trump welcoming 2017 world series champion houston astros', 'TYPE': '\nRemarks', 'Author': ''}

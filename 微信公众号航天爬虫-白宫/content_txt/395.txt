@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-h-r-1900-h-r-2333-h-r-2772-h-r-4743-law/', 'File_Name': 'president-donald-j-trump-signs-h-r-1900-h-r-2333-h-r-2772-h-r-4743-law', 'Date': 'June 21, 2018', 'Title': 'president donald j trump signs h r 1900 h r 2333 h r 2772 h r 4743 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

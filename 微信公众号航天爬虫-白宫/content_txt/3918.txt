@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/joint-readout-united-states-israeli-consultations-march-20-23-2017/', 'File_Name': 'joint-readout-united-states-israeli-consultations-march-20-23-2017', 'Date': 'March 23, 2017', 'Title': 'joint readout united states israeli consultations march 20 23 2017', 'TYPE': '\nStatements & Releases', 'Author': ''}

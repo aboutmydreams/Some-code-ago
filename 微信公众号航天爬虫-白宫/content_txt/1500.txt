@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/art-therapists-provide-art-therapy-many-different-places/', 'File_Name': 'art-therapists-provide-art-therapy-many-different-places', 'Date': 'no data', 'Title': 'art therapists provide art therapy many different places', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tKaren Pence\t\t\t\t\t\t\t\n'}

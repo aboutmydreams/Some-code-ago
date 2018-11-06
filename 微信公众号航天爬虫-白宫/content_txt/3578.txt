@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-world-summit-defense-persecuted-christians/', 'File_Name': 'remarks-vice-president-pence-world-summit-defense-persecuted-christians', 'Date': 'May 11, 2017', 'Title': 'remarks vice president pence world summit defense persecuted christians', 'TYPE': '\nRemarks', 'Author': ''}

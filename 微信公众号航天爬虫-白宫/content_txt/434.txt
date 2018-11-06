@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/space-policy-directive-3-national-space-traffic-management-policy/', 'File_Name': 'space-policy-directive-3-national-space-traffic-management-policy', 'Date': 'June 18, 2018', 'Title': 'space policy directive 3 national space traffic management policy', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

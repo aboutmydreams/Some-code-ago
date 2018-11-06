@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-cabinet-meeting/', 'File_Name': 'remarks-president-trump-cabinet-meeting', 'Date': 'November 1, 2017', 'Title': 'remarks president trump cabinet meeting', 'TYPE': '\nRemarks', 'Author': ''}

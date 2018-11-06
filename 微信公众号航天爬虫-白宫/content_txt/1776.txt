@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meetings-pentagon/', 'File_Name': 'remarks-president-trump-meetings-pentagon', 'Date': 'January 18, 2018', 'Title': 'remarks president trump meetings pentagon', 'TYPE': '\nRemarks', 'Author': ''}

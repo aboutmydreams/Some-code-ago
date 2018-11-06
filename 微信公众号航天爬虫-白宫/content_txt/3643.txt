@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/daily-press-briefing-press-secretary-sean-spicer-050117/', 'File_Name': 'daily-press-briefing-press-secretary-sean-spicer-050117', 'Date': 'May 1, 2017', 'Title': 'daily press briefing press secretary sean spicer 050117', 'TYPE': '\nPress Briefings', 'Author': ''}

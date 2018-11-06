@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>使用JSON对象存取数据</title>
+	<script type="text/javascript" src="msg.js">
+		if(window.localStorage){
+ alert('This browser supports localStorage');
+}else{
+ alert('This browser does NOT support localStorage');
+}
+	function saveStorage() {//创建一个js对象用于存放信息
+	var data = new Object;//将对象的属性值域用户输入联系起来
+	data.user=document.getElementByid("user").value;
+	data.mail=document.getElementByid("mail")value;
+	data.tel=document.getElementByTid("tel").value;
+
+	var str=JSON.stringify(data);//
+	localStorage.setItem(data.user,str);
+	console.log("数据已保存！用户为:"+data.user);
+
+}
+function findStorage(id){
+	var requiredPersonName=document.getElementByid("find").value;
+	var str=localStorage.getElem(requiredPersonName);
+	var data=JSON.parse(str);
+	var result="NAME:"+data.user+'<br>';
+	result+="E-mail"+data.mail+'<br>';
+	result+="Telphone"+data.tel+'<br>';
+	var target=document.getElementByid('id');
+	target.innerHTML =result;
+}
+</script>
+</head>
+<body>
+
+<h3>使用JSON对象存取数据</h3>
+<table>
+	<tr><td>NAME:</td><td><input type="text" id ="user"></td></tr>
+	<tr><td> E-mail: </td><td><input type="text" id="mail"></td></tr>
+	<tr><td> Telephone: </td><td><input type="text" id="tel"></td></tr>
+	<tr><td></td><td><input type="button" value="保存" onclick="saveStorage();"></td></tr>
+</table>
+<hr>
+<h4>检索信息</h4>
+<p>
+	<input type="text" id="find">
+	<input type="button" value="检索" onclick="findStorage('msg');">
+</p>
+<p id="msg"></p>
+</body>
+</html>

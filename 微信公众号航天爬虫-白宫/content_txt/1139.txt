@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-president-donald-j-trumps-call-king-salman-saudi-arabia-4/', 'File_Name': 'readout-president-donald-j-trumps-call-king-salman-saudi-arabia-4', 'Date': 'April 3, 2018', 'Title': 'readout president donald j trumps call king salman saudi arabia 4', 'TYPE': '\nStatements & Releases', 'Author': ''}

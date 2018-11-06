@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-vice-president-mike-pence/', 'File_Name': 'statement-vice-president-mike-pence', 'Date': 'August 6, 2017', 'Title': 'statement vice president mike pence', 'TYPE': '\nStatements & Releases', 'Author': ''}

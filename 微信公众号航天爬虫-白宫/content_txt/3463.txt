@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-trump-paris-climate-accord/', 'File_Name': 'statement-president-trump-paris-climate-accord', 'Date': 'June 1, 2017', 'Title': 'statement president trump paris climate accord', 'TYPE': '\nRemarks', 'Author': ''}

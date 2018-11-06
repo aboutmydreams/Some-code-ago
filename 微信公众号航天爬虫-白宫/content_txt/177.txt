@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/trump-steel-tariffs-bring-hope-prosperity-back-granite-city/', 'File_Name': 'trump-steel-tariffs-bring-hope-prosperity-back-granite-city', 'Date': 'no data', 'Title': 'trump steel tariffs bring hope prosperity back granite city', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tPeter Navarro\t\t\t\t\t'}

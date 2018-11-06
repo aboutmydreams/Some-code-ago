@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/unified-framework-fixing-broken-tax-code/', 'File_Name': 'unified-framework-fixing-broken-tax-code', 'Date': 'September 27, 2017', 'Title': 'unified framework fixing broken tax code', 'TYPE': '\nStatements & Releases', 'Author': ''}

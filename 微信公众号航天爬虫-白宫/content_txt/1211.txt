@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-tax-cuts-put-america-first-event-atlanta-ga/', 'File_Name': 'remarks-vice-president-pence-tax-cuts-put-america-first-event-atlanta-ga', 'Date': 'March 23, 2018', 'Title': 'remarks vice president pence tax cuts put america first event atlanta ga', 'TYPE': '\nRemarks', 'Author': ''}

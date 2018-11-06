@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-working-lunch-african-leaders/', 'File_Name': 'remarks-president-trump-working-lunch-african-leaders', 'Date': 'September 20, 2017', 'Title': 'remarks president trump working lunch african leaders', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/joint-press-release-united-states-america-australia/', 'File_Name': 'joint-press-release-united-states-america-australia', 'Date': 'February 23, 2018', 'Title': 'joint press release united states america australia', 'TYPE': '\nStatements & Releases', 'Author': ''}

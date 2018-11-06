@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/trumps-energy-progress/', 'File_Name': 'trumps-energy-progress', 'Date': 'March 29, 2017', 'Title': 'trumps energy progress', 'TYPE': '\nNews Clips', 'Author': ''}

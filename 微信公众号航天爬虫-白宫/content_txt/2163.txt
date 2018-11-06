@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-tax-foundation-annual-dinner/', 'File_Name': 'remarks-vice-president-tax-foundation-annual-dinner', 'Date': 'November 16, 2017', 'Title': 'remarks vice president tax foundation annual dinner', 'TYPE': '\nRemarks', 'Author': ''}

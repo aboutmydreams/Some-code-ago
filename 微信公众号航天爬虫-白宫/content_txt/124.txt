@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidential-message-national-shooting-sports-month/', 'File_Name': 'presidential-message-national-shooting-sports-month', 'Date': 'August 1, 2018', 'Title': 'presidential message national shooting sports month', 'TYPE': '\nStatements & Releases', 'Author': ''}

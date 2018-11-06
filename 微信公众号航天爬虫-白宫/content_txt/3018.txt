@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/vice-president-pence-europe-georgia/', 'File_Name': 'vice-president-pence-europe-georgia', 'Date': 'no data', 'Title': 'vice president pence europe georgia', 'TYPE': 'no type', 'Author': ''}

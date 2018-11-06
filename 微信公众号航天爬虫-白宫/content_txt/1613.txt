@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-tax-reform-3/', 'File_Name': 'remarks-president-trump-tax-reform-3', 'Date': 'February 5, 2018', 'Title': 'remarks president trump tax reform 3', 'TYPE': '\nRemarks', 'Author': ''}

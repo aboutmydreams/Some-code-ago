@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/didnt-lose-1500-migrant-children-family/', 'File_Name': 'didnt-lose-1500-migrant-children-family', 'Date': 'no data', 'Title': 'didnt lose 1500 migrant children family', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tEric Hargan\t\t\t\t\t\t\t\n'}

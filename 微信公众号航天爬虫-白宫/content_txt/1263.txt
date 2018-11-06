@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidential-message-congress-united-states-2/', 'File_Name': 'presidential-message-congress-united-states-2', 'Date': 'March 19, 2018', 'Title': 'presidential message congress united states 2', 'TYPE': '\nStatements & Releases', 'Author': ''}

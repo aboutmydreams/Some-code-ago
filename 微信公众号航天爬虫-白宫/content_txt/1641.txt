@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/washington-examiner-trumps-immigration-deal-well-real-deal/', 'File_Name': 'washington-examiner-trumps-immigration-deal-well-real-deal', 'Date': 'February 1, 2018', 'Title': 'washington examiner trumps immigration deal well real deal', 'TYPE': '\nNews Clips', 'Author': ''}

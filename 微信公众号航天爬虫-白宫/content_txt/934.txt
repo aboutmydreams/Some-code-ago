@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-tragedy-toronto-canada/', 'File_Name': 'statement-press-secretary-tragedy-toronto-canada', 'Date': 'April 23, 2018', 'Title': 'statement press secretary tragedy toronto canada', 'TYPE': '\nStatements & Releases', 'Author': ''}

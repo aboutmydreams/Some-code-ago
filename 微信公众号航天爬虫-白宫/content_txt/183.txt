@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-stands-american-farmers/', 'File_Name': 'president-trump-stands-american-farmers', 'Date': 'no data', 'Title': 'president trump stands american farmers', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tSonny Perdue\t\t\t\t\t\t\t\n'}

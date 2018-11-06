@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-first-lady-launch-best-initiative/', 'File_Name': 'remarks-first-lady-launch-best-initiative', 'Date': 'May 7, 2018', 'Title': 'remarks first lady launch best initiative', 'TYPE': '\nRemarks', 'Author': ''}

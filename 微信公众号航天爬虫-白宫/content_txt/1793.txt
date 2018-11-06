@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/united-states-kazakhstan-enhanced-strategic-partnership-21st-century/', 'File_Name': 'united-states-kazakhstan-enhanced-strategic-partnership-21st-century', 'Date': 'January 16, 2018', 'Title': 'united states kazakhstan enhanced strategic partnership 21st century', 'TYPE': '\nStatements & Releases', 'Author': ''}

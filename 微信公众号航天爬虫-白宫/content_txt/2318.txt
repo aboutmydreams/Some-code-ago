@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-terrorist-attack-new-york-city/', 'File_Name': 'statement-president-terrorist-attack-new-york-city', 'Date': 'October 31, 2017', 'Title': 'statement president terrorist attack new york city', 'TYPE': '\nStatements & Releases', 'Author': ''}

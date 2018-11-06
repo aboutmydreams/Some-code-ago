@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-president-donald-j-trumps-call-governor-rick-scott-florida/', 'File_Name': 'readout-president-donald-j-trumps-call-governor-rick-scott-florida', 'Date': 'September 6, 2017', 'Title': 'readout president donald j trumps call governor rick scott florida', 'TYPE': '\nStatements & Releases', 'Author': ''}

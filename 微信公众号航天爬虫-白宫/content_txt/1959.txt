@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-president-donald-j-trumps-call-president-vladimir-putin/', 'File_Name': 'readout-president-donald-j-trumps-call-president-vladimir-putin', 'Date': 'December 17, 2017', 'Title': 'readout president donald j trumps call president vladimir putin', 'TYPE': '\nStatements & Releases', 'Author': ''}

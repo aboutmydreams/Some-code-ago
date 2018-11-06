@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-hurricane-harvey/', 'File_Name': 'statement-hurricane-harvey', 'Date': 'August 25, 2017', 'Title': 'statement hurricane harvey', 'TYPE': '\nStatements & Releases', 'Author': ''}

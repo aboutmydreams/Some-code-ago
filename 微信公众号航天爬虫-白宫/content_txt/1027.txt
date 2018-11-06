@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/united-states-government-assessment-assad-regimes-chemical-weapons-use/', 'File_Name': 'united-states-government-assessment-assad-regimes-chemical-weapons-use', 'Date': 'April 13, 2018', 'Title': 'united states government assessment assad regimes chemical weapons use', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-workforce-development-event/', 'File_Name': 'remarks-president-trump-workforce-development-event', 'Date': 'July 31, 2018', 'Title': 'remarks president trump workforce development event', 'TYPE': '\nRemarks', 'Author': ''}

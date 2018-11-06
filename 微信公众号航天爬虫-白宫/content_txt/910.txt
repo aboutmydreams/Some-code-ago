@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-confirmation-mike-pompeo-secretary-state/', 'File_Name': 'statement-president-confirmation-mike-pompeo-secretary-state', 'Date': 'April 26, 2018', 'Title': 'statement president confirmation mike pompeo secretary state', 'TYPE': '\nStatements & Releases', 'Author': ''}

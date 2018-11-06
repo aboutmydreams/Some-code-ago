@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/cutting-taxes-good-american-workers/', 'File_Name': 'cutting-taxes-good-american-workers', 'Date': 'no data', 'Title': 'cutting taxes good american workers', 'TYPE': 'no type', 'Author': ''}

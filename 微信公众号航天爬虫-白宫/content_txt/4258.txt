@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-prime-minister-mays-opening-remarks/', 'File_Name': 'president-trump-prime-minister-mays-opening-remarks', 'Date': 'January 27, 2017', 'Title': 'president trump prime minister mays opening remarks', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-conversation-americas-future-event/', 'File_Name': 'remarks-president-trump-conversation-americas-future-event', 'Date': 'June 27, 2018', 'Title': 'remarks president trump conversation americas future event', 'TYPE': '\nRemarks', 'Author': ''}

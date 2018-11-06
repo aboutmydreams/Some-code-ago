@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-signing-h-r-1-tax-cuts-jobs-bill-act-h-r-1370/', 'File_Name': 'remarks-president-trump-signing-h-r-1-tax-cuts-jobs-bill-act-h-r-1370', 'Date': 'December 22, 2017', 'Title': 'remarks president trump signing h r 1 tax cuts jobs bill act h r 1370', 'TYPE': '\nRemarks', 'Author': ''}

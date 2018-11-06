@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-president-donald-j-trumps-call-guam-governor-eddie-calvo/', 'File_Name': 'readout-president-donald-j-trumps-call-guam-governor-eddie-calvo', 'Date': 'August 12, 2017', 'Title': 'readout president donald j trumps call guam governor eddie calvo', 'TYPE': '\nStatements & Releases', 'Author': ''}

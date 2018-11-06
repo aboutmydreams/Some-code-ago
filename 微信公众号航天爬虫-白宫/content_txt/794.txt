@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-proclaims-may-7-2018-best-day/', 'File_Name': 'president-donald-j-trump-proclaims-may-7-2018-best-day', 'Date': 'May 7, 2018', 'Title': 'president donald j trump proclaims may 7 2018 best day', 'TYPE': '\nProclamations', 'Author': ''}

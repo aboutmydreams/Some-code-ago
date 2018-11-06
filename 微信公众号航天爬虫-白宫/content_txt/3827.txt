@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/proclamation-president-donald-j-trump-honoring-memory-john-glenn/', 'File_Name': 'proclamation-president-donald-j-trump-honoring-memory-john-glenn', 'Date': 'April 5, 2017', 'Title': 'proclamation president donald j trump honoring memory john glenn', 'TYPE': '\nProclamations', 'Author': ''}

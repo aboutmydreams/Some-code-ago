@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/save-gaza-turn-lights/', 'File_Name': 'save-gaza-turn-lights', 'Date': 'no data', 'Title': 'save gaza turn lights', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tJason Greenblatt\t\t\t\t\t'}

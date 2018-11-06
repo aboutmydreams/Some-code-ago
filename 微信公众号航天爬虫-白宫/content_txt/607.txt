@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-pardoning-john-arthur-jack-johnson/', 'File_Name': 'remarks-president-trump-pardoning-john-arthur-jack-johnson', 'Date': 'May 24, 2018', 'Title': 'remarks president trump pardoning john arthur jack johnson', 'TYPE': '\nRemarks', 'Author': ''}

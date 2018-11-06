@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-lunch-republican-members-senate-2/', 'File_Name': 'remarks-president-trump-lunch-republican-members-senate-2', 'Date': 'December 5, 2017', 'Title': 'remarks president trump lunch republican members senate 2', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/photos-working-session-republican-congressional-leadership-retreat/', 'File_Name': 'photos-working-session-republican-congressional-leadership-retreat', 'Date': 'January 5, 2018', 'Title': 'photos working session republican congressional leadership retreat', 'TYPE': '\nStatements & Releases', 'Author': ''}

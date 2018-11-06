@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/top-highlights-sundays-shows-6/', 'File_Name': 'top-highlights-sundays-shows-6', 'Date': 'April 23, 2017', 'Title': 'top highlights sundays shows 6', 'TYPE': '\nStatements & Releases', 'Author': ''}

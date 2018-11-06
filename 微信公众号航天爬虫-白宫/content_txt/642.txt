@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/optimism-availability-good-jobs-hits-new-heights/', 'File_Name': 'optimism-availability-good-jobs-hits-new-heights', 'Date': 'May 21, 2018', 'Title': 'optimism availability good jobs hits new heights', 'TYPE': '\nNews Clips', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/new-york-post-op-ed-trump-not-backing-trade/', 'File_Name': 'new-york-post-op-ed-trump-not-backing-trade', 'Date': 'August 24, 2017', 'Title': 'new york post op ed trump not backing trade', 'TYPE': '\nNews Clips', 'Author': ''}

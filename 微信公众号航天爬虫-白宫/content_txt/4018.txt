@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-president-trumps-meeting-house-republican-deputy-whip-team/', 'File_Name': 'readout-president-trumps-meeting-house-republican-deputy-whip-team', 'Date': 'March 7, 2017', 'Title': 'readout president trumps meeting house republican deputy whip team', 'TYPE': '\nStatements & Releases', 'Author': ''}

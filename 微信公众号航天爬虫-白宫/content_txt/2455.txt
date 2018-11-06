@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/trump-administration-immigration-policy-priorities/', 'File_Name': 'trump-administration-immigration-policy-priorities', 'Date': 'October 8, 2017', 'Title': 'trump administration immigration policy priorities', 'TYPE': '\nFact Sheets', 'Author': ''}

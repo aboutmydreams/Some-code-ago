@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/facing-facts-broken-immigration-system/', 'File_Name': 'facing-facts-broken-immigration-system', 'Date': 'January 30, 2018', 'Title': 'facing facts broken immigration system', 'TYPE': '\nFact Sheets', 'Author': ''}

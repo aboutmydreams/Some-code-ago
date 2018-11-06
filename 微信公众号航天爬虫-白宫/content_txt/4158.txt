@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-acts-restore-public-safety-protect-law-enforcement/', 'File_Name': 'president-trump-acts-restore-public-safety-protect-law-enforcement', 'Date': 'February 11, 2017', 'Title': 'president trump acts restore public safety protect law enforcement', 'TYPE': '\nFact Sheets', 'Author': ''}

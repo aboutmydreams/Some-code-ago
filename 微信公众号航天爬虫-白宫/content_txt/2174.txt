@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidents-foreign-policy-remarks/', 'File_Name': 'presidents-foreign-policy-remarks', 'Date': 'November 15, 2017', 'Title': 'presidents foreign policy remarks', 'TYPE': '\nStatements & Releases', 'Author': ''}

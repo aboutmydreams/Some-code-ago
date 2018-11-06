@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-year-real-change/', 'File_Name': 'president-donald-j-trump-year-real-change', 'Date': 'January 23, 2018', 'Title': 'president donald j trump year real change', 'TYPE': '\nNews Clips', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/new-york-post-editorial-board-tax-cut-plan-america-needs/', 'File_Name': 'new-york-post-editorial-board-tax-cut-plan-america-needs', 'Date': 'November 3, 2017', 'Title': 'new york post editorial board tax cut plan america needs', 'TYPE': '\nNews Clips', 'Author': ''}

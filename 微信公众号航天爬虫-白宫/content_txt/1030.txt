@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/photos-week-041318/', 'File_Name': 'photos-week-041318', 'Date': 'April 13, 2018', 'Title': 'photos week 041318', 'TYPE': '\nStatements & Releases', 'Author': ''}

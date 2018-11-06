@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-meeting-nasa-senior-leadership/', 'File_Name': 'remarks-vice-president-pence-meeting-nasa-senior-leadership', 'Date': 'April 23, 2018', 'Title': 'remarks vice president pence meeting nasa senior leadership', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/white-house-make-financial-disclosures-public/', 'File_Name': 'white-house-make-financial-disclosures-public', 'Date': 'March 22, 2017', 'Title': 'white house make financial disclosures public', 'TYPE': '\nStatements & Releases', 'Author': ''}

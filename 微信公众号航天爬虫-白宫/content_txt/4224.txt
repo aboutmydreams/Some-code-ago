@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meeting-scotus-groups/', 'File_Name': 'remarks-president-trump-meeting-scotus-groups', 'Date': 'February 1, 2017', 'Title': 'remarks president trump meeting scotus groups', 'TYPE': '\nRemarks', 'Author': ''}

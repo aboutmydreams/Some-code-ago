@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-announces-u-s-withdrawal-paris-climate-accord/', 'File_Name': 'president-trump-announces-u-s-withdrawal-paris-climate-accord', 'Date': 'no data', 'Title': 'president trump announces u s withdrawal paris climate accord', 'TYPE': 'no type', 'Author': ''}

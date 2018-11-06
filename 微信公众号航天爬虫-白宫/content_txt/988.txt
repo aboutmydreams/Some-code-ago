@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-first-lady-melania-trump-passing-barbara-bush/', 'File_Name': 'statement-first-lady-melania-trump-passing-barbara-bush', 'Date': 'April 17, 2018', 'Title': 'statement first lady melania trump passing barbara bush', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/text-letter-president-speaker-house-representatives-president-senate-7/', 'File_Name': 'text-letter-president-speaker-house-representatives-president-senate-7', 'Date': 'May 8, 2017', 'Title': 'text letter president speaker house representatives president senate 7', 'TYPE': '\nStatements & Releases', 'Author': ''}

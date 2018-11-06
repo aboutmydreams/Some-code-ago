@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/six-months-later-tax-reform-delivers-economic-resurgence/', 'File_Name': 'six-months-later-tax-reform-delivers-economic-resurgence', 'Date': 'June 29, 2018', 'Title': 'six months later tax reform delivers economic resurgence', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

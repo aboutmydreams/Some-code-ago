@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/criminal-aliens-set-free-sanctuary-cities/', 'File_Name': 'criminal-aliens-set-free-sanctuary-cities', 'Date': 'no data', 'Title': 'criminal aliens set free sanctuary cities', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

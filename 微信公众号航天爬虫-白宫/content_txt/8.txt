@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-official-visit-president-duda-poland/', 'File_Name': 'statement-press-secretary-official-visit-president-duda-poland', 'Date': 'August 28, 2018', 'Title': 'statement press secretary official visit president duda poland', 'TYPE': '\nStatements & Releases', 'Author': ''}

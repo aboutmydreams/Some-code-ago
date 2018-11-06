@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-visit-prime-minister-mark-rutte-netherlands/', 'File_Name': 'statement-press-secretary-visit-prime-minister-mark-rutte-netherlands', 'Date': 'June 18, 2018', 'Title': 'statement press secretary visit prime minister mark rutte netherlands', 'TYPE': '\nStatements & Releases', 'Author': ''}

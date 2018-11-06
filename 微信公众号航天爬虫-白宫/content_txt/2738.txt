@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-9-11-memorial-observance/', 'File_Name': 'remarks-president-trump-9-11-memorial-observance', 'Date': 'September 11, 2017', 'Title': 'remarks president trump 9 11 memorial observance', 'TYPE': '\nRemarks', 'Author': ''}

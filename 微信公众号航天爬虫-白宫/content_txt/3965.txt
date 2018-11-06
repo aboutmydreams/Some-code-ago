@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/text-letter-president-speaker-house-representatives-3/', 'File_Name': 'text-letter-president-speaker-house-representatives-3', 'Date': 'March 16, 2017', 'Title': 'text letter president speaker house representatives 3', 'TYPE': '\nStatements & Releases', 'Author': ''}

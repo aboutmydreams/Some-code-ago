@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-people-poland/', 'File_Name': 'remarks-president-trump-people-poland', 'Date': 'July 6, 2017', 'Title': 'remarks president trump people poland', 'TYPE': '\nRemarks', 'Author': ''}

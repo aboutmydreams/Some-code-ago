@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/christmas-white-house-2017/', 'File_Name': 'christmas-white-house-2017', 'Date': 'no data', 'Title': 'christmas white house 2017', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tFirst Lady Melania Trump\t\t\t\t\t'}

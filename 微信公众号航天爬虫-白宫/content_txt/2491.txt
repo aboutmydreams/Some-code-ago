@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-fy-2018-budget-resolution/', 'File_Name': 'statement-fy-2018-budget-resolution', 'Date': 'October 5, 2017', 'Title': 'statement fy 2018 budget resolution', 'TYPE': '\nStatements & Releases', 'Author': ''}

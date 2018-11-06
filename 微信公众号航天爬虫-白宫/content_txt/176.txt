@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-workforce-development-roundtable/', 'File_Name': 'remarks-president-trump-workforce-development-roundtable', 'Date': 'July 26, 2018', 'Title': 'remarks president trump workforce development roundtable', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/adam-michel-families-across-america-can-expect-tax-cut/', 'File_Name': 'adam-michel-families-across-america-can-expect-tax-cut', 'Date': 'December 7, 2017', 'Title': 'adam michel families across america can expect tax cut', 'TYPE': '\nNews Clips', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-first-lady-melania-trump-welcomes-first-lady-kenya-white-house/', 'File_Name': 'readout-first-lady-melania-trump-welcomes-first-lady-kenya-white-house', 'Date': 'August 27, 2018', 'Title': 'readout first lady melania trump welcomes first lady kenya white house', 'TYPE': '\nStatements & Releases', 'Author': ''}

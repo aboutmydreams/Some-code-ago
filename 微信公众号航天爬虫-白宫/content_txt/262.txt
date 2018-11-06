@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statements-support-judge-brett-kavanaugh-pour/', 'File_Name': 'statements-support-judge-brett-kavanaugh-pour', 'Date': 'July 13, 2018', 'Title': 'statements support judge brett kavanaugh pour', 'TYPE': '\nStatements & Releases', 'Author': ''}

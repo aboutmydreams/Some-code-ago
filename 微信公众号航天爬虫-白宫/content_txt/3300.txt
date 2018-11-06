@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-visits-kirkwood-community-college/', 'File_Name': 'president-trump-visits-kirkwood-community-college', 'Date': 'no data', 'Title': 'president trump visits kirkwood community college', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tPresident Trump\t\t\t\t\t'}

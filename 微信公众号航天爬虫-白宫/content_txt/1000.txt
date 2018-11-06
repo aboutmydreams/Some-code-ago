@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/old-new-tax-cuts-reforms-look-hardworking-taxpayers/', 'File_Name': 'old-new-tax-cuts-reforms-look-hardworking-taxpayers', 'Date': 'April 17, 2018', 'Title': 'old new tax cuts reforms look hardworking taxpayers', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

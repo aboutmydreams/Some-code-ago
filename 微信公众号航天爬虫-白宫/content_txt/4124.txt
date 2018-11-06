@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-signing-h-j-resolution-38/', 'File_Name': 'remarks-president-trump-signing-h-j-resolution-38', 'Date': 'February 16, 2017', 'Title': 'remarks president trump signing h j resolution 38', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trumps-100-days-historic-accomplishments-2/', 'File_Name': 'president-trumps-100-days-historic-accomplishments-2', 'Date': 'April 25, 2017', 'Title': 'president trumps 100 days historic accomplishments 2', 'TYPE': '\nFact Sheets', 'Author': ''}

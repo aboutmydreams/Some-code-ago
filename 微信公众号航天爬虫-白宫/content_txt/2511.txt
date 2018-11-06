@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-briefing-hurricane-maria-relief-efforts/', 'File_Name': 'remarks-president-trump-briefing-hurricane-maria-relief-efforts', 'Date': 'October 3, 2017', 'Title': 'remarks president trump briefing hurricane maria relief efforts', 'TYPE': '\nRemarks', 'Author': ''}

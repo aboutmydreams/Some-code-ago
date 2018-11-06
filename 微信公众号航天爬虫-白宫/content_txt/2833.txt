@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-tour-emergency-operations-center-austin-tx/', 'File_Name': 'remarks-president-trump-tour-emergency-operations-center-austin-tx', 'Date': 'August 29, 2017', 'Title': 'remarks president trump tour emergency operations center austin tx', 'TYPE': '\nRemarks', 'Author': ''}

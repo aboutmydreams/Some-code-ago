@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-h-r-624-h-r-1616-law/', 'File_Name': 'president-donald-j-trump-signs-h-r-624-h-r-1616-law', 'Date': 'September 15, 2017', 'Title': 'president donald j trump signs h r 624 h r 1616 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

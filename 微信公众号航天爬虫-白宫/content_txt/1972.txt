@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-deregulation/', 'File_Name': 'remarks-president-trump-deregulation', 'Date': 'December 14, 2017', 'Title': 'remarks president trump deregulation', 'TYPE': '\nRemarks', 'Author': ''}

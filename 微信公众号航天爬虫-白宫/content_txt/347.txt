@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-justice-anthony-m-kennedy/', 'File_Name': 'statement-justice-anthony-m-kennedy', 'Date': 'June 27, 2018', 'Title': 'statement justice anthony m kennedy', 'TYPE': '\nStatements & Releases', 'Author': ''}

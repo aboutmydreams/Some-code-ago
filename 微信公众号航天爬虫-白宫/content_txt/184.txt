@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-proclamation-anniversary-americans-disabilities-act-2018/', 'File_Name': 'presidential-proclamation-anniversary-americans-disabilities-act-2018', 'Date': 'July 25, 2018', 'Title': 'presidential proclamation anniversary americans disabilities act 2018', 'TYPE': '\nProclamations', 'Author': ''}

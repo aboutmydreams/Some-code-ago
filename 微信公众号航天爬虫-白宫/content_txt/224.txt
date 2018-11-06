@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/economy-booms-time-pledge-americas-workers/', 'File_Name': 'economy-booms-time-pledge-americas-workers', 'Date': 'no data', 'Title': 'economy booms time pledge americas workers', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

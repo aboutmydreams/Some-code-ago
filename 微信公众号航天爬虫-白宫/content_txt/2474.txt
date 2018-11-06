@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-santa-bernadita-san-juan-pr/', 'File_Name': 'remarks-vice-president-santa-bernadita-san-juan-pr', 'Date': 'October 6, 2017', 'Title': 'remarks vice president santa bernadita san juan pr', 'TYPE': '\nRemarks', 'Author': ''}

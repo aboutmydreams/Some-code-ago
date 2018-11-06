@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-trump-syria/', 'File_Name': 'statement-president-trump-syria', 'Date': 'April 13, 2018', 'Title': 'statement president trump syria', 'TYPE': '\nRemarks', 'Author': ''}

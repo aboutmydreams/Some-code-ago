@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wtas-senate-minoritys-obstructionism-immigration/', 'File_Name': 'wtas-senate-minoritys-obstructionism-immigration', 'Date': 'February 16, 2018', 'Title': 'wtas senate minoritys obstructionism immigration', 'TYPE': '\nNews Clips', 'Author': ''}

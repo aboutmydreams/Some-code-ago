@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-members-angel-families-immigration/', 'File_Name': 'remarks-president-trump-members-angel-families-immigration', 'Date': 'June 22, 2018', 'Title': 'remarks president trump members angel families immigration', 'TYPE': '\nRemarks', 'Author': ''}

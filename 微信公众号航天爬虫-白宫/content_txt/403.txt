@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-standing-human-rights-u-n/', 'File_Name': 'president-donald-j-trump-standing-human-rights-u-n', 'Date': 'June 21, 2018', 'Title': 'president donald j trump standing human rights u n', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

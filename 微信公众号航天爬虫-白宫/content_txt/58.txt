@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/trump-economy-continues-heat/', 'File_Name': 'trump-economy-continues-heat', 'Date': 'August 17, 2018', 'Title': 'trump economy continues heat', 'TYPE': '\nNews Clips', 'Author': ''}

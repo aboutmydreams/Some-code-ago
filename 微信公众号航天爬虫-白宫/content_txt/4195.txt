@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-presidents-call-president-recep-tayyip-erdogan-turkey/', 'File_Name': 'readout-presidents-call-president-recep-tayyip-erdogan-turkey', 'Date': 'February 7, 2017', 'Title': 'readout presidents call president recep tayyip erdogan turkey', 'TYPE': '\nStatements & Releases', 'Author': ''}

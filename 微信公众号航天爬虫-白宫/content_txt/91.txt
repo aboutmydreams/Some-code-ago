@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-future-u-s-military-space/', 'File_Name': 'remarks-vice-president-pence-future-u-s-military-space', 'Date': 'August 9, 2018', 'Title': 'remarks vice president pence future u s military space', 'TYPE': '\nRemarks', 'Author': ''}

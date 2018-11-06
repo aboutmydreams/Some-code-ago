@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wtas-support-trump-administrations-approval-opportunity-zones/', 'File_Name': 'wtas-support-trump-administrations-approval-opportunity-zones', 'Date': 'April 18, 2018', 'Title': 'wtas support trump administrations approval opportunity zones', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,15 @@
+<html>
+  <head>
+    {% if title %}
+    <title>{{title}} - microblog</title>
+    {% else %}
+    <title>注册</title>
+    {% endif %}
+  </head>
+  <body>
+    <form action="/sure_yanzm" method="post">
+       <p><input name="yan_zm">确认验证码</p>       
+       <p><button type="submit">确定</button></p>
+    </form>
+  </body>
+</html>

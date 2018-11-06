@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-cea-chairman-kevin-hassett-joint-committee-taxation-score/', 'File_Name': 'statement-cea-chairman-kevin-hassett-joint-committee-taxation-score', 'Date': 'December 5, 2017', 'Title': 'statement cea chairman kevin hassett joint committee taxation score', 'TYPE': '\nStatements & Releases', 'Author': ''}

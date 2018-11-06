@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/senate-majority-leader-mitch-mcconnell-tax-reform-whats/', 'File_Name': 'senate-majority-leader-mitch-mcconnell-tax-reform-whats', 'Date': 'December 4, 2017', 'Title': 'senate majority leader mitch mcconnell tax reform whats', 'TYPE': '\nNews Clips', 'Author': ''}

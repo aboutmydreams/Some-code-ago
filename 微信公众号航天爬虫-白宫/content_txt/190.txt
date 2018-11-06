@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/welfare-work-requirements-will-ease-poverty-improve-labor-force/', 'File_Name': 'welfare-work-requirements-will-ease-poverty-improve-labor-force', 'Date': 'no data', 'Title': 'welfare work requirements will ease poverty improve labor force', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tRichard V. Burkhauser\t\t\t\t\t'}

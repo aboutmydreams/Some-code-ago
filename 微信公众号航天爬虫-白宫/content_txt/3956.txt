@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/dissents-state-washington-et-al-v-donald-j-trump-et-al/', 'File_Name': 'dissents-state-washington-et-al-v-donald-j-trump-et-al', 'Date': 'no data', 'Title': 'dissents state washington et al v donald j trump et al', 'TYPE': 'no type', 'Author': ''}

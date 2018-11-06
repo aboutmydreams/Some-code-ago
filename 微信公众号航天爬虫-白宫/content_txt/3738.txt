@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/letter-president-certain-congressional-committee-chairs/', 'File_Name': 'letter-president-certain-congressional-committee-chairs', 'Date': 'April 20, 2017', 'Title': 'letter president certain congressional committee chairs', 'TYPE': '\nStatements & Releases', 'Author': ''}

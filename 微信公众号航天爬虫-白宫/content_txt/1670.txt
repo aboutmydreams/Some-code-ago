@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/state-union-speech-excerpts/', 'File_Name': 'state-union-speech-excerpts', 'Date': 'January 30, 2018', 'Title': 'state union speech excerpts', 'TYPE': '\nRemarks', 'Author': ''}

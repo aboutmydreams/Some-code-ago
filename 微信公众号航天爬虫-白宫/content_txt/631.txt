@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-h-r-3210/', 'File_Name': 'statement-president-donald-j-trump-h-r-3210', 'Date': 'May 22, 2018', 'Title': 'statement president donald j trump h r 3210', 'TYPE': '\nStatements & Releases', 'Author': ''}

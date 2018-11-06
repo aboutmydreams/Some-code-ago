@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-mrs-pence-military-families/', 'File_Name': 'remarks-vice-president-mrs-pence-military-families', 'Date': 'May 9, 2017', 'Title': 'remarks vice president mrs pence military families', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-conservative-political-action-conference/', 'File_Name': 'remarks-vice-president-pence-conservative-political-action-conference', 'Date': 'February 22, 2018', 'Title': 'remarks vice president pence conservative political action conference', 'TYPE': '\nRemarks', 'Author': ''}

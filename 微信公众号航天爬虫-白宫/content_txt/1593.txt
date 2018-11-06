@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-prime-minister-abe-japan-joint-statements/', 'File_Name': 'remarks-vice-president-pence-prime-minister-abe-japan-joint-statements', 'Date': 'February 7, 2018', 'Title': 'remarks vice president pence prime minister abe japan joint statements', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/vice-president-mike-pence-year-accomplishments/', 'File_Name': 'vice-president-mike-pence-year-accomplishments', 'Date': 'November 8, 2017', 'Title': 'vice president mike pence year accomplishments', 'TYPE': '\nNews Clips', 'Author': ''}

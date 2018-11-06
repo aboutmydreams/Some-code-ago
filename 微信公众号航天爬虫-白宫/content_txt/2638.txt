@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/praise-president-donald-j-trumps-address-un-general-assembly/', 'File_Name': 'praise-president-donald-j-trumps-address-un-general-assembly', 'Date': 'September 20, 2017', 'Title': 'praise president donald j trumps address un general assembly', 'TYPE': '\nStatements & Releases', 'Author': ''}

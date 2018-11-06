@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-executive-order-workforce-development/', 'File_Name': 'president-donald-j-trumps-executive-order-workforce-development', 'Date': 'July 19, 2018', 'Title': 'president donald j trumps executive order workforce development', 'TYPE': '\nNews Clips', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/the-inaugural-address/', 'File_Name': 'the-inaugural-address', 'Date': 'January 20, 2017', 'Title': 'the inaugural address', 'TYPE': '\nRemarks', 'Author': ''}

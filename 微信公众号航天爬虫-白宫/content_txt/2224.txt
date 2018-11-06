@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meet-greet-vietnam-war-veterans/', 'File_Name': 'remarks-president-trump-meet-greet-vietnam-war-veterans', 'Date': 'November 10, 2017', 'Title': 'remarks president trump meet greet vietnam war veterans', 'TYPE': '\nRemarks', 'Author': ''}

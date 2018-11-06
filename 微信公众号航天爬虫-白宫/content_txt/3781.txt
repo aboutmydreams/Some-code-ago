@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-strategic-policy-ceo-discussion/', 'File_Name': 'remarks-president-trump-strategic-policy-ceo-discussion', 'Date': 'April 11, 2017', 'Title': 'remarks president trump strategic policy ceo discussion', 'TYPE': '\nRemarks', 'Author': ''}

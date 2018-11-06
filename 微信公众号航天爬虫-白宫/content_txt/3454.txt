@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/editorial-boards-praise-president-trumps-paris-decision/', 'File_Name': 'editorial-boards-praise-president-trumps-paris-decision', 'Date': 'June 2, 2017', 'Title': 'editorial boards praise president trumps paris decision', 'TYPE': '\nNews Clips', 'Author': ''}

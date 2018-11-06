@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-first-lady-governors-spouses-luncheon/', 'File_Name': 'remarks-first-lady-governors-spouses-luncheon', 'Date': 'February 26, 2018', 'Title': 'remarks first lady governors spouses luncheon', 'TYPE': '\nRemarks', 'Author': ''}

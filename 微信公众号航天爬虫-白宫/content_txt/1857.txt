@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/26-years-later-president-hears-rural-america/', 'File_Name': '26-years-later-president-hears-rural-america', 'Date': 'no data', 'Title': '26 years later president hears rural america', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t\t\t\n'}

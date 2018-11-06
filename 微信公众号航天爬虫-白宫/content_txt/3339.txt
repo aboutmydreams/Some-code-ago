@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-passing-helmut-kohl/', 'File_Name': 'statement-president-donald-j-trump-passing-helmut-kohl', 'Date': 'June 16, 2017', 'Title': 'statement president donald j trump passing helmut kohl', 'TYPE': '\nStatements & Releases', 'Author': ''}

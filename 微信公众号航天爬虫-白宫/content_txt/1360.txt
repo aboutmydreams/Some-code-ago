@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-vice-president-mike-pence-north-korea/', 'File_Name': 'statement-vice-president-mike-pence-north-korea', 'Date': 'March 6, 2018', 'Title': 'statement vice president mike pence north korea', 'TYPE': '\nStatements & Releases', 'Author': ''}

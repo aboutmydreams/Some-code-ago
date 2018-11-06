@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-gaggle-press-secretary-sean-spicer-061917/', 'File_Name': 'press-gaggle-press-secretary-sean-spicer-061917', 'Date': 'June 19, 2017', 'Title': 'press gaggle press secretary sean spicer 061917', 'TYPE': '\nPress Briefings', 'Author': ''}

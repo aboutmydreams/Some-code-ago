@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-meeting-king-abdullah-ii-jordan/', 'File_Name': 'readout-vice-presidents-meeting-king-abdullah-ii-jordan', 'Date': 'January 30, 2017', 'Title': 'readout vice presidents meeting king abdullah ii jordan', 'TYPE': '\nStatements & Releases', 'Author': ''}

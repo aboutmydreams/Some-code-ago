@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-vice-president-mike-pence-inter-korean-summit/', 'File_Name': 'statement-vice-president-mike-pence-inter-korean-summit', 'Date': 'April 27, 2018', 'Title': 'statement vice president mike pence inter korean summit', 'TYPE': '\nStatements & Releases', 'Author': ''}

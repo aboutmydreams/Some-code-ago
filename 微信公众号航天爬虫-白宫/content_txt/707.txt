@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-israels-70th-independence-day-celebration/', 'File_Name': 'remarks-vice-president-pence-israels-70th-independence-day-celebration', 'Date': 'May 14, 2018', 'Title': 'remarks vice president pence israels 70th independence day celebration', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-2017-astronaut-selection-announcement/', 'File_Name': 'remarks-vice-president-2017-astronaut-selection-announcement', 'Date': 'June 7, 2017', 'Title': 'remarks vice president 2017 astronaut selection announcement', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-proclamation-modifying-bears-ears-national-monument/', 'File_Name': 'presidential-proclamation-modifying-bears-ears-national-monument', 'Date': 'December 4, 2017', 'Title': 'presidential proclamation modifying bears ears national monument', 'TYPE': '\nProclamations', 'Author': ''}

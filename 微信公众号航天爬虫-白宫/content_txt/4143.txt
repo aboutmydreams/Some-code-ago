@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-approves-disaster-declaration-hoopa-valley-tribe/', 'File_Name': 'president-trump-approves-disaster-declaration-hoopa-valley-tribe', 'Date': 'February 14, 2017', 'Title': 'president trump approves disaster declaration hoopa valley tribe', 'TYPE': '\nStatements & Releases', 'Author': ''}

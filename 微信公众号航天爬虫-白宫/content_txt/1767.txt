@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-president-donald-j-trumps-meeting-senior-defense-leaders/', 'File_Name': 'readout-president-donald-j-trumps-meeting-senior-defense-leaders', 'Date': 'January 19, 2018', 'Title': 'readout president donald j trumps meeting senior defense leaders', 'TYPE': '\nStatements & Releases', 'Author': ''}

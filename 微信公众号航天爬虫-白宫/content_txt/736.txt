@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/gina-haspels-confirmation-central-national-security/', 'File_Name': 'gina-haspels-confirmation-central-national-security', 'Date': 'May 11, 2018', 'Title': 'gina haspels confirmation central national security', 'TYPE': '\nNews Clips', 'Author': ''}

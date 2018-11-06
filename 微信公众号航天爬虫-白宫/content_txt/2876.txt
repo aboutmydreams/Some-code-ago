@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/praise-president-trumps-commitment-border-security/', 'File_Name': 'praise-president-trumps-commitment-border-security', 'Date': 'August 23, 2017', 'Title': 'praise president trumps commitment border security', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-proclaims-may-4-2017-national-day-prayer/', 'File_Name': 'president-donald-j-trump-proclaims-may-4-2017-national-day-prayer', 'Date': 'May 4, 2017', 'Title': 'president donald j trump proclaims may 4 2017 national day prayer', 'TYPE': '\nProclamations', 'Author': ''}

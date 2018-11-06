@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-signing-va-mission-act-2018/', 'File_Name': 'remarks-president-trump-signing-va-mission-act-2018', 'Date': 'June 6, 2018', 'Title': 'remarks president trump signing va mission act 2018', 'TYPE': '\nRemarks', 'Author': ''}

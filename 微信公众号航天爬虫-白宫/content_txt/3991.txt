@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/remarks-president-signing-executive-order-reorganize-executive-branch/', 'File_Name': 'remarks-president-signing-executive-order-reorganize-executive-branch', 'Date': 'March 13, 2017', 'Title': 'remarks president signing executive order reorganize executive branch', 'TYPE': '\nExecutive Orders', 'Author': ''}

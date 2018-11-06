@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-vice-president-mike-pence-venezuelas-elections/', 'File_Name': 'statement-vice-president-mike-pence-venezuelas-elections', 'Date': 'May 21, 2018', 'Title': 'statement vice president mike pence venezuelas elections', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-second-lady-karen-pence-visit-jordan/', 'File_Name': 'readout-second-lady-karen-pence-visit-jordan', 'Date': 'January 21, 2018', 'Title': 'readout second lady karen pence visit jordan', 'TYPE': '\nStatements & Releases', 'Author': ''}

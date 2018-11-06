@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-mens-health-week/', 'File_Name': 'statement-president-donald-j-trump-mens-health-week', 'Date': 'June 12, 2017', 'Title': 'statement president donald j trump mens health week', 'TYPE': '\nStatements & Releases', 'Author': ''}

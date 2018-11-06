@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-opening-mississippi-civil-rights-museum/', 'File_Name': 'remarks-president-trump-opening-mississippi-civil-rights-museum', 'Date': 'December 9, 2017', 'Title': 'remarks president trump opening mississippi civil rights museum', 'TYPE': '\nRemarks', 'Author': ''}

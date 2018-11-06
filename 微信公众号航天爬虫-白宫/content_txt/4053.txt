@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trumps-first-40-days-action-achieving-results-american-people/', 'File_Name': 'president-trumps-first-40-days-action-achieving-results-american-people', 'Date': 'February 28, 2017', 'Title': 'president trumps first 40 days action achieving results american people', 'TYPE': '\nFact Sheets', 'Author': ''}

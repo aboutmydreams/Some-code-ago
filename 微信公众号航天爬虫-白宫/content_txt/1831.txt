@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-immigration-legislation/', 'File_Name': 'statement-press-secretary-immigration-legislation', 'Date': 'January 10, 2018', 'Title': 'statement press secretary immigration legislation', 'TYPE': '\nStatements & Releases', 'Author': ''}

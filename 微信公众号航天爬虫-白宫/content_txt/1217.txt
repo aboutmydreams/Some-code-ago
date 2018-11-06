@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-first-lady-presentation-2018-international-women-courage-award/', 'File_Name': 'remarks-first-lady-presentation-2018-international-women-courage-award', 'Date': 'March 23, 2018', 'Title': 'remarks first lady presentation 2018 international women courage award', 'TYPE': '\nRemarks', 'Author': ''}

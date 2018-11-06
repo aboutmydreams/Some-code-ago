@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/short-blase-fundamental-error-cbos-health-care-projections/', 'File_Name': 'short-blase-fundamental-error-cbos-health-care-projections', 'Date': 'July 15, 2017', 'Title': 'short blase fundamental error cbos health care projections', 'TYPE': '\nNews Clips', 'Author': ''}

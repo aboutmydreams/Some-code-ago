@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/praise-president-trumps-tax-reform-speech-missouri/', 'File_Name': 'praise-president-trumps-tax-reform-speech-missouri', 'Date': 'November 30, 2017', 'Title': 'praise president trumps tax reform speech missouri', 'TYPE': '\nStatements & Releases', 'Author': ''}

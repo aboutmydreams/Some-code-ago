@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/text-notice-president-speaker-house-representatives-president-senate/', 'File_Name': 'text-notice-president-speaker-house-representatives-president-senate', 'Date': 'August 9, 2018', 'Title': 'text notice president speaker house representatives president senate', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-commutes-sentence-alice-marie-johnson/', 'File_Name': 'president-trump-commutes-sentence-alice-marie-johnson', 'Date': 'June 6, 2018', 'Title': 'president trump commutes sentence alice marie johnson', 'TYPE': '\nStatements & Releases', 'Author': ''}

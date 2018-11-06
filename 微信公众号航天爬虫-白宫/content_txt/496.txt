@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-prime-minister-abe-japan-joint-press-conference-2/', 'File_Name': 'remarks-president-trump-prime-minister-abe-japan-joint-press-conference-2', 'Date': 'June 7, 2018', 'Title': 'remarks president trump prime minister abe japan joint press conference 2', 'TYPE': '\nRemarks', 'Author': ''}

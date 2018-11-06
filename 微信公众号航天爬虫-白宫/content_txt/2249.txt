@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/national-day-victims-communism/', 'File_Name': 'national-day-victims-communism', 'Date': 'November 7, 2017', 'Title': 'national day victims communism', 'TYPE': '\nStatements & Releases', 'Author': ''}

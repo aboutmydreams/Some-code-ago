@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-protects-americas-cyber-infrastructure/', 'File_Name': 'president-trump-protects-americas-cyber-infrastructure', 'Date': 'May 12, 2017', 'Title': 'president trump protects americas cyber infrastructure', 'TYPE': '\nFact Sheets', 'Author': ''}

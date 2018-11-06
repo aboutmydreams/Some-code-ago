@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/photos-of-the-week-011318/', 'File_Name': 'photos-of-the-week-011318', 'Date': 'January 12, 2018', 'Title': 'photos of the week 011318', 'TYPE': '\nStatements & Releases', 'Author': ''}

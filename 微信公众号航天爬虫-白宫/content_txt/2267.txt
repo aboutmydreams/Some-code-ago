@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/notice-regarding-continuation-national-emergency-respect-iran/', 'File_Name': 'notice-regarding-continuation-national-emergency-respect-iran', 'Date': 'November 6, 2017', 'Title': 'notice regarding continuation national emergency respect iran', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

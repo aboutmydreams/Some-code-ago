@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-defeat-isis-raqqah/', 'File_Name': 'statement-president-donald-j-trump-defeat-isis-raqqah', 'Date': 'October 21, 2017', 'Title': 'statement president donald j trump defeat isis raqqah', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-restores-confidence-american-economy/', 'File_Name': 'president-trump-restores-confidence-american-economy', 'Date': 'March 31, 2017', 'Title': 'president trump restores confidence american economy', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tDonald J. Trump\t\t\t\t\t'}

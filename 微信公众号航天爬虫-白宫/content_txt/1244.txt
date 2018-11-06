@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-h-r-1208-h-r-1858-h-r-1988/', 'File_Name': 'president-donald-j-trump-signs-h-r-1208-h-r-1858-h-r-1988', 'Date': 'March 20, 2018', 'Title': 'president donald j trump signs h r 1208 h r 1858 h r 1988', 'TYPE': '\nStatements & Releases', 'Author': ''}

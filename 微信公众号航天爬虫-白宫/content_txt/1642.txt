@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-2018-house-senate-republican-member-conference/', 'File_Name': 'remarks-president-trump-2018-house-senate-republican-member-conference', 'Date': 'February 1, 2018', 'Title': 'remarks president trump 2018 house senate republican member conference', 'TYPE': '\nRemarks', 'Author': ''}

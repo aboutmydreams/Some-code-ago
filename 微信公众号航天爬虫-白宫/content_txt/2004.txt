@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/f-h-buckley-gop-tax-bill-good-middle-class-americans/', 'File_Name': 'f-h-buckley-gop-tax-bill-good-middle-class-americans', 'Date': 'December 11, 2017', 'Title': 'f h buckley gop tax bill good middle class americans', 'TYPE': '\nNews Clips', 'Author': ''}

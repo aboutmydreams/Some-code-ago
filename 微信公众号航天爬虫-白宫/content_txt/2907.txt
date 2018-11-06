@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-panamanian-president-varela-joint-statement-press/', 'File_Name': 'remarks-vice-president-panamanian-president-varela-joint-statement-press', 'Date': 'August 17, 2017', 'Title': 'remarks vice president panamanian president varela joint statement press', 'TYPE': '\nRemarks', 'Author': ''}

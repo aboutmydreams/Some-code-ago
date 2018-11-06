@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/message-congress-united-states-3/', 'File_Name': 'message-congress-united-states-3', 'Date': 'July 20, 2017', 'Title': 'message congress united states 3', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-cutting-red-tape-american-businesses/', 'File_Name': 'president-trump-cutting-red-tape-american-businesses', 'Date': 'February 14, 2017', 'Title': 'president trump cutting red tape american businesses', 'TYPE': '\nFact Sheets', 'Author': ''}

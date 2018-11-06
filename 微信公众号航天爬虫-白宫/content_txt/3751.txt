@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-executive-order-buy-american-hire-american/', 'File_Name': 'presidential-executive-order-buy-american-hire-american', 'Date': 'April 18, 2017', 'Title': 'presidential executive order buy american hire american', 'TYPE': '\nExecutive Orders', 'Author': ''}

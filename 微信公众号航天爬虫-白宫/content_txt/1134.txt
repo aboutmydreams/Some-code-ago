@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/commitment-fighting-opioid-crisis/', 'File_Name': 'commitment-fighting-opioid-crisis', 'Date': 'no data', 'Title': 'commitment fighting opioid crisis', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tAlex M. Azar II\t\t\t\t\t\t\t\n'}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/tax-reform-bills-give-small-businesses-plenty-thankful/', 'File_Name': 'tax-reform-bills-give-small-businesses-plenty-thankful', 'Date': 'November 16, 2017', 'Title': 'tax reform bills give small businesses plenty thankful', 'TYPE': '\nNews Clips', 'Author': ''}

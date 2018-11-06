@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-tax-cuts-boosting-american-workers-paychecks/', 'File_Name': 'president-donald-j-trumps-tax-cuts-boosting-american-workers-paychecks', 'Date': 'February 9, 2018', 'Title': 'president donald j trumps tax cuts boosting american workers paychecks', 'TYPE': '\nNews Clips', 'Author': ''}

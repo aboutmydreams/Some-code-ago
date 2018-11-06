@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-proclaims-september-11-2017-patriot-day/', 'File_Name': 'president-donald-j-trump-proclaims-september-11-2017-patriot-day', 'Date': 'September 8, 2017', 'Title': 'president donald j trump proclaims september 11 2017 patriot day', 'TYPE': '\nProclamations', 'Author': ''}

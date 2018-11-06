@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/editorial-donald-trump-nikki-haley-chalk-victory-north-korea-china/', 'File_Name': 'editorial-donald-trump-nikki-haley-chalk-victory-north-korea-china', 'Date': 'August 8, 2017', 'Title': 'editorial donald trump nikki haley chalk victory north korea china', 'TYPE': '\nNews Clips', 'Author': ''}

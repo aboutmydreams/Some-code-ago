@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/executive-order-establishing-presidents-national-council-american-worker/', 'File_Name': 'executive-order-establishing-presidents-national-council-american-worker', 'Date': 'July 19, 2018', 'Title': 'executive order establishing presidents national council american worker', 'TYPE': '\nExecutive Orders', 'Author': ''}

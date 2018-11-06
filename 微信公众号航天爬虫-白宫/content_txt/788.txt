@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/white-house-announces-rescission-package/', 'File_Name': 'white-house-announces-rescission-package', 'Date': 'no data', 'Title': 'white house announces rescission package', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tRuss Vought\t\t\t\t\t'}

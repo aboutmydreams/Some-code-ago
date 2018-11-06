@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/empowered-patients-future-health-care/', 'File_Name': 'empowered-patients-future-health-care', 'Date': 'no data', 'Title': 'empowered patients future health care', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tSeema Verma\t\t\t\t\t'}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidential-message-earth-day-2018/', 'File_Name': 'presidential-message-earth-day-2018', 'Date': 'April 22, 2018', 'Title': 'presidential message earth day 2018', 'TYPE': '\nStatements & Releases', 'Author': ''}

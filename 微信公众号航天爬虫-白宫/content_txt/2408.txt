@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/fifteen-nominations-sent-senate-today/', 'File_Name': 'fifteen-nominations-sent-senate-today', 'Date': 'October 16, 2017', 'Title': 'fifteen nominations sent senate today', 'TYPE': '\nNominations & Appointments', 'Author': ''}

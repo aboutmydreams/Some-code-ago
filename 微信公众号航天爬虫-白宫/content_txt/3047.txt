@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-awards-public-safety-officer-medal-valor/', 'File_Name': 'president-donald-j-trump-awards-public-safety-officer-medal-valor', 'Date': 'July 27, 2017', 'Title': 'president donald j trump awards public safety officer medal valor', 'TYPE': '\nStatements & Releases', 'Author': ''}

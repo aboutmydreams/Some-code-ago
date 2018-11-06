@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/six-months-tax-reform-paying-off/', 'File_Name': 'six-months-tax-reform-paying-off', 'Date': 'June 29, 2018', 'Title': 'six months tax reform paying off', 'TYPE': '\nStatements & Releases', 'Author': ''}

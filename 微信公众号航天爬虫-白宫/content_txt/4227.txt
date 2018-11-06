@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/first-lady-melania-trump-announces-chief-staff/', 'File_Name': 'first-lady-melania-trump-announces-chief-staff', 'Date': 'February 1, 2017', 'Title': 'first lady melania trump announces chief staff', 'TYPE': '\nStatements & Releases', 'Author': ''}

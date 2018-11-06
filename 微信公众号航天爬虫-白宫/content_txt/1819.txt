@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-troops-family-members-nellis-air-force-base/', 'File_Name': 'remarks-vice-president-troops-family-members-nellis-air-force-base', 'Date': 'January 11, 2018', 'Title': 'remarks vice president troops family members nellis air force base', 'TYPE': '\nRemarks', 'Author': ''}

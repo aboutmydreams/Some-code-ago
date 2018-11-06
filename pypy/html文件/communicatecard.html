@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=no">
+  <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <title>交流卡</title>
+  <script type="text/javascript">
+    function imgPreview(fileDom) {
+      //判断是否支持FileReader
+      if (window.FileReader) {
+        var reader = new FileReader();
+      } else {
+        alert("您的设备不支持图片预览功能，如需该功能请升级您的设备！");
+      }
+
+      //获取文件
+      var file = fileDom.files[0];
+      var imageType = /^image\//;
+      //是否是图片
+      if (!imageType.test(file.type)) {
+        alert("请选择图片！");
+        return;
+      }
+      //读取完成
+      reader.onload = function (e) {
+        //获取图片dom
+        var img = document.getElementById("preview");
+        //图片路径设置为读取的图片
+        img.src = e.target.result;
+      };
+      reader.readAsDataURL(file);
+    }
+  </script>
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      font-size: 16px;
+      min-width: 325px;
+    }
+
+    .nav {
+      background: #dd8c61;
+      min-height: 44px;
+    }
+
+    .nav a {
+      position: relative;
+      top: 13px;
+      left: 4px;
+      display: inline-block;
+      text-decoration-line: none;
+
+    }
+
+    .arrow {
+      display: inline-block;
+      position: relative;
+      bottom: 16px;
+    }
+
+    .left-arrow1,
+    .left-arrow2 {
+      width: 0;
+      height: 0;
+      display: block;
+      position: absolute;
+      left: 0;
+      top: 0;
+      z-index: 5;
+      /*兼容ie8-*/
+      border-top: 10px transparent dashed;
+      border-left: 10px transparent dashed;
+      border-bottom: 10px transparent dashed;
+      border-right: 10px #dd8c61 solid;
+      overflow: hidden;
+
+    }
+
+    .left-arrow1 {
+      border-right: 10px black solid;
+    }
+
+    .left-arrow2 {
+      left: 2.5px;
+      /*重要*/
+      border-right: 10px #dd8c61 solid;
+    }
+
+    .nav a p {
+      position: relative;
+      left: 36px;
+      bottom: 12.5px;
+      font-family: PingFangSC-Light;
+      font-size: 18px;
+      line-height: 0px;
+      letter-spacing: -1.5px;
+      color: #000000;
+
+    }
+
+    .mainbkpc {
+      position: relative;
+      top: -1rem;
+    }
+
+    .mainbkpc p {
+      height: 1.6rem;
+      width: 20rem;
+      min-width: 200px;
+      font-family: PingFangSC-Ultralight;
+      font-size: 1.8rem;
+      font-weight: normal;
+      font-stretch: normal;
+      line-height: 0;
+      letter-spacing: -1px;
+      color: rgba(0, 0, 0, 0.75);
+      margin: auto;
+      position: relative;
+      left: 6.5rem;
+      top: -0.5rem;
+
+    }
+
+    .bk {
+      background: rgb(255, 212, 97);
+      height: 0.625rem;
+      width: 5rem;
+      display: block;
+      position: relative;
+      left: 2rem;
+      top: 2.25rem;
+    }
+
+    .ipt_text {
+      resize: none;
+      display: block;
+      position: relative;
+      top: 2.2rem;
+      overflow: hidden;
+      font-family: PingFangSC-Ultralight;
+      font-size: 2rem;
+      font-weight: normal;
+      font-stretch: normal;
+      color: #000000;
+      border-width: 0 0 0 0;
+      border-radius: 0;
+      padding: 6px 2rem;
+
+    }
+
+    .ipt_pic {
+      border: solid #cccccc;
+      border-width: 0 0 1px 0;
+      box-shadow: inset 0 0 1px 0 rgba(0, 0, 0, .075);
+      transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+      height: 20rem;
+
+    }
+
+    .pic_upload {
+      display: inline-block;
+      background: #ebebeb url(camera.png) no-repeat center center;
+      position: relative;
+      left: 2rem;
+      top: 2.4rem;
+    }
+
+    .pic_upload input {
+      display: inline-block;
+      opacity: 0;
+      height: 9rem;
+      width: 9rem;
+    }
+
+    .radio {
+      font-family: PingFangSC-Ultralight;
+      font-size: 1.5rem;
+      font-weight: 500;
+      position: relative;
+      top: -7.5rem;
+      border: solid rgba(17, 17, 17, .5);
+      border-width: 1px 0 0 0;
+      display: block;
+      margin: 0 0.5rem;
+
+
+    }
+
+    .radio p {
+      position: relative;
+      top: 0.8rem;
+      padding: 0;
+      float: left;
+      margin-right: 1.5rem;
+
+    }
+
+    .radio label {
+      background: #ffd461;
+      border-radius: 0.5rem;
+      font-size: 1.25rem;
+      font-weight: 400;
+      height: 2rem;
+      width: 5rem;
+      margin: 0.8rem 0.3rem 0.8rem 0.3rem;
+      padding: 0 1rem;
+      line-height: 2rem;
+      letter-spacing: 1px;
+
+
+    }
+
+    .radio input {
+      opacity: 0;
+      width: 0.01rem;
+      height: 0.01rem;
+    }
+
+    .bt_send {
+      height: 5rem;
+      width: 10rem;
+      background-color: #e89366;
+      border-radius: 30px;
+      color: #ffffff;
+      font-size: 2rem;
+    }
+
+    .bottom {
+      position: relative;
+      bottom: 3rem;
+
+    }
+  </style>
+</head>
+
+<body>
+  <div class="nav navbar">
+    <a href="#">
+      <span class="arrow">
+        <i class="left-arrow1"></i>
+        <i class="left-arrow2"></i>
+      </span>
+      <p>交流卡</p>
+    </a>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="mainbkpc col-xs-12" style="text-align:center; height:12rem;">
+        <img src="bkimg.png" style="width: auto;height: auto;max-width: 100%;max-height: 100%;">
+        <p>我们总在寻找契合的人</p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="inputbox">
+        <span class="bk col-xs-12"></span>
+        <textarea class="form-control col-xs-12 ipt_text" rows="4" maxlength="140">缘分从说开始...</textarea>
+
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12" style="padding: 0;">
+        <div class="ipt_pic">
+          <div class="pic_upload">
+            <input type="file" name="file" onchange="imgPrview(this)" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="radio num row">
+      <p>份数</p>
+      <label class="radio_num col-xs-2" style="padding-left:3.5rem;">
+        <input type="radio" name="num" style="position: relative;">1份</label>
+      <label class="radio_num col-xs-2" style="padding-left:3.5rem;">
+        <input type="radio" name="num" style="position: relative;">2份</label>
+      <label class="radio_num col-xs-2" style="padding-left:3.5rem;">
+        <input type="radio" name="num" style="position: relative;">3份</label>
+      <label class="radio_num col-xs-2" style="padding-left:3.5rem;">
+        <input type="radio" name="num" style="position: relative;">4份</label>
+    </div>
+    <div class="radio receiver row" style="margin-top: 0;">
+      <p>范围</p>
+      <label class="radio_receiver col-xs-2" style="padding-left: 2.5rem;">
+        <input type="radio" name="receiver" style="position: relative;width: 0.8rem;">全校</label>
+      <label class="radio_receiver col-xs-2" style="padding-left: 2rem;padding-right:0;">
+        <input type="radio" name="receiver" style="position: relative;width: 0.5rem;">同学院</label>
+    </div>
+    <div class="bottm row" style="text-align: center">
+      <button class="bottom bt_send">寄出</button>
+    </div>
+  </div>
+
+</body>
+
+</html>

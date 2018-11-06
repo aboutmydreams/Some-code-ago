@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/washington-examiner-majority-americans-now-support-tax-law-poll/', 'File_Name': 'washington-examiner-majority-americans-now-support-tax-law-poll', 'Date': 'February 20, 2018', 'Title': 'washington examiner majority americans now support tax law poll', 'TYPE': '\nNews Clips', 'Author': ''}

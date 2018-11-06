@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-gaggle-deputy-press-secretary-hogan-gidley-070318/', 'File_Name': 'press-gaggle-deputy-press-secretary-hogan-gidley-070318', 'Date': 'July 3, 2018', 'Title': 'press gaggle deputy press secretary hogan gidley 070318', 'TYPE': '\nPress Briefings', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trumps-speech-arab-islamic-american-summit/', 'File_Name': 'president-trumps-speech-arab-islamic-american-summit', 'Date': 'May 21, 2017', 'Title': 'president trumps speech arab islamic american summit', 'TYPE': '\nStatements & Releases', 'Author': ''}

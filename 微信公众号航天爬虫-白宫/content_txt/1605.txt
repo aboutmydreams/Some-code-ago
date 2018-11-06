@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/protecting-american-communities-violence-ms-13/', 'File_Name': 'protecting-american-communities-violence-ms-13', 'Date': 'February 6, 2018', 'Title': 'protecting american communities violence ms 13', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

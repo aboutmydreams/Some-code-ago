@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-briefing-principal-deputy-press-secretary-raj-shah-051418/', 'File_Name': 'press-briefing-principal-deputy-press-secretary-raj-shah-051418', 'Date': 'May 14, 2018', 'Title': 'press briefing principal deputy press secretary raj shah 051418', 'TYPE': '\nPress Briefings', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-proclaims-may-22-2018-national-maritime-day/', 'File_Name': 'president-donald-j-trump-proclaims-may-22-2018-national-maritime-day', 'Date': 'May 21, 2018', 'Title': 'president donald j trump proclaims may 22 2018 national maritime day', 'TYPE': '\nProclamations', 'Author': ''}

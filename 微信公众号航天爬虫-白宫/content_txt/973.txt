@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-summit-meeting-prime-minister-shinzo-abe/', 'File_Name': 'president-donald-j-trumps-summit-meeting-prime-minister-shinzo-abe', 'Date': 'April 18, 2018', 'Title': 'president donald j trumps summit meeting prime minister shinzo abe', 'TYPE': '\nStatements & Releases', 'Author': ''}

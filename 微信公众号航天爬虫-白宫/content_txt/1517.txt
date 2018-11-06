@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-27/', 'File_Name': 'statement-press-secretary-27', 'Date': 'February 15, 2018', 'Title': 'statement press secretary 27', 'TYPE': '\nStatements & Releases', 'Author': ''}

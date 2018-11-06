@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-briefing-press-secretary-sarah-sanders-080117/', 'File_Name': 'press-briefing-press-secretary-sarah-sanders-080117', 'Date': 'August 1, 2017', 'Title': 'press briefing press secretary sarah sanders 080117', 'TYPE': '\nPress Briefings', 'Author': ''}

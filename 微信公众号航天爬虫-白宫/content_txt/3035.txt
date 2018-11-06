@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-russia-sanctions-legislation/', 'File_Name': 'statement-press-secretary-russia-sanctions-legislation', 'Date': 'July 28, 2017', 'Title': 'statement press secretary russia sanctions legislation', 'TYPE': '\nStatements & Releases', 'Author': ''}

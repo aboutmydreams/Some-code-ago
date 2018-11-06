@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/larry-kudlow-trump-presiding-extraordinary-growth-g-7-leaders-notice/', 'File_Name': 'larry-kudlow-trump-presiding-extraordinary-growth-g-7-leaders-notice', 'Date': 'June 8, 2018', 'Title': 'larry kudlow trump presiding extraordinary growth g 7 leaders notice', 'TYPE': '\nNews Clips', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-meeting-majesty-king-abdullah-ii/', 'File_Name': 'readout-vice-presidents-meeting-majesty-king-abdullah-ii', 'Date': 'November 27, 2017', 'Title': 'readout vice presidents meeting majesty king abdullah ii', 'TYPE': '\nStatements & Releases', 'Author': ''}

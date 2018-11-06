@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-proclamation-death-senator-john-sidney-mccain-iii/', 'File_Name': 'presidential-proclamation-death-senator-john-sidney-mccain-iii', 'Date': 'August 27, 2018', 'Title': 'presidential proclamation death senator john sidney mccain iii', 'TYPE': '\nProclamations', 'Author': ''}

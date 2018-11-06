@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-second-lady-karen-pences-visit-podgorica-montenegro/', 'File_Name': 'readout-second-lady-karen-pences-visit-podgorica-montenegro', 'Date': 'August 2, 2017', 'Title': 'readout second lady karen pences visit podgorica montenegro', 'TYPE': '\nStatements & Releases', 'Author': ''}

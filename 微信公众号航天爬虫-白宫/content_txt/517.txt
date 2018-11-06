@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-briefing-nec-director-larry-kudlow-g7-summit-060618/', 'File_Name': 'press-briefing-nec-director-larry-kudlow-g7-summit-060618', 'Date': 'June 6, 2018', 'Title': 'press briefing nec director larry kudlow g7 summit 060618', 'TYPE': '\nPress Briefings', 'Author': ''}

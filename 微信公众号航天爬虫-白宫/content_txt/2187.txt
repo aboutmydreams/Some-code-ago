@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/one-nomination-sent-senate/', 'File_Name': 'one-nomination-sent-senate', 'Date': 'November 14, 2017', 'Title': 'one nomination sent senate', 'TYPE': '\nNominations & Appointments', 'Author': ''}

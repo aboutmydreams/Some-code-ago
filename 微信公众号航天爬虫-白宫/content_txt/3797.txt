@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/daily-press-briefing-press-secretary-sean-spicer-041017/', 'File_Name': 'daily-press-briefing-press-secretary-sean-spicer-041017', 'Date': 'April 10, 2017', 'Title': 'daily press briefing press secretary sean spicer 041017', 'TYPE': '\nPress Briefings', 'Author': ''}

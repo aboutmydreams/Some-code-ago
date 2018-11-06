@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-8/', 'File_Name': 'statement-president-donald-j-trump-8', 'Date': 'January 22, 2018', 'Title': 'statement president donald j trump 8', 'TYPE': '\nStatements & Releases', 'Author': ''}

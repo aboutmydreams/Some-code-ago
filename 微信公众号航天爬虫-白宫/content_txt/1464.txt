@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-syrian-regime-attacks-eastern-ghouta/', 'File_Name': 'statement-press-secretary-syrian-regime-attacks-eastern-ghouta', 'Date': 'February 21, 2018', 'Title': 'statement press secretary syrian regime attacks eastern ghouta', 'TYPE': '\nStatements & Releases', 'Author': ''}

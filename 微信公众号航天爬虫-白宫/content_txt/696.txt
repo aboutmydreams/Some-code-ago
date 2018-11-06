@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-office-vice-president/', 'File_Name': 'statement-office-vice-president', 'Date': 'May 15, 2018', 'Title': 'statement office vice president', 'TYPE': '\nStatements & Releases', 'Author': ''}

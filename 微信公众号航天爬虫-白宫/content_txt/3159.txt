@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-travels-paris/', 'File_Name': 'president-trump-travels-paris', 'Date': 'no data', 'Title': 'president trump travels paris', 'TYPE': 'no type', 'Author': ''}

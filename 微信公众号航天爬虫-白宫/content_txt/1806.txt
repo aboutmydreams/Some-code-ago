@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/martin-luther-king-jr-model-american-patriot/', 'File_Name': 'martin-luther-king-jr-model-american-patriot', 'Date': 'no data', 'Title': 'martin luther king jr model american patriot', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tRev. Martin Luther King, Jr. \t\t\t\t\t'}

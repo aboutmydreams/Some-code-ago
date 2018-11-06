@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trumps-tax-plan-working-america/', 'File_Name': 'president-trumps-tax-plan-working-america', 'Date': 'no data', 'Title': 'president trumps tax plan working america', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tWilbur L. Ross, Jr.\t\t\t\t\t\t\t\n'}

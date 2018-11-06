@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-h-r-582-law/', 'File_Name': 'president-donald-j-trump-signs-h-r-582-law', 'Date': 'February 16, 2018', 'Title': 'president donald j trump signs h r 582 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

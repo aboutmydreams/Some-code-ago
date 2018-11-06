@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-memorandum-secretary-defense-3/', 'File_Name': 'presidential-memorandum-secretary-defense-3', 'Date': 'January 23, 2018', 'Title': 'presidential memorandum secretary defense 3', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

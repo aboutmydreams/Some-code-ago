@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/trump-tax-cuts-strengthened-u-s-economy/', 'File_Name': 'trump-tax-cuts-strengthened-u-s-economy', 'Date': 'no data', 'Title': 'trump tax cuts strengthened u s economy', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tSteven T. Mnuchin\t\t\t\t\t\t\t\n'}

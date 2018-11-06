@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-faith-freedom-coalition/', 'File_Name': 'remarks-vice-president-faith-freedom-coalition', 'Date': 'June 10, 2017', 'Title': 'remarks vice president faith freedom coalition', 'TYPE': '\nRemarks', 'Author': ''}

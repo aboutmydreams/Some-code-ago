@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-second-lady-karen-pences-remarks-event-honor-military-spouses/', 'File_Name': 'readout-second-lady-karen-pences-remarks-event-honor-military-spouses', 'Date': 'September 29, 2017', 'Title': 'readout second lady karen pences remarks event honor military spouses', 'TYPE': '\nStatements & Releases', 'Author': ''}

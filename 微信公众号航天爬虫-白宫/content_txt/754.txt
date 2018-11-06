@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/iran-deal-betrayed-abysmal-record/', 'File_Name': 'iran-deal-betrayed-abysmal-record', 'Date': 'no data', 'Title': 'iran deal betrayed abysmal record', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tJohn Bolton\t\t\t\t\t'}

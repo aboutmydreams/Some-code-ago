@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-presidents-call-prime-minister-shinzo-abe-japan/', 'File_Name': 'readout-presidents-call-prime-minister-shinzo-abe-japan', 'Date': 'September 2, 2017', 'Title': 'readout presidents call prime minister shinzo abe japan', 'TYPE': '\nStatements & Releases', 'Author': ''}

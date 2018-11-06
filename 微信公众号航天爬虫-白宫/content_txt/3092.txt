@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/4-billion-investment-4000-jobs-corning-merck-pfizer-initiative/', 'File_Name': '4-billion-investment-4000-jobs-corning-merck-pfizer-initiative', 'Date': 'no data', 'Title': '4 billion investment 4000 jobs corning merck pfizer initiative', 'TYPE': 'no type', 'Author': ''}

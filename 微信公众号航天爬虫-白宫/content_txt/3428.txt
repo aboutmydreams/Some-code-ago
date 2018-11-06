@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/substitute-amendment-h-r-10-financial-choice-act-2017/', 'File_Name': 'substitute-amendment-h-r-10-financial-choice-act-2017', 'Date': 'June 6, 2017', 'Title': 'substitute amendment h r 10 financial choice act 2017', 'TYPE': '\nStatements & Releases', 'Author': ''}

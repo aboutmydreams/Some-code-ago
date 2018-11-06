@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-gaggle-secretary-commerce-wilbur-ross-en-route-dubuque-ia-072618/', 'File_Name': 'press-gaggle-secretary-commerce-wilbur-ross-en-route-dubuque-ia-072618', 'Date': 'July 26, 2018', 'Title': 'press gaggle secretary commerce wilbur ross en route dubuque ia 072618', 'TYPE': '\nPress Briefings', 'Author': ''}

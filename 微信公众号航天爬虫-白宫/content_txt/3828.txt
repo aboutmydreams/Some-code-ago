@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/first-lady-melania-trump-host-queen-rania-jordan/', 'File_Name': 'first-lady-melania-trump-host-queen-rania-jordan', 'Date': 'April 5, 2017', 'Title': 'first lady melania trump host queen rania jordan', 'TYPE': '\nStatements & Releases', 'Author': ''}

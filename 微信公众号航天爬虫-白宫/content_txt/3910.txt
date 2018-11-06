@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-60th-anniversary-treaties-rome/', 'File_Name': 'statement-press-secretary-60th-anniversary-treaties-rome', 'Date': 'March 24, 2017', 'Title': 'statement press secretary 60th anniversary treaties rome', 'TYPE': '\nStatements & Releases', 'Author': ''}

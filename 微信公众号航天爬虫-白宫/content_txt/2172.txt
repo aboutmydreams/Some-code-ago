@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/america-recycles-day/', 'File_Name': 'america-recycles-day', 'Date': 'November 15, 2017', 'Title': 'america recycles day', 'TYPE': '\nStatements & Releases', 'Author': ''}

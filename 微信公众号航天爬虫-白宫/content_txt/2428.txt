@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/pro-growth-pro-jobs-pro-worker-pro-family-pro-america/', 'File_Name': 'pro-growth-pro-jobs-pro-worker-pro-family-pro-america', 'Date': 'no data', 'Title': 'pro growth pro jobs pro worker pro family pro america', 'TYPE': 'no type', 'Author': ''}

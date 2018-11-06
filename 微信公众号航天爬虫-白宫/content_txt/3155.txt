@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-first-lady-melania-trumps-visit-paris-france/', 'File_Name': 'readout-first-lady-melania-trumps-visit-paris-france', 'Date': 'July 13, 2017', 'Title': 'readout first lady melania trumps visit paris france', 'TYPE': '\nStatements & Releases', 'Author': ''}

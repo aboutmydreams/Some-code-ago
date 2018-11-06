@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wsj-right-move-monuments/', 'File_Name': 'wsj-right-move-monuments', 'Date': 'December 6, 2017', 'Title': 'wsj right move monuments', 'TYPE': '\nNews Clips', 'Author': ''}

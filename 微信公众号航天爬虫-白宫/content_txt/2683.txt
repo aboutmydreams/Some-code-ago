@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-visits-florida-hurricane-irma/', 'File_Name': 'president-trump-visits-florida-hurricane-irma', 'Date': 'no data', 'Title': 'president trump visits florida hurricane irma', 'TYPE': 'no type', 'Author': ''}

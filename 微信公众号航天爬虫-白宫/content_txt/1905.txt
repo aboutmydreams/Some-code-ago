@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-white-house-press-secretary/', 'File_Name': 'statement-white-house-press-secretary', 'Date': 'December 31, 2017', 'Title': 'statement white house press secretary', 'TYPE': '\nStatements & Releases', 'Author': ''}

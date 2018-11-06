@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/secretary-elaine-chao-lets-invest-u-s-future/', 'File_Name': 'secretary-elaine-chao-lets-invest-u-s-future', 'Date': 'February 16, 2018', 'Title': 'secretary elaine chao lets invest u s future', 'TYPE': '\nNews Clips', 'Author': ''}

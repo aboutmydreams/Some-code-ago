@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/first-lady-melania-trump-announces-2018-white-house-easter-egg-roll/', 'File_Name': 'first-lady-melania-trump-announces-2018-white-house-easter-egg-roll', 'Date': 'February 6, 2018', 'Title': 'first lady melania trump announces 2018 white house easter egg roll', 'TYPE': '\nStatements & Releases', 'Author': ''}

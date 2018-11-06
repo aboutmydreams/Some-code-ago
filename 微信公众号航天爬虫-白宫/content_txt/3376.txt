@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-visit-president-moon-republic-korea/', 'File_Name': 'statement-press-secretary-visit-president-moon-republic-korea', 'Date': 'June 13, 2017', 'Title': 'statement press secretary visit president moon republic korea', 'TYPE': '\nStatements & Releases', 'Author': ''}

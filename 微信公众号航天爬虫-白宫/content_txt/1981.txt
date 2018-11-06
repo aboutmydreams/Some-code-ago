@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-lunch-bicameral-tax-conferees/', 'File_Name': 'remarks-president-trump-lunch-bicameral-tax-conferees', 'Date': 'December 13, 2017', 'Title': 'remarks president trump lunch bicameral tax conferees', 'TYPE': '\nRemarks', 'Author': ''}

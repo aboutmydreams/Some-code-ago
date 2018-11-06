@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/cea-report-growth-effects-corporate-tax-reform-implications-wages/', 'File_Name': 'cea-report-growth-effects-corporate-tax-reform-implications-wages', 'Date': 'October 27, 2017', 'Title': 'cea report growth effects corporate tax reform implications wages', 'TYPE': '\nStatements & Releases', 'Author': ''}

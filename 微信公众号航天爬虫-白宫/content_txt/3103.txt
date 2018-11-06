@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-temple-mount-haram-al-sharif/', 'File_Name': 'statement-press-secretary-temple-mount-haram-al-sharif', 'Date': 'July 19, 2017', 'Title': 'statement press secretary temple mount haram al sharif', 'TYPE': '\nStatements & Releases', 'Author': ''}

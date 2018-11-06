@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/memorandum-heads-executive-departments-agencies/', 'File_Name': 'memorandum-heads-executive-departments-agencies', 'Date': 'January 20, 2017', 'Title': 'memorandum heads executive departments agencies', 'TYPE': 'no type', 'Author': ''}

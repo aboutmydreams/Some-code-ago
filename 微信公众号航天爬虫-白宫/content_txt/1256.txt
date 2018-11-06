@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/six-nominations-sent-senate-today/', 'File_Name': 'six-nominations-sent-senate-today', 'Date': 'March 19, 2018', 'Title': 'six nominations sent senate today', 'TYPE': '\nStatements & Releases', 'Author': ''}

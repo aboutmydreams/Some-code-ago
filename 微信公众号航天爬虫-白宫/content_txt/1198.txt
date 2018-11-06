@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-sparks-renewed-focus-american-infrastructure/', 'File_Name': 'president-donald-j-trump-sparks-renewed-focus-american-infrastructure', 'Date': 'March 27, 2018', 'Title': 'president donald j trump sparks renewed focus american infrastructure', 'TYPE': '\nNews Clips', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-servicemembers-yokota-air-base/', 'File_Name': 'remarks-president-trump-servicemembers-yokota-air-base', 'Date': 'November 5, 2017', 'Title': 'remarks president trump servicemembers yokota air base', 'TYPE': '\nRemarks', 'Author': ''}

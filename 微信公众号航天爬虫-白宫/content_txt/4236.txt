@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trumps-nominee-supreme-court-neil-m-gorsuch/', 'File_Name': 'president-trumps-nominee-supreme-court-neil-m-gorsuch', 'Date': 'January 31, 2017', 'Title': 'president trumps nominee supreme court neil m gorsuch', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-hk-equipment-company-coraopolis-pa/', 'File_Name': 'remarks-president-trump-hk-equipment-company-coraopolis-pa', 'Date': 'January 18, 2018', 'Title': 'remarks president trump hk equipment company coraopolis pa', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-call-polish-prime-minister-mateusz-morawiecki/', 'File_Name': 'readout-vice-presidents-call-polish-prime-minister-mateusz-morawiecki', 'Date': 'January 12, 2018', 'Title': 'readout vice presidents call polish prime minister mateusz morawiecki', 'TYPE': '\nStatements & Releases', 'Author': ''}

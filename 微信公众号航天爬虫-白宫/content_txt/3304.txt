@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-american-leadership-emerging-technology-event/', 'File_Name': 'remarks-president-trump-american-leadership-emerging-technology-event', 'Date': 'June 22, 2017', 'Title': 'remarks president trump american leadership emerging technology event', 'TYPE': '\nRemarks', 'Author': ''}

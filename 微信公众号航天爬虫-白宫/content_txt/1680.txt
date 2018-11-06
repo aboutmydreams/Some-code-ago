@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/gary-cohn-trump-shared-vision-economic-progress-davos/', 'File_Name': 'gary-cohn-trump-shared-vision-economic-progress-davos', 'Date': 'January 29, 2018', 'Title': 'gary cohn trump shared vision economic progress davos', 'TYPE': '\nNews Clips', 'Author': ''}

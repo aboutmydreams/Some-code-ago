@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-enhanced-forward-presence-estonian-troops/', 'File_Name': 'remarks-vice-president-enhanced-forward-presence-estonian-troops', 'Date': 'July 31, 2017', 'Title': 'remarks vice president enhanced forward presence estonian troops', 'TYPE': '\nRemarks', 'Author': ''}

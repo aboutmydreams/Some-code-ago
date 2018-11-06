@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-s-442-law/', 'File_Name': 'president-donald-j-trump-signs-s-442-law', 'Date': 'March 21, 2017', 'Title': 'president donald j trump signs s 442 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

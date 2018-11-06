@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/photos-of-the-week-5/', 'File_Name': 'photos-of-the-week-5', 'Date': 'February 2, 2018', 'Title': 'photos of the week 5', 'TYPE': '\nStatements & Releases', 'Author': ''}

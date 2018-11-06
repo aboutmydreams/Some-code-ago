@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/washington-examiner-total-jobless-claims-running-lowest-level-44-years/', 'File_Name': 'washington-examiner-total-jobless-claims-running-lowest-level-44-years', 'Date': 'June 7, 2018', 'Title': 'washington examiner total jobless claims running lowest level 44 years', 'TYPE': '\nNews Clips', 'Author': ''}

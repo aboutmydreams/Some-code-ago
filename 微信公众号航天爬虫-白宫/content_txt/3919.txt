@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-meeting-truckers-ceos-healthcare/', 'File_Name': 'remarks-president-meeting-truckers-ceos-healthcare', 'Date': 'March 23, 2017', 'Title': 'remarks president meeting truckers ceos healthcare', 'TYPE': '\nRemarks', 'Author': ''}

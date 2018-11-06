@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/mulvaney-introducing-maganomics/', 'File_Name': 'mulvaney-introducing-maganomics', 'Date': 'July 13, 2017', 'Title': 'mulvaney introducing maganomics', 'TYPE': '\nNews Clips', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-5/', 'File_Name': 'statement-president-donald-j-trump-5', 'Date': 'July 17, 2017', 'Title': 'statement president donald j trump 5', 'TYPE': '\nStatements & Releases', 'Author': ''}

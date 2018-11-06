@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/training-jobs-tomorrow/', 'File_Name': 'training-jobs-tomorrow', 'Date': 'no data', 'Title': 'training jobs tomorrow', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tIvanka Trump\t\t\t\t\t'}

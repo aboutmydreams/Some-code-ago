@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/vice-president-mike-pence-discuss-healthcare-milwaukee-wi/', 'File_Name': 'vice-president-mike-pence-discuss-healthcare-milwaukee-wi', 'Date': 'June 9, 2017', 'Title': 'vice president mike pence discuss healthcare milwaukee wi', 'TYPE': '\nStatements & Releases', 'Author': ''}

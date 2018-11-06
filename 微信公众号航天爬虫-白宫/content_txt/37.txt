@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/steve-cortes-mainstream-media-vs-main-street-usa/', 'File_Name': 'steve-cortes-mainstream-media-vs-main-street-usa', 'Date': 'August 22, 2018', 'Title': 'steve cortes mainstream media vs main street usa', 'TYPE': 'no type', 'Author': ''}

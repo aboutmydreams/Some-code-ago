@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-proclaims-march-21-2017-national-agriculture-day/', 'File_Name': 'president-donald-j-trump-proclaims-march-21-2017-national-agriculture-day', 'Date': 'March 21, 2017', 'Title': 'president donald j trump proclaims march 21 2017 national agriculture day', 'TYPE': '\nProclamations', 'Author': ''}

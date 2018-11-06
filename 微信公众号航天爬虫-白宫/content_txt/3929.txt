@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-meeting-u-k-foreign-secretary-boris-johnson/', 'File_Name': 'readout-vice-presidents-meeting-u-k-foreign-secretary-boris-johnson', 'Date': 'March 22, 2017', 'Title': 'readout vice presidents meeting u k foreign secretary boris johnson', 'TYPE': '\nStatements & Releases', 'Author': ''}

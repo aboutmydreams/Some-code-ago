@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-trump-shooting-las-vegas-nevada/', 'File_Name': 'statement-president-trump-shooting-las-vegas-nevada', 'Date': 'October 2, 2017', 'Title': 'statement president trump shooting las vegas nevada', 'TYPE': '\nStatements & Releases', 'Author': ''}

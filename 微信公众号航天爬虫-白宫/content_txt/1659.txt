@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-state-union-address/', 'File_Name': 'president-donald-j-trumps-state-union-address', 'Date': 'January 30, 2018', 'Title': 'president donald j trumps state union address', 'TYPE': '\nRemarks', 'Author': ''}

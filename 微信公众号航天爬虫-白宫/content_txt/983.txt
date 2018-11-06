@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-visit-chancellor-angela-merkel-germany/', 'File_Name': 'statement-press-secretary-visit-chancellor-angela-merkel-germany', 'Date': 'April 18, 2018', 'Title': 'statement press secretary visit chancellor angela merkel germany', 'TYPE': '\nStatements & Releases', 'Author': ''}

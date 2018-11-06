@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-participates-commissioning-ceremony-uss-gerald-r-ford/', 'File_Name': 'president-trump-participates-commissioning-ceremony-uss-gerald-r-ford', 'Date': 'no data', 'Title': 'president trump participates commissioning ceremony uss gerald r ford', 'TYPE': 'no type', 'Author': ''}

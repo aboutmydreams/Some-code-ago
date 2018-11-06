@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-presidents-call-chancellor-germany/', 'File_Name': 'readout-presidents-call-chancellor-germany', 'Date': 'March 28, 2017', 'Title': 'readout presidents call chancellor germany', 'TYPE': '\nStatements & Releases', 'Author': ''}

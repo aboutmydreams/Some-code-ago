@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/new-york-postturns-trump-didnt-ruin-americas-economy/', 'File_Name': 'new-york-postturns-trump-didnt-ruin-americas-economy', 'Date': 'November 13, 2017', 'Title': 'new york postturns trump didnt ruin americas economy', 'TYPE': '\nNews Clips', 'Author': ''}

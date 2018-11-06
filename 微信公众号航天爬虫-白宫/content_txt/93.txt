@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-s-2779-law/', 'File_Name': 'president-donald-j-trump-signs-s-2779-law', 'Date': 'August 8, 2018', 'Title': 'president donald j trump signs s 2779 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

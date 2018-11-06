@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-gaggle-president-trump-morristown-municipal-airport/', 'File_Name': 'press-gaggle-president-trump-morristown-municipal-airport', 'Date': 'September 24, 2017', 'Title': 'press gaggle president trump morristown municipal airport', 'TYPE': '\nPress Briefings', 'Author': ''}

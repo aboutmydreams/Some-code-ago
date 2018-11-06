@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/win-america-allies/', 'File_Name': 'win-america-allies', 'Date': 'no data', 'Title': 'win america allies', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tPeter Navarro\t\t\t\t\t'}

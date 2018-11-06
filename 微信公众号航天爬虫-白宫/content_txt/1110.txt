@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-visit-emir-tamim-bin-hamad-al-thani-qatar/', 'File_Name': 'statement-press-secretary-visit-emir-tamim-bin-hamad-al-thani-qatar', 'Date': 'April 5, 2018', 'Title': 'statement press secretary visit emir tamim bin hamad al thani qatar', 'TYPE': '\nStatements & Releases', 'Author': ''}

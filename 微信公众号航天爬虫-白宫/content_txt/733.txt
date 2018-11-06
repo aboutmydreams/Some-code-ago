@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-lowering-drug-prices/', 'File_Name': 'remarks-president-trump-lowering-drug-prices', 'Date': 'May 11, 2018', 'Title': 'remarks president trump lowering drug prices', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wsj-editorial-board-ruling-aba-judges/', 'File_Name': 'wsj-editorial-board-ruling-aba-judges', 'Date': 'November 15, 2017', 'Title': 'wsj editorial board ruling aba judges', 'TYPE': '\nNews Clips', 'Author': ''}

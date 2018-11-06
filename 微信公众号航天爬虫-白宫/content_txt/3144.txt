@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/upholding-promise-repeal-replace-obamacare/', 'File_Name': 'upholding-promise-repeal-replace-obamacare', 'Date': 'no data', 'Title': 'upholding promise repeal replace obamacare', 'TYPE': 'no type', 'Author': ''}

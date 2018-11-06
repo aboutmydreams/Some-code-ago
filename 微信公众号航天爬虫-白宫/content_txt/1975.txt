@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/merry-christmas-president-donald-j-trump-first-lady-melania-trump/', 'File_Name': 'merry-christmas-president-donald-j-trump-first-lady-melania-trump', 'Date': 'December 14, 2017', 'Title': 'merry christmas president donald j trump first lady melania trump', 'TYPE': '\nStatements & Releases', 'Author': ''}

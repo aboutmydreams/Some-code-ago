@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-christians-united-israel-washington-summit/', 'File_Name': 'remarks-vice-president-christians-united-israel-washington-summit', 'Date': 'July 17, 2017', 'Title': 'remarks vice president christians united israel washington summit', 'TYPE': '\nRemarks', 'Author': ''}

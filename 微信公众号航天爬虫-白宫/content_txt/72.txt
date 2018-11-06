@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-h-r-2345-h-r-5554-h-r-6414-s-770-law/', 'File_Name': 'president-donald-j-trump-signs-h-r-2345-h-r-5554-h-r-6414-s-770-law', 'Date': 'August 14, 2018', 'Title': 'president donald j trump signs h r 2345 h r 5554 h r 6414 s 770 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

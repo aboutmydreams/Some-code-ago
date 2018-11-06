@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-key-additions-administration-27/', 'File_Name': 'president-donald-j-trump-announces-key-additions-administration-27', 'Date': 'January 4, 2018', 'Title': 'president donald j trump announces key additions administration 27', 'TYPE': '\nNominations & Appointments', 'Author': ''}

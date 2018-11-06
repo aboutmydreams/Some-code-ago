@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/opioids-battle-can-won-beginning-minnesota-duluth/', 'File_Name': 'opioids-battle-can-won-beginning-minnesota-duluth', 'Date': 'no data', 'Title': 'opioids battle can won beginning minnesota duluth', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tEric D. Hargan\t\t\t\t\t'}

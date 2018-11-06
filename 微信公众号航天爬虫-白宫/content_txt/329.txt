@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-celebrating-six-month-anniversary-tax-cuts-jobs-act/', 'File_Name': 'remarks-president-trump-celebrating-six-month-anniversary-tax-cuts-jobs-act', 'Date': 'June 29, 2018', 'Title': 'remarks president trump celebrating six month anniversary tax cuts jobs act', 'TYPE': '\nRemarks', 'Author': ''}

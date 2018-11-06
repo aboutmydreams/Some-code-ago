@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/interview-vice-president-pence-trey-ware-trey-ware-morning-show-ktsa/', 'File_Name': 'interview-vice-president-pence-trey-ware-trey-ware-morning-show-ktsa', 'Date': 'August 28, 2017', 'Title': 'interview vice president pence trey ware trey ware morning show ktsa', 'TYPE': '\nRemarks', 'Author': ''}

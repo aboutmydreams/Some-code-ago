@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/widespread-support-judge-neil-gorsuch/', 'File_Name': 'widespread-support-judge-neil-gorsuch', 'Date': 'no data', 'Title': 'widespread support judge neil gorsuch', 'TYPE': 'no type', 'Author': ''}

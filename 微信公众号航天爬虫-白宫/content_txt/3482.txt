@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-meets-world-leaders-nato-summit/', 'File_Name': 'president-trump-meets-world-leaders-nato-summit', 'Date': 'no data', 'Title': 'president trump meets world leaders nato summit', 'TYPE': 'no type', 'Author': ''}

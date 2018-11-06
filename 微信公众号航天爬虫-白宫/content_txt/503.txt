@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-call-pakistani-prime-minister-nasir-ul-mulk/', 'File_Name': 'readout-vice-presidents-call-pakistani-prime-minister-nasir-ul-mulk', 'Date': 'June 7, 2018', 'Title': 'readout vice presidents call pakistani prime minister nasir ul mulk', 'TYPE': '\nStatements & Releases', 'Author': ''}

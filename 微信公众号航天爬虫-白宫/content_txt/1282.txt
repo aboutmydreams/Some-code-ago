@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-united-states-france-germany-united-kingdom-attack-salisbury/', 'File_Name': 'statement-united-states-france-germany-united-kingdom-attack-salisbury', 'Date': 'March 15, 2018', 'Title': 'statement united states france germany united kingdom attack salisbury', 'TYPE': '\nStatements & Releases', 'Author': ''}

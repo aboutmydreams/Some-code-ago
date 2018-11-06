@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-jobs-announcement/', 'File_Name': 'remarks-president-trump-jobs-announcement', 'Date': 'November 2, 2017', 'Title': 'remarks president trump jobs announcement', 'TYPE': '\nRemarks', 'Author': ''}

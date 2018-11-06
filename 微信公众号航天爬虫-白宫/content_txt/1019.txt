@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-meeting-cuban-dissident/', 'File_Name': 'remarks-vice-president-pence-meeting-cuban-dissident', 'Date': 'April 15, 2018', 'Title': 'remarks vice president pence meeting cuban dissident', 'TYPE': '\nRemarks', 'Author': ''}

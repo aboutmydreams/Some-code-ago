@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/one-nomination-sent-senate-today-8/', 'File_Name': 'one-nomination-sent-senate-today-8', 'Date': 'July 19, 2018', 'Title': 'one nomination sent senate today 8', 'TYPE': '\nNominations & Appointments', 'Author': ''}

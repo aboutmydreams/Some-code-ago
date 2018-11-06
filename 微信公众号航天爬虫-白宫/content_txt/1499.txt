@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-president-donald-j-trumps-meeting-speaker-paul-ryan/', 'File_Name': 'readout-president-donald-j-trumps-meeting-speaker-paul-ryan', 'Date': 'February 18, 2018', 'Title': 'readout president donald j trumps meeting speaker paul ryan', 'TYPE': '\nStatements & Releases', 'Author': ''}

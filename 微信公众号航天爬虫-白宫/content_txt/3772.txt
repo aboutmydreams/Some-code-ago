@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-welcomes-nato-secretary-general-stoltenberg-white-house/', 'File_Name': 'president-trump-welcomes-nato-secretary-general-stoltenberg-white-house', 'Date': 'no data', 'Title': 'president trump welcomes nato secretary general stoltenberg white house', 'TYPE': 'no type', 'Author': ''}

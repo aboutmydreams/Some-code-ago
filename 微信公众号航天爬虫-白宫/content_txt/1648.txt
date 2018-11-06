@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-proclaims-february-2018-american-heart-month/', 'File_Name': 'president-donald-j-trump-proclaims-february-2018-american-heart-month', 'Date': 'February 1, 2018', 'Title': 'president donald j trump proclaims february 2018 american heart month', 'TYPE': '\nProclamations', 'Author': ''}

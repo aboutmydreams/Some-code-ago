@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-trump-shooting-virginia/', 'File_Name': 'statement-president-trump-shooting-virginia', 'Date': 'June 14, 2017', 'Title': 'statement president trump shooting virginia', 'TYPE': '\nRemarks', 'Author': ''}

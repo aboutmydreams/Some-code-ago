@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-s-419-s-583-law/', 'File_Name': 'president-donald-j-trump-signs-s-419-s-583-law', 'Date': 'June 2, 2017', 'Title': 'president donald j trump signs s 419 s 583 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

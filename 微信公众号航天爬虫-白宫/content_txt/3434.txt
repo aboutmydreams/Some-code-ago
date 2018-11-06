@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-3/', 'File_Name': 'statement-press-secretary-3', 'Date': 'June 5, 2017', 'Title': 'statement press secretary 3', 'TYPE': '\nStatements & Releases', 'Author': ''}

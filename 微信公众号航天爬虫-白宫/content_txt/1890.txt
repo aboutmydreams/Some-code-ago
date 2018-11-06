@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/01032017/', 'File_Name': '01032017', 'Date': 'January 3, 2018', 'Title': '01032017', 'TYPE': '\nPress Briefings', 'Author': ''}

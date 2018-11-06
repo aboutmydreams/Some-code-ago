@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-welcomes-foxconn-white-house-major-jobs-announcement/', 'File_Name': 'president-trump-welcomes-foxconn-white-house-major-jobs-announcement', 'Date': 'no data', 'Title': 'president trump welcomes foxconn white house major jobs announcement', 'TYPE': 'no type', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/photos-president-donald-j-trump-supporters-florida/', 'File_Name': 'photos-president-donald-j-trump-supporters-florida', 'Date': 'January 14, 2018', 'Title': 'photos president donald j trump supporters florida', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-meeting-prime-minister-canada-justin-trudeau/', 'File_Name': 'readout-vice-presidents-meeting-prime-minister-canada-justin-trudeau', 'Date': 'July 14, 2017', 'Title': 'readout vice presidents meeting prime minister canada justin trudeau', 'TYPE': '\nStatements & Releases', 'Author': ''}

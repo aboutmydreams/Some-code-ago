@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-coalition-representatives-senior-u-s-commanders/', 'File_Name': 'remarks-president-trump-coalition-representatives-senior-u-s-commanders', 'Date': 'February 6, 2017', 'Title': 'remarks president trump coalition representatives senior u s commanders', 'TYPE': '\nRemarks', 'Author': ''}

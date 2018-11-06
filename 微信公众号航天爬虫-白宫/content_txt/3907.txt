@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wsj-praise-trump-tax-reform-plan/', 'File_Name': 'wsj-praise-trump-tax-reform-plan', 'Date': 'March 27, 2017', 'Title': 'wsj praise trump tax reform plan', 'TYPE': '\nNews Clips', 'Author': ''}

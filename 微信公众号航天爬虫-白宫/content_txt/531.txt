@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-change-format-todays-event/', 'File_Name': 'statement-press-secretary-change-format-todays-event', 'Date': 'June 5, 2018', 'Title': 'statement press secretary change format todays event', 'TYPE': '\nStatements & Releases', 'Author': ''}

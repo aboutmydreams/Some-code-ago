@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-briefing-press-secretary-sarah-sanders-072318/', 'File_Name': 'press-briefing-press-secretary-sarah-sanders-072318', 'Date': 'July 23, 2018', 'Title': 'press briefing press secretary sarah sanders 072318', 'TYPE': '\nPress Briefings', 'Author': ''}

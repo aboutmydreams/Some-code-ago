@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-presidents-call-prime-minister-mariano-rajoy-spain/', 'File_Name': 'readout-presidents-call-prime-minister-mariano-rajoy-spain', 'Date': 'February 7, 2017', 'Title': 'readout presidents call prime minister mariano rajoy spain', 'TYPE': '\nStatements & Releases', 'Author': ''}

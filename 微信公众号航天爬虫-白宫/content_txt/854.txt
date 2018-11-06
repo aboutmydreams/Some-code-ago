@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-swearing-ceremony-mike-pompeo-secretary-state/', 'File_Name': 'remarks-president-trump-swearing-ceremony-mike-pompeo-secretary-state', 'Date': 'May 2, 2018', 'Title': 'remarks president trump swearing ceremony mike pompeo secretary state', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-s-j-res-57-law/', 'File_Name': 'president-donald-j-trump-signs-s-j-res-57-law', 'Date': 'May 21, 2018', 'Title': 'president donald j trump signs s j res 57 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

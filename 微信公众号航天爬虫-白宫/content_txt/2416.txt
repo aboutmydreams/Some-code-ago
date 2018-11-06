@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-iran-strategy/', 'File_Name': 'remarks-president-trump-iran-strategy', 'Date': 'October 13, 2017', 'Title': 'remarks president trump iran strategy', 'TYPE': '\nRemarks', 'Author': ''}

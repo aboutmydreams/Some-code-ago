@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-troops-vice-president-pence-afghanistan/', 'File_Name': 'remarks-troops-vice-president-pence-afghanistan', 'Date': 'December 21, 2017', 'Title': 'remarks troops vice president pence afghanistan', 'TYPE': '\nRemarks', 'Author': ''}

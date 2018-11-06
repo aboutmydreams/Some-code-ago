@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trumps-100-days-accountability/', 'File_Name': 'president-trumps-100-days-accountability', 'Date': 'April 27, 2017', 'Title': 'president trumps 100 days accountability', 'TYPE': '\nFact Sheets', 'Author': ''}

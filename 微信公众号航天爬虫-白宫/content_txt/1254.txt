@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/saying-support-president-trumps-initiative-fight-opioid-epidemic/', 'File_Name': 'saying-support-president-trumps-initiative-fight-opioid-epidemic', 'Date': 'March 20, 2018', 'Title': 'saying support president trumps initiative fight opioid epidemic', 'TYPE': '\nStatements & Releases', 'Author': ''}

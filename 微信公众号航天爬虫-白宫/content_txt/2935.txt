@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/praise-president-donald-j-trumps-memorandum-chinese-trade-practices/', 'File_Name': 'praise-president-donald-j-trumps-memorandum-chinese-trade-practices', 'Date': 'August 14, 2017', 'Title': 'praise president donald j trumps memorandum chinese trade practices', 'TYPE': '\nStatements & Releases', 'Author': ''}

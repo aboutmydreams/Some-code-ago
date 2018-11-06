@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/eight-nominations-sent-senate-today-3/', 'File_Name': 'eight-nominations-sent-senate-today-3', 'Date': 'December 20, 2017', 'Title': 'eight nominations sent senate today 3', 'TYPE': '\nNominations & Appointments', 'Author': ''}

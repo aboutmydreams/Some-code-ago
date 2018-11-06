@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-takes-action-get-washington-way/', 'File_Name': 'president-trump-takes-action-get-washington-way', 'Date': 'March 27, 2017', 'Title': 'president trump takes action get washington way', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tDonald J. Trump\t\t\t\t\t'}

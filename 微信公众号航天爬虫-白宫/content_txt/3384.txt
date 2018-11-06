@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/letter-president-defense-production-act-1950/', 'File_Name': 'letter-president-defense-production-act-1950', 'Date': 'June 13, 2017', 'Title': 'letter president defense production act 1950', 'TYPE': '\nStatements & Releases', 'Author': ''}

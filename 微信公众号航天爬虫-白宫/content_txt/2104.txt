@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wall-street-journal-americas-new-energy-diplomacy/', 'File_Name': 'wall-street-journal-americas-new-energy-diplomacy', 'Date': 'November 28, 2017', 'Title': 'wall street journal americas new energy diplomacy', 'TYPE': '\nNews Clips', 'Author': ''}

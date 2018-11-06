@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-jobs-announcement-infosys-technologies-ltd/', 'File_Name': 'remarks-vice-president-pence-jobs-announcement-infosys-technologies-ltd', 'Date': 'April 26, 2018', 'Title': 'remarks vice president pence jobs announcement infosys technologies ltd', 'TYPE': '\nRemarks', 'Author': ''}

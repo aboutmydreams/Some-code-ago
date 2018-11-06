@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-call-cardinal-pietro-parolin/', 'File_Name': 'readout-vice-presidents-call-cardinal-pietro-parolin', 'Date': 'August 10, 2018', 'Title': 'readout vice presidents call cardinal pietro parolin', 'TYPE': '\nStatements & Releases', 'Author': ''}

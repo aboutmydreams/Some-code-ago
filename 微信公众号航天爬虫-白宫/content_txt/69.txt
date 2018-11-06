@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/vice-president-pence-evidence-clear-america-back/', 'File_Name': 'vice-president-pence-evidence-clear-america-back', 'Date': 'August 15, 2018', 'Title': 'vice president pence evidence clear america back', 'TYPE': '\nNews Clips', 'Author': ''}

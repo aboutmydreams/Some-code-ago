@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/release-president-donald-j-trumps-medical-exam/', 'File_Name': 'release-president-donald-j-trumps-medical-exam', 'Date': 'January 16, 2018', 'Title': 'release president donald j trumps medical exam', 'TYPE': '\nStatements & Releases', 'Author': ''}

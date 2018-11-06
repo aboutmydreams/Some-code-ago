@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/two-nominations-sent-senate/', 'File_Name': 'two-nominations-sent-senate', 'Date': 'May 2, 2017', 'Title': 'two nominations sent senate', 'TYPE': '\nNominations & Appointments', 'Author': ''}

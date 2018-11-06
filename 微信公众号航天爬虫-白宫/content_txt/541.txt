@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-vice-president-mike-pences-call-president-ecuador-lenin-moreno/', 'File_Name': 'readout-vice-president-mike-pences-call-president-ecuador-lenin-moreno', 'Date': 'June 4, 2018', 'Title': 'readout vice president mike pences call president ecuador lenin moreno', 'TYPE': '\nStatements & Releases', 'Author': ''}

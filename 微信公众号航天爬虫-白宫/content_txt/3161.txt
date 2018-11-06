@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-passage-h-r-2664-h-r-2480-h-r-2200/', 'File_Name': 'statement-president-donald-j-trump-passage-h-r-2664-h-r-2480-h-r-2200', 'Date': 'July 12, 2017', 'Title': 'statement president donald j trump passage h r 2664 h r 2480 h r 2200', 'TYPE': '\nStatements & Releases', 'Author': ''}

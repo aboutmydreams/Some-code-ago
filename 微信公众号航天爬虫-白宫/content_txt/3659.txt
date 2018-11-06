@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-gaggle-press-secretary-sean-spicer-en-route-atlanta-ga-042817/', 'File_Name': 'press-gaggle-press-secretary-sean-spicer-en-route-atlanta-ga-042817', 'Date': 'April 28, 2017', 'Title': 'press gaggle press secretary sean spicer en route atlanta ga 042817', 'TYPE': '\nPress Briefings', 'Author': ''}

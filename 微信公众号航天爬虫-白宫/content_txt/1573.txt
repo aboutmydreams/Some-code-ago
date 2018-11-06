@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/cea-report-reforming-biopharmaceutical-pricing-home-abroad/', 'File_Name': 'cea-report-reforming-biopharmaceutical-pricing-home-abroad', 'Date': 'February 9, 2018', 'Title': 'cea report reforming biopharmaceutical pricing home abroad', 'TYPE': '\nStatements & Releases', 'Author': ''}

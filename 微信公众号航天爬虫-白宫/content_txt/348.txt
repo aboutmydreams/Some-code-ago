@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/robert-wilkie-right-choice-department-veterans-affairs/', 'File_Name': 'robert-wilkie-right-choice-department-veterans-affairs', 'Date': 'June 27, 2018', 'Title': 'robert wilkie right choice department veterans affairs', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-h-r-4708-s-534-law/', 'File_Name': 'president-donald-j-trump-signs-h-r-4708-s-534-law', 'Date': 'February 14, 2018', 'Title': 'president donald j trump signs h r 4708 s 534 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

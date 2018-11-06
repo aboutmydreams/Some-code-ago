@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-s-2372-law/', 'File_Name': 'president-donald-j-trump-signs-s-2372-law', 'Date': 'June 6, 2018', 'Title': 'president donald j trump signs s 2372 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

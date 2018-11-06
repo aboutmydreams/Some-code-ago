@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-first-lady-melania-trump-hurricane-harvey/', 'File_Name': 'statement-first-lady-melania-trump-hurricane-harvey', 'Date': 'August 29, 2017', 'Title': 'statement first lady melania trump hurricane harvey', 'TYPE': '\nStatements & Releases', 'Author': ''}

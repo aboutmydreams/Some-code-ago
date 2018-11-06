@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-h-r-1725-h-r-3122-h-r-4533-law/', 'File_Name': 'president-donald-j-trump-signs-h-r-1725-h-r-3122-h-r-4533-law', 'Date': 'March 9, 2018', 'Title': 'president donald j trump signs h r 1725 h r 3122 h r 4533 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

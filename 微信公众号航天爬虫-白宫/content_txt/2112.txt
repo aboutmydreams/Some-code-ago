@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-givingtuesday/', 'File_Name': 'statement-president-donald-j-trump-givingtuesday', 'Date': 'November 27, 2017', 'Title': 'statement president donald j trump givingtuesday', 'TYPE': '\nStatements & Releases', 'Author': ''}

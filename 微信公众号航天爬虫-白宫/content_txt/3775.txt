@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/joint-press-conference-president-trump-nato-secretary-general-stoltenberg/', 'File_Name': 'joint-press-conference-president-trump-nato-secretary-general-stoltenberg', 'Date': 'April 12, 2017', 'Title': 'joint press conference president trump nato secretary general stoltenberg', 'TYPE': '\nRemarks', 'Author': ''}

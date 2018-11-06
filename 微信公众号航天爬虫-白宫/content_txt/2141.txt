@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wall-street-journal-reducing-corporate-tax-games/', 'File_Name': 'wall-street-journal-reducing-corporate-tax-games', 'Date': 'November 20, 2017', 'Title': 'wall street journal reducing corporate tax games', 'TYPE': '\nNews Clips', 'Author': ''}

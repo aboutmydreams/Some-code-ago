@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-signs-executive-order-antiquities-act/', 'File_Name': 'president-trump-signs-executive-order-antiquities-act', 'Date': 'no data', 'Title': 'president trump signs executive order antiquities act', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

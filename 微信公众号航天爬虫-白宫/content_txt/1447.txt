@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/new-poll-shows-overwhelming-support-president-trumps-immigration-priorities/', 'File_Name': 'new-poll-shows-overwhelming-support-president-trumps-immigration-priorities', 'Date': 'no data', 'Title': 'new poll shows overwhelming support president trumps immigration priorities', 'TYPE': 'no type', 'Author': ''}

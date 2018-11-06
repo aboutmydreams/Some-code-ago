@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/cracking-synthetic-opioid-sales/', 'File_Name': 'cracking-synthetic-opioid-sales', 'Date': 'no data', 'Title': 'cracking synthetic opioid sales', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tJefferson Beauregard Sessions III\t\t\t\t\t\t\t\n'}

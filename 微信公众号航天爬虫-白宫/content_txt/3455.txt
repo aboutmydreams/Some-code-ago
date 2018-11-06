@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-american-embassy-israel/', 'File_Name': 'statement-american-embassy-israel', 'Date': 'June 1, 2017', 'Title': 'statement american embassy israel', 'TYPE': '\nStatements & Releases', 'Author': ''}

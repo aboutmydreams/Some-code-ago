@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-hosting-pledge-americas-workers-event/', 'File_Name': 'remarks-president-trump-hosting-pledge-americas-workers-event', 'Date': 'July 19, 2018', 'Title': 'remarks president trump hosting pledge americas workers event', 'TYPE': '\nRemarks', 'Author': ''}

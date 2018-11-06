@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wtas-support-president-donald-j-trumps-trade-announcement-mexico/', 'File_Name': 'wtas-support-president-donald-j-trumps-trade-announcement-mexico', 'Date': 'August 28, 2018', 'Title': 'wtas support president donald j trumps trade announcement mexico', 'TYPE': '\nStatements & Releases', 'Author': ''}

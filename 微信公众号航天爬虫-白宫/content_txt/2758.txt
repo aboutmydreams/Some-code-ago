@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-memorandum-secretary-state-secretary-treasury/', 'File_Name': 'presidential-memorandum-secretary-state-secretary-treasury', 'Date': 'September 8, 2017', 'Title': 'presidential memorandum secretary state secretary treasury', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

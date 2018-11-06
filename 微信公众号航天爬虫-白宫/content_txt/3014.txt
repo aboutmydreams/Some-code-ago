@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-second-lady-karen-pences-visit-tbilisi-georgia/', 'File_Name': 'readout-second-lady-karen-pences-visit-tbilisi-georgia', 'Date': 'August 1, 2017', 'Title': 'readout second lady karen pences visit tbilisi georgia', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-air-force-one-departure/', 'File_Name': 'remarks-president-trump-air-force-one-departure', 'Date': 'May 4, 2018', 'Title': 'remarks president trump air force one departure', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/national-taxpayers-union-tax-reform-makes-america-competitive/', 'File_Name': 'national-taxpayers-union-tax-reform-makes-america-competitive', 'Date': 'November 30, 2017', 'Title': 'national taxpayers union tax reform makes america competitive', 'TYPE': '\nNews Clips', 'Author': ''}

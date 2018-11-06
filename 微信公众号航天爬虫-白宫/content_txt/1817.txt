@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-19/', 'File_Name': 'statement-press-secretary-19', 'Date': 'January 12, 2018', 'Title': 'statement press secretary 19', 'TYPE': '\nStatements & Releases', 'Author': ''}

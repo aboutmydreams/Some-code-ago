@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/art-therapy-helps-unlock-emotions-buried-within/', 'File_Name': 'art-therapy-helps-unlock-emotions-buried-within', 'Date': 'no data', 'Title': 'art therapy helps unlock emotions buried within', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tKaren Pence\t\t\t\t\t\t\t\n'}

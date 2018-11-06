@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>login</title>
+	<style type="text/css">
+		* { -webkit-box-sizing: border-box; box-sizing: border-box; -webkit-user-select: none; outline: 0; -webkit-tap-highlight-color: transparent; -webkit-tap-highlight-color: transparent}
+
+body { margin:0; padding:0; font-family: 'Helvetica Neue', Helvetica, sans-serif; font-size: 16px;color: #000; background-color: #ffffff;-webkit-text-size-adjust:none;}
+
+div,form,img,ul,ol,li,p,dl,dt,dd { margin: 0; padding: 0; border: 0;}
+
+h1,h2,h3,h4,h5,h6 { margin:0; padding:0;font-family:'\5FAE\8F6F\96C5\9ED1';font-weight:normal;font-size:14px;}
+
+address, caption, cite, code, dfn, th, var { font-style: normal; font-weight: normal;}
+
+fieldset, img, input { border: 0 none;}
+
+table{border-collapse: collapse; border-spacing: 0;}
+
+ul,li {list-style:none;}
+
+i,em{ font-style:normal;}
+
+fieldset,img{border:0px;}
+
+textarea { resize: vertical }
+
+a {text-decoration:none; color: #007aff }
+
+a:focus { outline:0;}
+
+a:hover{text-decoration:none;}
+
+a:active { color:red;}
+
+.clear:after{content:"";display:block;visibility:hidden;height:0;clear:both;}
+
+.clear{zoom:1}
+
+.left { float: left;}
+
+.right { float: right;}
+
+.main{ padding:44px 0 51px 0;}
+
+.margin_top9{ margin-top:9px;}
+
+.bj{background:url(../images/bj.png);}
+
+.z_uer_bj{ background:#384558;}
+
+.z_uer{ position:relative; z-index:20;}
+
+.z_bj{ position:absolute; width:100%;background:url(../images/1.jpg) no-repeat left center; top:0; left:0; z-index:10;}
+
+.z_bj i{ display:block; width:100%;}
+
+.z_uer .z_user_center{ width:400px; margin-left:auto; margin-right:auto; background:#eef1f7; padding:10px 20px; border-radius:5px;box-shadow:0px 0px 50px rgba(0, 56, 101,0.1);}
+
+.z_uer .z_user_center h1{ text-align:center; font-size:18px; line-height:60px; color:#333; font-weight:700; margin-bottom:15px;}
+
+.z_uer .z_user_center input{ border:0; display:inline-block; height:40px; padding:0 10px 0 40px; width:100%; color:#999; outline:none; color:#384558; font-size:14px;}
+
+.z_uer .z_user_center .z_uer_name{ margin-bottom:20px;}
+
+.z_uer .z_user_center .z_uer_name input{background:#dee3ef url(../images/1.png) no-repeat 12px center;}
+
+.z_uer .z_user_center .z_uer_passd input{background:#dee3ef url(../images/2.png) no-repeat 12px center;}
+
+.z_uer .z_user_center .z_uer_other{ margin:30px auto 20px;}
+
+.z_uer .z_user_center .z_uer_other a{ background: -moz-linear-gradient(top, #379ff2, #2196f3);background: -webkit-linear-gradient(top, #379ff2, #2196f3);background: -o-linear-gradient(top, #379ff2, #2196f3);display:block; width:100%; height:40px; border-radius:20px; text-align:center; line-height:40px; color:#FFF;font-size:16px;text-shadow: 1px 1px rgba(0, 56, 101,0.5);transform: translate(0,0);transition:all .2s ease-in 0s;}
+
+.z_uer .z_user_center .z_uer_other a:hover{ box-shadow:0px 0px 20px rgba(0, 56, 101,0.3);}
+
+.z_top{ height:60px;line-height:60px; background:#0081c3; padding:0 20px; color:#fff;}
+
+.z_top .left h1{ font-size:20px; font-weight:700;}
+
+.z_top .right span{ padding-left:25px; font-size:14px; color:#e3f6ff; margin-left:20px; display:inline-block;}
+
+.z_top .right .z_wck{}
+
+.z_top .right .z_pad{background:url(../images/3.png) no-repeat left center;}
+
+.z_top .right .z_back{background:url(../images/4.png) no-repeat left center;}
+	</style>
+</head>
+<body>
+<div class="z_bj"><i></i></div>
+
+<div class="z_uer">
+
+<div class="z_user_center">
+
+    <h1>XXX登录</h1>
+
+    <div class="z_uer_name"><input name="" type="text" value="用户名" onfocus="if(this.value=='用户名'){this.value=''}" onblur="if(this.value=='') {this.value='用户名'}"/></div>
+
+        <div class="z_uer_passd"><input name="" type="text" value="密码" onfocus="if(this.value=='密码'){this.value=''}" onblur="if(this.value=='') {this.value='密码'}"/></div>
+
+        <div class="z_uer_other"><a href="file:///C:/Users/T-bao/pypy/%E7%99%BB%E5%BD%95%E9%A1%B5%E9%9D%A2%20%EF%BC%88%E7%99%BE%E5%BA%A6%EF%BC%89.html">登录</a></div>        
+
+    </div>
+
+</div>
+<script type="text/javascript">
+
+$(function(){
+
+ChangeSize();
+
+$(window).resize(function(){
+
+ChangeSize();
+
+});
+
+});
+
+function ChangeSize(){
+
+$(".z_user_center").css("margin-top",(($(window).height()-$(".z_user_center").height())/2));
+
+$(".z_bj,.z_bj i").css("height",($(window).height()));
+
+}
+
+</script>
+</body>
+</html>

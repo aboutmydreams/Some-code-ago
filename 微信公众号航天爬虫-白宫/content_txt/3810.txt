@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/honoring-heroes-sacrifice/', 'File_Name': 'honoring-heroes-sacrifice', 'Date': 'no data', 'Title': 'honoring heroes sacrifice', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tMichael R. Pence\t\t\t\t\t\t\t\n'}

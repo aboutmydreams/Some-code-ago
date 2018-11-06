@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/creative-arts-therapies-healing-hidden-wounds-war/', 'File_Name': 'creative-arts-therapies-healing-hidden-wounds-war', 'Date': 'no data', 'Title': 'creative arts therapies healing hidden wounds war', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tKaren Pence\t\t\t\t\t\t\t\n'}

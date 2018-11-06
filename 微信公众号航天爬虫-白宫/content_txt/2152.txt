@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/hill-unemployment-rate-hit-record-low-13-states-year/', 'File_Name': 'hill-unemployment-rate-hit-record-low-13-states-year', 'Date': 'November 17, 2017', 'Title': 'hill unemployment rate hit record low 13 states year', 'TYPE': '\nNews Clips', 'Author': ''}

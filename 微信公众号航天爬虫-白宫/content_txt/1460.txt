@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/support-continues-build-presidents-infrastructure-initiative/', 'File_Name': 'support-continues-build-presidents-infrastructure-initiative', 'Date': 'February 22, 2018', 'Title': 'support continues build presidents infrastructure initiative', 'TYPE': '\nStatements & Releases', 'Author': ''}

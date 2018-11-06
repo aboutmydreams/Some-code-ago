@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wsj-editorial-trump-administration-cleaning-superfund-mess/', 'File_Name': 'wsj-editorial-trump-administration-cleaning-superfund-mess', 'Date': 'June 13, 2017', 'Title': 'wsj editorial trump administration cleaning superfund mess', 'TYPE': '\nNews Clips', 'Author': ''}

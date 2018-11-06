@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trumps-weekly-address-nation/', 'File_Name': 'president-trumps-weekly-address-nation', 'Date': 'no data', 'Title': 'president trumps weekly address nation', 'TYPE': 'no type', 'Author': ''}

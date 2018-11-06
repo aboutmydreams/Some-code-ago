@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-conference-president-trump-g7-summit/', 'File_Name': 'press-conference-president-trump-g7-summit', 'Date': 'June 9, 2018', 'Title': 'press conference president trump g7 summit', 'TYPE': '\nRemarks', 'Author': ''}

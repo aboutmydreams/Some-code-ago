@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/more-photos-foreign-trip/', 'File_Name': 'more-photos-foreign-trip', 'Date': 'November 17, 2017', 'Title': 'more photos foreign trip', 'TYPE': '\nStatements & Releases', 'Author': ''}

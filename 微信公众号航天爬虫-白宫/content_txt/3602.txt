@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-h-r-534-law/', 'File_Name': 'president-donald-j-trump-signs-h-r-534-law', 'Date': 'May 8, 2017', 'Title': 'president donald j trump signs h r 534 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

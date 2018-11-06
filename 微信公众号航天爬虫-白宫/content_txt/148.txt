@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/stephen-moore-trumps-trade-triumph/', 'File_Name': 'stephen-moore-trumps-trade-triumph', 'Date': 'July 30, 2018', 'Title': 'stephen moore trumps trade triumph', 'TYPE': '\nNews Clips', 'Author': ''}

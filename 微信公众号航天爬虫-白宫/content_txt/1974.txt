@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-briefing-by-press-secretary-sarah-sanders-121417/', 'File_Name': 'press-briefing-by-press-secretary-sarah-sanders-121417', 'Date': 'December 14, 2017', 'Title': 'press briefing by press secretary sarah sanders 121417', 'TYPE': '\nPress Briefings', 'Author': ''}

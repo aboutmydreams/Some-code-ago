@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/photos-of-the-week-121517/', 'File_Name': 'photos-of-the-week-121517', 'Date': 'December 15, 2017', 'Title': 'photos of the week 121517', 'TYPE': '\nStatements & Releases', 'Author': ''}

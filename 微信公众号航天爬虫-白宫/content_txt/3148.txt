@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/cohn-mcmaster-trump-vision-america-abroad/', 'File_Name': 'cohn-mcmaster-trump-vision-america-abroad', 'Date': 'July 13, 2017', 'Title': 'cohn mcmaster trump vision america abroad', 'TYPE': '\nNews Clips', 'Author': ''}

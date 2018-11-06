@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-canadian-prime-minister-trudeau-bilateral-meeting/', 'File_Name': 'remarks-vice-president-canadian-prime-minister-trudeau-bilateral-meeting', 'Date': 'July 14, 2017', 'Title': 'remarks vice president canadian prime minister trudeau bilateral meeting', 'TYPE': '\nRemarks', 'Author': ''}

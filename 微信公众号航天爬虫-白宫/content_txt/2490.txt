@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/white-house-announces-2017-fall-garden-tours/', 'File_Name': 'white-house-announces-2017-fall-garden-tours', 'Date': 'October 5, 2017', 'Title': 'white house announces 2017 fall garden tours', 'TYPE': '\nStatements & Releases', 'Author': ''}

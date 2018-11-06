@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-delivering-immigration-enforcement-american-people/', 'File_Name': 'president-trump-delivering-immigration-enforcement-american-people', 'Date': 'February 28, 2017', 'Title': 'president trump delivering immigration enforcement american people', 'TYPE': '\nFact Sheets', 'Author': ''}

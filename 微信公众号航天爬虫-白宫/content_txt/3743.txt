@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-aboard-uss-ronald-reagan/', 'File_Name': 'remarks-vice-president-aboard-uss-ronald-reagan', 'Date': 'April 19, 2017', 'Title': 'remarks vice president aboard uss ronald reagan', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-eighth-wave-judicial-candidates/', 'File_Name': 'president-donald-j-trump-announces-eighth-wave-judicial-candidates', 'Date': 'September 28, 2017', 'Title': 'president donald j trump announces eighth wave judicial candidates', 'TYPE': '\nNominations & Appointments', 'Author': ''}

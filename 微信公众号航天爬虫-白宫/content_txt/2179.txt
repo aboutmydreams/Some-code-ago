@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wsj-u-s-manufacturing-rides-rising-tide-buoyed-global-growth-optimism/', 'File_Name': 'wsj-u-s-manufacturing-rides-rising-tide-buoyed-global-growth-optimism', 'Date': 'November 15, 2017', 'Title': 'wsj u s manufacturing rides rising tide buoyed global growth optimism', 'TYPE': '\nNews Clips', 'Author': ''}

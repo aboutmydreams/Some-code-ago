@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-s-488-jobs-investor-confidence-act-2018/', 'File_Name': 'statement-press-secretary-s-488-jobs-investor-confidence-act-2018', 'Date': 'July 17, 2018', 'Title': 'statement press secretary s 488 jobs investor confidence act 2018', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-proclamation-commemorating-50th-anniversary-vietnam-war/', 'File_Name': 'presidential-proclamation-commemorating-50th-anniversary-vietnam-war', 'Date': 'November 10, 2017', 'Title': 'presidential proclamation commemorating 50th anniversary vietnam war', 'TYPE': '\nProclamations', 'Author': ''}

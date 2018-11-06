@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-second-lady-karen-pences-visit-buenos-aires-argentina/', 'File_Name': 'readout-second-lady-karen-pences-visit-buenos-aires-argentina', 'Date': 'August 16, 2017', 'Title': 'readout second lady karen pences visit buenos aires argentina', 'TYPE': '\nStatements & Releases', 'Author': ''}

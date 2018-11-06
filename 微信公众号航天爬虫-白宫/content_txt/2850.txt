@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-president-niinisto-finland-bilateral-meeting/', 'File_Name': 'remarks-president-trump-president-niinisto-finland-bilateral-meeting', 'Date': 'August 28, 2017', 'Title': 'remarks president trump president niinisto finland bilateral meeting', 'TYPE': '\nRemarks', 'Author': ''}

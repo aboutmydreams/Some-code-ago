@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-proclamation-anniversary-national-korean-war-armistice-day-2018/', 'File_Name': 'presidential-proclamation-anniversary-national-korean-war-armistice-day-2018', 'Date': 'July 26, 2018', 'Title': 'presidential proclamation anniversary national korean war armistice day 2018', 'TYPE': 'no type', 'Author': ''}

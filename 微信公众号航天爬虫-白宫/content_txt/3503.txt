@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-israel-museum/', 'File_Name': 'remarks-president-trump-israel-museum', 'Date': 'May 23, 2017', 'Title': 'remarks president trump israel museum', 'TYPE': '\nRemarks', 'Author': ''}

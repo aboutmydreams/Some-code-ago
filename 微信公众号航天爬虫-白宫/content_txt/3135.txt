@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/failing-obamacare-insurance-market/', 'File_Name': 'failing-obamacare-insurance-market', 'Date': 'no data', 'Title': 'failing obamacare insurance market', 'TYPE': 'no type', 'Author': ''}

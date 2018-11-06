@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-louisville-ky-obamacare/', 'File_Name': 'remarks-vice-president-louisville-ky-obamacare', 'Date': 'March 12, 2017', 'Title': 'remarks vice president louisville ky obamacare', 'TYPE': '\nRemarks', 'Author': ''}

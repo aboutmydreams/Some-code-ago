@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/joint-statement-united-states-america-republic-singapore/', 'File_Name': 'joint-statement-united-states-america-republic-singapore', 'Date': 'October 24, 2017', 'Title': 'joint statement united states america republic singapore', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/growing-american-economy-economic-report-president/', 'File_Name': 'growing-american-economy-economic-report-president', 'Date': 'February 21, 2018', 'Title': 'growing american economy economic report president', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

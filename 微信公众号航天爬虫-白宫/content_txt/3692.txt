@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-executive-order-review-designations-antiquities-act/', 'File_Name': 'presidential-executive-order-review-designations-antiquities-act', 'Date': 'April 26, 2017', 'Title': 'presidential executive order review designations antiquities act', 'TYPE': '\nExecutive Orders', 'Author': ''}

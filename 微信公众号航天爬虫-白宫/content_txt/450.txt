@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-press-gaggle/', 'File_Name': 'remarks-president-trump-press-gaggle', 'Date': 'June 15, 2018', 'Title': 'remarks president trump press gaggle', 'TYPE': '\nRemarks', 'Author': ''}

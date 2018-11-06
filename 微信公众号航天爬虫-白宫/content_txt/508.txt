@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-500-days-winning-world-stage/', 'File_Name': 'president-donald-j-trumps-500-days-winning-world-stage', 'Date': 'June 7, 2018', 'Title': 'president donald j trumps 500 days winning world stage', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/jobs-jobs-jobs-american-economy-booming/', 'File_Name': 'jobs-jobs-jobs-american-economy-booming', 'Date': 'July 6, 2018', 'Title': 'jobs jobs jobs american economy booming', 'TYPE': '\nNews Clips', 'Author': ''}

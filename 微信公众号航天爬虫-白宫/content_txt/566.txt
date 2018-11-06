@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-regarding-pardon-dinesh-dsouza/', 'File_Name': 'statement-press-secretary-regarding-pardon-dinesh-dsouza', 'Date': 'May 31, 2018', 'Title': 'statement press secretary regarding pardon dinesh dsouza', 'TYPE': '\nStatements & Releases', 'Author': ''}

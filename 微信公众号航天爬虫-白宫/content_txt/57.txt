@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-marine-one-departure-10/', 'File_Name': 'remarks-president-trump-marine-one-departure-10', 'Date': 'August 17, 2018', 'Title': 'remarks president trump marine one departure 10', 'TYPE': '\nRemarks', 'Author': ''}

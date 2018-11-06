@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/second-lady-karen-pence-provides-art-supply-kits-childrens-hospitals/', 'File_Name': 'second-lady-karen-pence-provides-art-supply-kits-childrens-hospitals', 'Date': 'November 14, 2017', 'Title': 'second lady karen pence provides art supply kits childrens hospitals', 'TYPE': '\nStatements & Releases', 'Author': ''}

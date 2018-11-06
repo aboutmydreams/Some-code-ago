@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/letter-president-state-local-leaders/', 'File_Name': 'letter-president-state-local-leaders', 'Date': 'August 20, 2018', 'Title': 'letter president state local leaders', 'TYPE': 'no type', 'Author': ''}

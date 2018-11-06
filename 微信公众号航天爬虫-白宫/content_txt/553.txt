@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-u-s-coast-guard-change-command-ceremony/', 'File_Name': 'remarks-president-trump-u-s-coast-guard-change-command-ceremony', 'Date': 'June 1, 2018', 'Title': 'remarks president trump u s coast guard change command ceremony', 'TYPE': '\nRemarks', 'Author': ''}

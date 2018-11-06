@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-regarding-creation-national-vetting-center/', 'File_Name': 'statement-press-secretary-regarding-creation-national-vetting-center', 'Date': 'February 6, 2018', 'Title': 'statement press secretary regarding creation national vetting center', 'TYPE': '\nStatements & Releases', 'Author': ''}

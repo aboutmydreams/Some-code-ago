@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meeting-u-s-citizen-freed-venezuela/', 'File_Name': 'remarks-president-trump-meeting-u-s-citizen-freed-venezuela', 'Date': 'May 26, 2018', 'Title': 'remarks president trump meeting u s citizen freed venezuela', 'TYPE': '\nRemarks', 'Author': ''}

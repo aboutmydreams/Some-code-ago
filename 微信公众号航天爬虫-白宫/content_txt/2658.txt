@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-jewish-high-holy-days/', 'File_Name': 'statement-president-donald-j-trump-jewish-high-holy-days', 'Date': 'September 19, 2017', 'Title': 'statement president donald j trump jewish high holy days', 'TYPE': '\nStatements & Releases', 'Author': ''}

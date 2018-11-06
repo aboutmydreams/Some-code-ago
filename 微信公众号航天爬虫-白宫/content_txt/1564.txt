@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/photos-of-the-week-020918/', 'File_Name': 'photos-of-the-week-020918', 'Date': 'February 9, 2018', 'Title': 'photos of the week 020918', 'TYPE': '\nStatements & Releases', 'Author': ''}

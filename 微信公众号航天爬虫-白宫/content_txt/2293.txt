@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-by-the-president/', 'File_Name': 'statement-by-the-president', 'Date': 'November 2, 2017', 'Title': 'statement by the president', 'TYPE': '\nStatements & Releases', 'Author': ''}

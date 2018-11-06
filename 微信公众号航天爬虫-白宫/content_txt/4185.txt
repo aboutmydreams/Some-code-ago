@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-6/', 'File_Name': 'statement-press-secretary-6', 'Date': 'February 8, 2017', 'Title': 'statement press secretary 6', 'TYPE': '\nStatements & Releases', 'Author': ''}

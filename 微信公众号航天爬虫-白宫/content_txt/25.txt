@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-president-donald-j-trumps-call-governor-david-ige-hawaii/', 'File_Name': 'readout-president-donald-j-trumps-call-governor-david-ige-hawaii', 'Date': 'August 24, 2018', 'Title': 'readout president donald j trumps call governor david ige hawaii', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-approves-new-jersey-disaster-declaration/', 'File_Name': 'president-donald-j-trump-approves-new-jersey-disaster-declaration', 'Date': 'June 9, 2018', 'Title': 'president donald j trump approves new jersey disaster declaration', 'TYPE': '\nStatements & Releases', 'Author': ''}

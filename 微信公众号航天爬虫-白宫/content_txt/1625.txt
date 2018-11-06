@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-nuclear-posture-review/', 'File_Name': 'statement-president-donald-j-trump-nuclear-posture-review', 'Date': 'February 2, 2018', 'Title': 'statement president donald j trump nuclear posture review', 'TYPE': '\nStatements & Releases', 'Author': ''}

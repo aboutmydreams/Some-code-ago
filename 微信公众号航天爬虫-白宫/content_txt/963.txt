@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/tax-cuts-already-working-north-carolina/', 'File_Name': 'tax-cuts-already-working-north-carolina', 'Date': 'no data', 'Title': 'tax cuts already working north carolina', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tMichael R. Pence\t\t\t\t\t\t\t\n'}

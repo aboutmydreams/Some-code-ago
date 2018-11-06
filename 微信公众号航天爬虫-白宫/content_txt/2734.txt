@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/h-r-3697-criminal-alien-gang-member-removal-act/', 'File_Name': 'h-r-3697-criminal-alien-gang-member-removal-act', 'Date': 'September 12, 2017', 'Title': 'h r 3697 criminal alien gang member removal act', 'TYPE': '\nStatements & Releases', 'Author': ''}

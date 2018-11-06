@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-nfib/', 'File_Name': 'remarks-vice-president-nfib', 'Date': 'July 27, 2017', 'Title': 'remarks vice president nfib', 'TYPE': '\nRemarks', 'Author': ''}

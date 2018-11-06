@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/supreme-court-justice-neil-gorsuch-sworn-white-house/', 'File_Name': 'supreme-court-justice-neil-gorsuch-sworn-white-house', 'Date': 'no data', 'Title': 'supreme court justice neil gorsuch sworn white house', 'TYPE': 'no type', 'Author': ''}

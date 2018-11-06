@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-gaggle-principal-deputy-press-secretary-raj-shah/', 'File_Name': 'press-gaggle-principal-deputy-press-secretary-raj-shah', 'Date': 'May 10, 2018', 'Title': 'press gaggle principal deputy press secretary raj shah', 'TYPE': '\nPress Briefings', 'Author': ''}

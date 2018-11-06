@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-jared-kushner-jason-greenblatts-meeting-prime-minister-israel/', 'File_Name': 'readout-jared-kushner-jason-greenblatts-meeting-prime-minister-israel', 'Date': 'June 22, 2018', 'Title': 'readout jared kushner jason greenblatts meeting prime minister israel', 'TYPE': '\nStatements & Releases', 'Author': ''}

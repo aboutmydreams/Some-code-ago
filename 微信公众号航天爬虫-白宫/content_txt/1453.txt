@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-s-1438-law/', 'File_Name': 'president-donald-j-trump-signs-s-1438-law', 'Date': 'February 22, 2018', 'Title': 'president donald j trump signs s 1438 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

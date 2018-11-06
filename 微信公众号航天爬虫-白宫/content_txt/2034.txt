@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-trump-jerusalem/', 'File_Name': 'statement-president-trump-jerusalem', 'Date': 'December 6, 2017', 'Title': 'statement president trump jerusalem', 'TYPE': '\nStatements & Releases', 'Author': ''}

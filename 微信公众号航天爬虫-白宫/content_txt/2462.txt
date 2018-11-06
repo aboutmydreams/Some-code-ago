@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/establish-merit-based-reforms-promote-assimilation-financial-success/', 'File_Name': 'establish-merit-based-reforms-promote-assimilation-financial-success', 'Date': 'October 8, 2017', 'Title': 'establish merit based reforms promote assimilation financial success', 'TYPE': '\nFact Sheets', 'Author': ''}

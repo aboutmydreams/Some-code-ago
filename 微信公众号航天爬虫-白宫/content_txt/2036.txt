@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-proclamation-jerusalem-capital-state-israel/', 'File_Name': 'president-donald-j-trumps-proclamation-jerusalem-capital-state-israel', 'Date': 'December 6, 2017', 'Title': 'president donald j trumps proclamation jerusalem capital state israel', 'TYPE': '\nStatements & Releases', 'Author': ''}

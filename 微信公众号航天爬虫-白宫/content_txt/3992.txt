@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-president-donald-j-trumps-meeting-obamacare-victims/', 'File_Name': 'readout-president-donald-j-trumps-meeting-obamacare-victims', 'Date': 'March 13, 2017', 'Title': 'readout president donald j trumps meeting obamacare victims', 'TYPE': '\nStatements & Releases', 'Author': ''}

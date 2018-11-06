@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-terrorist-attack-paris/', 'File_Name': 'statement-press-secretary-terrorist-attack-paris', 'Date': 'May 13, 2018', 'Title': 'statement press secretary terrorist attack paris', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/notice-regarding-continuation-national-emergency-respect-north-korea/', 'File_Name': 'notice-regarding-continuation-national-emergency-respect-north-korea', 'Date': 'June 22, 2018', 'Title': 'notice regarding continuation national emergency respect north korea', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-president-donald-j-trumps-calls-gulf-state-leaders/', 'File_Name': 'readout-president-donald-j-trumps-calls-gulf-state-leaders', 'Date': 'July 2, 2017', 'Title': 'readout president donald j trumps calls gulf state leaders', 'TYPE': '\nStatements & Releases', 'Author': ''}

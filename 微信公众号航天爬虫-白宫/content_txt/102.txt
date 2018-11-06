@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/tax-cuts-delivering-relief-small-businesses-need/', 'File_Name': 'tax-cuts-delivering-relief-small-businesses-need', 'Date': 'no data', 'Title': 'tax cuts delivering relief small businesses need', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tLinda E. McMahon\t\t\t\t\t\t\t\n'}

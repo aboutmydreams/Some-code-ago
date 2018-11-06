@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-h-r-2810/', 'File_Name': 'statement-president-donald-j-trump-h-r-2810', 'Date': 'December 12, 2017', 'Title': 'statement president donald j trump h r 2810', 'TYPE': '\nStatements & Releases', 'Author': ''}

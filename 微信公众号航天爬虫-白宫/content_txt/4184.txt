@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/intel-announces-7-billion-investment-creating-10000-new-jobs/', 'File_Name': 'intel-announces-7-billion-investment-creating-10000-new-jobs', 'Date': 'no data', 'Title': 'intel announces 7 billion investment creating 10000 new jobs', 'TYPE': 'no type', 'Author': ''}

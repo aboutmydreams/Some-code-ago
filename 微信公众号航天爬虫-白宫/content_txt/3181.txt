@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-womens-entrepreneurship-finance-event/', 'File_Name': 'remarks-president-trump-womens-entrepreneurship-finance-event', 'Date': 'July 8, 2017', 'Title': 'remarks president trump womens entrepreneurship finance event', 'TYPE': '\nRemarks', 'Author': ''}

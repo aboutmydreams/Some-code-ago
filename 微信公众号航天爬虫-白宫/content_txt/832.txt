@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/empowering-american-small-businesses/', 'File_Name': 'empowering-american-small-businesses', 'Date': 'May 4, 2018', 'Title': 'empowering american small businesses', 'TYPE': '\nNews Clips', 'Author': ''}

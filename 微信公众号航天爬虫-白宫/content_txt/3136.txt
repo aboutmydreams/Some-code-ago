@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-national-governors-association/', 'File_Name': 'remarks-vice-president-national-governors-association', 'Date': 'July 14, 2017', 'Title': 'remarks vice president national governors association', 'TYPE': '\nRemarks', 'Author': ''}

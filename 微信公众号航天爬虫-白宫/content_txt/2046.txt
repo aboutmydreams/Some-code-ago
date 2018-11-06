@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/summer-2018-white-house-internship-program/', 'File_Name': 'summer-2018-white-house-internship-program', 'Date': 'December 5, 2017', 'Title': 'summer 2018 white house internship program', 'TYPE': '\nStatements & Releases', 'Author': ''}

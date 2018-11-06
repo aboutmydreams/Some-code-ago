@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/sen-grassley-tax-reform-promise-kept-iowa-families/', 'File_Name': 'sen-grassley-tax-reform-promise-kept-iowa-families', 'Date': 'January 3, 2018', 'Title': 'sen grassley tax reform promise kept iowa families', 'TYPE': '\nNews Clips', 'Author': ''}

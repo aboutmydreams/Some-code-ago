@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-national-sheriffs-association-roundtable/', 'File_Name': 'remarks-president-trump-national-sheriffs-association-roundtable', 'Date': 'February 13, 2018', 'Title': 'remarks president trump national sheriffs association roundtable', 'TYPE': '\nRemarks', 'Author': ''}

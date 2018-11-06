@@ -1,0 +1,4 @@
+我的阿萨德撒大声地实打实阿萨德打发斯蒂芬快来我家而且价位了肯德基奥斯卡的看手机等考完角度看垃圾卡的手机打开了就奥斯卡基督教嗲嗲就饿了我打击我阿斯加德考虑时间德拉科贾斯丁二恶肯德基阿萨德捡垃圾DOI发哦积分进入大家克里斯的积分圣诞节啊时代峻峰阿克苏的飞机的房间费溶解热凯瑞倒计时肯德基  I want to import one module of pyusb library that is in the d:\pyusb-1.0.0a2\usb. So first of all I must add its path to sys.path. But I receive the below error.
+if i succeed
+i love python
+hahahahah hahahah ahh ah

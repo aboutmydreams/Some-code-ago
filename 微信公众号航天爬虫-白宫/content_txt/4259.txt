@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/joint-statement-u-s-mexico-relations/', 'File_Name': 'joint-statement-u-s-mexico-relations', 'Date': 'January 27, 2017', 'Title': 'joint statement u s mexico relations', 'TYPE': '\nStatements & Releases', 'Author': ''}

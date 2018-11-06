@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/mike-solon-tax-cuts-bust-secular-stagnation/', 'File_Name': 'mike-solon-tax-cuts-bust-secular-stagnation', 'Date': 'July 30, 2018', 'Title': 'mike solon tax cuts bust secular stagnation', 'TYPE': '\nNews Clips', 'Author': ''}

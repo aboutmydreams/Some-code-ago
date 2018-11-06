@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-briefing-president-trumps-upcoming-visit-poland-germany-062917/', 'File_Name': 'press-briefing-president-trumps-upcoming-visit-poland-germany-062917', 'Date': 'June 29, 2017', 'Title': 'press briefing president trumps upcoming visit poland germany 062917', 'TYPE': '\nPress Briefings', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-expulsion-russian-intelligence-officers/', 'File_Name': 'statement-press-secretary-expulsion-russian-intelligence-officers', 'Date': 'March 26, 2018', 'Title': 'statement press secretary expulsion russian intelligence officers', 'TYPE': '\nStatements & Releases', 'Author': ''}

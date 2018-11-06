@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-signing-executive-order-national-space-council/', 'File_Name': 'remarks-president-signing-executive-order-national-space-council', 'Date': 'June 30, 2017', 'Title': 'remarks president signing executive order national space council', 'TYPE': '\nRemarks', 'Author': ''}

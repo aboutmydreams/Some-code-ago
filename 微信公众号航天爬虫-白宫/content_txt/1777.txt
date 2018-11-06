@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/bob-dole-receives-congress-highest-civilian-honor/', 'File_Name': 'bob-dole-receives-congress-highest-civilian-honor', 'Date': 'no data', 'Title': 'bob dole receives congress highest civilian honor', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tFormer Sen. Robert J. Dole\t\t\t\t\t'}

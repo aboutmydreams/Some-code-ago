@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-briefing-congressional-review-act-2-040517/', 'File_Name': 'press-briefing-congressional-review-act-2-040517', 'Date': 'April 5, 2017', 'Title': 'press briefing congressional review act 2 040517', 'TYPE': '\nPress Briefings', 'Author': ''}

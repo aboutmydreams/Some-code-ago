@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-signing-h-r-1625/', 'File_Name': 'remarks-president-trump-signing-h-r-1625', 'Date': 'March 23, 2018', 'Title': 'remarks president trump signing h r 1625', 'TYPE': '\nRemarks', 'Author': ''}

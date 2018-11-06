@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/vice-president-mike-pence-visit-cleveland-ohio/', 'File_Name': 'vice-president-mike-pence-visit-cleveland-ohio', 'Date': 'June 27, 2017', 'Title': 'vice president mike pence visit cleveland ohio', 'TYPE': '\nStatements & Releases', 'Author': ''}

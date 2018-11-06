@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-s-292-s-1282-law/', 'File_Name': 'president-donald-j-trump-signs-s-292-s-1282-law', 'Date': 'June 5, 2018', 'Title': 'president donald j trump signs s 292 s 1282 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meeting-manufacturing-ceos/', 'File_Name': 'remarks-president-trump-meeting-manufacturing-ceos', 'Date': 'February 23, 2017', 'Title': 'remarks president trump meeting manufacturing ceos', 'TYPE': '\nRemarks', 'Author': ''}

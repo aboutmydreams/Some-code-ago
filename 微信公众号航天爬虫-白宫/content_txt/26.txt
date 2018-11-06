@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-proclamation-womens-equality-day-2018/', 'File_Name': 'presidential-proclamation-womens-equality-day-2018', 'Date': 'August 24, 2018', 'Title': 'presidential proclamation womens equality day 2018', 'TYPE': '\nProclamations', 'Author': ''}

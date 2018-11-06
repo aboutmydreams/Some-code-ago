@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/survey-united-states-uninsured-population-2-million-year/', 'File_Name': 'survey-united-states-uninsured-population-2-million-year', 'Date': 'July 10, 2017', 'Title': 'survey united states uninsured population 2 million year', 'TYPE': '\nNews Clips', 'Author': ''}

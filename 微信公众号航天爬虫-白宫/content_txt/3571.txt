@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wsj-editorial-board-aetna-says-sayonara-obamacare/', 'File_Name': 'wsj-editorial-board-aetna-says-sayonara-obamacare', 'Date': 'May 12, 2017', 'Title': 'wsj editorial board aetna says sayonara obamacare', 'TYPE': '\nNews Clips', 'Author': ''}

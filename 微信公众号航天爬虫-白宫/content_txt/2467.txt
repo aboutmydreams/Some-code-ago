@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-approves-wisconsin-disaster-declaration/', 'File_Name': 'president-donald-j-trump-approves-wisconsin-disaster-declaration', 'Date': 'October 7, 2017', 'Title': 'president donald j trump approves wisconsin disaster declaration', 'TYPE': '\nStatements & Releases', 'Author': ''}

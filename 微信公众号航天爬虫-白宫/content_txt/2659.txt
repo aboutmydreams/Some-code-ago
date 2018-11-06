@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-luncheon-hosted-secretary-general-united-nations/', 'File_Name': 'remarks-president-trump-luncheon-hosted-secretary-general-united-nations', 'Date': 'September 19, 2017', 'Title': 'remarks president trump luncheon hosted secretary general united nations', 'TYPE': '\nRemarks', 'Author': ''}

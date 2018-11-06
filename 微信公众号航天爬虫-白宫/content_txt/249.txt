@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meeting-members-congress/', 'File_Name': 'remarks-president-trump-meeting-members-congress', 'Date': 'July 17, 2018', 'Title': 'remarks president trump meeting members congress', 'TYPE': '\nRemarks', 'Author': ''}

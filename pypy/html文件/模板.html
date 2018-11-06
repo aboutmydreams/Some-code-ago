@@ -1,0 +1,389 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1 user-scalable=no">
+  <link rel="stylesheet" href="http://cdn.bootcss.com/bootstrap/3.3.4/css/bootstrap.min.css">
+  <title>兴趣</title>
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      font-size: 16px;
+      min-width: 325px;
+    }
+
+    .nav {
+      background: #dd8c61;
+      min-height: 44px;
+    }
+
+    .nav a {
+      position: relative;
+      top: 13px;
+      left: 4px;
+      display: inline-block;
+      text-decoration-line: none;
+
+    }
+
+    .arrow {
+      display: inline-block;
+      position: relative;
+      bottom: 16px;
+    }
+
+    .left-arrow1,
+    .left-arrow2 {
+      width: 0;
+      height: 0;
+      display: block;
+      position: absolute;
+      left: 0;
+      top: 0;
+      z-index: 5;
+      /*兼容ie8-*/
+      border-top: 10px transparent dashed;
+      border-left: 10px transparent dashed;
+      border-bottom: 10px transparent dashed;
+      border-right: 10px #dd8c61 solid;
+      overflow: hidden;
+
+    }
+
+    .left-arrow1 {
+      border-right: 10px black solid;
+    }
+
+    .left-arrow2 {
+      left: 2.5px;
+      /*重要*/
+      border-right: 10px #dd8c61 solid;
+    }
+
+    .nav a p {
+      position: relative;
+      left: 36px;
+      bottom: 12.5px;
+      font-family: PingFangSC-Light;
+      font-size: 18px;
+      font-weight: normal;
+      font-stretch: normal;
+      line-height: 0px;
+      letter-spacing: -1.5px;
+      color: #000000;
+
+    }
+
+    .headline {
+      font-size: 1.2rem;
+      line-height: 0;
+      letter-spacing: -1px;
+      position: relative;
+      top: -0.4rem;
+      left: 0.1rem;
+    }
+
+    .labels_zone {
+      height: 15rem;
+      border-color: rgba(0, 0, 0, 0.5);
+      border-style: solid;
+      border-width: 1px 0 0 0;
+      box-shadow: 0 2px rgba(0, 0, 0, .075);
+      transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+      border-radius: 2px;
+      padding: 0 15px;
+
+    }
+
+    .label {
+      display: inline-block;
+      height: 2.5rem;
+      width: 97%;
+      background-color: #ebebeb;
+      border-radius: 4px;
+      color: #000;
+      text-align: left;
+      line-height: 2rem;
+      padding-left: 1.2rem;
+
+    }
+
+    .label_color_1 {
+      background: #c4df9b;
+    }
+
+    .label_color_2 {
+      background: #9cdcf5;
+    }
+
+    .label_color_3 {
+      background: #fdc689;
+    }
+
+    .label_right {
+      float: right;
+    }
+
+    .docker {
+      padding: 0;
+      margin-top: 0.6rem;
+
+    }
+
+    .habits_zone {
+      position: relative;
+      top: 5px;
+      margin: -15px;
+      padding: 15px;
+      box-shadow: 0 2px rgba(0, 0, 0, .075);
+      transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+      border-radius: 4px;
+
+
+    }
+
+    .habits {
+      height: 5rem;
+      border-style: solid;
+      border-width: 0 0 1px 0;
+      margin: 0;
+      padding: 0;
+
+
+    }
+    
+    .type {
+      font-size: 1.7rem;
+      display: inline-block;
+      padding: 0;
+
+    }
+
+    .type p {
+      line-height: 4.8rem;
+      margin: 0;
+
+
+    }
+
+    .ipt_habit {
+      padding: 0;
+
+    }
+
+    .ipt_habit input {
+      background-color: #ebebeb;
+      border: 0;
+      width: 97%;
+      height: 3rem;
+      text-align: center;
+      position: relative;
+      top: 1rem;
+      border-radius: 4px;
+      float: right;
+
+    }
+
+    .text_zone {
+      position: relative;
+      top: 0.8rem;
+    }
+   
+    .ipt_text {
+      resize: none;
+      display: block;
+      background-color: #ebebeb;
+      overflow: hidden;
+      font-family: PingFangSC-Ultralight;
+      font-size: 1.5rem;
+      font-weight: normal;
+      font-stretch: normal;
+      color: #000000;
+      border-width: 0 0 0 0;
+      border-radius: 4px;
+      padding: 6px 1rem;
+      width: 100%;
+
+    }
+
+    .button_bottom {
+      position: relative;
+      top: 3rem;
+      text-align: center;
+
+    }
+    
+    .btn {
+      display: block;
+      background-color: #fff;
+      width: 100%;
+      height: 5.5rem;
+      color: #e16929;
+      font-size: 2rem;
+      border: solid rgba(0, 0, 0, .5);
+      border-width: 0.5px 0 0 0.5px;
+      border-radius: 4px;
+      box-shadow: 1px 1px rgba(0, 0, 0, .25);
+      transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+
+    }
+
+
+  </style>
+</head>
+
+<body>
+  <div class="nav navbar">
+    <a href="#">
+      <span class="arrow">
+        <i class="left-arrow1"></i>
+        <i class="left-arrow2"></i>
+      </span>
+      <p>兴趣</p>
+    </a>
+  </div>
+  <div class="container">
+    <div class="headline row">
+      <p class="col-xs-12">贴上你的标签，变得与众不同</p>
+    </div>
+    <div class="labels_zone row">
+      <div class="docker col-xs-6"><span class="label label_color_1">自定义...</span></div>
+      <div class="docker col-xs-6"><span class="label label_color_2 label_right">自定义...</span></div>
+    </div>
+    <div class="habits_zone row">
+      <div class="habits row">
+        <div class="type col-xs-6">
+          <p>喜欢的运动</p>
+        </div>
+        <div class="ipt_habit col-xs-6">
+          <input type="text" name="sport" min="0" max="10" value="输入">
+        </div>
+      </div>
+      <div class="habits row">
+        <div class="type col-xs-6">
+          <p>喜欢的音乐或歌手</p>
+        </div>
+        <div class="ipt_habit col-xs-6">
+          <input type="text" name="sport" min="0" max="10" value="输入">
+        </div>
+      </div>
+      <div class="habits row">
+        <div class="type col-xs-6">
+          <p>印象最深刻的电影</p>
+        </div>
+        <div class="ipt_habit col-xs-6">
+          <input type="text" name="sport" min="0" max="10" value="输入">
+        </div>
+      </div>
+      <div class="habits row">
+        <div class="type col-xs-6">
+          <p>印象最深刻的电视剧</p>
+        </div>
+        <div class="ipt_habit col-xs-6">
+          <input type="text" name="sport" min="0" max="10" value="输入">
+        </div>
+      </div>
+      <div class="habits row">
+        <div class="type col-xs-6">
+          <p>自己的特点</p>
+        </div>
+        <div class="ipt_habit col-xs-6">
+          <input type="text" name="sport" min="0" max="10" value="输入">
+        </div>
+      </div>
+      <div class="text_zone row">
+        <div class="col-xs-12">
+        <textarea class="ipt_text" rows="4" maxlength="140">近期忙的事及对未来的展望...</textarea>        
+        </div>
+      </div>
+    </div>
+    <div class="button_zone row">
+        <div class="button_bottom col-xs-12"><button class="btn">保&emsp;存</button></div>
+      </div>
+  </div>
+  <div class="form-group">
+<label class="col-md-2 control-label">缩略图</label>
+<div class="col-md-2">
+<input type="hidden" name="news.thumbnail_atta_id" value="${news.thumbnail_atta_id!}" id="thumbnail_atta_id"/>
+<div class="col-md-2">
+@ if (!isEmpty(news.thumbnail_atta_id)) {
+<div class="row" style="margin-bottom:5px;">
+<button type="button" class="btn btn-primary" id="showThumbnail">查看</button>
+</div>
+@ }
+<div class="row">
+<span class="btn btn-success fileinput-button">
+    <i class="glyphicon glyphicon-plus"></i>
+    <span>上传...</span>
+    <input id="fileupload" type="file" data-url="/atta/upload/news-thumbnail" multiple>
+</span>
+</div>
+</div>
+<div>
+<img src="" id="thumbnail" width="150" height="100" style="display:none;"/>
+</div>
+</div>
+</div>
+<div style="border:2px dashed red;">
+            <p>
+                图片上传前预览：<input type="file" id="xdaTanFileImg" onchange="xmTanUploadImg(this)" accept="image/*"/>
+                <input type="button" value="隐藏图片" onclick="document.getElementById('xmTanImg').style.display = 'none';"/>
+                <input type="button" value="显示图片" onclick="document.getElementById('xmTanImg').style.display = 'block';"/>
+            </p>
+            <img id="xmTanImg"/>
+            <div id="xmTanDiv"></div>
+        </div>
+        <hr />
+        <script type="text/javascript">            
+            //判断浏览器是否支持FileReader接口
+            if (typeof FileReader == 'undefined') {
+                document.getElementById("xmTanDiv").InnerHTML = "<h1>当前浏览器不支持FileReader接口</h1>";
+                //使选择控件不可操作
+                document.getElementById("xdaTanFileImg").setAttribute("disabled", "disabled");
+            }
+
+            //选择图片，马上预览
+            function xmTanUploadImg(obj) {
+                var file = obj.files[0];
+                
+                console.log(obj);console.log(file);
+                console.log("file.size = " + file.size);  //file.size 单位为byte
+
+                var reader = new FileReader();
+
+                //读取文件过程方法
+                reader.onloadstart = function (e) {
+                    console.log("开始读取....");
+                }
+                reader.onprogress = function (e) {
+                    console.log("正在读取中....");
+                }
+                reader.onabort = function (e) {
+                    console.log("中断读取....");
+                }
+                reader.onerror = function (e) {
+                    console.log("读取异常....");
+                }
+                reader.onload = function (e) {
+                    console.log("成功读取....");
+
+                    var img = document.getElementById("xmTanImg");
+                    img.src = e.target.result;
+                    //或者 img.src = this.result;  //e.target == this
+                }
+
+                reader.readAsDataURL(file)
+            }
+        </script>
+
+</body>
+
+</html>

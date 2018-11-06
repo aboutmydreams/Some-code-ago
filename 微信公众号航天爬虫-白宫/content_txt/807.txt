@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/gina-haspel-best-choice-cia-director/', 'File_Name': 'gina-haspel-best-choice-cia-director', 'Date': 'May 7, 2018', 'Title': 'gina haspel best choice cia director', 'TYPE': '\nNews Clips', 'Author': ''}

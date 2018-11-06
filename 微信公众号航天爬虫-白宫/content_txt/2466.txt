@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-second-lady-karen-pences-visit-children-puerto-rico/', 'File_Name': 'readout-second-lady-karen-pences-visit-children-puerto-rico', 'Date': 'October 7, 2017', 'Title': 'readout second lady karen pences visit children puerto rico', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/joint-statement-united-states-china-regarding-trade-consultations/', 'File_Name': 'joint-statement-united-states-china-regarding-trade-consultations', 'Date': 'May 19, 2018', 'Title': 'joint statement united states china regarding trade consultations', 'TYPE': '\nStatements & Releases', 'Author': ''}

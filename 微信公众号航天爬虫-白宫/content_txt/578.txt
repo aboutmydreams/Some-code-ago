@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/aeis-marc-thiessen-thank-republicans-right-try/', 'File_Name': 'aeis-marc-thiessen-thank-republicans-right-try', 'Date': 'May 30, 2018', 'Title': 'aeis marc thiessen thank republicans right try', 'TYPE': '\nNews Clips', 'Author': ''}

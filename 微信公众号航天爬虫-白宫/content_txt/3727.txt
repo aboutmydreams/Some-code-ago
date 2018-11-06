@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-executive-order-identifying-reducing-tax-regulatory-burdens/', 'File_Name': 'presidential-executive-order-identifying-reducing-tax-regulatory-burdens', 'Date': 'April 21, 2017', 'Title': 'presidential executive order identifying reducing tax regulatory burdens', 'TYPE': '\nExecutive Orders', 'Author': ''}

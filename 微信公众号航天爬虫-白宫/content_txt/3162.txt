@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-briefing-principal-deputy-press-secretary-sarah-sanders-071217/', 'File_Name': 'press-briefing-principal-deputy-press-secretary-sarah-sanders-071217', 'Date': 'July 12, 2017', 'Title': 'press briefing principal deputy press secretary sarah sanders 071217', 'TYPE': '\nPress Briefings', 'Author': ''}

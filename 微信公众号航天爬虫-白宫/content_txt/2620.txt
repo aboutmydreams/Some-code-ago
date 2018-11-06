@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-president-moon-republic-korea-bilateral-meeting/', 'File_Name': 'remarks-president-trump-president-moon-republic-korea-bilateral-meeting', 'Date': 'September 21, 2017', 'Title': 'remarks president trump president moon republic korea bilateral meeting', 'TYPE': '\nRemarks', 'Author': ''}

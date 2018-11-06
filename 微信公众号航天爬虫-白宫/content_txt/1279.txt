@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-call-prime-minister-haider-al-abadi-iraq/', 'File_Name': 'readout-vice-presidents-call-prime-minister-haider-al-abadi-iraq', 'Date': 'March 15, 2018', 'Title': 'readout vice presidents call prime minister haider al abadi iraq', 'TYPE': '\nStatements & Releases', 'Author': ''}

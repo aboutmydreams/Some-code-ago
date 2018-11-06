@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/first-lady-melania-trump-announces-key-additions-east-wing-staff/', 'File_Name': 'first-lady-melania-trump-announces-key-additions-east-wing-staff', 'Date': 'January 11, 2018', 'Title': 'first lady melania trump announces key additions east wing staff', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-proclamation-honoring-victims-tragedy-las-vegas-nevada/', 'File_Name': 'presidential-proclamation-honoring-victims-tragedy-las-vegas-nevada', 'Date': 'October 2, 2017', 'Title': 'presidential proclamation honoring victims tragedy las vegas nevada', 'TYPE': '\nProclamations', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-houthi-commercial-maritime-attack/', 'File_Name': 'statement-press-secretary-houthi-commercial-maritime-attack', 'Date': 'April 4, 2018', 'Title': 'statement press secretary houthi commercial maritime attack', 'TYPE': '\nStatements & Releases', 'Author': ''}

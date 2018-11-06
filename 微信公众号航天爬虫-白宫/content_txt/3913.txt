@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-greek-independence-day-celebration/', 'File_Name': 'remarks-president-trump-greek-independence-day-celebration', 'Date': 'March 24, 2017', 'Title': 'remarks president trump greek independence day celebration', 'TYPE': '\nRemarks', 'Author': ''}

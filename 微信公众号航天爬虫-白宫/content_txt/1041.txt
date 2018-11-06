@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-tax-cuts-american-workers/', 'File_Name': 'remarks-president-trump-tax-cuts-american-workers', 'Date': 'April 12, 2018', 'Title': 'remarks president trump tax cuts american workers', 'TYPE': '\nRemarks', 'Author': ''}

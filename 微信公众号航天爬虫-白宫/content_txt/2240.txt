@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-first-lady-melania-trumps-visit-republic-korea/', 'File_Name': 'readout-first-lady-melania-trumps-visit-republic-korea', 'Date': 'November 8, 2017', 'Title': 'readout first lady melania trumps visit republic korea', 'TYPE': '\nStatements & Releases', 'Author': ''}

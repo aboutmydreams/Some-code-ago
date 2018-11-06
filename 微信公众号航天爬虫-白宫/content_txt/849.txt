@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-proclaims-may-3-national-day-prayer/', 'File_Name': 'president-donald-j-trump-proclaims-may-3-national-day-prayer', 'Date': 'May 3, 2018', 'Title': 'president donald j trump proclaims may 3 national day prayer', 'TYPE': '\nProclamations', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-inherited-many-challenges/', 'File_Name': 'president-trump-inherited-many-challenges', 'Date': 'February 28, 2017', 'Title': 'president trump inherited many challenges', 'TYPE': '\nFact Sheets', 'Author': ''}

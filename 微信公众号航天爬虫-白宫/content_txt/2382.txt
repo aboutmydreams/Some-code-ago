@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/people-saying-second-ladys-initiative/', 'File_Name': 'people-saying-second-ladys-initiative', 'Date': 'October 19, 2017', 'Title': 'people saying second ladys initiative', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-regarding-summit-united-states-north-korea/', 'File_Name': 'statement-regarding-summit-united-states-north-korea', 'Date': 'June 11, 2018', 'Title': 'statement regarding summit united states north korea', 'TYPE': '\nStatements & Releases', 'Author': ''}

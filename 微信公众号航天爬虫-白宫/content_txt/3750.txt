@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-promotes-buy-american-hire-american/', 'File_Name': 'president-trump-promotes-buy-american-hire-american', 'Date': 'April 18, 2017', 'Title': 'president trump promotes buy american hire american', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

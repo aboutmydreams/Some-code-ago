@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/space-policy-directive-2-streamlining-regulations-commercial-use-space/', 'File_Name': 'space-policy-directive-2-streamlining-regulations-commercial-use-space', 'Date': 'May 24, 2018', 'Title': 'space policy directive 2 streamlining regulations commercial use space', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

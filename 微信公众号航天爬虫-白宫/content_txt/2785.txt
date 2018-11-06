@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-gaggle-president-trump-en-route-bismarck-north-dakota/', 'File_Name': 'press-gaggle-president-trump-en-route-bismarck-north-dakota', 'Date': 'September 6, 2017', 'Title': 'press gaggle president trump en route bismarck north dakota', 'TYPE': '\nPress Briefings', 'Author': ''}

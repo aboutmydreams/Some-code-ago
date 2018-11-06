@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-h-r-931-h-r-2229-s-1091-law/', 'File_Name': 'president-donald-j-trump-signs-h-r-931-h-r-2229-s-1091-law', 'Date': 'July 9, 2018', 'Title': 'president donald j trump signs h r 931 h r 2229 s 1091 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

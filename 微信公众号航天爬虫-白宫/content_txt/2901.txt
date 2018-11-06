@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-memorandum-secretary-defense/', 'File_Name': 'presidential-memorandum-secretary-defense', 'Date': 'August 18, 2017', 'Title': 'presidential memorandum secretary defense', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

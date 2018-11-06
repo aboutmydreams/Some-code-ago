@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-ambassador-friedman-swearing-ceremony/', 'File_Name': 'remarks-vice-president-ambassador-friedman-swearing-ceremony', 'Date': 'March 29, 2017', 'Title': 'remarks vice president ambassador friedman swearing ceremony', 'TYPE': '\nRemarks', 'Author': ''}

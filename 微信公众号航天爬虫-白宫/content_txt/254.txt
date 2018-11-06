@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-u-s-department-commerce/', 'File_Name': 'remarks-vice-president-pence-u-s-department-commerce', 'Date': 'July 16, 2018', 'Title': 'remarks vice president pence u s department commerce', 'TYPE': '\nRemarks', 'Author': ''}

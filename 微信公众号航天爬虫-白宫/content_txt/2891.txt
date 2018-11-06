@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-anniversary-2013-syrian-chemical-weapons-attack/', 'File_Name': 'statement-anniversary-2013-syrian-chemical-weapons-attack', 'Date': 'August 21, 2017', 'Title': 'statement anniversary 2013 syrian chemical weapons attack', 'TYPE': '\nStatements & Releases', 'Author': ''}

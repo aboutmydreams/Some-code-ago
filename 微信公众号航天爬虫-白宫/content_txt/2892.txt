@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-strategy-afghanistan-south-asia/', 'File_Name': 'remarks-president-trump-strategy-afghanistan-south-asia', 'Date': 'August 21, 2017', 'Title': 'remarks president trump strategy afghanistan south asia', 'TYPE': '\nRemarks', 'Author': ''}

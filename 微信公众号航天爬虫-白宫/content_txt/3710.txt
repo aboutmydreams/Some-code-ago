@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-armenian-remembrance-day-2017/', 'File_Name': 'statement-president-donald-j-trump-armenian-remembrance-day-2017', 'Date': 'April 24, 2017', 'Title': 'statement president donald j trump armenian remembrance day 2017', 'TYPE': '\nStatements & Releases', 'Author': ''}

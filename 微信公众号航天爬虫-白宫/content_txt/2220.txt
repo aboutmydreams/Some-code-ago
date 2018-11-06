@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-first-lady-melania-trumps-visit-china/', 'File_Name': 'readout-first-lady-melania-trumps-visit-china', 'Date': 'November 10, 2017', 'Title': 'readout first lady melania trumps visit china', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-memorandum-united-states-trade-representative/', 'File_Name': 'presidential-memorandum-united-states-trade-representative', 'Date': 'August 14, 2017', 'Title': 'presidential memorandum united states trade representative', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

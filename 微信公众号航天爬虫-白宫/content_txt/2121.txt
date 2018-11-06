@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-regarding-attack-mosque-egypt/', 'File_Name': 'statement-press-secretary-regarding-attack-mosque-egypt', 'Date': 'November 24, 2017', 'Title': 'statement press secretary regarding attack mosque egypt', 'TYPE': '\nStatements & Releases', 'Author': ''}

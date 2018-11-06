@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-president-donald-j-trumps-call-president-mariano-rajoy-spain/', 'File_Name': 'readout-president-donald-j-trumps-call-president-mariano-rajoy-spain', 'Date': 'August 18, 2017', 'Title': 'readout president donald j trumps call president mariano rajoy spain', 'TYPE': '\nStatements & Releases', 'Author': ''}

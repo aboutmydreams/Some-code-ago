@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/research-shows-art-therapy-helps-brain-heal/', 'File_Name': 'research-shows-art-therapy-helps-brain-heal', 'Date': 'no data', 'Title': 'research shows art therapy helps brain heal', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tKaren Pence\t\t\t\t\t\t\t\n'}

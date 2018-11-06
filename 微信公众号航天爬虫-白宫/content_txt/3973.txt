@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/happy-birthday-mr-ray-chavez/', 'File_Name': 'happy-birthday-mr-ray-chavez', 'Date': 'March 16, 2017', 'Title': 'happy birthday mr ray chavez', 'TYPE': '\nStatements & Releases', 'Author': ''}

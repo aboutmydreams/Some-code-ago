@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-h-r-374-h-r-510-h-r-873-h-r-2430-law/', 'File_Name': 'president-donald-j-trump-signs-h-r-374-h-r-510-h-r-873-h-r-2430-law', 'Date': 'August 18, 2017', 'Title': 'president donald j trump signs h r 374 h r 510 h r 873 h r 2430 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

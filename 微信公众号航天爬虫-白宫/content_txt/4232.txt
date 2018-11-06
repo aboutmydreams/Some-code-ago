@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-works-make-drugs-affordable-create-jobs/', 'File_Name': 'president-trump-works-make-drugs-affordable-create-jobs', 'Date': 'January 31, 2017', 'Title': 'president trump works make drugs affordable create jobs', 'TYPE': '\nStatements & Releases', 'Author': ''}

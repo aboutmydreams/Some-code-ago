@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-regarding-catch-release/', 'File_Name': 'statement-press-secretary-regarding-catch-release', 'Date': 'April 6, 2018', 'Title': 'statement press secretary regarding catch release', 'TYPE': '\nStatements & Releases', 'Author': ''}

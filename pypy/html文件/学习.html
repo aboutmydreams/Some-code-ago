@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<meta name="format-detection" content="telephone=no">
+	<title>磁场圈</title>
+	<script type="text/javascript">
+
+	</script>
+	<style>
+    body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      height: 100%;
+      font-size: 16px;
+      min-width: 325px;
+    }
+
+    .nav {
+      position: relative;
+      background: #252525;
+      min-height: 50px;
+      min-width: 750px;
+      box-shadow: 0px 2px 9px 1px rgba(83, 83, 83, 0.5);
+      z-index: 4;
+
+    }
+
+    .nav a {
+      position: relative;
+      top: 13px;
+      left: 4px;
+      display: inline-block;
+      text-align:center;
+      text-decoration-line: none;
+      text-decoration: none;
+      color: #f4eeee；
+     
+    }
+    .arrow {
+      display: inline-block;
+      position: relative;
+      bottom: 16px;
+    }
+
+    .left-arrow1,
+    .left-arrow2 {
+      width: 0;
+      height: 0;
+      display: block;
+      position: absolute;
+      left: 0;
+      top: 0;
+      z-index: 5;
+      /*兼容ie8-*/
+      border-top: 10px transparent dashed;
+      border-left: 10px transparent dashed;
+      border-bottom: 10px transparent dashed;
+      border-right: 10px #dd8c61 solid;
+      overflow: hidden;
+    }
+
+    .left-arrow1 {
+      border-right: 10px black solid;
+    }
+
+    .left-arrow2 {
+      left: 2.5px;
+      /*重要*/
+      border-right: 10px #dd8c61 solid;
+    }
+
+    .nav a p {
+      position: relative;
+      left: 140px;
+      bottom: 22.5px;
+      font-family: "PingFang Regular", sans-serif;
+      font-size: 20px;
+      font-weight: normal;
+      font-stretch: normal;
+      line-height: 0px;
+      letter-spacing: -1.5px;
+      color: #f4eeee;
+      text-decoration: none;
+      text-align:center;
+    }
+</head>
+</style>
+
+<body>
+  <div class="nav">
+    <a href="#">
+      <span class="arrow">
+        <i class="left-arrow1"></i>
+        <i class="left-arrow2"></i>
+      </span>
+      <p class="navname">磁场圈</p>
+    </a>
+  </div>
+
+</body>
+</html>

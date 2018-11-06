@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/joint-press-conference-president-trump-german-chancellor-merkel/', 'File_Name': 'joint-press-conference-president-trump-german-chancellor-merkel', 'Date': 'March 17, 2017', 'Title': 'joint press conference president trump german chancellor merkel', 'TYPE': '\nRemarks', 'Author': ''}

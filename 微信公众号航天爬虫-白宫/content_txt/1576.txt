@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-press-gaggle-cheonan-memorial/', 'File_Name': 'remarks-vice-president-pence-press-gaggle-cheonan-memorial', 'Date': 'February 9, 2018', 'Title': 'remarks vice president pence press gaggle cheonan memorial', 'TYPE': '\nRemarks', 'Author': ''}

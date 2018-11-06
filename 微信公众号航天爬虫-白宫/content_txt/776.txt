@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-vice-president-mike-pence-release-three-americans/', 'File_Name': 'statement-vice-president-mike-pence-release-three-americans', 'Date': 'May 9, 2018', 'Title': 'statement vice president mike pence release three americans', 'TYPE': '\nStatements & Releases', 'Author': ''}

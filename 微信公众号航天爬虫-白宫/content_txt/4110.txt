@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-gaggle-principal-deputy-press-secretary-sarah-sanders-2/', 'File_Name': 'press-gaggle-principal-deputy-press-secretary-sarah-sanders-2', 'Date': 'February 19, 2017', 'Title': 'press gaggle principal deputy press secretary sarah sanders 2', 'TYPE': '\nPress Briefings', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/remember-obamacares-broken-promises/', 'File_Name': 'remember-obamacares-broken-promises', 'Date': 'no data', 'Title': 'remember obamacares broken promises', 'TYPE': 'no type', 'Author': ''}

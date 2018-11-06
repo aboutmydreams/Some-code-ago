@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/h-r-3003-no-sanctuary-criminals-act/', 'File_Name': 'h-r-3003-no-sanctuary-criminals-act', 'Date': 'June 27, 2017', 'Title': 'h r 3003 no sanctuary criminals act', 'TYPE': '\nStatements & Releases', 'Author': ''}

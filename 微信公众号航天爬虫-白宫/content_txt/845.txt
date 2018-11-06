@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-national-day-prayer/', 'File_Name': 'remarks-vice-president-pence-national-day-prayer', 'Date': 'May 3, 2018', 'Title': 'remarks vice president pence national day prayer', 'TYPE': '\nRemarks', 'Author': ''}

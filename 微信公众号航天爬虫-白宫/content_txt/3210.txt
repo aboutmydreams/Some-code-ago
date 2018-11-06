@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-president-donald-j-trumps-call-lt-col-dick-cole/', 'File_Name': 'readout-president-donald-j-trumps-call-lt-col-dick-cole', 'Date': 'July 3, 2017', 'Title': 'readout president donald j trumps call lt col dick cole', 'TYPE': '\nStatements & Releases', 'Author': ''}

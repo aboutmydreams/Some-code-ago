@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meeting-dr-henry-kissinger/', 'File_Name': 'remarks-president-trump-meeting-dr-henry-kissinger', 'Date': 'October 10, 2017', 'Title': 'remarks president trump meeting dr henry kissinger', 'TYPE': '\nRemarks', 'Author': ''}

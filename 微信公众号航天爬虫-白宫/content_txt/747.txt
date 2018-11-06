@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wtas-trump-administration-secures-release-three-americans-north-korea/', 'File_Name': 'wtas-trump-administration-secures-release-three-americans-north-korea', 'Date': 'May 10, 2018', 'Title': 'wtas trump administration secures release three americans north korea', 'TYPE': '\nNews Clips', 'Author': ''}

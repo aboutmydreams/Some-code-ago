@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-h-r-3823-law/', 'File_Name': 'president-donald-j-trump-signs-h-r-3823-law', 'Date': 'September 29, 2017', 'Title': 'president donald j trump signs h r 3823 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

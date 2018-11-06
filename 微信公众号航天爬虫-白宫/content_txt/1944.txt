@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/cabinet-meeting-marks-tremendous-year-progress/', 'File_Name': 'cabinet-meeting-marks-tremendous-year-progress', 'Date': 'December 20, 2017', 'Title': 'cabinet meeting marks tremendous year progress', 'TYPE': '\nStatements & Releases', 'Author': ''}

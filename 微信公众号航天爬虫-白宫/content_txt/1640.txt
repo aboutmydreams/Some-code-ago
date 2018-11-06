@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/randomness-cannot-place-immigration-system/', 'File_Name': 'randomness-cannot-place-immigration-system', 'Date': 'February 1, 2018', 'Title': 'randomness cannot place immigration system', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

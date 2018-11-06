@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/joint-statement-president-donald-j-trump-prime-minister-mark-rutte/', 'File_Name': 'joint-statement-president-donald-j-trump-prime-minister-mark-rutte', 'Date': 'July 3, 2018', 'Title': 'joint statement president donald j trump prime minister mark rutte', 'TYPE': '\nStatements & Releases', 'Author': ''}

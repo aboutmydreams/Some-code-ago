@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/labor-market-policies-to-help-the-middle-class/', 'File_Name': 'labor-market-policies-to-help-the-middle-class', 'Date': 'no data', 'Title': 'labor market policies to help the middle class', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tCouncil of Economic Advisers\t\t\t\t\t'}

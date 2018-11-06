@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/mike-pompeos-distinguished-career-cia-director/', 'File_Name': 'mike-pompeos-distinguished-career-cia-director', 'Date': 'March 14, 2018', 'Title': 'mike pompeos distinguished career cia director', 'TYPE': '\nFact Sheets', 'Author': ''}

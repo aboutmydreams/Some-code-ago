@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-celebration-military-mothers-spouses-event/', 'File_Name': 'remarks-president-trump-celebration-military-mothers-spouses-event', 'Date': 'May 9, 2018', 'Title': 'remarks president trump celebration military mothers spouses event', 'TYPE': '\nRemarks', 'Author': ''}

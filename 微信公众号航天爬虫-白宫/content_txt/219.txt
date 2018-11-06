@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidential-message-congress-united-states-17/', 'File_Name': 'presidential-message-congress-united-states-17', 'Date': 'July 20, 2018', 'Title': 'presidential message congress united states 17', 'TYPE': '\nStatements & Releases', 'Author': ''}

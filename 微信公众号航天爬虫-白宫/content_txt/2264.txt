@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/text-letter-president-congress-united-states-4/', 'File_Name': 'text-letter-president-congress-united-states-4', 'Date': 'November 6, 2017', 'Title': 'text letter president congress united states 4', 'TYPE': '\nStatements & Releases', 'Author': ''}

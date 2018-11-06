@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/2437/', 'File_Name': '2437', 'Date': 'August 2, 2017', 'Title': '2437', 'TYPE': '\nRemarks', 'Author': ''}

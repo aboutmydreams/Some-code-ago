@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-approves-nebraska-disaster-declaration-4/', 'File_Name': 'president-donald-j-trump-approves-nebraska-disaster-declaration-4', 'Date': 'August 27, 2018', 'Title': 'president donald j trump approves nebraska disaster declaration 4', 'TYPE': '\nStatements & Releases', 'Author': ''}

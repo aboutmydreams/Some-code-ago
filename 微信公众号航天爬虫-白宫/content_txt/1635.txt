@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/good-news-wage-growth/', 'File_Name': 'good-news-wage-growth', 'Date': 'no data', 'Title': 'good news wage growth', 'TYPE': 'no type', 'Author': ''}

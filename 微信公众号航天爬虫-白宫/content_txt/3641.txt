@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wsj-ed-board-ahca-covers-people-pre-existing-conditions/', 'File_Name': 'wsj-ed-board-ahca-covers-people-pre-existing-conditions', 'Date': 'May 2, 2017', 'Title': 'wsj ed board ahca covers people pre existing conditions', 'TYPE': '\nNews Clips', 'Author': ''}

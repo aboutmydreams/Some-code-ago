@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-roundtable-american-technology-council/', 'File_Name': 'remarks-president-trump-roundtable-american-technology-council', 'Date': 'June 19, 2017', 'Title': 'remarks president trump roundtable american technology council', 'TYPE': '\nRemarks', 'Author': ''}

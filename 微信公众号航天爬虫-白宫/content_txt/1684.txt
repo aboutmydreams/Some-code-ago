@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/holocaust-remembrance-day-heart/', 'File_Name': 'holocaust-remembrance-day-heart', 'Date': 'no data', 'Title': 'holocaust remembrance day heart', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

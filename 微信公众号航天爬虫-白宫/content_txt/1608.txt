@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-second-lady-karen-pences-visit-anchorage-alaska/', 'File_Name': 'readout-second-lady-karen-pences-visit-anchorage-alaska', 'Date': 'February 6, 2018', 'Title': 'readout second lady karen pences visit anchorage alaska', 'TYPE': '\nStatements & Releases', 'Author': ''}

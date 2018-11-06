@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-southern-baptist-convention-annual-meeting/', 'File_Name': 'remarks-vice-president-pence-southern-baptist-convention-annual-meeting', 'Date': 'June 13, 2018', 'Title': 'remarks vice president pence southern baptist convention annual meeting', 'TYPE': '\nRemarks', 'Author': ''}

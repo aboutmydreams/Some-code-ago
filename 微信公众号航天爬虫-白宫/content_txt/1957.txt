@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/new-national-security-strategy-new-era/', 'File_Name': 'new-national-security-strategy-new-era', 'Date': 'no data', 'Title': 'new national security strategy new era', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t\t\t\n'}

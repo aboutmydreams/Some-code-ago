@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-white-house-iftar-dinner/', 'File_Name': 'remarks-president-trump-white-house-iftar-dinner', 'Date': 'June 6, 2018', 'Title': 'remarks president trump white house iftar dinner', 'TYPE': '\nRemarks', 'Author': ''}

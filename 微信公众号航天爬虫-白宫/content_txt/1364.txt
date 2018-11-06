@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-aipac-policy-conference/', 'File_Name': 'remarks-vice-president-pence-aipac-policy-conference', 'Date': 'March 5, 2018', 'Title': 'remarks vice president pence aipac policy conference', 'TYPE': '\nRemarks', 'Author': ''}

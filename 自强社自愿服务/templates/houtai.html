@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A layout example with a side menu that hides on mobile, just like the Pure website.">
+    <title>管理自强社</title>
+    <link rel="stylesheet" href="http://apps.bdimg.com/libs/jqueryui/1.10.4/css/jquery-ui.min.css">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.0/build/pure-min.css" integrity="sha384-" crossorigin="anonymous">
+    <link rel="stylesheet" href="../static/css/layouts/side-menu.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+</head>
+<body>
+
+
+
+
+
+
+<div id="layout">
+    <!-- Menu toggle -->
+    <a href="#menu" id="menuLink" class="menu-link">
+        <!-- Hamburger icon -->
+        <span></span>
+    </a>
+
+    <div id="menu">
+        <div class="pure-menu">
+            <a class="pure-menu-heading" href="#">自强社</a>
+
+            <ul class="pure-menu-list">
+                <li class="pure-menu-item"><a href="#" class="pure-menu-link">修改主题</a></li>
+                <li class="pure-menu-item"><a href="#" class="pure-menu-link">修改名额</a></li>
+
+                <li class="pure-menu-item menu-item-divided pure-menu-selected">
+                    <a href="#" class="pure-menu-link">Services</a>
+                </li>
+
+                <li class="pure-menu-item"><a href="#" class="pure-menu-link">报名信息</a></li>
+                <li class="pure-menu-item"><a href="#" class="pure-menu-link">评分系统</a></li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="main">
+        <div class="header">
+            <h1>写在前面</h1>
+            <h2> Some words developer want to say</h2>
+        </div>
+
+        <div class="content">
+            <h2 class="content-subhead">为什么我要开发这个project？</h2>
+            <p>
+                我开始厌恶流程，厌恶许多人眼中的理所应当，我甚至开始厌恶沟通，
+            </p>
+
+            <h2 class="content-subhead">默认晚上9点</h2>
+ 
+        </div>
+    </div>
+    <div class="content">
+    <form class="pure-form" action="/set" method="post">
+        <fieldset>
+            <h3 class="content-subhead">Active</h3>
+            <input type="text" name="active-name" placeholder="活动主题">
+            <input type="text" name="active-people" placeholder="活动人数">
+        <p>
+            <h3 class="content-subhead">Time</h3>
+            <input type="text" id="datepicker" name="begintime" placeholder="开始时间">
+            <input id="datepicker1" type="text" name="lasttime" placeholder="结束时间">
+        (默认晚上9点)</p>
+            <button type="submit" class="pure-button">确认修改</button>
+        </fieldset>
+    </form>
+    <div class="container">
+  <h2 id=biaoh2>报名表格</h2>          
+  <table class="table">
+    <thead>
+      <tr>
+        <th>姓名</th>
+        <th>班级</th>
+        <th>手机</th>
+      </tr>
+    </thead>
+    <tbody id="biaoge">
+      <tr>
+        <td>July</td>
+        <td>Dooley</td>
+        <td>july@example.com</td>
+      </tr>
+    </tbody>
+</table>
+</div>
+</div>
+
+
+
+<script>
+  $(function() {
+    $( "#datepicker" ).datepicker();
+    $( "#datepicker1" ).datepicker();
+  });
+</script>
+<script src="../static/js/ui.js"></script>
+<script>
+  $(document).ready(function(){
+    // var data1 = eval($(document).load("/see"));
+    // alert(data1[0])
+    $.getJSON("/see",function(data1){
+       var sta = data1;
+       document.getElementById("biaoh2").innerHTML=data1[0][0];
+       for (var i=0;i<sta.length;i++){
+            document.write("<tr><td>"+sta[i][1]+"</td><td>"+sta[i][2]+"</td><td>"+sta[i][3]+"</td></tr>");
+        };
+    });
+});
+//document.getElementById("actname").innerHTML="段落已修改。";
+</script>
+</body>
+</html>

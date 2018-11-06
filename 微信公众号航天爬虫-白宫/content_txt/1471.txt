@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-second-meeting-national-space-council/', 'File_Name': 'remarks-vice-president-pence-second-meeting-national-space-council', 'Date': 'February 21, 2018', 'Title': 'remarks vice president pence second meeting national space council', 'TYPE': '\nRemarks', 'Author': ''}

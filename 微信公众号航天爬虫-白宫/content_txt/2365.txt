@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/securing-global-health-u-s-leadership/', 'File_Name': 'securing-global-health-u-s-leadership', 'Date': 'no data', 'Title': 'securing global health u s leadership', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tAdmiral Tim Ziemer\t\t\t\t\t'}

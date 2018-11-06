@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/press-gaggle-press-secretary-sean-spicer-en-route-joint-base-andrews/', 'File_Name': 'press-gaggle-press-secretary-sean-spicer-en-route-joint-base-andrews', 'Date': 'March 2, 2017', 'Title': 'press gaggle press secretary sean spicer en route joint base andrews', 'TYPE': '\nPress Briefings', 'Author': ''}

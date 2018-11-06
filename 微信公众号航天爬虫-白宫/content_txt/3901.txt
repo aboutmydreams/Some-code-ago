@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-memorandum-white-house-office-american-innovation/', 'File_Name': 'presidential-memorandum-white-house-office-american-innovation', 'Date': 'March 27, 2017', 'Title': 'presidential memorandum white house office american innovation', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

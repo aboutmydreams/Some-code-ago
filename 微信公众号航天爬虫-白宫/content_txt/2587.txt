@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-memorandum-secretary-education/', 'File_Name': 'presidential-memorandum-secretary-education', 'Date': 'September 25, 2017', 'Title': 'presidential memorandum secretary education', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

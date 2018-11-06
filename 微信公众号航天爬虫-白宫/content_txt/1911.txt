@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-first-responders/', 'File_Name': 'remarks-president-trump-first-responders', 'Date': 'December 27, 2017', 'Title': 'remarks president trump first responders', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-tax-reform-2/', 'File_Name': 'remarks-president-trump-tax-reform-2', 'Date': 'November 29, 2017', 'Title': 'remarks president trump tax reform 2', 'TYPE': '\nRemarks', 'Author': ''}

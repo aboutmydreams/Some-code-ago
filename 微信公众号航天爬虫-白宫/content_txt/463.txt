@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wtas-support-president-donald-j-trumps-summit-north-korea/', 'File_Name': 'wtas-support-president-donald-j-trumps-summit-north-korea', 'Date': 'June 12, 2018', 'Title': 'wtas support president donald j trumps summit north korea', 'TYPE': '\nStatements & Releases', 'Author': ''}

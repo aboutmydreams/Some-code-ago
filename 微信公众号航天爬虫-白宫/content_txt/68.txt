@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/law-enforcement-taking-action-opioid-crisis/', 'File_Name': 'law-enforcement-taking-action-opioid-crisis', 'Date': 'no data', 'Title': 'law enforcement taking action opioid crisis', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tJefferson Beauregard Sessions III\t\t\t\t\t\t\t\n'}

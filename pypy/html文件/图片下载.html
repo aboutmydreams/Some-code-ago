@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>图片下载</title>
+</head>
+<body>
+
+<div style="text-align:center; padding: 5px 20px;width: 70%;">
+            <img id="xmTanShowImg" src="C:\Users\T-bao\Pictures\Saved Pictures"/>
+            <h1><a href="javascript:void()" download="girl.jpg" id="xmTanDownload">点此 下载图片</a></h1>
+        </div>
+        <script type="text/javascript">
+            //图片转成base64位字符串数据
+            var imgData = "imgages/8f160d7da8b005fe90fd76cba01ef050.jpg";
+            //或直接设置图片链接： var imgData = "images/picture.png";
+
+            document.getElementById("xmTanShowImg").setAttribute("src"=);  //给图片标签设置src
+            document.getElementById("xmTanDownload").setAttribute("href", imgData); //给a标签设置href
+        </script>
+</body>
+</html>

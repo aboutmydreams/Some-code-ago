@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-briefing-opioid-crisis/', 'File_Name': 'remarks-president-trump-briefing-opioid-crisis', 'Date': 'August 8, 2017', 'Title': 'remarks president trump briefing opioid crisis', 'TYPE': '\nRemarks', 'Author': ''}

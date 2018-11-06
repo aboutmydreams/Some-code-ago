@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-six-months-america-first/', 'File_Name': 'president-donald-j-trumps-six-months-america-first', 'Date': 'July 20, 2017', 'Title': 'president donald j trumps six months america first', 'TYPE': '\nStatements & Releases', 'Author': ''}

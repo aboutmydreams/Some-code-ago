@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-memorandum-plan-defeat-islamic-state-iraq-syria/', 'File_Name': 'presidential-memorandum-plan-defeat-islamic-state-iraq-syria', 'Date': 'January 28, 2017', 'Title': 'presidential memorandum plan defeat islamic state iraq syria', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

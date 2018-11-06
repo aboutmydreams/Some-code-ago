@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-made-america-product-showcase/', 'File_Name': 'remarks-president-trump-made-america-product-showcase', 'Date': 'July 17, 2017', 'Title': 'remarks president trump made america product showcase', 'TYPE': '\nRemarks', 'Author': ''}

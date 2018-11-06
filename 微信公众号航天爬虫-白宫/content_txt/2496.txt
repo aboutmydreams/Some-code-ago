@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/national-security-presidential-memorandum-7/', 'File_Name': 'national-security-presidential-memorandum-7', 'Date': 'October 5, 2017', 'Title': 'national security presidential memorandum 7', 'TYPE': '\nPresidential Memoranda', 'Author': ''}

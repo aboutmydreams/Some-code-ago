@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-senate-passing-h-r-1865/', 'File_Name': 'statement-press-secretary-senate-passing-h-r-1865', 'Date': 'March 21, 2018', 'Title': 'statement press secretary senate passing h r 1865', 'TYPE': '\nStatements & Releases', 'Author': ''}

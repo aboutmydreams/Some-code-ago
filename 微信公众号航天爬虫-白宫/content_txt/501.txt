@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-prime-minister-abe-japan-bilateral-meeting-3/', 'File_Name': 'remarks-president-trump-prime-minister-abe-japan-bilateral-meeting-3', 'Date': 'June 7, 2018', 'Title': 'remarks president trump prime minister abe japan bilateral meeting 3', 'TYPE': '\nRemarks', 'Author': ''}

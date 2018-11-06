@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-by-the-president-4/', 'File_Name': 'statement-by-the-president-4', 'Date': 'July 20, 2018', 'Title': 'statement by the president 4', 'TYPE': '\nStatements & Releases', 'Author': ''}

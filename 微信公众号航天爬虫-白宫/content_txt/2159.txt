@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-tax-reform-passing-senate-finance-committee/', 'File_Name': 'statement-press-secretary-tax-reform-passing-senate-finance-committee', 'Date': 'November 17, 2017', 'Title': 'statement press secretary tax reform passing senate finance committee', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-commemorating-u-n-vote-establishing-israel/', 'File_Name': 'remarks-vice-president-commemorating-u-n-vote-establishing-israel', 'Date': 'November 28, 2017', 'Title': 'remarks vice president commemorating u n vote establishing israel', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trumps-100-days-security-safety/', 'File_Name': 'president-trumps-100-days-security-safety', 'Date': 'April 27, 2017', 'Title': 'president trumps 100 days security safety', 'TYPE': '\nFact Sheets', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-delivers-remarks-arab-islamic-american-summit/', 'File_Name': 'president-trump-delivers-remarks-arab-islamic-american-summit', 'Date': 'no data', 'Title': 'president trump delivers remarks arab islamic american summit', 'TYPE': 'no type', 'Author': ''}

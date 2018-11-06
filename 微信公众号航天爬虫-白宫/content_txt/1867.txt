@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/tax-reform-going/', 'File_Name': 'tax-reform-going', 'Date': 'no data', 'Title': 'tax reform going', 'TYPE': 'no type', 'Author': '\n\t\t\t\t\t\tKevin Hassett\t\t\t\t\t'}

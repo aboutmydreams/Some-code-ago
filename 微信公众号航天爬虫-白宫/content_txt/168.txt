@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-vice-president-mike-pence-u-s-economic-growth/', 'File_Name': 'statement-vice-president-mike-pence-u-s-economic-growth', 'Date': 'July 27, 2018', 'Title': 'statement vice president mike pence u s economic growth', 'TYPE': '\nStatements & Releases', 'Author': ''}

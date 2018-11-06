@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-proclamation-honoring-victims-tragedy-annapolis-maryland/', 'File_Name': 'presidential-proclamation-honoring-victims-tragedy-annapolis-maryland', 'Date': 'July 3, 2018', 'Title': 'presidential proclamation honoring victims tragedy annapolis maryland', 'TYPE': '\nProclamations', 'Author': ''}

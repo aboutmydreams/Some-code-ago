@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/reinvesting-american-workforce/', 'File_Name': 'reinvesting-american-workforce', 'Date': 'no data', 'Title': 'reinvesting american workforce', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tR. Alexander Acosta\t\t\t\t\t\t\t\n'}

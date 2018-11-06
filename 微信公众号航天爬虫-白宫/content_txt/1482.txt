@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/moon-mars-worlds-beyond-winning-next-frontier/', 'File_Name': 'moon-mars-worlds-beyond-winning-next-frontier', 'Date': 'February 21, 2018', 'Title': 'moon mars worlds beyond winning next frontier', 'TYPE': '\nStatements & Releases', 'Author': '\n\t\t\t\t\t\tVice President Mike Pence\t\t\t\t\t'}

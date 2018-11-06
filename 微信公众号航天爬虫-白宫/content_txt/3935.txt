@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-approves-wyoming-disaster-declaration/', 'File_Name': 'president-trump-approves-wyoming-disaster-declaration', 'Date': 'March 22, 2017', 'Title': 'president trump approves wyoming disaster declaration', 'TYPE': '\nStatements & Releases', 'Author': ''}

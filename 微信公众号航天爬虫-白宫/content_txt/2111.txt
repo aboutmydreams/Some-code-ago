@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/economists-tax-reform-will-lift-economy/', 'File_Name': 'economists-tax-reform-will-lift-economy', 'Date': 'November 27, 2017', 'Title': 'economists tax reform will lift economy', 'TYPE': '\nNews Clips', 'Author': ''}

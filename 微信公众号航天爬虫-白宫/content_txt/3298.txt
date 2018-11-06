@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-wilson-center/', 'File_Name': 'remarks-vice-president-pence-wilson-center', 'Date': 'June 22, 2017', 'Title': 'remarks vice president pence wilson center', 'TYPE': '\nRemarks', 'Author': ''}

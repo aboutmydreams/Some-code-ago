@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/secretary-carson-unlocking-americas-full-potential/', 'File_Name': 'secretary-carson-unlocking-americas-full-potential', 'Date': 'April 23, 2018', 'Title': 'secretary carson unlocking americas full potential', 'TYPE': '\nNews Clips', 'Author': ''}

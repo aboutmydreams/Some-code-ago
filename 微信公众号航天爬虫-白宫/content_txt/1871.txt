@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/washington-post-trumps-first-year-jobs-numbers-good/', 'File_Name': 'washington-post-trumps-first-year-jobs-numbers-good', 'Date': 'January 5, 2018', 'Title': 'washington post trumps first year jobs numbers good', 'TYPE': '\nNews Clips', 'Author': ''}

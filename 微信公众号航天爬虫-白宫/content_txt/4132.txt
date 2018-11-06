@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/president-trump-putting-coal-country-back-work/', 'File_Name': 'president-trump-putting-coal-country-back-work', 'Date': 'no data', 'Title': 'president trump putting coal country back work', 'TYPE': 'no type', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/background-press-briefing-year-end-accomplishments/', 'File_Name': 'background-press-briefing-year-end-accomplishments', 'Date': 'December 21, 2017', 'Title': 'background press briefing year end accomplishments', 'TYPE': '\nPress Briefings', 'Author': ''}

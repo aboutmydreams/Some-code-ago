@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/new-york-post-editorial-board-tough-proud-honest-trump-un/', 'File_Name': 'new-york-post-editorial-board-tough-proud-honest-trump-un', 'Date': 'September 20, 2017', 'Title': 'new york post editorial board tough proud honest trump un', 'TYPE': '\nNews Clips', 'Author': ''}

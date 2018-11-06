@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trumps-weekly-address-3/', 'File_Name': 'president-trumps-weekly-address-3', 'Date': 'February 17, 2017', 'Title': 'president trumps weekly address 3', 'TYPE': '\nStatements & Releases', 'Author': ''}

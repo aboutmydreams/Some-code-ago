@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/text-letter-president-speaker-house-representatives-president-senate-3/', 'File_Name': 'text-letter-president-speaker-house-representatives-president-senate-3', 'Date': 'August 31, 2017', 'Title': 'text letter president speaker house representatives president senate 3', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-sean-spicer/', 'File_Name': 'statement-press-secretary-sean-spicer', 'Date': 'January 21, 2017', 'Title': 'statement press secretary sean spicer', 'TYPE': '\nPress Briefings', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-s-1869-s-2246-law/', 'File_Name': 'president-donald-j-trump-signs-s-1869-s-2246-law', 'Date': 'June 25, 2018', 'Title': 'president donald j trump signs s 1869 s 2246 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

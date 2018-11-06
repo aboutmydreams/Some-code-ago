@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meeting-senior-military-leaders/', 'File_Name': 'remarks-president-trump-meeting-senior-military-leaders', 'Date': 'October 6, 2017', 'Title': 'remarks president trump meeting senior military leaders', 'TYPE': '\nRemarks', 'Author': ''}

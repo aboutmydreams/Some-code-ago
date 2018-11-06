@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/usa-today-year-accomplishments/', 'File_Name': 'usa-today-year-accomplishments', 'Date': 'no data', 'Title': 'usa today year accomplishments', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tMichael R. Pence\t\t\t\t\t\t\t\n'}

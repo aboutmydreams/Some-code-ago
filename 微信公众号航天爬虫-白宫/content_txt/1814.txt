@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/washington-times-tax-cuts-hit-home/', 'File_Name': 'washington-times-tax-cuts-hit-home', 'Date': 'January 12, 2018', 'Title': 'washington times tax cuts hit home', 'TYPE': '\nNews Clips', 'Author': ''}

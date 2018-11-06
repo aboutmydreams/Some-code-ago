@@ -1,0 +1,207 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>南昌大学图书馆v5.5书目检索系统 </title>
+<link type="text/css" rel="stylesheet" href="../tpl/css/style.css">
+<link type="text/css" rel="stylesheet" href="../tpl/css/mylib.css" />
+<link type="text/css" rel="stylesheet" href="../tpl/css/ui-lightness/jquery-ui-1.8.13.custom.css">
+<link type="text/css" rel="stylesheet" href="../tpl/css/font-awesome.css">
+<link type="text/css" rel="stylesheet" href="../tpl/css/bootstrap.css">
+<link type="text/css" rel="stylesheet" href="../tpl/css/reader-info.css">
+<script  type="text/javascript" src="../tpl/js/jquery.1.7.1.min.js"></script>
+<script  type="text/javascript" src="../tpl/js/jquery-ui-1.8.13.custom.min.js"></script>
+<script  type="text/javascript" src="../tpl/js/highlighter.js"></script>
+
+<script type="text/javascript" src="../tpl/js/raphael.2.1.0.min.js"></script>
+<script type="text/javascript" src="../tpl/js/justgage.js"></script>
+<script type="text/javascript" src="../tpl/js/md5.js"></script>
+<script type="text/javascript" src="../tpl/js/base64.js"></script>
+
+</head>
+<body>
+<div id="header_opac">
+	<h1 class="header_opac_img">
+    <div class="header_opac_logo">
+    	南昌大学图书馆书目检索系统<br>
+        <p>Online Public Access Catalogue</p>
+        
+    </div>
+    </h1>
+    <div class="header_right header_right_top">
+      <p class="header_right_font">       </p>
+      <p style="margin-top:60px;" class="header_right_font">
+        <a href="../opac/book_cart.php">暂存书架(<span id="bookcartCount">0</span>)</a> | <font color="blue">邓文浩</font> <strong><a href="../reader/logout.php" style="color:#ff0000;">注销</a></strong></p>
+       </div>
+</div>
+<div id="menubar">
+    <ul id="menu_top">
+    		  	<li><a href="../opac/search.php" target="_self" >书目检索</a></li>
+	  		  	<li><a href="../top/top_lend.php" target="_self" >热门推荐</a></li>
+	  		  	<li><a href="../browse/cls_browsing.php" target="_self" >分类浏览</a></li>
+	  		  	<li><a href="../newbook/newbook_cls_browse.php" target="_self" >新书通报</a></li>
+	  		  	<li><a href="../peri/peri_nav_e.php" target="_self" >期刊导航</a></li>
+	  		  	<li><a href="../asord/asord_hist.php" target="_self" >读者荐购</a></li>
+	  		  	<li><a href="../shelf/curriculum_browse.php" target="_self" >学科参考</a></li>
+	  		  	<li><a href="../info/info_guide.php" target="_self" >信息发布</a></li>
+	  		  	<li><a class="menu_top_on" style="color:#6C5B23;"	href="../reader/redr_info.php" target="_self" >我的图书馆</a></li>
+	  		  	 	  	        <div class="clear"></div>
+    </ul>
+</div>
+<div id="submenu">
+	        <div class="clear"></div>
+</div>
+
+		<script language="JavaScript" type="text/javascript">
+	$(function(){
+		$( "#dialog:ui-dialog" ).dialog( "destroy" );
+	});
+</script>
+
+<div id="mainbox">
+   <div id="container">
+  <div id="navsidebar">
+     <ul id="nav_mylib">
+     	<li><a href="redr_info.php" >我的首页</a></li><li><a href="redr_info_rule.php" >证件信息</a></li><li id="nav_mylibhome"><a href="book_lst.php" >当前借阅</a></li><li><a href="book_hist.php" >借阅历史</a></li><li><a href="asord_lst.php" >荐购历史</a></li><li><a href="preg.php" >预约信息</a></li><li><a href="relegate.php" >委托信息</a></li><li><a href="book_shelf.php" >我的书架</a></li><li><a href="book_loss.php" >书刊遗失</a></li><li><a href="redr_lost.php" >读者挂失</a></li><li><a href="account.php" >帐目清单</a></li><li><a href="fine_pec.php" >违章缴款</a></li><li><a href="book_rv.php" >我的书评</a></li><li><a href="search_hist.php" >检索历史</a></li><li><a href="reader_curriculum.php" >我的课程</a></li><li><a href="credit_detail.php" >我的积分</a></li>
+     </ul>
+  </div>
+  
+  <div id="mylib_content" >
+        <div class="alert">
+          <strong></strong>
+        </div>
+  		<p style="text-align:center; font-size:14px; color:#F00;"></p>
+  		<h2>当前借阅</h2>
+       <p style="margin:10px auto;">&nbsp;&nbsp;当前借阅( <b class="blue">6</b> ) / 最大借阅( <b class="blue">
+       		          		8
+          	 
+          	</b> ) </p>
+       
+			<table width="100%" border="0" cellpadding="5" cellspacing="1" bgcolor="#CCCCCC" class="table_line">
+				<tr>
+					<td class="greytext">条码号</td>
+					<td class="greytext">题名/责任者</td>
+					<td class="greytext">借阅日期</td>
+					<td class="greytext">应还日期</td>
+					<td align="center" class="greytext">续借量</td>
+					<td class="greytext">馆藏地</td>
+					<td align="center" class="greytext">附件</td>
+					<td align="center" class="greytext">续借</td>
+				</tr>
+				<tr>
+					<td class="whitetext" width="10%">AN1340293</td>
+					<td class="whitetext" width="35%"><a class="blue" href="../opac/item.php?marc_no=0000770478">&#x5305;&#x88c5;&#x5f62;&#x8c61;&#x521b;&#x65b0;&#x8bbe;&#x8ba1;</a> / &#x4f55;&#x5f64;&#x8457;</td>
+					<td class="whitetext" width="13%">2018-01-22</td>
+					<td class="whitetext" width="13%"><font color=>2018-03-23        </font></td>
+					<td width="6%" align="center" class="whitetext">0</td>
+					<td class="whitetext" width="15%">前湖-流通书库</td>
+					<td width="13%" align="center" class="whitetext">无</td>
+					<td width="5%" height="35" class="whitetext">
+					<div id="1"><input title="renew" class="btn btn-success" type="button" value="续借" onclick="getInLib('AN1340293','745A80E5','1');"  />
+					</div><div id="AN1340293" /></td>
+				</tr>
+				<tr>
+					<td class="whitetext" width="10%">AN1630685</td>
+					<td class="whitetext" width="35%"><a class="blue" href="../opac/item.php?marc_no=0000913845">&#x0050;&#x0079;&#x0074;&#x0068;&#x006f;&#x006e;&#x6570;&#x636e;&#x6293;&#x53d6;&#x6280;&#x672f;&#x4e0e;&#x5b9e;&#x6218;</a> / &#x6f58;&#x5e86;&#x548c;&#x002c;&#x0020;&#x8d75;&#x661f;&#x9a70;&#x7f16;&#x8457;</td>
+					<td class="whitetext" width="13%">2018-01-22</td>
+					<td class="whitetext" width="13%"><font color=>2018-03-23        </font></td>
+					<td width="6%" align="center" class="whitetext">0</td>
+					<td class="whitetext" width="15%">前湖-流通书库</td>
+					<td width="13%" align="center" class="whitetext">无</td>
+					<td width="5%" height="35" class="whitetext">
+					<div id="2"><input title="renew" class="btn btn-success" type="button" value="续借" onclick="getInLib('AN1630685','03D59FFE','2');"  />
+					</div><div id="AN1630685" /></td>
+				</tr>
+				<tr>
+					<td class="whitetext" width="10%">AN1144649</td>
+					<td class="whitetext" width="35%"><a class="blue" href="../opac/item.php?marc_no=0000708010">&#x5fae;&#x79ef;&#x5206;&#x4e60;&#x9898;&#x7cbe;&#x89e3;</a> / &#x718a;&#x7ae0;&#x7eea;&#x002c;&#x0020;&#x9676;&#x524d;&#x529f;&#x4e3b;&#x7f16;</td>
+					<td class="whitetext" width="13%">2018-01-02</td>
+					<td class="whitetext" width="13%"><font color=>2018-04-08        </font></td>
+					<td width="6%" align="center" class="whitetext">0</td>
+					<td class="whitetext" width="15%">前湖-流通书库</td>
+					<td width="13%" align="center" class="whitetext">无</td>
+					<td width="5%" height="35" class="whitetext">
+					<div id="3"><input title="renew" class="btn btn-success" type="button" value="续借" onclick="getInLib('AN1144649','D229B099','3');"  />
+					</div><div id="AN1144649" /></td>
+				</tr>
+				<tr>
+					<td class="whitetext" width="10%">AN1423133</td>
+					<td class="whitetext" width="35%"><a class="blue" href="../opac/item.php?marc_no=0000810370">&#x7269;&#x7406;&#x5316;&#x5b66;</a> / &#x4e3b;&#x7f16;&#x5f20;&#x5e08;&#x611a;&#x002c;&#x0020;&#x590f;&#x539a;&#x6797;</td>
+					<td class="whitetext" width="13%">2018-01-02</td>
+					<td class="whitetext" width="13%"><font color=>2018-04-08        </font></td>
+					<td width="6%" align="center" class="whitetext">0</td>
+					<td class="whitetext" width="15%">前湖-流通书库</td>
+					<td width="13%" align="center" class="whitetext">无</td>
+					<td width="5%" height="35" class="whitetext">
+					<div id="4"><input title="renew" class="btn btn-success" type="button" value="续借" onclick="getInLib('AN1423133','3C2F3AEF','4');"  />
+					</div><div id="AN1423133" /></td>
+				</tr>
+				<tr>
+					<td class="whitetext" width="10%">AN1629650</td>
+					<td class="whitetext" width="35%"><a class="blue" href="../opac/item.php?marc_no=0000913997">&#x004a;&#x0061;&#x0076;&#x0061;&#x0053;&#x0063;&#x0072;&#x0069;&#x0070;&#x0074;&#x4e0e;&#x006a;&#x0051;&#x0075;&#x0065;&#x0072;&#x0079;&#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;</a> / &#x5415;&#x592a;&#x4e4b;&#x002c;&#x0020;&#x9c8d;&#x5efa;&#x6210;&#x4e3b;&#x7f16;</td>
+					<td class="whitetext" width="13%">2018-01-02</td>
+					<td class="whitetext" width="13%"><font color=>2018-04-08        </font></td>
+					<td width="6%" align="center" class="whitetext">0</td>
+					<td class="whitetext" width="15%">前湖-流通书库</td>
+					<td width="13%" align="center" class="whitetext">无</td>
+					<td width="5%" height="35" class="whitetext">
+					<div id="5"><input title="renew" class="btn btn-success" type="button" value="续借" onclick="getInLib('AN1629650','62776594','5');"  />
+					</div><div id="AN1629650" /></td>
+				</tr>
+				<tr>
+					<td class="whitetext" width="10%">AN1635951</td>
+					<td class="whitetext" width="35%"><a class="blue" href="../opac/item.php?marc_no=0000932149">&#x004a;&#x0061;&#x0076;&#x0061;&#x0053;&#x0063;&#x0072;&#x0069;&#x0070;&#x0074;&#x7a0b;&#x5e8f;&#x8bbe;&#x8ba1;&#x57fa;&#x7840;&#x6559;&#x7a0b;</a> / &#x674e;&#x6e90;&#x7f16;&#x8457;</td>
+					<td class="whitetext" width="13%">2018-01-02</td>
+					<td class="whitetext" width="13%"><font color=>2018-04-08        </font></td>
+					<td width="6%" align="center" class="whitetext">0</td>
+					<td class="whitetext" width="15%">前湖-流通书库</td>
+					<td width="13%" align="center" class="whitetext">无</td>
+					<td width="5%" height="35" class="whitetext">
+					<div id="6"><input title="renew" class="btn btn-success" type="button" value="续借" onclick="getInLib('AN1635951','47C81B7E','6');"  />
+					</div><div id="AN1635951" /></td>
+				</tr>
+			</table>
+  <div style="margin-top:20px;">
+  <h2>二维码信息<strong style="color:#333;">(当前借阅信息的二维码，安装手机解码软件拍照解析后可以快速保存信息)</strong></h2>
+  <p>
+<span style="float:left; margin-right:20px;"><a href="../opac/ajax_qr.php?qrcode=6K%2B76ICF44CQNzkwMTExNzEwMeOAkeeahOWcqOWAn%2BS5puWIiijpopjlkI0v5bqU6L%2BY5pel5pyfKe%2B8mg0K5YyF6KOF5b2i6LGh5Yib5paw6K6%2B6K6hIDIwMTgtMDMtMjMgICAgICAgIA0KUHl0aG9u5pWw5o2u5oqT5Y%2BW5oqA5pyv5LiO5a6e5oiYIDIwMTgtMDMtMjMgICAgICAgIA0K5b6u56ev5YiG5Lmg6aKY57K%2B6KejIDIwMTgtMDQtMDggICAgICAgIA0K54mp55CG5YyW5a2mIDIwMTgtMDQtMDggICAgICAgIA0KSmF2YVNjcmlwdOS4jmpRdWVyeeeoi%2BW6j%2BiuvuiuoSAyMDE4LTA0LTA4ICAgICAgICANCkphdmFTY3JpcHTnqIvluo%2Forr7orqHln7rnoYDmlZnnqIsgMjAxOC0wNC0wOCAgICAgICAgDQo%3D" target="_blank" title="新窗口打开">
+  	<img src="../opac/ajax_qr.php?qrcode=6K%2B76ICF44CQNzkwMTExNzEwMeOAkeeahOWcqOWAn%2BS5puWIiijpopjlkI0v5bqU6L%2BY5pel5pyfKe%2B8mg0K5YyF6KOF5b2i6LGh5Yib5paw6K6%2B6K6hIDIwMTgtMDMtMjMgICAgICAgIA0KUHl0aG9u5pWw5o2u5oqT5Y%2BW5oqA5pyv5LiO5a6e5oiYIDIwMTgtMDMtMjMgICAgICAgIA0K5b6u56ev5YiG5Lmg6aKY57K%2B6KejIDIwMTgtMDQtMDggICAgICAgIA0K54mp55CG5YyW5a2mIDIwMTgtMDQtMDggICAgICAgIA0KSmF2YVNjcmlwdOS4jmpRdWVyeeeoi%2BW6j%2BiuvuiuoSAyMDE4LTA0LTA4ICAgICAgICANCkphdmFTY3JpcHTnqIvluo%2Forr7orqHln7rnoYDmlZnnqIsgMjAxOC0wNC0wOCAgICAgICAgDQo%3D" border="0" /></a></span>
+  <p>
+  </div>			
+  </div>
+  <div id="dialog-form" title="续借验证码" style="display:none;">
+	   <table width="95%" border="0" cellpadding="3" cellspacing="1">
+		      <tr>
+	            <td align="right">验证码： </td>
+	            <td align="left"><input id="captcha" class="input" name="captcha" type="text" size="20" style="width:150px" >
+	            </td>
+	          </tr>          
+	          <tr>
+	            <td align="right"></td>
+	            <td align="left">请输入下面显示的内容<br/><img id="img" src="captcha.php" /></td>
+	          </tr> 
+	 </table>
+</div>
+
+  <div class="clear"></div>
+</div>
+
+<script type="text/javascript">
+<!--
+function getInLib(barcode,check,num){ 
+		$( "#dialog-form" ).dialog({
+			autoOpen: false,
+			modal: true,
+			buttons: {
+	        "确定": function() {
+	          $(this).dialog("close");
+	          $("#" + num).load('ajax_renew.php?bar_code=' + barcode + "&check=" + check + "&captcha=" + $("#captcha").val() + "&time=" + new Date().getTime());
+	        }
+	      } 
+		});
+		$("#dialog-form").dialog("open");
+		
+}
+-->
+</script>
+<div id="footer"><div id="copy"><p> 南昌大学图书馆&nbsp;&nbsp; OPAC v5.5.16.10.10  &nbsp;&nbsp;</p><p>&copy; 1999-2015 <a target="_blank" href="http://www.libsys.com.cn">Jiangsu Huiwen Software Ltd. 江苏汇文软件有限公司</a></p></div></div></body></html>

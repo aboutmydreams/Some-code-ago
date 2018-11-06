@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/presidential-message-congress-united-states/', 'File_Name': 'presidential-message-congress-united-states', 'Date': 'January 17, 2018', 'Title': 'presidential message congress united states', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-press-gaggle-air-force-two-departure/', 'File_Name': 'remarks-vice-president-pence-press-gaggle-air-force-two-departure', 'Date': 'February 8, 2018', 'Title': 'remarks vice president pence press gaggle air force two departure', 'TYPE': '\nPress Briefings', 'Author': ''}

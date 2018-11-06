@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-meeting-president-juan-manuel-santos-colombia/', 'File_Name': 'readout-vice-presidents-meeting-president-juan-manuel-santos-colombia', 'Date': 'May 19, 2017', 'Title': 'readout vice presidents meeting president juan manuel santos colombia', 'TYPE': '\nStatements & Releases', 'Author': ''}

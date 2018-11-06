@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-call-afghan-president-ashraf-ghani-6/', 'File_Name': 'readout-vice-presidents-call-afghan-president-ashraf-ghani-6', 'Date': 'August 28, 2018', 'Title': 'readout vice presidents call afghan president ashraf ghani 6', 'TYPE': '\nStatements & Releases', 'Author': ''}

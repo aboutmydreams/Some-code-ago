@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-s-117-law/', 'File_Name': 'president-donald-j-trump-signs-s-117-law', 'Date': 'January 31, 2018', 'Title': 'president donald j trump signs s 117 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-agricultural-innovation/', 'File_Name': 'remarks-president-trump-agricultural-innovation', 'Date': 'June 22, 2017', 'Title': 'remarks president trump agricultural innovation', 'TYPE': '\nRemarks', 'Author': ''}

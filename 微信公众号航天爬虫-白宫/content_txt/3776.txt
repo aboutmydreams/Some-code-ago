@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/background-briefing-visit-nato-secretary-general-jens-stoltenberg/', 'File_Name': 'background-briefing-visit-nato-secretary-general-jens-stoltenberg', 'Date': 'April 12, 2017', 'Title': 'background briefing visit nato secretary general jens stoltenberg', 'TYPE': '\nPress Briefings', 'Author': ''}

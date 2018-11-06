@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/melania-trump-announces-inaugural-foreign-trip-first-lady-united-states/', 'File_Name': 'melania-trump-announces-inaugural-foreign-trip-first-lady-united-states', 'Date': 'May 18, 2017', 'Title': 'melania trump announces inaugural foreign trip first lady united states', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/art-therapy-provides-inspiration/', 'File_Name': 'art-therapy-provides-inspiration', 'Date': 'no data', 'Title': 'art therapy provides inspiration', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tKaren Pence\t\t\t\t\t\t\t\n'}

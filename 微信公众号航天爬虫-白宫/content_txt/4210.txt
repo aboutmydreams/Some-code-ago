@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-signing-executive-order-fiduciary-rule/', 'File_Name': 'remarks-president-trump-signing-executive-order-fiduciary-rule', 'Date': 'February 3, 2017', 'Title': 'remarks president trump signing executive order fiduciary rule', 'TYPE': '\nRemarks', 'Author': ''}

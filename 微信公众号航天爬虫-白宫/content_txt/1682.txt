@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/poll-majority-americans-agree-trump-daca-immigration/', 'File_Name': 'poll-majority-americans-agree-trump-daca-immigration', 'Date': 'January 27, 2018', 'Title': 'poll majority americans agree trump daca immigration', 'TYPE': '\nNews Clips', 'Author': ''}

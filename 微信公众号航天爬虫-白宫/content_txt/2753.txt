@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-president-donald-j-trump-signing-h-r-601/', 'File_Name': 'statement-press-secretary-president-donald-j-trump-signing-h-r-601', 'Date': 'September 8, 2017', 'Title': 'statement press secretary president donald j trump signing h r 601', 'TYPE': '\nStatements & Releases', 'Author': ''}

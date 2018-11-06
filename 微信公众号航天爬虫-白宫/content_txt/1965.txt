@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-marine-helicopter-squadron-one/', 'File_Name': 'remarks-president-trump-marine-helicopter-squadron-one', 'Date': 'December 15, 2017', 'Title': 'remarks president trump marine helicopter squadron one', 'TYPE': '\nRemarks', 'Author': ''}

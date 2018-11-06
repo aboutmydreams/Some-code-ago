@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-air-force-one-contract/', 'File_Name': 'statement-press-secretary-air-force-one-contract', 'Date': 'July 18, 2018', 'Title': 'statement press secretary air force one contract', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-vice-president-pence-introducing-president-trump-jobs-announcement/', 'File_Name': 'remarks-vice-president-pence-introducing-president-trump-jobs-announcement', 'Date': 'July 26, 2017', 'Title': 'remarks vice president pence introducing president trump jobs announcement', 'TYPE': '\nRemarks', 'Author': ''}

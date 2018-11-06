@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-leads-workforce-development/', 'File_Name': 'president-trump-leads-workforce-development', 'Date': 'June 15, 2017', 'Title': 'president trump leads workforce development', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

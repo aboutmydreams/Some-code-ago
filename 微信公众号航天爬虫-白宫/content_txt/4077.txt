@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-2017-governors-ball/', 'File_Name': 'remarks-president-trump-2017-governors-ball', 'Date': 'February 26, 2017', 'Title': 'remarks president trump 2017 governors ball', 'TYPE': '\nRemarks', 'Author': ''}

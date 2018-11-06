@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-proclamation-adjusting-imports-aluminum-united-states-4/', 'File_Name': 'presidential-proclamation-adjusting-imports-aluminum-united-states-4', 'Date': 'May 31, 2018', 'Title': 'presidential proclamation adjusting imports aluminum united states 4', 'TYPE': '\nProclamations', 'Author': ''}

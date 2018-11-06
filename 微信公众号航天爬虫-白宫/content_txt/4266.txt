@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-trump-approves-oregon-disaster-declaration/', 'File_Name': 'president-trump-approves-oregon-disaster-declaration', 'Date': 'January 25, 2017', 'Title': 'president trump approves oregon disaster declaration', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-president-donald-j-trumps-meeting-video-game-industry-leaders/', 'File_Name': 'readout-president-donald-j-trumps-meeting-video-game-industry-leaders', 'Date': 'March 8, 2018', 'Title': 'readout president donald j trumps meeting video game industry leaders', 'TYPE': '\nStatements & Releases', 'Author': ''}

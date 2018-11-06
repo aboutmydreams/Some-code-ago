@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/icymi-fccs-pai-u-s-can-win-digital-future/', 'File_Name': 'icymi-fccs-pai-u-s-can-win-digital-future', 'Date': 'June 22, 2017', 'Title': 'icymi fccs pai u s can win digital future', 'TYPE': '\nNews Clips', 'Author': ''}

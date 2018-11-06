@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-national-teacher-year-event/', 'File_Name': 'remarks-president-trump-national-teacher-year-event', 'Date': 'April 26, 2017', 'Title': 'remarks president trump national teacher year event', 'TYPE': '\nRemarks', 'Author': ''}

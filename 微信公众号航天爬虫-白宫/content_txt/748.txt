@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/artificial-intelligence-american-people/', 'File_Name': 'artificial-intelligence-american-people', 'Date': 'May 10, 2018', 'Title': 'artificial intelligence american people', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump\t\t\t\t\t'}

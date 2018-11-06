@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-shamrock-bowl-presentation/', 'File_Name': 'remarks-president-trump-shamrock-bowl-presentation', 'Date': 'March 15, 2018', 'Title': 'remarks president trump shamrock bowl presentation', 'TYPE': '\nRemarks', 'Author': ''}

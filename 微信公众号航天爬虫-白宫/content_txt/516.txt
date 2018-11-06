@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/wall-street-journal-american-job-openings-now-outnumber-jobless/', 'File_Name': 'wall-street-journal-american-job-openings-now-outnumber-jobless', 'Date': 'June 6, 2018', 'Title': 'wall street journal american job openings now outnumber jobless', 'TYPE': '\nNews Clips', 'Author': ''}

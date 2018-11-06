@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-regarding-trade-china/', 'File_Name': 'statement-president-regarding-trade-china', 'Date': 'June 15, 2018', 'Title': 'statement president regarding trade china', 'TYPE': '\nStatements & Releases', 'Author': ''}

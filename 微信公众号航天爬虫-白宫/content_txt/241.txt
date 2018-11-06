@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-from-the-president/', 'File_Name': 'statement-from-the-president', 'Date': 'July 18, 2018', 'Title': 'statement from the president', 'TYPE': '\nStatements & Releases', 'Author': ''}

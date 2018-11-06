@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-first-lady-melania-trumps-visit-belgium/', 'File_Name': 'readout-first-lady-melania-trumps-visit-belgium', 'Date': 'July 12, 2018', 'Title': 'readout first lady melania trumps visit belgium', 'TYPE': '\nStatements & Releases', 'Author': ''}

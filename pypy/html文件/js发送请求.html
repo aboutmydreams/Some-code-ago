@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>js发送post请求</title>
+</head>
+<body>
+<script type="text/javascript">
+  function login(){
+
+
+    var oStr = '';
+    var postData = {//这个是要发送上去的数据
+      "number":key,
+      "passwd":value,
+      "captcha":captcha
+    };
+    var data=JSON.stringify(postData)//把数据变为json格式的 ，后端一般都会要求之接受json格式的数据
+    var oAjax = null;
+    /* 下面就是创建一个ajax对象 因为不同浏览器的原因 所以做了兼容*/
+    try{
+      oAjax = new XMLHttpRequest();
+    }catch(e){
+      oAjax = new ActiveXObject("Microsoft.XMLHTTP");
+    };
+    /*ajax对象创建完毕*/
+    //post方式打开文件
+    oAjax.open('post','http://210.35.251.243/reader/login.php',true);//open()函数里的第一个参数表示请求的方式，登陆是向服务器发送数据所以是post，第二个参数
+    //是你要发送到的地址，第三个表示是否开启异步（不用管）方式
+    //post相比get方式提交多了个这个
+    oAjax.setRequestHeader("Content-type","application/json");//这个是设置请求头，发送json格式的数据
+    //post发送数据
+    oAjax.send(data);//把数据发送给服务器端
+    oAjax. onreadystatechange = function(){//这个函数的作用是监测服务器的状态
+      //当状态为4的时候，执行以下操作
+      if(oAjax.readyState == 4){
+        var data=oAjax.responseText;//然后服务器端向你发送响应，响应就在response属性里，你按f12就可以看到开发者工具有个
+        //response，不管是post方式还是get方式都会有一个响应（后端代码控制的，比如要是发送过去的账号密码是对的，后端就可以和前段商量发什么给前端，前段得到响应就知道账号密码是不是对的）
+      };
+    };
+
+  }
+
+</script>
+</body>
+</html>

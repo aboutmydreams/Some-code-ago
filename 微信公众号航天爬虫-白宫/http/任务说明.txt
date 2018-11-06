@@ -1,0 +1,27 @@
+任务说明：
+      采集微信公众号相关资源，目标网站：http://weixin.sogou.com。
+      针对给定的微信公众号名称（资源文件名：wx-res.txt），检索并抽取对应的微信号ID。
+
+结果格式样例：
+      微信公众号<#>微信ID
+      航空大话<#>aviatalk
+      国际航空<#>interavi
+
+==========================================================
+更高要求：
+      在获取到微信公众号ID为正确的前提下，针对当前微信号所发布的最近10条新闻进行采集。
+      
+结果格式样例：
+      【微信名】：航空大话
+      【微信ID】：aviatalk
+      【标题】：97# 史上最差战斗机
+      【标题链接】：https://mp.weixin.qq.com/profile?src=3&timestamp=1533526280&ver=1&signature=P5d1NG04SUZhKXcQmUJahfJoP85PqIxX7wBinCt7uoaXoj9ESlrOqSxMQglg9Cg49E0p*5d6bvFTAWJdvUcfRw==
+      【摘要】：颜值低性能差，美媒的这个榜单你赞同吗？
+      【发布时间】：2018年7月8日
+      【标题】：96# 美国西南航事件独家访谈录（下）
+      【标题链接】：https://mp.weixin.qq.com/profile?src=3&timestamp=1533526280&ver=1&signature=P5d1NG04SUZhKXcQmUJahfJoP85PqIxX7wBinCt7uoaXoj9ESlrOqSxMQglg9Cg49E0p*5d6bvFTAWJdvUcfRw==
+      …………
+      ------------------------------
+
+
+

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-regarding-senate-passage-fiscal-year-2018-budget-resolution/', 'File_Name': 'statement-regarding-senate-passage-fiscal-year-2018-budget-resolution', 'Date': 'October 19, 2017', 'Title': 'statement regarding senate passage fiscal year 2018 budget resolution', 'TYPE': '\nStatements & Releases', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/presidential-executive-order-amending-executive-order-13223/', 'File_Name': 'presidential-executive-order-amending-executive-order-13223', 'Date': 'October 20, 2017', 'Title': 'presidential executive order amending executive order 13223', 'TYPE': '\nExecutive Orders', 'Author': ''}

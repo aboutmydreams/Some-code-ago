@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/2018-2019-white-house-fellowship/', 'File_Name': '2018-2019-white-house-fellowship', 'Date': 'November 3, 2017', 'Title': '2018 2019 white house fellowship', 'TYPE': '\nStatements & Releases', 'Author': ''}

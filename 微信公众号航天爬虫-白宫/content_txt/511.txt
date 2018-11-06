@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-by-the-president-3/', 'File_Name': 'statement-by-the-president-3', 'Date': 'June 6, 2018', 'Title': 'statement by the president 3', 'TYPE': '\nStatements & Releases', 'Author': ''}

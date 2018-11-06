@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/stephen-moore-taxes-matter/', 'File_Name': 'stephen-moore-taxes-matter', 'Date': 'January 16, 2018', 'Title': 'stephen moore taxes matter', 'TYPE': '\nNews Clips', 'Author': ''}

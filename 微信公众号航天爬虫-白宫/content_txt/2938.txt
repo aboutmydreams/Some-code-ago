@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-second-lady-karen-pences-visit-cartagena-colombia/', 'File_Name': 'readout-second-lady-karen-pences-visit-cartagena-colombia', 'Date': 'August 14, 2017', 'Title': 'readout second lady karen pences visit cartagena colombia', 'TYPE': '\nStatements & Releases', 'Author': ''}

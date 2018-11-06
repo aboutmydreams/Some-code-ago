@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-signing-executive-order-create-energy-independence/', 'File_Name': 'remarks-president-trump-signing-executive-order-create-energy-independence', 'Date': 'March 28, 2017', 'Title': 'remarks president trump signing executive order create energy independence', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-signing-executive-order-regulatory-reform/', 'File_Name': 'remarks-president-trump-signing-executive-order-regulatory-reform', 'Date': 'February 24, 2017', 'Title': 'remarks president trump signing executive order regulatory reform', 'TYPE': '\nRemarks', 'Author': ''}

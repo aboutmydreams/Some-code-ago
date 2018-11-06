@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/common-sense-immigration-reform-keeps-families-together/', 'File_Name': 'common-sense-immigration-reform-keeps-families-together', 'Date': 'January 31, 2018', 'Title': 'common sense immigration reform keeps families together', 'TYPE': '\nFact Sheets', 'Author': '\n\t\t\t\t\t\tPresident Donald J. Trump \t\t\t\t\t'}

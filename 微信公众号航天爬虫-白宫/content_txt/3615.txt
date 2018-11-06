@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trumps-weekly-address-21/', 'File_Name': 'president-donald-j-trumps-weekly-address-21', 'Date': 'May 5, 2017', 'Title': 'president donald j trumps weekly address 21', 'TYPE': '\nStatements & Releases', 'Author': ''}

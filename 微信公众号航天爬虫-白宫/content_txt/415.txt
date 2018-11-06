@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/visit-upstate-golisano-childrens-hospital-syracuse-new-york/', 'File_Name': 'visit-upstate-golisano-childrens-hospital-syracuse-new-york', 'Date': 'no data', 'Title': 'visit upstate golisano childrens hospital syracuse new york', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tKaren Pence\t\t\t\t\t\t\t\n'}

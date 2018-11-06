@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-national-dyslexia-awareness-month/', 'File_Name': 'statement-president-donald-j-trump-national-dyslexia-awareness-month', 'Date': 'October 1, 2017', 'Title': 'statement president donald j trump national dyslexia awareness month', 'TYPE': '\nStatements & Releases', 'Author': ''}

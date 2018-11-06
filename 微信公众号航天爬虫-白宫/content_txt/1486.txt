@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-medal-valor-ceremony/', 'File_Name': 'remarks-president-trump-medal-valor-ceremony', 'Date': 'February 20, 2018', 'Title': 'remarks president trump medal valor ceremony', 'TYPE': '\nRemarks', 'Author': ''}

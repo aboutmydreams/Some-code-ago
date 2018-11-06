@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meeting-bipartisan-members-congress-immigration/', 'File_Name': 'remarks-president-trump-meeting-bipartisan-members-congress-immigration', 'Date': 'January 9, 2018', 'Title': 'remarks president trump meeting bipartisan members congress immigration', 'TYPE': '\nRemarks', 'Author': ''}

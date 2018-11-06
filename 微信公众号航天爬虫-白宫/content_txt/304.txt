@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/presidential-actions/president-donald-j-trump-announces-white-house-appointments-3/', 'File_Name': 'president-donald-j-trump-announces-white-house-appointments-3', 'Date': 'July 6, 2018', 'Title': 'president donald j trump announces white house appointments 3', 'TYPE': '\nNominations & Appointments', 'Author': ''}

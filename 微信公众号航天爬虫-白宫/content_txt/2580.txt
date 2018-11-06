@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/photos-president-donald-j-trumps-dinner-grassroots-leaders/', 'File_Name': 'photos-president-donald-j-trumps-dinner-grassroots-leaders', 'Date': 'September 26, 2017', 'Title': 'photos president donald j trumps dinner grassroots leaders', 'TYPE': '\nStatements & Releases', 'Author': ''}

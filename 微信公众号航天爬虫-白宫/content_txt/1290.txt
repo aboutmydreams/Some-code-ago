@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/saying-support-president-trumps-nomination-mike-pompeo-secretary-state/', 'File_Name': 'saying-support-president-trumps-nomination-mike-pompeo-secretary-state', 'Date': 'March 14, 2018', 'Title': 'saying support president trumps nomination mike pompeo secretary state', 'TYPE': '\nStatements & Releases', 'Author': ''}

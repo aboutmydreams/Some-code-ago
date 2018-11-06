@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/readout-vice-presidents-meeting-prime-minister-alexis-tsipras-greece/', 'File_Name': 'readout-vice-presidents-meeting-prime-minister-alexis-tsipras-greece', 'Date': 'October 18, 2017', 'Title': 'readout vice presidents meeting prime minister alexis tsipras greece', 'TYPE': '\nStatements & Releases', 'Author': ''}

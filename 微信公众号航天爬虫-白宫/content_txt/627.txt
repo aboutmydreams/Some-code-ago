@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-susan-b-anthony-list-11th-annual-campaign-life-gala/', 'File_Name': 'remarks-president-trump-susan-b-anthony-list-11th-annual-campaign-life-gala', 'Date': 'May 22, 2018', 'Title': 'remarks president trump susan b anthony list 11th annual campaign life gala', 'TYPE': '\nRemarks', 'Author': ''}

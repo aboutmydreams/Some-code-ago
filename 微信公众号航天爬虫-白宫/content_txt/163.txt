@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/president-donald-j-trump-signs-s-490-s-931-s-2734-law/', 'File_Name': 'president-donald-j-trump-signs-s-490-s-931-s-2734-law', 'Date': 'July 27, 2018', 'Title': 'president donald j trump signs s 490 s 931 s 2734 law', 'TYPE': '\nStatements & Releases', 'Author': ''}

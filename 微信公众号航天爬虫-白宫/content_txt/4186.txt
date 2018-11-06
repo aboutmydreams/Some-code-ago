@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-intel-ceo-brian-krzanich-u-s-jobs/', 'File_Name': 'remarks-president-trump-intel-ceo-brian-krzanich-u-s-jobs', 'Date': 'February 8, 2017', 'Title': 'remarks president trump intel ceo brian krzanich u s jobs', 'TYPE': '\nRemarks', 'Author': ''}

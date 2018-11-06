@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/background-briefing-presidents-trip-france/', 'File_Name': 'background-briefing-presidents-trip-france', 'Date': 'July 11, 2017', 'Title': 'background briefing presidents trip france', 'TYPE': '\nPress Briefings', 'Author': ''}

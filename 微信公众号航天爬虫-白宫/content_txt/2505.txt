@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-first-lady-melania-trump-todays-visit-puerto-rico/', 'File_Name': 'statement-first-lady-melania-trump-todays-visit-puerto-rico', 'Date': 'October 3, 2017', 'Title': 'statement first lady melania trump todays visit puerto rico', 'TYPE': '\nStatements & Releases', 'Author': ''}

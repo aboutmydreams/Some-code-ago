@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/great-debate-presidents-day-washingtons-birthday/', 'File_Name': 'great-debate-presidents-day-washingtons-birthday', 'Date': 'no data', 'Title': 'great debate presidents day washingtons birthday', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tGeorge Washington, 1796 Farewell Address\t\t\t\t\t\t\t\n'}

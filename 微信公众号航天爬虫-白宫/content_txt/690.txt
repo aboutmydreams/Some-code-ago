@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/usa-today-trump-supporters-across-america-president-delivering-agenda/', 'File_Name': 'usa-today-trump-supporters-across-america-president-delivering-agenda', 'Date': 'May 16, 2018', 'Title': 'usa today trump supporters across america president delivering agenda', 'TYPE': '\nNews Clips', 'Author': ''}

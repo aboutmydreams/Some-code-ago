@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-welcoming-stanley-cup-champion-pittsburgh-penguins/', 'File_Name': 'remarks-president-trump-welcoming-stanley-cup-champion-pittsburgh-penguins', 'Date': 'October 10, 2017', 'Title': 'remarks president trump welcoming stanley cup champion pittsburgh penguins', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meeting-85-bridge-first-responders/', 'File_Name': 'remarks-president-trump-meeting-85-bridge-first-responders', 'Date': 'April 13, 2017', 'Title': 'remarks president trump meeting 85 bridge first responders', 'TYPE': '\nRemarks', 'Author': ''}

@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/articles/end-veteran-homelessness-within-reach-south-florida/', 'File_Name': 'end-veteran-homelessness-within-reach-south-florida', 'Date': 'no data', 'Title': 'end veteran homelessness within reach south florida', 'TYPE': 'no type', 'Author': '\n\n\t\t\t\t\t\tDr. Benjamin S. Carson, Sr.\t\t\t\t\t\t\t\n'}

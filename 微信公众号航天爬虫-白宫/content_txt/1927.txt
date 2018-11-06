@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-saudi-arabia-yemen/', 'File_Name': 'statement-press-secretary-saudi-arabia-yemen', 'Date': 'December 21, 2017', 'Title': 'statement press secretary saudi arabia yemen', 'TYPE': '\nStatements & Releases', 'Author': ''}

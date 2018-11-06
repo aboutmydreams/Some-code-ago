@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-press-gaggle-marine-one-departure/', 'File_Name': 'remarks-president-trump-press-gaggle-marine-one-departure', 'Date': 'September 29, 2017', 'Title': 'remarks president trump press gaggle marine one departure', 'TYPE': '\nPress Briefings', 'Author': ''}

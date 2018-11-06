@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-president-donald-j-trump-signing-h-r-3364/', 'File_Name': 'statement-president-donald-j-trump-signing-h-r-3364', 'Date': 'August 2, 2017', 'Title': 'statement president donald j trump signing h r 3364', 'TYPE': '\nStatements & Releases', 'Author': ''}

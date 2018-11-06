@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/remarks-president-trump-meeting-local-state-officials-school-safety/', 'File_Name': 'remarks-president-trump-meeting-local-state-officials-school-safety', 'Date': 'February 22, 2018', 'Title': 'remarks president trump meeting local state officials school safety', 'TYPE': '\nRemarks', 'Author': ''}

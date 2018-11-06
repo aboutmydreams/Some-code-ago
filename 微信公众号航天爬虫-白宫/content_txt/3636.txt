@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/h-r-244-consolidated-appropriations-act-2017/', 'File_Name': 'h-r-244-consolidated-appropriations-act-2017', 'Date': 'May 2, 2017', 'Title': 'h r 244 consolidated appropriations act 2017', 'TYPE': '\nStatements & Releases', 'Author': ''}

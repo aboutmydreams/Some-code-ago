@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-decline-southwest-border-apprehensions/', 'File_Name': 'statement-press-secretary-decline-southwest-border-apprehensions', 'Date': 'April 5, 2017', 'Title': 'statement press secretary decline southwest border apprehensions', 'TYPE': '\nStatements & Releases', 'Author': ''}

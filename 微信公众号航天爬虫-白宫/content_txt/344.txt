@@ -1,0 +1,1 @@
+{'Title_Url': 'https://www.whitehouse.gov/briefings-statements/statement-press-secretary-bilateral-meeting-united-states-russia/', 'File_Name': 'statement-press-secretary-bilateral-meeting-united-states-russia', 'Date': 'June 28, 2018', 'Title': 'statement press secretary bilateral meeting united states russia', 'TYPE': '\nStatements & Releases', 'Author': ''}
