@@ -13,6 +13,7 @@ app.config.update(
     MAIL_PROT=25,
     MAIL_USE_TLS = True,
     MAIL_USE_SSL = False,
+    
     MAIL_USERNAME = '1097977702@qq.com',
     MAIL_PASSWORD = 'kzipicthecqhicea',
     MAIL_DEBUG = True

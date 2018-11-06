@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+<header>
+	<title>NCU_sea_love</title>
+    <meta name="viewport" content="width=device-width,height=device-height,inital-scale=1.0,maximum-scale=1.0,user-scalable=no;">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="stylesheet" type="text/css" href="../static/icall_page_css.css">
+    <script src="http://api.map.baidu.com/api?v=1.4" type="text/javascript"></script>
+</header>
+<body>
+    <div class="nav">
+      <p>
+          位置对了嘛？
+      </p>
+    </div>
+    <div class="nav1">
+        <p id="p1111" style="font-size: 20px;">
+            江西啊...
+        </p>
+        <div class="no1">
+            <p>NO</p></div>
+            　　　　
+        <div class="determine_button"><p>Yes</p></div>
+
+        
+    </div>
+
+    <div class="nav2">
+        <p id="p2222" style="font-size: 20px;">
+            我在新建区噢
+        </p>
+        <div class="no2"><p>NO</p></div>    　　　　
+        <div class="determine_button1"><p>Yes</p></div>
+
+    
+    </div>
+        <div class="nav3">
+        <p id="p3333" style="font-size: 20px;">
+            n水电cu
+        </p>
+        <div class="no3"><p>NO</p></div>    　　　　
+        <div class="determine_button2"><p>Yes</p></div>
+
+    
+    </div>
+        <div class="nav4">
+        <p id="p4444" style="font-size: 20px;">
+            噗呲 没有跟多了
+        </p>
+        <div class="no4"><p>NO</p></div>    　　　　
+        <div class="determine_button3"><p>Yes</p></div>
+
+    
+    </div>
+
+    </div>
+        <div class="nav5">
+        <p style="font-size: 20px;">
+            好吧 ..没有更多啦 看看开发者的位置？
+        </p>
+        <div class="no5"><p>NO</p></div>    　　　　
+        <div class="determine_button4"><p>Yes</p></div>
+    </div>
+
+
+    
+</body>
+<script type="text/javascript">
+        function Location() {};
+ 
+    Location.prototype.getLocation = function (callback) {
+        var options = {
+            enableHighAccuracy: true,
+            maximumAge: 1000
+        };
+        this.callback = Object.prototype.toString.call(callback) == "[object Function]" ?
+            callback :
+        function (address) {
+            alert(address.province + address.city);
+            console.log("getocation(callbackFunction) 可获得定位信息对象");
+        };
+        var self = this;
+        if (navigator.geolocation) {
+            //浏览器支持geolocation
+            navigator.geolocation.getCurrentPosition(function (position) {
+                //经度
+                var longitude = position.coords.longitude;
+                //纬度
+                var latitude = position.coords.latitude;
+                self.loadMapApi(longitude, latitude);
+            }, self.onError, options);
+        } else {
+            //浏览器不支持geolocation
+        }
+    };
+ 
+    Location.prototype.loadMapApi = function (longitude, latitude) {
+        var self = this;
+        var oHead = document.getElementsByTagName('HEAD').item(0);
+        var oScript = document.createElement("script");
+        oScript.type = "text/javascript";
+        oScript.src = "http://api.map.baidu.com/getscript?v=2.0&ak=A396783ee700cfdb9ba1df281ce36862&services=&t=20140930184510";
+        oHead.appendChild(oScript);
+        oScript.onload = function (date) {
+            var point = new BMap.Point(longitude, latitude);
+            var gc = new BMap.Geocoder();
+            gc.getLocation(point, function (rs) {
+                var addComp = rs.addressComponents;
+                self.callback(addComp);
+            });
+        }
+    };
+ 
+    Location.prototype.onError = function (error) {
+        switch (error.code) {
+        case 1:
+            alert("位置服务被拒绝");
+            break;
+        case 2:
+            alert("暂时获取不到位置信息");
+            break;
+        case 3:
+            alert("获取信息超时");
+            break;
+        case 4:
+            alert("未知错误");
+            break;
+        }
+    };
+ 
+    //调用
+    var local = new Location();
+    local.getLocation(function (res) {
+        //此处就是返回的地理位置信息
+        console.log(res);
+        //JSON.stringify(res)，把返回的对象转为字符串了，自己根据需求截取下就好
+        var province = JSON.stringify(res["province"])+'?';
+        var city = JSON.stringify(res["city"])+'?';
+        var district = JSON.stringify(res["district"])+'?';
+        var street = JSON.stringify(res["street"]+res["streetNumber"])+'?';
+        //alert(street);
+        document.getElementById("p1111").innerHTML=province
+        document.getElementById("p2222").innerHTML=city
+        document.getElementById("p3333").innerHTML=district
+        document.getElementById("p4444").innerHTML=street
+
+    });
+  </script>
+    <script type="text/javascript">
+        var determine_button=document.getElementsByClassName('determine_button')[0];
+        var determine_button1=document.getElementsByClassName('determine_button1')[0];
+        var determine_button2=document.getElementsByClassName('determine_button2')[0];
+        var determine_button3=document.getElementsByClassName('determine_button3')[0];
+        var determine_button4=document.getElementsByClassName('determine_button4')[0];
+
+		var no1=document.getElementsByClassName('no1')[0];
+        var no2=document.getElementsByClassName('no2')[0];
+        var no3=document.getElementsByClassName('no3')[0];
+        var no4=document.getElementsByClassName('no4')[0];
+
+        determine_button.onclick=function () {
+            var nav2=document.getElementsByClassName("nav2")[0];
+            nav2.style.display='block';
+        };
+        determine_button1.onclick=function () {
+            var nav3=document.getElementsByClassName("nav3")[0];
+            nav3.style.display='block';
+        };
+        determine_button2.onclick=function () {
+            var nav4=document.getElementsByClassName("nav4")[0];
+            nav4.style.display='block';
+        };
+        determine_button3.onclick=function () {
+            var nav5=document.getElementsByClassName("nav5")[0];
+            nav5.style.display='block';
+        };
+        determine_button4.onclick=function () {
+            var nav5=document.getElementsByClassName("nav5")[0];
+            nav5.style.display='block';
+            alert('经纬度：28.663592,115.804557，根据大地坐标系计算可得到你们之间的距离喔~')
+            window.open("http://203.195.243.223:5000/NCU_Ibaidu"); //http://router.map.qq.com/short?l=7884edfc8b01724747cc41126f5bdc6d
+        };
+        no1.onclick=function () {
+            var nav5=document.getElementsByClassName("nav5")[0];
+            nav5.style.display='block';
+        };
+        no2.onclick=function () {
+            var nav5=document.getElementsByClassName("nav5")[0];
+            nav5.style.display='block';
+        };
+        no3.onclick=function () {
+            var nav5=document.getElementsByClassName("nav5")[0];
+            nav5.style.display='block';
+
+        };
+        no4.onclick=function () {
+            var nav5=document.getElementsByClassName("nav5")[0];
+            nav5.style.display='block';
+
+        };
+
+
+
+
+    </script>
+</html>

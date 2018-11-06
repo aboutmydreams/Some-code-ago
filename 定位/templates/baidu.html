@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+<style type="text/css">
+body, html,#allmap {width: 100%;height: 100%;overflow: hidden;margin:0;font-family:"微软雅黑";}
+a{ text-decoration:none;}
+.tencent{
+	position: fixed;
+	width: 100%;
+	height: 10%;
+	bottom: 0;
+	border-radius: 5px; 
+	background-color: #668ba4;
+	text-align: center;
+}
+.tencent a{
+	position: relative;
+	color: white;
+	font-size: 22px;
+	line-height: 273%;
+	
+
+}
+</style>
+<script type="text/javascript" src="http://api.map.baidu.com/api?v=2.0&ak=2wEvNZimZ6HdGfdOwGyaYTr4DfPVCtVi"></script>
+<title>开发者的位置</title>
+</head>
+
+<body>
+<div id="allmap"></div>
+<div class="tencent">
+	<a href="http://router.map.qq.com/short?l=7884edfc8b01724747cc41126f5bdc6d">去腾讯地图查看</a>
+</div>
+</body>
+
+</html>
+<script type="text/javascript">
+// 百度地图API功能
+var map = new BMap.Map("allmap"); // 创建Map实例
+map.centerAndZoom(new BMap.Point(115.810557,28.67016556), 20); // 初始化地图,设置中心点坐标和地图级别
+//添加地图类型控件
+map.addControl(new BMap.MapTypeControl({
+mapTypes:[
+BMAP_NORMAL_MAP,
+BMAP_HYBRID_MAP
+]}));	
+map.setCurrentCity("上海应用技术大学38号楼"); // 设置地图显示的城市 此项是必须设置的
+map.enableScrollWheelZoom(true); //开启鼠标滚轮缩放
+</script>
