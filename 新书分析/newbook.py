@@ -53,7 +53,7 @@ def name_num(ii):
             num = 0
         all_name.append(name)
         all_num.append(int(num))
-        #print(all_name,all_num)
+    print(all_name,all_num)
     return all_name,all_num
 if __name__=='__main__':
     x1_list,y1_list = name_num(22)

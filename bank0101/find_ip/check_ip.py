@@ -1,5 +1,5 @@
 import requests
-wangzhi = 'http://www.hao123.com'
+wangzhi = 'http://www.shoujibiao.tk'
 
 
 def get_good_ip():
