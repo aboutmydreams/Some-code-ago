@@ -9,8 +9,7 @@ def save_data(data):
 	f0 =  open('data\\test.txt','r')
 	f00 = f0.read()
 	if username not in f00:
-		pass
-		f = open('data\\test.txt','w+') 
+		f = open('data\\test.txt','w+')
 		f.write('{}'.format(f00+data+'\n'))#尾部写入
 		f.flush()
 		#f.close()#必要,json.loads()?
@@ -18,11 +17,10 @@ def save_data(data):
 		#print(f1.read())
 		da_log = f1.read()
 		#print(type(da_log))
-		now_time = time.ctime()[-4:]+'-'+time.ctime()[4:-4].replace(':',' , ')#:不能在文件名中出现
-		output = open('data_log\\'+now_time+'.txt','w')
-		output.write(da_log)
-		output.close()
-		#print(da_log)
+		now_time = f'{time.ctime()[-4:]}-' + time.ctime()[4:-4].replace(':',' , ')
+		with open('data_log\\'+now_time+'.txt','w') as output:
+			output.write(da_log)
+			#print(da_log)
 	else:
 		print('重复')
 		return 'have'

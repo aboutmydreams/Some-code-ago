@@ -31,14 +31,12 @@ def ali_proxies(targetUrl,header=None):
     }
     if header:
         response = requests.get(targetUrl,headers=header, proxies=proxies)
-        print (response.status_code)
-        # print(response.text)
-        return response
     else:
         response = requests.get(targetUrl, proxies=proxies)
-        print (response.status_code)
-        # print(response.text)
-        return response
+
+    print (response.status_code)
+    # print(response.text)
+    return response
 # print (resp.text)
 
 
@@ -53,7 +51,7 @@ def collect_links(id_name,cookie=None):
         title = soup1.findAll("script", {"type": "text/javascript"}, text = re.compile('.*var msgList.*'))
         # json1 = json.loads(re.findall('var msgList.*?\n', str(title))[0][14:-2])
         if '验证' in str(soup1):
-            print('用户您好，访问公众号{}过于频繁'.format(id_name))
+            print(f'用户您好，访问公众号{id_name}过于频繁')
             return '用户您好，您的访问过于频繁'
         else:
             # print (soup1)
@@ -68,7 +66,20 @@ def collect_links(id_name,cookie=None):
                 a_time = i['comm_msg_info']['datetime']
                 datearray = datetime.datetime.utcfromtimestamp(a_time)
                 the_time= datearray.strftime("%Y--%m--%d %H: %M: %S")
-                lin = lin+'【标题】：'+ the_title + '\n' + '【标题链接】：https://mp.weixin.qq.com' + the_url + '\n' + '【摘要】：' + digest + '\n' + '【发布时间】：' + the_time + '\n'
+                lin = (
+                    f'{lin}【标题】：{the_title}'
+                    + '\n'
+                    + '【标题链接】：https://mp.weixin.qq.com'
+                    + the_url
+                    + '\n'
+                    + '【摘要】：'
+                    + digest
+                    + '\n'
+                    + '【发布时间】：'
+                    + the_time
+                    + '\n'
+                )
+
             # print (lin)
             return lin
         # except IndexError as e:
@@ -137,15 +148,10 @@ for i in id_list:
         time.sleep(1)
         if '已跳过' in link:
             error_n = error_n+1
-            print('这是第'+ str(error_n) +'条空的公众号，已跳过，不会保存相关txt，随便提一下，如果查询公众号中有重复只会保存一次txt')
-        else:
-            pass
-        #time.sleep(0.6)
+            print(f'这是第{str(error_n)}条空的公众号，已跳过，不会保存相关txt，随便提一下，如果查询公众号中有重复只会保存一次txt')
+            #time.sleep(0.6)
     except requests.exceptions.ProxyError as e:
         print (e)
-        pass
-
-
 print(len(all_links))
 
 

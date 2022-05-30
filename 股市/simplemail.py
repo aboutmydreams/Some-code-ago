@@ -9,18 +9,18 @@ def email():
 	mail_host="smtp.qq.com"  #设置服务器
 	mail_user="2491189079@qq.com"    #用户名
 	mail_pass="hsokuuoiiacjeccj"   #口令 
-	 
+
 	sender = '2491189079@qq.com'
 	receivers = ['1097977702@qq.com']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
-	 
-	message = MIMEText('<h2>{}<h2> 邮件发送测试...'.format(name), 'plain', 'utf-8')#正文
+
+	message = MIMEText(f'<h2>{name}<h2> 邮件发送测试...', 'plain', 'utf-8')
 	message['From'] = Header("菜鸟教程", 'utf-8')
 	message['To'] =  Header("测试", 'utf-8')
-	 
+
 	subject = 'Python SMTP 邮件测试'#邮件名字
 	message['Subject'] = Header(subject, 'utf-8')
-	 
-	 
+
+
 
 	server = smtplib.SMTP_SSL(mail_host,465) # SMTP协议默认端口是25
 	server.set_debuglevel(1)

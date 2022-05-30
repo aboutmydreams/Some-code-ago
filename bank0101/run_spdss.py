@@ -3,8 +3,7 @@ import wi_bankss,time,keywordss
 
 def get_timemin():
     now_time0 = '[\''+time.ctime().replace(':','\',\'').replace(' ','\',\'')+'\']'
-    now_time = eval(now_time0)
-    return now_time
+    return eval(now_time0)
 
 def dendai():
     while 1:

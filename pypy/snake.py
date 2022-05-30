@@ -1,6 +1,6 @@
 import turtle
 def drawSnack(rad,angle,len,neckrad):
-    for i in range(len):
+    for _ in range(len):
         turtle.circle(rad,angle)
         turtle.circle(-rad,angle)
     turtle.circle(rad,angle/2)

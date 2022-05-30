@@ -14,13 +14,12 @@ def login():
     p2 = request.form['password']
     if p1=='123' and p2=='123':
         return render_template("houtai.html")
-    else:
-        #print(request.form['username'])#这是一个重要的flask用发
-        if write_data.get_qian1()[0]==0:
-            return redirect('/acset')
-        elif write_data.get_qian1()[0]==1:
-            write_data.baoming(p1,p2)
-            return redirect('/acset')
+    #print(request.form['username'])#这是一个重要的flask用发
+    if write_data.get_qian1()[0]==0:
+        return redirect('/acset')
+    elif write_data.get_qian1()[0]==1:
+        write_data.baoming(p1,p2)
+        return redirect('/acset')
 
 @app.route('/act-time',methods=['GET'])
 def get_time():
@@ -30,8 +29,8 @@ def get_time():
 def set_it():
     ti1 = request.form['begintime']
     ti2 = request.form['lasttime']
-    time1 = ti1[-4:]+ti1[0:2]+ti1[3:5]
-    time2 = ti2[-4:]+ti2[0:2]+ti2[3:5]
+    time1 = ti1[-4:] + ti1[:2] + ti1[3:5]
+    time2 = ti2[-4:] + ti2[:2] + ti2[3:5]
     active_name = request.form['active-name']
     active_people = request.form['active-people']
     write_data.write_set(time1,time2,active_name,active_people)
@@ -45,10 +44,7 @@ def get_data():
 @app.route('/see', methods=['POST'])
 def get_datas():
     mi = request.form['mi']
-    if mi=='5201314':
-        return str(write_data.get_qinkaung())
-    else:
-        return str('我看破，我不说')
+    return str(write_data.get_qinkaung()) if mi=='5201314' else '我看破，我不说'
 
 @app.route("/data/<filename>", methods=['GET'])
 def download_file(filename):

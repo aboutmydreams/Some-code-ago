@@ -36,13 +36,10 @@ def signin_form():
 
 @app.route('/signin', methods=['POST'])
 def signin():
-    # 需要从request对象读取表单内容：
-
     if request.form['username']=='admin' and request.form['password']=='password':
         return '<h3>Hello, admin!</h3>'
-    else:
-    	print(request.form['username'])#这是一个重要的flask用发
-    	return '<h3>Bad username or password.</h3>'
+    print(request.form['username'])#这是一个重要的flask用发
+    return '<h3>Bad username or password.</h3>'
 
 if __name__ == '__main__':
     app.run(debug=True)

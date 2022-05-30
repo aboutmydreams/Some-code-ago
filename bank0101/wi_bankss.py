@@ -30,18 +30,16 @@ def get_today_time():
     year = str(time.localtime().tm_year)
     mon = str(time.localtime().tm_mon)
     if len(mon) is 1:
-        mon = '0'+mon
+        mon = f'0{mon}'
     day = str(time.localtime().tm_mday)
     if len(day) is 1:
-        day = '0'+day
-    nowtime = year+mon+day
-    return nowtime
+        day = f'0{day}'
+    return year+mon+day
 
 def getYesterday():
     today=datetime.date.today()
     oneday=datetime.timedelta(days=1)
-    yesterday=str(today-oneday).replace('-','')
-    return yesterday
+    return str(today-oneday).replace('-','')
 
 
 def collect_links(id_name,cookie=None):
@@ -55,15 +53,13 @@ def collect_links(id_name,cookie=None):
         # json1 = json.loads(re.findall('var msgList.*?\n', str(title))[0][14:-2])
         if nnn>=4:
             return ('again1','again1')
-        elif ('验证' in str(soup1)):
+        elif '验证' in str(soup1):
             print('验证')
             if nnn<5:
-                print('spd {} again'.format(id_name))
+                print(f'spd {id_name} again')
                 dnnn = nnn + 1
                 print(dnnn)
                 return ten_links(url,dnnn)
-            else:
-                pass
         else:
             years_today_title = ' '
             try:
@@ -79,24 +75,21 @@ def collect_links(id_name,cookie=None):
                     a_time = i['comm_msg_info']['datetime']
                     datearray = datetime.datetime.utcfromtimestamp(a_time)
                     the_time= datearray.strftime("%Y--%m--%d %H: %M: %S")
-                    real_time = str(the_time)[0:12].replace('--','')
+                    real_time = str(the_time)[:12].replace('--', '')
                     if int(real_time) == int(getYesterday()):
                         wa = i['app_msg_ext_info']["multi_app_msg_item_list"]
                         for t in wa:
-                            pass
                             # print(t['title'],t['content_url'])
-                            the_title = the_title + "|||" + t['title']
-                            the_url = the_url+ "|" + t['content_url']
+                            the_title = f"{the_title}|||" + t['title']
+                            the_url = f"{the_url}|" + t['content_url']
                         years_today_title = years_today_title + the_title
-                    else:
-                        pass
             except IndexError:
                 time.sleep(2)
-                print ('IndexError------76hang'+str(soup))
+                print(f'IndexError------76hang{str(soup)}')
                 nnn +=1
                 return ten_links(url,nnn)
-                # print (real_time)
-                # lin = lin+'【标题】：'+ the_title + '\n' + '【标题链接】：https://mp.weixin.qq.com' + the_url + '\n' + '【摘要】：' + digest + '\n' + '【发布时间】：' + the_time + '\n'
+                        # print (real_time)
+                        # lin = lin+'【标题】：'+ the_title + '\n' + '【标题链接】：https://mp.weixin.qq.com' + the_url + '\n' + '【摘要】：' + digest + '\n' + '【发布时间】：' + the_time + '\n'
             # print (lin)
             # return lin
             return years_today_title,the_url
@@ -172,11 +165,9 @@ def all_title_and_link():
             time.sleep(1)
             if '已跳过' in link:
                 error_n = error_n+1
-                print('这是第'+ str(error_n) +'条空的公众号，已跳过，不会保存相关txt，随便提一下，如果查询公众号中有重复只会保存一次txt')
-                print('也可能是ip被封 可以查看soup是否乱码：'+ str(link))
-            else:
-                pass
-            #time.sleep(0.6)
+                print(f'这是第{str(error_n)}条空的公众号，已跳过，不会保存相关txt，随便提一下，如果查询公众号中有重复只会保存一次txt')
+                print(f'也可能是ip被封 可以查看soup是否乱码：{str(link)}')
+                    #time.sleep(0.6)
         except requests.exceptions.ProxyError as e:
             print (e)
         except Exception:
@@ -184,12 +175,10 @@ def all_title_and_link():
             raise
         finally:
             pass
-    all_links_txt = open('last_all_links.txt','w')
-    all_links_txt.write(str(all_links))
-    all_links_txt.close()
-    all_yes_title_txt = open('all_yes_title.txt','w')
-    all_yes_title_txt.write(all_yes_title)
-    all_yes_title_txt.close()
+    with open('last_all_links.txt','w') as all_links_txt:
+        all_links_txt.write(str(all_links))
+    with open('all_yes_title.txt','w') as all_yes_title_txt:
+        all_yes_title_txt.write(all_yes_title)
     return all_yes_title,all_links
 
 # print (all_title_and_link())

@@ -23,8 +23,7 @@ def loginpage():
 
 @app.route('/1', methods=['POST'])
 def login():
-    how = edian_def_all.check_data()
-    return how
+    return edian_def_all.check_data()
 
 
 @app.route('/mail', methods=['GET'])
@@ -36,13 +35,11 @@ def register():
 
 @app.route('/mail',methods=['POST'])
 def send_qq():
-    pass
     QQ_num = request.form['username']
     n = edian_def_all.send_mail(QQ_num)
     return json.dumps(n)
 
 def sure_yzm():
-    pass
     return render_template("验证码.html")
 '''<form action="/setmima" method="post">
               <p><input name="yanzm">验证码</p>              

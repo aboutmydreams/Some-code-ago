@@ -1,12 +1,11 @@
 import requests
 def get_content(url):
-	pass
 	resp = requests.get(url,allow_redirects=False)
 	return resp.text
 url='http://www.phei.com.cn/'
 content = get_content(url)
 content_len=len(content)
-print('前20字符：',content[0:1120],content_len)
+print('前20字符：', content[:1120], content_len)
 
 import  requests
 import json

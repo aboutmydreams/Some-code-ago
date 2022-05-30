@@ -16,60 +16,50 @@ lll = ['农商合作', '农商青年社', '新农商网', '河南农商网', '�
 
 def get_timemin():
     now_time0 = '[\''+time.ctime().replace(':','\',\'').replace(' ','\',\'')+'\']'
-    now_time = eval(now_time0)
-    return now_time
+    return eval(now_time0)
 
 def getYesterday():
     today=datetime.date.today()
     oneday=datetime.timedelta(days=1)
-    yesterday=str(today-oneday).replace('-','')
-    return yesterday
+    return str(today-oneday).replace('-','')
 
 def day_before_Yesterday():
     today=datetime.date.today()
     oneday=datetime.timedelta(days=1)
-    yesterday=str(today-oneday-oneday).replace('-','')
-    return yesterday
+    return str(today-oneday-oneday).replace('-','')
 
 def get_key():
-    pass
     if get_timemin()[3] in ['00','01','02','03','04','05','06','07','08','09']:
         keyname = str(day_before_Yesterday())
-        f = open('keys/{}.txt'.format(keyname),'r')
+        f = open(f'keys/{keyname}.txt', 'r')
         f_reads = eval(str(f.read()))
-        f.close()
-        return f_reads,keyname
     else:
         keyname = str(getYesterday())
-        f = open('keys/{}.txt'.format(keyname),'r')
+        f = open(f'keys/{keyname}.txt', 'r')
         frd = f.read()
         # print(type(frd))
         f_reads = eval(frd)
-        f.close()
-        return f_reads,keyname
+
+    f.close()
+    return f_reads,keyname
 
 
 @app.route('/keyword', methods=['GET'])
 def sure_yzm():
-    pass
     if get_timemin()[-4] in ['00','01','02','03','04','05','06','07','08','09']:
         keyname = str(day_before_Yesterday())
-        f = open('keys/{}.txt'.format(keyname),'r')
-        f_read = keyname+f.read()
-        f.close()
-        return f_read
     else:
         keyname = str(getYesterday())
-        f = open('keys/{}.txt'.format(keyname),'r')
+
+    with open(f'keys/{keyname}.txt', 'r') as f:
         f_read = keyname+f.read()
-        f.close()
-        return f_read
+    return f_read
 
 @app.route('/title', methods=['GET'])
 def set_tit():
     all_tt = ''
     for i in lll:
-        txt_f = open('new_file/{}.txt'.format(i),'r',encoding='UTF-8')
+        txt_f = open(f'new_file/{i}.txt', 'r', encoding='UTF-8')
         txt_line = txt_f.readlines()
         #print(txt_line)
         #print(len(txt_line)) 5  or 0
@@ -88,18 +78,16 @@ def set_tit():
 @app.route('/keys', methods=['GET'])
 def get_key_tt():
     aaa = get_key()
-    keyss = []
-    las_tt = '{}<br>'.format(aaa[1])
-    for aa in aaa[0]:
-        keyss.append(aa[0])
+    las_tt = f'{aaa[1]}<br>'
+    keyss = [aa[0] for aa in aaa[0]]
     print(keyss)
     all_tt = '<!DOCTYPE html><html><head><title>关键词下的标题</title><style type="text/css">*{margin: 0;padding: 0;}</style>'
-    for ii in keyss[0:20]:
+    for ii in keyss[:20]:
         print(ii)
         begin_n = 0
         # all_tt = all_tt + '<p>{}'.format(ii) +':-------------------------------------------------------------------------------------------------------------------------------------</p>'
         for banki in lll:
-            txt_f = open('new_file/{}.txt'.format(banki),'r',encoding='UTF-8')
+            txt_f = open(f'new_file/{banki}.txt', 'r', encoding='UTF-8')
             txt_line = txt_f.readlines()
             # print(txt_line)
             #print(len(txt_line)) 5  or 0
@@ -110,10 +98,10 @@ def get_key_tt():
                     count_n = title0.count(ii)
                     begin_n = begin_n + count_n
                     las_tit = title0
-                    all_tt = all_tt +  '<p>({})'.format(banki) + '{}'.format(las_tit) + '</p>' #lianjie + '</p>'
-        all_tt = all_tt + '<p>a{}({})</p>'.format(ii,str(begin_n))
-    las_tt =  las_tt + all_tt
-    return las_tt+'</html>'
+                    all_tt = all_tt + f'<p>({banki})' + f'{las_tit}' + '</p>'
+        all_tt = all_tt + f'<p>a{ii}({str(begin_n)})</p>'
+    las_tt += all_tt
+    return f'{las_tt}</html>'
 
 @app.route('/keyimg', methods=['GET'])
 def get_wdcloud():
@@ -148,7 +136,11 @@ def get_wdcloud():
             data = f.read()
             encodestr = base64.b64encode(data)
             imgcd = str(encodestr,'utf-8')
-            rss = str('<p>关键词参考：{}</p><br>'.format(str(a_key))+'<img src="data:image/png;base64,{}">'.format(imgcd))
+            rss = str(
+                f'<p>关键词参考：{str(a_key)}</p><br>'
+                + f'<img src="data:image/png;base64,{imgcd}">'
+            )
+
         return rss
     except ValueError as e:
         return '关键词太少'

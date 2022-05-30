@@ -14,7 +14,10 @@ wb_data = requests.get(url,headers=headers)
 soup = BeautifulSoup(wb_data.text,'lxml')
 '''
 url=('https://www.tripadvisor.cn/Attractions-g293916-Activities-Bangkok.html')
-urls=['https://www.tripadvisor.cn/Attractions-g293916-Activities-oa{}-Bangkok.html'.format(str(i)) for i in range(30,120,30)]
+urls = [
+    f'https://www.tripadvisor.cn/Attractions-g293916-Activities-oa{str(i)}-Bangkok.html'
+    for i in range(30, 120, 30)
+]
 
 def get_data(url,data=None) :#定义一个函数：一个小技巧，不需要登陆或模拟登入后写data=None就会返回data的值
     wb_data = requests.get(url)

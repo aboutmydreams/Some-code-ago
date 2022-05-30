@@ -42,10 +42,8 @@ def get_ip_pool():
     ips = soup.select('tr.odd > td:nth-of-type(2)')
     ports = soup.select('tr.odd > td:nth-of-type(3)')
     for ip, port in zip(ips, ports):
-        data = {
-            'http':ip.get_text() + ':' + port.get_text(),
-        }
-        ip_pool.append(ip.get_text() + ':' + port.get_text())
+        data = {'http': f'{ip.get_text()}:{port.get_text()}'}
+        ip_pool.append(f'{ip.get_text()}:{port.get_text()}')
 
     # print(len(ip_pool))
 
@@ -55,8 +53,11 @@ def get_ip_pool():
     soup1 = BeautifulSoup(wb_data1.text, 'lxml')
     ips1 = soup1.select('tr.odd > td:nth-of-type(2)')
     ports1 = soup1.select('tr.odd > td:nth-of-type(3)')
-    for ip1, port1 in zip(ips1, ports1):
-        ip_pool.append(ip1.get_text() + ':' + port1.get_text())
+    ip_pool.extend(
+        f'{ip1.get_text()}:{port1.get_text()}'
+        for ip1, port1 in zip(ips1, ports1)
+    )
+
     return ip_pool
 
 
@@ -64,11 +65,11 @@ def get_good_ip():
     useble = []
     def ceshi(wangzhi,i):
         try:
-            requests.get(wangzhi, proxies={"http":"http://" + str(i)}, timeout=3)
+            requests.get(wangzhi, proxies={"http": f"http://{str(i)}"}, timeout=3)
         except:
             print('fail')
         else:
-            print (i + 'success')
+            print(f'{i}success')
             useble.append(i)
     ip_po = get_ip_pool()
     for i in (ip_po[0:12]+ip_po[50:61]):
@@ -78,12 +79,10 @@ def get_good_ip():
 
 def ip_pool():
     this_ips = str(get_good_ip())[1:]
-    f = open('all_ip.txt','r')
-    all_ip = f.read()
-    f.close()
-
+    with open('all_ip.txt','r') as f:
+        all_ip = f.read()
     last_li = []
-    write_thing0 = all_ip[0:-1]+ ',' +this_ips
+    write_thing0 = all_ip[:-1] + ',' + this_ips
     # print (all_ip[0:-1])
     # print (this_ips)
     print (write_thing0)
@@ -93,13 +92,10 @@ def ip_pool():
             last_li.append(i)
     write_thing = str(last_li)
 
-    last_txt = open('all_ip.txt','w')
-    last_txt.write(write_thing)
-    last_txt.close()
-
-    f = open('all_ip.txt','r')
-    all_ip = f.read()
-    f.close()
+    with open('all_ip.txt','w') as last_txt:
+        last_txt.write(write_thing)
+    with open('all_ip.txt','r') as f:
+        all_ip = f.read()
     ip_list = eval(all_ip)
     print(len(ip_list))
     return ip_list

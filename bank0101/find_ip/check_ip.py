@@ -10,11 +10,11 @@ def get_good_ip():
     ip_list = eval(str(all_ip))
     def ceshi(wangzhi,i):
         try:
-            requests.get(wangzhi, proxies={"http":"http://" + str(i)}, timeout=4)
+            requests.get(wangzhi, proxies={"http": f"http://{str(i)}"}, timeout=4)
         except:
             print('fail')
         else:
-            print (i + '---check--success!')
+            print(f'{i}---check--success!')
             useble.append(i)
     for i in ip_list:
         ceshi(wangzhi,i)
@@ -31,9 +31,8 @@ def last_ip_pool():
 
 def last_good_ip():
     last_pool = last_ip_pool()
-    last_ip = open('last_ip.txt','w')
-    last_ip.write(str(last_pool))
-    last_ip.close()
+    with open('last_ip.txt','w') as last_ip:
+        last_ip.write(str(last_pool))
     return last_pool
 
 # last_good_ip()

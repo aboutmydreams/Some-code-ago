@@ -6,10 +6,9 @@ import seaborn as sns
 
 #显示数据，返回数据列表
 def show_data():
-	dataopen = open('data.txt', 'r',encoding="utf-8")
-	data = dataopen.read().replace('\n','a').replace('	','a').replace('aa','a').replace('a',',').replace(' ','')
-	dataopen.close()
-	return eval('['+data+']')
+	with open('data.txt', 'r',encoding="utf-8") as dataopen:
+		data = dataopen.read().replace('\n','a').replace('	','a').replace('aa','a').replace('a',',').replace(' ','')
+	return eval(f'[{data}]')
 #print(len(show_data()))
 
 data = show_data()
@@ -19,8 +18,7 @@ data = show_data()
 #计算数据中相同地点货物数量，返回25个数量的列表
 def all_count():
 	def same(i):
-		i_count = data.count(i)
-		return i_count
+		return data.count(i)
 	all_num = []
 	for i in range(1,26):
 		i_num = same(i)
@@ -48,7 +46,7 @@ def could_done(dian):
 #最少的转弯用时
 def less_turn_time():
 	time_list = []
-	for i in range(0,25):
+	for i in range(25):
 		if i in [1,2,4,5,8,13,18,23]:
 			time = 2
 		elif i == 3:
@@ -62,7 +60,7 @@ print(less_turn_time())
 #最少的路程时间
 def less_distance_time():
 	time_list = []
-	for i in range(0,25):
+	for i in range(25):
 		if i in [8,13,18,23]:
 			time_one = 2*(dian1[i][0]+abs(dian1[i][1])+1)#加一是因为绕路了
 		else:
@@ -74,8 +72,8 @@ print(less_distance_time())
 #测试一个机器人搬运完货物的时间
 def test_less_time():
 	all_time = 0
-	for i in range(0,25):
-		must_time = 3500#1000*(2+1+0.5)装货时间 卸货时间 扫码时间
+	must_time = 3500#1000*(2+1+0.5)装货时间 卸货时间 扫码时间
+	for i in range(25):
 		every_num = all_count()
 		less_turntime = less_turn_time()
 		less_distancetime = less_distance_time()
@@ -101,7 +99,6 @@ def robot():
 	aim_place = dian1[aim_num] #目的地坐标
 	starting_point = (0,0) #机器人起点
 	while time<less_turntime[aim_num]+less_distancetime[aim_num]+8:#8是最大延时，额外转弯2次，等待避让3次
-		pass
 		if aim_place[0] in [8,13,18,23]:
 			while x:
 				pass
@@ -116,7 +113,7 @@ sns.set_style('darkgrid')
 #绘制目的地坐标
 xl = [0]
 yl = [0]
-for i in range(0,25):
+for i in range(25):
 	x = dian1[i][0]
 	y = dian1[i][1]
 	xl.append(x)

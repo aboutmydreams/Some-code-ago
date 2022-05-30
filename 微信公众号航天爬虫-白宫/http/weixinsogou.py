@@ -58,7 +58,14 @@ try:
     for i in json2['list']:
         the_url = i['app_msg_ext_info']['content_url'].replace(';','&')
         the_title = i['app_msg_ext_info']['title']
-        lin = lin+'【标题】：'+ the_title + '\n' + '【标题链接】：https://mp.weixin.qq.com' + the_url + '\n'
+        lin = (
+            f'{lin}【标题】：{the_title}'
+            + '\n'
+            + '【标题链接】：https://mp.weixin.qq.com'
+            + the_url
+            + '\n'
+        )
+
         print (lin)
 except:
     pass

@@ -9,8 +9,7 @@ from PIL import Image  # 图片处理
 def getYesterday():
     today=datetime.date.today()
     oneday=datetime.timedelta(days=1)
-    yesterday=str(today-oneday).replace('-','')
-    return yesterday
+    return str(today-oneday).replace('-','')
 
 # 读取文本
 pythonInfo = open('all_yes_title.txt', 'r', encoding='utf-8', errors='ignore').read()
@@ -35,7 +34,7 @@ plt.imshow(myCloudword)
 plt.show() #图片展示
 print(myCloudword)
 plt.figimage(myCloudword)   #绘制图片
-plt.imsave('keyimg/{}.png'.format(getYesterday()),myCloudword)  #保存图片
+plt.imsave(f'keyimg/{getYesterday()}.png', myCloudword)
 
 # ---------------------
 

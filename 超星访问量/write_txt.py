@@ -25,11 +25,10 @@ n = 0
 r = 0
 while 1:
     line = file.readline()
-    print(str(line)+'----'+str(n))
+    print(f'{str(line)}----{str(n)}')
     n+=1
     if len(line) == 4:
-    	pass
-    	r+=1
+        r+=1
     if not line:
     	print('准确率小于：',r/n)
     	break
