@@ -23,11 +23,9 @@ def ali_proxies(targetUrl,header=None):
         response = requests.get(targetUrl,headers=header, proxies=proxies)
         if response.status_code is 503:
             return ali_proxies(targetUrl,header)
-        # print(response.text)
-        return response
     else:
         response = requests.get(targetUrl, proxies=proxies)
         if response.status_code is 503:
             return ali_proxies(targetUrl)
-        # print(response.text)
-        return response
+    # print(response.text)
+    return response

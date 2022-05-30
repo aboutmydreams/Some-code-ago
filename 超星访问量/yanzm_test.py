@@ -36,10 +36,9 @@ def test(i):
                 r+=1
             print(n)
         except ValueError:
-            pass
             n+=1
             print('--',n)
-            #img.show()
+                    #img.show()
         except Exception as e:
             raise e
             #img.show()

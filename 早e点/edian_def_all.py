@@ -26,8 +26,8 @@ def send_mail(QQ_num):
 # sender 发送方哈，recipients 邮件接收方列表
     msg = Message("Hi!This is a test ",sender='dengwenhao003@qq.com', recipients=[QQ_num])
 # msg.body 邮件正文
-    msg.body = "【早e点】 I give you a num : {}".format(nn)
-    msg.html = "<p><strong>【早e点】</strong> I give you a num : <h2><strong>{}</strong></h2></p>".format(nn)
+    msg.body = f"【早e点】 I give you a num : {nn}"
+    msg.html = f"<p><strong>【早e点】</strong> I give you a num : <h2><strong>{nn}</strong></h2></p>"
 # msg.attach 邮件附件添加
 # msg.attach("文件名", "类型", 读取文件）
 #     with app.open_resource("C:\\Users\\T-bao\\Desktop\\软件代码\\1.gif") as fp:
@@ -37,10 +37,7 @@ def send_mail(QQ_num):
     return nn
 
 def set_psd():
-    if request.form['yan_zm'] is nn:
-        return('yes')
-    else:
-        return('no')
+    return 'yes' if request.form['yan_zm'] is nn else 'no'
 
 def checkpsd():
     payload = {"number":request.json['username'],"passwd":request.json['password']}
@@ -57,11 +54,11 @@ def check_data():
     data = str(payload['number'])+':::::'+str(payload['passwd'])
     f0 =  open('test.txt','r')
     f00 = f0.read()
-    if data in f00:
-        return jsonify({'status':'success'})
-    else:
-        return jsonify({'status':'error'})
-    f0.close()
+    return (
+        jsonify({'status': 'success'})
+        if data in f00
+        else jsonify({'status': 'error'})
+    )
 
 '''
 ff = open('test\\data\\test.txt','r')

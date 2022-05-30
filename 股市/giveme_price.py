@@ -43,8 +43,7 @@ def send_mail(QQ_num,data):
 #获取现在的时间，返回元组[星期，月，日，时，分，秒，年]如['Mon', 'May', '14', '13', '29', '05', '2018']
 def get_time():
     now_time0 = '[\''+time.ctime().replace(':','\',\'').replace(' ','\',\'')+'\']'
-    now_time = eval(now_time0)
-    return now_time
+    return eval(now_time0)
 
 #发邮件
 def email(QQ_num,data):
@@ -61,11 +60,11 @@ def email(QQ_num,data):
     sender = '2491189079@qq.com'
     receivers = ['1097977702@qq.com']  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
 
-    message = MIMEText('<h2>【{}】<h2> 邮件发送测试...'.format(name), 'plain', 'utf-8')#正文
+    message = MIMEText(f'<h2>【{name}】<h2> 邮件发送测试...', 'plain', 'utf-8')
     message['From'] = Header("mydreams", 'utf-8')#发件人
     message['To'] =  Header("测试", 'utf-8')
 
-    subject = '价格：{},当前{}，涨幅为{}'.format(price,change,change1)#邮件名字
+    subject = f'价格：{price},当前{change}，涨幅为{change1}'
     message['Subject'] = Header(subject, 'utf-8')
 
 
@@ -80,34 +79,39 @@ def email(QQ_num,data):
 
 #查询 返回股票名，价格，波动，波动百分比
 def get_price(gu_num=None):
-    if gu_num:
-        if gu_num[0] is '0' or gu_num[0] is '3':
-            gu_num = gu_num+'2'
+    if not gu_num:
+        return
+    if gu_num[0] is '0' or gu_num[0] is '3':
+        gu_num = f'{gu_num}2'
             #print(gu_num+'ooooo')
-            fdurl = 'http://nufm.dfcfw.com/EM_Finance2014NumericApplication/JS.aspx?type=CT&cmd={}&sty=FDFGBTB&st=z&sr=&p=&ps=&lvl=&cb=jQuery18301703092172186509_1525869600183&js=&token=5c46f660fab8722944521b8807de07c0&_=1525869602727'.format(gu_num)
-            bd_session = requests.Session()
-            #res = bd_session.get(url)
-            # Soup = BeautifulSoup(res.text,'lxml')
-            # tittles = Soup.select('#stockname > a')
-            rice = bd_session.get(fdurl)
-        else:
-            gu_num = gu_num+'1'
-            #print(gu_num)
-            rice = requests.get('http://nufm.dfcfw.com/EM_Finance2014NumericApplication/JS.aspx?type=CT&cmd={}&sty=FDFGBTB&st=z&sr=&p=&ps=&lvl=&cb=jQuery18309719162861492383_1525917294253&js=&token=5c46f660fab8722944521b8807de07c0&_=1525917296337'.format(gu_num))
+        fdurl = f'http://nufm.dfcfw.com/EM_Finance2014NumericApplication/JS.aspx?type=CT&cmd={gu_num}&sty=FDFGBTB&st=z&sr=&p=&ps=&lvl=&cb=jQuery18301703092172186509_1525869600183&js=&token=5c46f660fab8722944521b8807de07c0&_=1525869602727'
 
-        #print(tittles[0].get('href'))
-        #print(tittles[0].get_text()[0:-1])
-        #print(rice.text)
-        data = eval(rice.text[40:])
-        data0 = '[\''+data[0]+'\']'
-        data1 = data0.replace(',','\',\'')
-        #print(data1)
-        data2 = eval(data1)
-        gu_name = data2[3]
-        now_price = data2[4]
-        change1 = data2[5]
-        change2 = data2[6]
-        return gu_name,now_price,change1,change2
+        bd_session = requests.Session()
+        #res = bd_session.get(url)
+        # Soup = BeautifulSoup(res.text,'lxml')
+        # tittles = Soup.select('#stockname > a')
+        rice = bd_session.get(fdurl)
+    else:
+        gu_num = f'{gu_num}1'
+            #print(gu_num)
+        rice = requests.get(
+            f'http://nufm.dfcfw.com/EM_Finance2014NumericApplication/JS.aspx?type=CT&cmd={gu_num}&sty=FDFGBTB&st=z&sr=&p=&ps=&lvl=&cb=jQuery18309719162861492383_1525917294253&js=&token=5c46f660fab8722944521b8807de07c0&_=1525917296337'
+        )
+
+
+    #print(tittles[0].get('href'))
+    #print(tittles[0].get_text()[0:-1])
+    #print(rice.text)
+    data = eval(rice.text[40:])
+    data0 = '[\''+data[0]+'\']'
+    data1 = data0.replace(',','\',\'')
+    #print(data1)
+    data2 = eval(data1)
+    gu_name = data2[3]
+    now_price = data2[4]
+    change1 = data2[5]
+    change2 = data2[6]
+    return gu_name,now_price,change1,change2
         #JS.aspx?type=CT&cmd
 # get_price('002557')
 # get_price('002600')
@@ -160,20 +164,19 @@ def re_moni(gu_num,QQ_num,expect_price,remind_price=None):
     if 929<=now<=1130 or 1259<=now<=1500:
         print('?')
         Monitor(gu_num,QQ_num,expect_price,remind_price)
+    elif now<929 and now_min<=29:
+        print('??')
+        time.sleep((9-now_hour)*3600+(29-now_min)*60)
+        Monitor(gu_num,QQ_num,expect_price,remind_price)
+    elif now < 929:
+        print('???')
+        time.sleep((8-now_hour)*3600+(89-now_min)*60)
+        Monitor(gu_num,QQ_num,expect_price,remind_price)
+    elif 1130<now<1259:
+        time.sleep((13-now_hour)*3600+(59-now_min)*60)
+        Monitor(gu_num,QQ_num,expect_price,remind_price)
     else:
-        if now<929 and now_min<=29:
-            print('??')
-            time.sleep((9-now_hour)*3600+(29-now_min)*60)
-            Monitor(gu_num,QQ_num,expect_price,remind_price)
-        elif now<929 and now_min>29:
-            print('???')
-            time.sleep((8-now_hour)*3600+(89-now_min)*60)
-            Monitor(gu_num,QQ_num,expect_price,remind_price)
-        elif 1130<now<1259:
-            time.sleep((13-now_hour)*3600+(59-now_min)*60)
-            Monitor(gu_num,QQ_num,expect_price,remind_price)
-        else:
-            print('今日已经完成！！！祝好运')
+        print('今日已经完成！！！祝好运')
 
 
 re_moni('600549','1097977702@qq.com',23.55)

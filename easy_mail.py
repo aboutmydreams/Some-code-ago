@@ -11,18 +11,18 @@ def iemail(QQ_num,data,em_name):
     # change1 = str(data[3])
     # print(change1)
     mail_host="smtp.qq.com"  #设置服务器
-    
+
 
     # mail_user="2491189079@qq.com"    #用户名
     # mail_pass="hsokuuoiiacjeccj"   #口令
     # sender = '2491189079@qq.com'
 
 
-    mail_user="1097977702@qq.com"   
-    mail_pass="kzipicthecqhicea" 
+    mail_user="1097977702@qq.com"
+    mail_pass="kzipicthecqhicea"
     sender="1097977702@qq.com" 
 
-    receivers = ['{}@qq.com'.format(QQ_num)]  # 接收邮件，可设置为你的QQ邮箱或者其他邮箱
+    receivers = [f'{QQ_num}@qq.com']
 
     message = MIMEText('''<!DOCTYPE html>
 <html>
@@ -59,7 +59,7 @@ def iemail(QQ_num,data,em_name):
     message['From'] = Header("1097977702@qq.com", 'utf-8')#发件人名字
     message['To'] =  Header("测试", 'utf-8')
 
-    subject = '{}'.format(em_name)#邮件名字
+    subject = f'{em_name}'
     message['Subject'] = Header(subject, 'utf-8')
 
 

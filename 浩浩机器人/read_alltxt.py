@@ -11,7 +11,7 @@ filenames = []
 def eachFile(filepath):
     pathDir =  os.listdir(filepath)
     for allDir in pathDir:
-        child = os.path.join('%s%s' % (filepath,  allDir))
+        child = os.path.join(f'{filepath}{allDir}')
         filenames.append(child)
         # print (type(child)) # .decode('gbk')是解决中文显示乱码问题encode
 
@@ -22,15 +22,10 @@ def eachFile(filepath):
 eachFile("qundata815/")
 f = open('all.txt','w', encoding="utf-8")
 
-for i, txt_file in enumerate(filenames):
+for txt_file in filenames:
     # if i >= 1:
     #     continue
     print(txt_file)
-    a_txt = open('{}'.format(txt_file),'r', errors='ignore')
-    aread = a_txt.read()
-    f.write(aread + '\n')
-    # f.flush()
-    # aaa = a_txt.readlines()
-    # for x in aaa:
-    #     print(x)
-    a_txt.close()
+    with open(f'{txt_file}', 'r', errors='ignore') as a_txt:
+        aread = a_txt.read()
+        f.write(aread + '\n')

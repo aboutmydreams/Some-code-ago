@@ -2,10 +2,8 @@
 import time,jieba,flask
 import jieba.analyse,wi_bankss
 
-# print(wi_bank.all_title_and_link())
-f = open('all_yes_title.txt','r')
-texts = f.read().replace('again1','').replace(' ','')
-f.close()
+with open('all_yes_title.txt','r') as f:
+    texts = f.read().replace('again1','').replace(' ','')
 # print(texts)
 
 
@@ -19,9 +17,8 @@ def remove(text,topnum,weight=None):#分词、去停用词、前top n个关键�
     stopwords = {}.fromkeys([ line.rstrip() for line in open('stopwd.txt') ])
     final = ""
     for word in fenci_text:
-        if word not in stopwords:
-            if (word != "。" and word != "，") :
-                final = final + " " + word
+        if word not in stopwords and word not in ["。", "，"]:
+            final = f"{final} {word}"
     print(final)
 
     #第三步：提取关键词
@@ -29,10 +26,10 @@ def remove(text,topnum,weight=None):#分词、去停用词、前top n个关键�
     if weight:
         a=jieba.analyse.extract_tags(final, topK = topnum, withWeight = True,allowPOS = ())
         print('1')
-        return a
     else:
         a=jieba.analyse.extract_tags(final, topK = topnum,allowPOS = ())
-        return a
+
+    return a
     #text (final)为待提取的文本
     # topK:返回几个 TF/IDF 权重最大的关键词，默认值为20。
     # withWeight:是否一并返回关键词权重值，默认值为False。
@@ -64,9 +61,8 @@ def last_wd():
     wds = remove(texts,150,1)
     keyname = str(wi_bankss.getYesterday())
     print(keyname)
-    f = open('keys/{}.txt'.format(keyname),'w')
-    f.write(str(wds))
-    f.close()
+    with open(f'keys/{keyname}.txt', 'w') as f:
+        f.write(str(wds))
     return wds
 
 
@@ -82,11 +78,9 @@ def get_lastwd():
     try:
         keyname = str(wi_bankss.getYesterday())
         a_key=jieba.analyse.extract_tags(pythonInfo, topK = 100, withWeight = True,allowPOS = ())
-        ks = open('keys/{}.txt'.format(keyname), 'w')
-        ks.write(str(a_key))
-        ks.close()
-        rss = str('<p>关键词参考：{}</p><br>'.format(str(a_key)))
-        return rss
+        with open(f'keys/{keyname}.txt', 'w') as ks:
+            ks.write(str(a_key))
+        return f'<p>关键词参考：{str(a_key)}</p><br>'
     except ValueError as e:
         return '关键词太少'
     finally:
@@ -105,14 +99,13 @@ pi = 0
 p_list = []
 i_side = [0]
 ps = len(ppp)
-for i in range(0,ps):
+for i in range(ps):
     pcontent = ppp[i].get_text()
     if 'a' in pcontent:
         i_side.append(i)
     p_list.append(pcontent)
 # print(i_side)
-all_data = {}
-all_data['time'] = p_list[0]
+all_data = {'time': p_list[0]}
 now_i = 1
 
 for i in i_side[1:]:
@@ -120,7 +113,7 @@ for i in i_side[1:]:
     n2 = p_list[i].index(')')
     t_list = p_list[now_i+1:i]
     t_list.insert(0,p_list[i][n1+1:n2])
-    all_data['{}'.format(p_list[i][1:n1])] = t_list
+    all_data[f'{p_list[i][1:n1]}'] = t_list
     now_i = i
 
 # print(all_data)
@@ -138,6 +131,6 @@ for key in he_data:
         if akey in all_data:
             key_list.extend(all_data[akey][1:])
     # print(key,key_list)
-    he_key['{}'.format(key)] = key_list
+    he_key[f'{key}'] = key_list
 print(he_key)
 

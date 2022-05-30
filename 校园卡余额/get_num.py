@@ -16,83 +16,84 @@ def get_count(a):#http://life.ccb.com/tran/WCCMainPlatV5?CCB_IBSVersion=V5&SERVL
     url = 'http://life.ccb.com/tran/WCCMainPlatV5?CCB_IBSVersion=V5&SERVLET_NAME=WCCMainPlatV5'
     the_coki = life_coki.get_coki(1)
     headers = {
-        'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36',
-        'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
-        'Accept-Encoding':'gzip, deflate',
-        'Accept-Language':'zh-CN,zh;q=0.9',
-        'Cache-Control':'max-age=0',
-        'Connection':'keep-alive',
-        'Content-Length':'1114',
-        'Content-Type':'application/x-www-form-urlencoded',
-        'Host':'life.ccb.com',
-        'Origin':'http://life.ccb.com',
-        'Referer':'http://life.ccb.com/tran/WCCMainB1L1?CCB_IBSVersion=V5&SERVLET_NAME=WCCMainB1L1',
-        'Upgrade-Insecure-Requests':'1',
-        'Cookie':'{}'.format(the_coki)
-        }
-    data = {
-        'BANK_COD':'360000',
-        'BUTTON_IMG':'',
-        'BUTTON_URL':'',
-        'OPUN_COD':'360100',
-        'MERCHANT':'05013|南昌大学|1740|0|请输入校园卡卡号|校园卡卡号||0|||0||360000000|||||1011111111|100010|11||',
-        'SJ_CONTENT':'',
-        'COMM':'{}'.format(a),
-        'Py_Mod':'',
-        'SEQUENCE_CODE':'',
-        'RE1CON':'',
-        'RE2CON':'',
-        'BUTTON_IMG':'',
-        'BUTTON_URL':'',
-        'SEQUENCE_NAME':'请选择',
-        'REMARK1':'',
-        'REMARK2':'',
-        'PAGE1':'',
-        'PAGE2':'',
-        'TYPE1':'0',
-        'DETAIL_FLAG':'{}'.format(a),
-        'TYPE2':'0',
-        'BILL_NAME':'校园卡卡号',
-        'BILL_COMM':'请输入校园卡卡号',
-        'BILL_FLAG':'0',
-        'TXCODE':'NYS10A',
-        'BILL_ITEM':'05013',
-        'OPUN_NAME':'南昌市',
-        'BANK_NAME':'江西省',
-        'BIll_MERCHANT':'1740',
-        'MERCHANT_NAME':'南昌大学',
-        'AMT_FLAG':'1',
-        'CUST_FALG':'',
-        'BIll_CODE':'100010',
-        'BILL_TYPE':'500',
-        'BRAN_NO':'360000000',
-        'PAY_TYPE':'11',
-        'CTPPARAM':'',
-        'BEGIN_TIME':'',
-        'END_TIME':'',
-        'HOLIDAY_BEGIN_TIME':'',
-        'HOLIDAY_END_TIME':'',
-        'history_0':'',
-        'history_1':'',
-        'history_2':'',
-        'history_3':'',
-        'history_4':'',
-        'history_5':'',
-        'history_6':'',
-        'history_7':'',
-        'history_8':'',
-        'history_9':''
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+        'Accept-Encoding': 'gzip, deflate',
+        'Accept-Language': 'zh-CN,zh;q=0.9',
+        'Cache-Control': 'max-age=0',
+        'Connection': 'keep-alive',
+        'Content-Length': '1114',
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'Host': 'life.ccb.com',
+        'Origin': 'http://life.ccb.com',
+        'Referer': 'http://life.ccb.com/tran/WCCMainB1L1?CCB_IBSVersion=V5&SERVLET_NAME=WCCMainB1L1',
+        'Upgrade-Insecure-Requests': '1',
+        'Cookie': f'{the_coki}',
     }
+
+    data = {
+        'BANK_COD': '360000',
+        'BUTTON_IMG': '',
+        'BUTTON_URL': '',
+        'OPUN_COD': '360100',
+        'MERCHANT': '05013|南昌大学|1740|0|请输入校园卡卡号|校园卡卡号||0|||0||360000000|||||1011111111|100010|11||',
+        'SJ_CONTENT': '',
+        'COMM': f'{a}',
+        'Py_Mod': '',
+        'SEQUENCE_CODE': '',
+        'RE1CON': '',
+        'RE2CON': '',
+        'BUTTON_IMG': '',
+        'BUTTON_URL': '',
+        'SEQUENCE_NAME': '请选择',
+        'REMARK1': '',
+        'REMARK2': '',
+        'PAGE1': '',
+        'PAGE2': '',
+        'TYPE1': '0',
+        'DETAIL_FLAG': f'{a}',
+        'TYPE2': '0',
+        'BILL_NAME': '校园卡卡号',
+        'BILL_COMM': '请输入校园卡卡号',
+        'BILL_FLAG': '0',
+        'TXCODE': 'NYS10A',
+        'BILL_ITEM': '05013',
+        'OPUN_NAME': '南昌市',
+        'BANK_NAME': '江西省',
+        'BIll_MERCHANT': '1740',
+        'MERCHANT_NAME': '南昌大学',
+        'AMT_FLAG': '1',
+        'CUST_FALG': '',
+        'BIll_CODE': '100010',
+        'BILL_TYPE': '500',
+        'BRAN_NO': '360000000',
+        'PAY_TYPE': '11',
+        'CTPPARAM': '',
+        'BEGIN_TIME': '',
+        'END_TIME': '',
+        'HOLIDAY_BEGIN_TIME': '',
+        'HOLIDAY_END_TIME': '',
+        'history_0': '',
+        'history_1': '',
+        'history_2': '',
+        'history_3': '',
+        'history_4': '',
+        'history_5': '',
+        'history_6': '',
+        'history_7': '',
+        'history_8': '',
+        'history_9': '',
+    }
+
     response = requests.post(url,headers=headers,data=data)
 
     soup = BeautifulSoup(response.text,'lxml')
     name = soup.select('#jhform > div.form_box > table > tbody > tr:nth-of-type(4) > th:nth-of-type(1)')
     remaining_sum = soup.select('#jhform > div.form_box > table > tbody > tr:nth-of-type(4) > td:nth-of-type(1)')
     name0=str(name)
-    name1=name0[5:-6]
-    remaining_sum0=str(remaining_sum)#字符串化 重要！！！
-    remaining_sum1=remaining_sum0[5:-6]
-    if name1:
+    if name1 := name0[5:-6]:
+        remaining_sum0=str(remaining_sum)#字符串化 重要！！！
+        remaining_sum1=remaining_sum0[5:-6]
         print(name1,remaining_sum1)
     else:
         textlong = len(response.text)
@@ -108,17 +109,12 @@ def get_count(a):#http://life.ccb.com/tran/WCCMainPlatV5?CCB_IBSVersion=V5&SERVL
 for i in range(5004118061,5004118062):
     time.sleep(random.randint(1,2))
     try:
-        pass
         a.append(str(i))
         time.sleep(1)
         get_count(a[-1])
-    
-    #什么鬼，wcctc最后的数+1没报错，lastLoginTime=; 这个也不用，，ticket=; cs_cid=; custName=; userType=; tranFAVOR=PyhXaM3sIUS%2必要
-    #同一个账号每天爬15次似乎3次？？是上线
-    #名称，单价，数量，总计，预算表右下3合并，经费表左下3个合并，理生楼 书记 主教2月
-    #最后一次有用ticket=; cs_cid=; custName=; userType=; JSESSIONID=8__JEciE5WI2qKQ5MUgad4Qe1aPejIkKfeWnFxfQgj8Mex6oqXef!-21482549; tranFAVOR=BWoMsRrXSwXk9MU2DBakjMI2YBrkDMD2hB9kyMO2UBlk5MP2dBDkhFaEQESRyvIgaG; INFO=9a9k|WtM8g
+
     except SyntaxError:
-        raise 
+        raise
     except Exception as e:
         raise e
     # else:

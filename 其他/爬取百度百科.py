@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import lxml
 def what_titles(seachname):
-	url = 'https://baike.baidu.com/item/{}'.format(str(seachname))
+	url = f'https://baike.baidu.com/item/{str(seachname)}'
 	datao = {
 	'Accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
 	'Accept-Encoding':'gzip, deflate, br',

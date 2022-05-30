@@ -28,9 +28,8 @@ def get_news(html):
     print(page_results_wrap)
     articles=page_results_wrap.find_all("article")
     for a in articles:
-        a_dict={}
         a_type=a["class"][0]
-        title_class=a_type+"__title"
+        title_class = f"{a_type}__title"
         title_h=a.find("h2",attrs={"class":title_class})
         title_a=title_h.find("a")
 
@@ -39,7 +38,7 @@ def get_news(html):
 
         a_time=a.find("time").get_text()
 
-        a_dict["TYPE"]=TYPEDIC.get(a_type)
+        a_dict = {"TYPE": TYPEDIC.get(a_type)}
         a_dict["Title"] = title
         a_dict["Title_Url"] = href
         a_dict["Date"] = a_time
@@ -57,15 +56,14 @@ def get_news(html):
 
 def get_author(html):
     soup=BeautifulSoup(html,"html.parser")
-    author_p=soup.find("p",attrs={"class":"author__name"})
-    if author_p:
+    if author_p := soup.find("p", attrs={"class": "author__name"}):
         return author_p.get_text()
     else:
         return ""
 
 
 def write_html(html,name):
-    html_file=name+".html"
+    html_file = f"{name}.html"
     html_path=os.path.join(HTML_DIR,html_file)
     with open(html_path,"w",encoding='utf-8') as f:
         f.write(html)
@@ -82,7 +80,7 @@ def start_up():
 def add_news_to_txt(newsdic):
     with open(TXT_PATH, "a",encoding='utf-8') as f:
         for k in ["TYPE","Title","Title_Url","Date","Author","File_Name"]:
-            f.write("[%s]: %s"%(k,newsdic[k]))
+            f.write(f"[{k}]: {newsdic[k]}")
             f.write("\n")
         f.write("\n")
 
@@ -118,7 +116,7 @@ def main():
     for page in range(pagenum):
         n = n+1
         print(n)
-        page_url=url+"page/%s/"%page
+        page_url = url + f"page/{page}/"
         try:
             page_html=get_HTML_Text(page_url)
         except Exception:

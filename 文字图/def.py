@@ -13,20 +13,19 @@ def excel_and_write():
     print(wb.sheetnames)
     sheet = wb.get_sheet_by_name('Sheet1')
     max_row=sheet.max_row
-    f=open('test.txt','a+',encoding='utf-8')
-    for num in range(2,max_row+1):
-        num=str(num)
-        str_path='A'+num
-        str_message=str(sheet[str_path].value)
-        if len(str_message)<23 :
-            f.write(str_message)
-            print(sheet[str_path].value)
-    f.close()
+    with open('test.txt','a+',encoding='utf-8') as f:
+        for num in range(2,max_row+1):
+            num=str(num)
+            str_path = f'A{num}'
+            str_message=str(sheet[str_path].value)
+            if len(str_message)<23 :
+                f.write(str_message)
+                print(sheet[str_path].value)
 
 def getpic(path):
     f=open('test.txt','r+',encoding='utf-8')
     path=str(path)
-    alice_coloring = np.array(Image.open(path+'.png'))
+    alice_coloring = np.array(Image.open(f'{path}.png'))
     text=f.read()
     stopwords = set(STOPWORDS)
     stopwords.add("微笑")
@@ -37,7 +36,7 @@ def getpic(path):
     plt.imshow(wc)
     plt.axis("off")
     plt.show()
-    wc.to_file(path+'_x.png')
+    wc.to_file(f'{path}_x.png')
 
 
 excel_and_write()

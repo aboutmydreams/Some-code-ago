@@ -11,14 +11,10 @@ res = requests.get(url=host,headers=headers).json()
 print(res)
 print(res['access_token'])
 
-data = {}
-data['access_taken'] = res['access_token']
+data = {'access_taken': res['access_token']}
 url = 'https://aip.baidubce.com/rest/2.0/ocr/v1/general_basic' + 'user/add?access_token=' +res['access_token']
-#读取图片
-file=open('1.png','rb')
-image= file.read()
-file.close()
-
+with open('1.png','rb') as file:
+    image= file.read()
 data['image'] = base64.b64encode(image)
 headers={
     "Content-Type":"application/x-www-form-urlencoded",

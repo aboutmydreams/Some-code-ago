@@ -23,28 +23,23 @@ def is_number(s):
 
 @app.route('/66_DWH______NCU_Ican', methods=['GET'])
 def reach_QQ():
-	pass
-	return render_template('iq.html')
+    return render_template('iq.html')
 
 @app.route('/icall', methods=['POST'])
 def signin_form():
     QQ_num = request.form['QQ_num']
-    print(QQ_num+'---------------------')
+    print(f'{QQ_num}---------------------')
     write_QQ.write_qq(QQ_num)
     if is_number(QQ_num) is True:
         easy_mail.iemail(QQ_num,'happy!','邓文浩')
-    if QQ_num=='dwh':
-        f2=open('data/qq.txt','r')
-        f3=str(f2.read())
-        f4=f3+str(f3.count('-'))
-        return(f4)
-        f2.close()
-    else:
+    if QQ_num != 'dwh':
         return render_template('icall.html')
+    f2=open('data/qq.txt','r')
+    f3=str(f2.read())
+    return f3+str(f3.count('-'))
 
 @app.route('/NCU_Ibaidu', methods=['GET'])
 def sure_yzm():
-    pass
     return render_template("baidu.html")
 
 

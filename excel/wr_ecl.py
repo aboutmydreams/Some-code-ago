@@ -14,7 +14,6 @@ w.save('book2.xlsx')
 
 data1 = xlrd.open_workbook('book2.xlsx')
 table1 = data1.sheets()[0]
-for i in range(0,16):
-    pass
+for i in range(16):
     a = table1.row_values(i)
     print(a)

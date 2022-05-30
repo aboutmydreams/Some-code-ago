@@ -31,14 +31,12 @@ def ali_proxies(targetUrl,header=None):
     }
     if header:
         response = requests.get(targetUrl,headers=header, proxies=proxies)
-        print (response.status_code)
-        # print(response.text)
-        return response
     else:
         response = requests.get(targetUrl, proxies=proxies)
-        print (response.status_code)
-        # print(response.text)
-        return response
+
+    print (response.status_code)
+    # print(response.text)
+    return response
 # print (resp.text)
 
 
@@ -46,11 +44,11 @@ def ali_proxies(targetUrl,header=None):
 
 all_id_link = []
 def collect_links(id_name,cookie=None):
-    url = 'https://weixin.sogou.com/weixin?type=1&s_from=input&query={}'.format(id_name)
+    url = f'https://weixin.sogou.com/weixin?type=1&s_from=input&query={id_name}'
     #print(requests.get(url).text)#测试是否包含需要的数据
     res = ali_proxies(url)
     soup = BeautifulSoup(res.text,'lxml')
-    if  '验证' in str(soup):
+    if '验证' in str(soup):
         print('用户您好，查询公众号过于频繁')
         return '用户您好，您的访问过于频繁'
     else:
@@ -59,7 +57,7 @@ def collect_links(id_name,cookie=None):
         weixin_id = soup.select('#sogou_vr_11002301_box_0 > div > div.txt-box > p.info > label')
         # print(soup)查看数据的有无
         if id_link == []:
-            return str(i)+'没有相关公众号 已跳过'
+            return f'{str(i)}没有相关公众号 已跳过'
         try:
             # print(id_link[0].get("href").replace(';','&'))#测试连接有效性 有效
             one_title = id_link[0].get_text()
@@ -71,7 +69,7 @@ def collect_links(id_name,cookie=None):
             return last_all
         except (TypeError or IndexError) as e:#找出报错且继续运行代码
             print(e)
-            return str(i)+'没有相关公众号 已跳过'
+            return f'{str(i)}没有相关公众号 已跳过'
 # collect_links('北京航空大学') 测试一个爬取
 
 
@@ -87,20 +85,11 @@ for i in id_list:
         time.sleep(0.5)
         if '已跳过' in link:
             error_n = error_n+1
-            print('这是第'+ str(error_n) +'条空的公众号，已跳过，不会保存相关txt，随便提一下，如果查询公众号中有重复只会保存一次txt')#建立可读输出
-        else:
-            pass
-
+            print(f'这是第{str(error_n)}条空的公众号，已跳过，不会保存相关txt，随便提一下，如果查询公众号中有重复只会保存一次txt')
     except (requests.exceptions.ProxyError or requests.exceptions.SSLError) as e:#找出报错且继续运行代码
         print (e,'断网了，请确定在有网络的环境下运行')
-        pass
-
-
-
-#写入文件
-last_txt = open('last.txt','w')
-last_txt.write(last_name)
-last_txt.close()
+with open('last.txt','w') as last_txt:
+    last_txt.write(last_name)
 print('已成功爬取')
 
 

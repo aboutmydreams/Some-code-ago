@@ -31,7 +31,7 @@ def name_num(ii):
     #print(len(leibielink_list))#22个 正确
     all_name = []
     all_num = []
-    for i in range(0,ii):
+    for i in range(ii):
         anss = requests.get(leibielink_list[i])
         Soup = BeautifulSoup(anss.text,'lxml')
         leibie1 = Soup.select('#titlenav > font:nth-of-type(1)')
@@ -39,18 +39,16 @@ def name_num(ii):
         s = str(leibie2)
         print(s)
         if 'a' in s:
-            pass
             word = "<a"
             place_a = [m.start() for m in re.finditer(word, s)][0]
-            #print(place_a)
-            #print(type(place_a))#int
-            # print(str(leibie2)[19:place_a-2])#成功
-            # print(str(leibie1)[38:-110])#成功
-            name = str(leibie1)[38:-110]
             num = str(leibie2)[19:place_a-2]
         else:
-            name = str(leibie1)[38:-110]
             num = 0
+        #print(place_a)
+        #print(type(place_a))#int
+        # print(str(leibie2)[19:place_a-2])#成功
+        # print(str(leibie1)[38:-110])#成功
+        name = str(leibie1)[38:-110]
         all_name.append(name)
         all_num.append(int(num))
     print(all_name,all_num)

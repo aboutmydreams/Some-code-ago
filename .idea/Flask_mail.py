@@ -22,7 +22,7 @@ def index():
 # sender 发送方哈，recipients 邮件接收方列表
     msg = Message("Hi!This is a test ",sender='dengwenhao003@qq.com', recipients=['a2491189079@qq.com','1424027815@qq.com','406313627@qq.com','1479898303@qq.com'])
 # msg.body 邮件正文
-    msg.body = "【早e点】 I give you a num : {}.".format(nn)
+    msg.body = f"【早e点】 I give you a num : {nn}."
 # msg.attach 邮件附件添加
 # msg.attach("文件名", "类型", 读取文件）
 #     with app.open_resource("C:\\Users\\T-bao\\Desktop\\软件代码\\1.gif") as fp:
